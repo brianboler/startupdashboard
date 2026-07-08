@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Startup Pulse — Daily Startup Intelligence</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-dot"></span>
+      <h1>Startup&nbsp;Pulse</h1>
+      <span class="date-badge" id="date-badge">—</span>
+    </div>
+    <input id="search" type="search" placeholder="Search everything… (/)" autocomplete="off" />
+  </header>
+
+  <section class="stats-row" id="stats-row"><!-- stat chips injected --></section>
+
+  <nav class="tabs" id="tabs">
+    <button class="tab active" data-tab="all">Overview</button>
+    <button class="tab" data-tab="headlines">Headlines</button>
+    <button class="tab" data-tab="launches">Launches</button>
+    <button class="tab" data-tab="mrr">MRR Leaderboard</button>
+    <button class="tab" data-tab="repos">Trending Repos</button>
+    <button class="tab" data-tab="filings">Form D Filings</button>
+    <button class="tab" data-tab="news">News</button>
+  </nav>
+
+  <main class="grid" id="grid"><!-- panels injected --></main>
+
+  <footer class="footer">
+    <span id="generated-at"></span>
+    <span>Sources: Hacker News · GitHub · TrustMRR · Product Hunt · SEC EDGAR · RSS</span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
