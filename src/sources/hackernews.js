@@ -20,8 +20,13 @@ export async function fetchFrontPage() {
 }
 
 export async function fetchShowHN() {
+  // HN's Algolia index only exposes `created_at_i` for numeric filtering
+  // (`points` is not in numericAttributesForFiltering), so filter by date
+  // server-side and apply the >=5 points threshold client-side.
   const since = Math.floor(Date.now() / 1000) - 24 * 3600;
-  const url = `${API}/search_by_date?tags=show_hn&numericFilters=created_at_i>${since},points>=5&hitsPerPage=30`;
+  const url = `${API}/search_by_date?tags=show_hn&numericFilters=created_at_i>${since}&hitsPerPage=50`;
   const data = await fetchJson(url);
-  return parseHnHits(data.hits ?? []).sort((a, b) => (b.points ?? 0) - (a.points ?? 0));
+  return parseHnHits(data.hits ?? [])
+    .filter((item) => (item.points ?? 0) >= 5)
+    .sort((a, b) => (b.points ?? 0) - (a.points ?? 0));
 }
