@@ -113,8 +113,8 @@ async function main() {
     document.querySelectorAll('.tab').forEach((t) => t.classList.toggle('active', t === tab));
     const key = tab.dataset.tab;
     document.querySelectorAll('.panel').forEach((p) => {
-      const show = key === 'all' || (PANEL_TABS[key] ?? []).includes(p.dataset.panel) || (key === 'all' && p.dataset.panel === 'topics');
-      p.classList.toggle('hidden', !show && key !== 'all');
+      const show = key === 'all' || (PANEL_TABS[key] ?? []).includes(p.dataset.panel);
+      p.classList.toggle('hidden', !show);
     });
   });
 
