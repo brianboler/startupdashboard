@@ -3,7 +3,7 @@
 Daily-refreshed dashboard aggregating startup news, launches, verified MRR
 stats, SEC Form D filings, and emerging-field signals. $0/month to run.
 
-**Live:** https://bb01010101.github.io/startupdashboard/
+**Live:** https://brianboler.github.io/startupdashboard/
 
 ## How it works
 

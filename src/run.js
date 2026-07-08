@@ -32,12 +32,16 @@ const [headlines, showHn, repos, mrrRaw, launches, filings, news] = await Promis
   settle('rss news', fetchNewsHeadlines()),
 ]);
 
-const previousSnapshots = loadRecentSnapshots(DATA_DIR, 7);
+// Exclude today's own snapshot so a same-day re-run (e.g. manual
+// workflow_dispatch) compares against the previous *day*, not itself —
+// otherwise all mrr/rank deltas and topic velocities collapse to self-reference.
+const today = new Date().toISOString().slice(0, 10);
+const previousSnapshots = loadRecentSnapshots(DATA_DIR, 8).filter((s) => s.date !== today);
 const previousMrr = previousSnapshots[0]?.sections?.mrrLeaderboard ?? null;
 const mrrLeaderboard = computeMrrDeltas(mrrRaw, previousMrr);
 
 const snapshot = buildSnapshot({
-  date: new Date().toISOString().slice(0, 10),
+  date: today,
   headlines, showHn, launches, repos, mrrLeaderboard, filings, news,
   previousSnapshots,
 });

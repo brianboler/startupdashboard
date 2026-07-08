@@ -39,5 +39,5 @@ export async function fetchNewsHeadlines() {
     if (r.status === 'fulfilled') items.push(...r.value);
     else console.warn(`rss: ${FEEDS[i].name} failed (${r.reason?.message})`);
   });
-  return items.sort((a, b) => Date.parse(b.createdAt ?? 0) - Date.parse(a.createdAt ?? 0));
+  return items.sort((a, b) => (Date.parse(b.createdAt ?? '') || 0) - (Date.parse(a.createdAt ?? '') || 0));
 }
