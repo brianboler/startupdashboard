@@ -1,16 +1,16 @@
 {
   "date": "2026-07-08",
-  "generatedAt": "2026-07-08T19:22:18.167Z",
+  "generatedAt": "2026-07-08T21:09:31.040Z",
   "stats": {
-    "totalItems": 605,
+    "totalItems": 630,
     "sources": {
       "headlines": 30,
-      "launches": 6,
-      "mrrLeaderboard": 464,
+      "launches": 29,
+      "mrrLeaderboard": 465,
       "trendingRepos": 25,
       "formDFilings": 40,
       "news": 21,
-      "emergingTopics": 19
+      "emergingTopics": 20
     }
   },
   "sections": {
@@ -20,252 +20,225 @@
         "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
         "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
         "source": "hackernews",
-        "points": 1124,
-        "meta": "187 comments",
+        "points": 1190,
+        "meta": "191 comments",
         "createdAt": "2026-07-08T08:46:06Z"
-      },
-      {
-        "id": "hn-48827858",
-        "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-        "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-        "source": "hackernews",
-        "points": 468,
-        "meta": "178 comments",
-        "createdAt": "2026-07-08T05:25:35Z"
       },
       {
         "id": "hn-48833116",
         "title": "Chatto is now Open Source",
         "url": "https://www.hmans.dev/blog/chatto-is-open-source",
         "source": "hackernews",
-        "points": 401,
-        "meta": "111 comments",
+        "points": 533,
+        "meta": "143 comments",
         "createdAt": "2026-07-08T15:19:50Z"
+      },
+      {
+        "id": "hn-48827858",
+        "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+        "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+        "source": "hackernews",
+        "points": 485,
+        "meta": "184 comments",
+        "createdAt": "2026-07-08T05:25:35Z"
       },
       {
         "id": "hn-48834405",
         "title": "GPT‑Live",
         "url": "https://openai.com/index/introducing-gpt-live/",
         "source": "hackernews",
-        "points": 369,
-        "meta": "257 comments",
+        "points": 477,
+        "meta": "333 comments",
         "createdAt": "2026-07-08T17:03:19Z"
-      },
-      {
-        "id": "hn-48825749",
-        "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-        "url": "https://kb.cert.org/vuls/id/213560",
-        "source": "hackernews",
-        "points": 328,
-        "meta": "113 comments",
-        "createdAt": "2026-07-08T00:08:51Z"
       },
       {
         "id": "hn-48780387",
         "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
         "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
         "source": "hackernews",
-        "points": 325,
-        "meta": "116 comments",
+        "points": 353,
+        "meta": "120 comments",
         "createdAt": "2026-07-03T21:46:07Z"
-      },
-      {
-        "id": "hn-48825664",
-        "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
-        "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
-        "source": "hackernews",
-        "points": 318,
-        "meta": "42 comments",
-        "createdAt": "2026-07-07T23:57:29Z"
-      },
-      {
-        "id": "hn-48827325",
-        "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
-        "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
-        "source": "hackernews",
-        "points": 316,
-        "meta": "213 comments",
-        "createdAt": "2026-07-08T03:59:35Z"
       },
       {
         "id": "hn-48832212",
         "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
         "url": "https://mistral.ai/news/robostral-navigate/",
         "source": "hackernews",
-        "points": 309,
-        "meta": "70 comments",
+        "points": 352,
+        "meta": "82 comments",
         "createdAt": "2026-07-08T14:09:17Z"
-      },
-      {
-        "id": "hn-48830565",
-        "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-        "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-        "source": "hackernews",
-        "points": 257,
-        "meta": "213 comments",
-        "createdAt": "2026-07-08T11:30:56Z"
-      },
-      {
-        "id": "hn-48833715",
-        "title": "TypeScript 7",
-        "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
-        "source": "hackernews",
-        "points": 226,
-        "meta": "73 comments",
-        "createdAt": "2026-07-08T16:06:35Z"
       },
       {
         "id": "hn-48835111",
         "title": "Grok 4.5",
         "url": "https://x.ai/news/grok-4-5",
         "source": "hackernews",
-        "points": 197,
-        "meta": "122 comments",
+        "points": 331,
+        "meta": "251 comments",
         "createdAt": "2026-07-08T18:00:32Z"
       },
       {
-        "id": "hn-48831658",
-        "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
-        "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
+        "id": "hn-48833715",
+        "title": "TypeScript 7",
+        "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
         "source": "hackernews",
-        "points": 185,
-        "meta": "87 comments",
-        "createdAt": "2026-07-08T13:24:52Z"
+        "points": 331,
+        "meta": "124 comments",
+        "createdAt": "2026-07-08T16:06:35Z"
       },
       {
         "id": "hn-48834296",
         "title": "EU now one step away from reviving private message scanning rules",
         "url": "https://cyberinsider.com/eu-now-one-step-away-from-reviving-private-message-scanning-rules/",
         "source": "hackernews",
-        "points": 166,
-        "meta": "52 comments",
+        "points": 248,
+        "meta": "116 comments",
         "createdAt": "2026-07-08T16:53:06Z"
       },
       {
-        "id": "hn-48827092",
-        "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
-        "url": "https://www.digipres.org/the-floppy-guide/",
+        "id": "hn-48831658",
+        "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
+        "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
         "source": "hackernews",
-        "points": 165,
-        "meta": "63 comments",
-        "createdAt": "2026-07-08T03:22:31Z"
-      },
-      {
-        "id": "hn-48831565",
-        "title": "Cloudflare Meerkat - Globally distributed consensus",
-        "url": "https://blog.cloudflare.com/meerkat-introduction/",
-        "source": "hackernews",
-        "points": 158,
-        "meta": "36 comments",
-        "createdAt": "2026-07-08T13:18:03Z"
+        "points": 220,
+        "meta": "102 comments",
+        "createdAt": "2026-07-08T13:24:52Z"
       },
       {
         "id": "hn-48833866",
         "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
         "url": "https://cognition.com/blog/swe-1-7",
         "source": "hackernews",
-        "points": 138,
-        "meta": "86 comments",
+        "points": 203,
+        "meta": "108 comments",
         "createdAt": "2026-07-08T16:19:36Z"
       },
       {
-        "id": "hn-48792980",
-        "title": "Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid",
-        "url": "https://www3.nhk.or.jp/nhkworld/en/news/20260705_01/",
+        "id": "hn-48831565",
+        "title": "Cloudflare Meerkat - Globally distributed consensus",
+        "url": "https://blog.cloudflare.com/meerkat-introduction/",
         "source": "hackernews",
-        "points": 138,
-        "meta": "17 comments",
-        "createdAt": "2026-07-05T10:33:45Z"
-      },
-      {
-        "id": "hn-48829242",
-        "title": "Geosql: A Claude/Codex skill for geospatial data",
-        "url": "https://github.com/dekart-xyz/geosql",
-        "source": "hackernews",
-        "points": 108,
-        "meta": "13 comments",
-        "createdAt": "2026-07-08T08:37:26Z"
-      },
-      {
-        "id": "hn-48780915",
-        "title": "Ants: Who looks after the injured in a colony?",
-        "url": "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ameisen-kolonie-verletzte-pflegt/",
-        "source": "hackernews",
-        "points": 98,
-        "meta": "47 comments",
-        "createdAt": "2026-07-03T22:46:23Z"
-      },
-      {
-        "id": "hn-48786455",
-        "title": "Show HN: Follow London Trains in 3D",
-        "url": "https://ride.nexttrain.london/",
-        "source": "hackernews",
-        "points": 97,
-        "meta": "43 comments",
-        "createdAt": "2026-07-04T16:11:06Z"
-      },
-      {
-        "id": "hn-48803791",
-        "title": "NoiseLang: Where N = 5 is a Dirac delta",
-        "url": "https://manualmeida.dev/articles/noiselang/",
-        "source": "hackernews",
-        "points": 92,
-        "meta": "47 comments",
-        "createdAt": "2026-07-06T12:40:24Z"
-      },
-      {
-        "id": "hn-48834898",
-        "title": "What Do We Know About the Microplastics Inside Us?",
-        "url": "https://e360.yale.edu/features/cassandra-rauert-interview",
-        "source": "hackernews",
-        "points": 79,
-        "meta": "13 comments",
-        "createdAt": "2026-07-08T17:43:37Z"
+        "points": 184,
+        "meta": "39 comments",
+        "createdAt": "2026-07-08T13:18:03Z"
       },
       {
         "id": "hn-48834919",
         "title": "PlayStation can delete all your digital games after 3 years of inactivity (EU)",
         "url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1783340582",
         "source": "hackernews",
-        "points": 71,
-        "meta": "25 comments",
+        "points": 150,
+        "meta": "69 comments",
         "createdAt": "2026-07-08T17:45:26Z"
+      },
+      {
+        "id": "hn-48834898",
+        "title": "What Do We Know About the Microplastics Inside Us?",
+        "url": "https://e360.yale.edu/features/cassandra-rauert-interview",
+        "source": "hackernews",
+        "points": 147,
+        "meta": "75 comments",
+        "createdAt": "2026-07-08T17:43:37Z"
+      },
+      {
+        "id": "hn-48786455",
+        "title": "Show HN: Follow London Trains in 3D",
+        "url": "https://ride.nexttrain.london/",
+        "source": "hackernews",
+        "points": 113,
+        "meta": "51 comments",
+        "createdAt": "2026-07-04T16:11:06Z"
       },
       {
         "id": "hn-48834924",
         "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
         "url": "https://microsoft.github.io/flint-chart/#/",
         "source": "hackernews",
-        "points": 55,
-        "meta": "22 comments",
+        "points": 110,
+        "meta": "46 comments",
         "createdAt": "2026-07-08T17:46:12Z"
+      },
+      {
+        "id": "hn-48836233",
+        "title": "Cloudflare Drop",
+        "url": "https://www.cloudflare.com/drop/",
+        "source": "hackernews",
+        "points": 72,
+        "meta": "43 comments",
+        "createdAt": "2026-07-08T19:18:26Z"
+      },
+      {
+        "id": "hn-48837162",
+        "title": "Fable is not a useful model",
+        "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+        "source": "hackernews",
+        "points": 69,
+        "meta": "38 comments",
+        "createdAt": "2026-07-08T20:41:33Z"
       },
       {
         "id": "hn-48794062",
         "title": "TabFont – guitar tabs rendered as you type",
         "url": "https://philatype.com/tabfont/",
         "source": "hackernews",
-        "points": 48,
-        "meta": "13 comments",
+        "points": 63,
+        "meta": "21 comments",
         "createdAt": "2026-07-05T13:13:54Z"
       },
       {
-        "id": "hn-48796473",
-        "title": "Every postcard tells a story",
-        "url": "https://observer.co.uk/style/features/article/every-postcard-tells-a-story",
+        "id": "hn-48831587",
+        "title": "A bug which affected only left handed users",
+        "url": "https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/",
         "source": "hackernews",
-        "points": 30,
-        "meta": "21 comments",
-        "createdAt": "2026-07-05T18:14:42Z"
+        "points": 40,
+        "meta": "17 comments",
+        "createdAt": "2026-07-08T13:20:05Z"
       },
       {
-        "id": "hn-48794227",
-        "title": "Catastrophe theory; geniuses and maniacs (2011)",
-        "url": "http://glassbottomblog.blogspot.com/2011/01/catastrophe-theory-geniuses-and-maniacs.html",
+        "id": "hn-48835439",
+        "title": "OpenMandriva: Statement regarding attempted distribution sabotage",
+        "url": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
+        "source": "hackernews",
+        "points": 37,
+        "meta": "6 comments",
+        "createdAt": "2026-07-08T18:21:53Z"
+      },
+      {
+        "id": "hn-48804801",
+        "title": "I Built a Telegram Client for Pi",
+        "url": "https://www.npmjs.com/package/@atharva-again/pi-tg",
+        "source": "hackernews",
+        "points": 25,
+        "meta": "12 comments",
+        "createdAt": "2026-07-06T14:06:34Z"
+      },
+      {
+        "id": "hn-48797443",
+        "title": "Understanding B-Tree Indexes in PostgreSQL: A Comprehensive Guide– Part 1",
+        "url": "https://medium.com/@devli0/b-tree-indexes-in-postgresql-part-1-theory-eb2668c52520",
+        "source": "hackernews",
+        "points": 22,
+        "meta": "1 comments",
+        "createdAt": "2026-07-05T19:55:58Z"
+      },
+      {
+        "id": "hn-48836778",
+        "title": "FAANG Simulator",
+        "url": "https://www.abeyk.com/escape-the-rat-race/",
         "source": "hackernews",
         "points": 17,
-        "meta": "1 comments",
-        "createdAt": "2026-07-05T13:35:32Z"
+        "meta": "3 comments",
+        "createdAt": "2026-07-08T20:05:42Z"
+      },
+      {
+        "id": "hn-48805475",
+        "title": "Show HN: Agent Draw: An agent draws while you talk, built on TLDraw",
+        "url": "https://techstackups.com/articles/tldraw-agent-draw/",
+        "source": "hackernews",
+        "points": 15,
+        "meta": "0 comments",
+        "createdAt": "2026-07-06T14:50:06Z"
       },
       {
         "id": "hn-47999020",
@@ -284,24 +257,329 @@
         "points": 12,
         "meta": "1 comments",
         "createdAt": "2026-03-19T14:11:56Z"
+      },
+      {
+        "id": "hn-48836713",
+        "title": "Show HN: Hnwork.app – UI for Who is hiring posts",
+        "url": "https://hnwork.app/",
+        "source": "hackernews",
+        "points": 9,
+        "meta": "2 comments",
+        "createdAt": "2026-07-08T20:00:04Z"
+      },
+      {
+        "id": "hn-47613622",
+        "title": "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com",
+        "url": "https://news.ycombinator.com/item?id=47613622",
+        "source": "hackernews",
+        "points": 9,
+        "meta": "1 comments",
+        "createdAt": "2026-04-02T12:36:10Z"
+      },
+      {
+        "id": "hn-47320921",
+        "title": "Making your JITted Code known: Let me count the ways",
+        "url": "https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/",
+        "source": "hackernews",
+        "points": 9,
+        "meta": "1 comments",
+        "createdAt": "2026-03-10T09:31:19Z"
       }
     ],
     "launches": [
+      {
+        "id": "ph-1190010",
+        "title": "ExploreYC",
+        "url": "https://www.producthunt.com/products/yc-company-explorer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 329,
+        "meta": "Open-source API for Y Combinator & a16z company data",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "topics": [
+          "API",
+          "Open Source",
+          "Developer Tools"
+        ]
+      },
+      {
+        "id": "ph-1184843",
+        "title": "IvyForms",
+        "url": "https://www.producthunt.com/products/ivyforms?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 267,
+        "meta": "A WordPress form builder for real workflows",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "topics": [
+          "Productivity",
+          "WordPress",
+          "No-Code"
+        ]
+      },
+      {
+        "id": "ph-1190692",
+        "title": "Willow Frontier Pro",
+        "url": "https://www.producthunt.com/products/willow-voice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 223,
+        "meta": "The fastest, most accurate dictation model in the world",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "topics": [
+          "Productivity",
+          "Writing",
+          "Artificial Intelligence"
+        ]
+      },
+      {
+        "id": "ph-1189541",
+        "title": "Bono AI",
+        "url": "https://www.producthunt.com/products/bono-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 209,
+        "meta": "Talk Once. Publish Everywhere.",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "topics": [
+          "Newsletters",
+          "Writing",
+          "Social Media"
+        ]
+      },
+      {
+        "id": "ph-1189743",
+        "title": "Link Preview API",
+        "url": "https://www.producthunt.com/products/link-preview-api?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 166,
+        "meta": "Free API to get Open Graph data, title & images for any URL",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Data"
+        ]
+      },
+      {
+        "id": "ph-1190686",
+        "title": "LemonLime",
+        "url": "https://www.producthunt.com/products/lemonlime?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 146,
+        "meta": "Automates your existing workflows with a single prompt.",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "topics": [
+          "SaaS",
+          "Artificial Intelligence",
+          "Business Intelligence"
+        ]
+      },
+      {
+        "id": "ph-1190152",
+        "title": "Cutrix",
+        "url": "https://www.producthunt.com/products/cutrix?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 145,
+        "meta": "AI-powered video translation that preserves speaker's tone",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Video"
+        ]
+      },
+      {
+        "id": "ph-1190855",
+        "title": "Orbit for Mac",
+        "url": "https://www.producthunt.com/products/orbit-for-mac?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 131,
+        "meta": "Every Google account, in a single window",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "topics": [
+          "Mac",
+          "Email",
+          "Productivity"
+        ]
+      },
+      {
+        "id": "ph-1185881",
+        "title": "PopTask for Apple",
+        "url": "https://www.producthunt.com/products/poptask?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 127,
+        "meta": "Turn to-dos into scheduled tasks",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "topics": [
+          "Productivity",
+          "Task Management",
+          "Artificial Intelligence"
+        ]
+      },
+      {
+        "id": "ph-1190389",
+        "title": "agents-cli",
+        "url": "https://www.producthunt.com/products/agents-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 127,
+        "meta": "The CLI your coding agent uses to ship agents",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "GitHub"
+        ]
+      },
+      {
+        "id": "ph-1187238",
+        "title": "Orus ",
+        "url": "https://www.producthunt.com/products/farao?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 118,
+        "meta": "Claude for investing in perpetuals",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "topics": [
+          "Android",
+          "Messaging",
+          "Fintech"
+        ]
+      },
+      {
+        "id": "ph-1180294",
+        "title": "New small business tools by IFTTT",
+        "url": "https://www.producthunt.com/products/ifttt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 117,
+        "meta": "Run your business with HubSpot, Figma, and more",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "topics": [
+          "Android",
+          "Productivity",
+          "SaaS"
+        ]
+      },
+      {
+        "id": "ph-1190659",
+        "title": "Notion Agents iOS app",
+        "url": "https://www.producthunt.com/products/notion-agents-ios-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 112,
+        "meta": "Chat with Notion Agents anytime",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "topics": [
+          "Productivity",
+          "Bots"
+        ]
+      },
+      {
+        "id": "ph-1185839",
+        "title": "Universal-3.5 Pro",
+        "url": "https://www.producthunt.com/products/assemblyai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 112,
+        "meta": "The most accurate STT model from AssemblyAI.",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ]
+      },
       {
         "id": "hn-48834924",
         "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
         "url": "https://microsoft.github.io/flint-chart/#/",
         "source": "hackernews",
-        "points": 55,
-        "meta": "21 comments",
+        "points": 112,
+        "meta": "47 comments",
         "createdAt": "2026-07-08T17:46:12Z"
+      },
+      {
+        "id": "ph-1190786",
+        "title": "NanoKVM-Go",
+        "url": "https://www.producthunt.com/products/nanokvm-go?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 110,
+        "meta": "Give your AI agent physical control over any screen",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "topics": [
+          "Open Source",
+          "Hardware",
+          "Computers"
+        ]
+      },
+      {
+        "id": "ph-1186862",
+        "title": "Eodly",
+        "url": "https://www.producthunt.com/products/eodly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 103,
+        "meta": "Know what your team actually shipped today",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "topics": [
+          "Productivity",
+          "Task Management",
+          "Artificial Intelligence"
+        ]
+      },
+      {
+        "id": "ph-1190015",
+        "title": "Compendium",
+        "url": "https://www.producthunt.com/products/compendium-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 97,
+        "meta": "Keeping your team, agents, and data on one page",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "topics": [
+          "Productivity",
+          "SaaS",
+          "Artificial Intelligence"
+        ]
+      },
+      {
+        "id": "ph-1189413",
+        "title": "Jamboree",
+        "url": "https://www.producthunt.com/products/jamboree?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 94,
+        "meta": "Multiplayer synthesizer",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "topics": [
+          "Music",
+          "Tech"
+        ]
+      },
+      {
+        "id": "ph-1190626",
+        "title": "On-Device Field Extraction by Veryfi",
+        "url": "https://www.producthunt.com/products/veryfi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 91,
+        "meta": "Secure on-device extraction even if you're offline",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "topics": [
+          "Fintech",
+          "Tech",
+          "Tech news"
+        ]
+      },
+      {
+        "id": "ph-1190245",
+        "title": "Knowledge Atlas by Fini",
+        "url": "https://www.producthunt.com/products/fini-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 88,
+        "meta": "The self-learning knowledge base that improves itself",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "topics": [
+          "Productivity",
+          "Customer Success",
+          "Artificial Intelligence"
+        ]
       },
       {
         "id": "hn-48833991",
         "title": "Show HN: Freeport – a P2P ride-hailing marketplace I built on Nostr",
         "url": "https://ptrinh.github.io/freeport/",
         "source": "hackernews",
-        "points": 15,
+        "points": 33,
         "meta": "1 comments",
         "createdAt": "2026-07-08T16:28:07Z"
       },
@@ -310,16 +588,25 @@
         "title": "Show HN: Requirements Engineering with Formal Verification",
         "url": "https://fizzbee.ai/",
         "source": "hackernews",
-        "points": 9,
+        "points": 11,
         "meta": "0 comments",
         "createdAt": "2026-07-08T17:52:57Z"
+      },
+      {
+        "id": "hn-48836713",
+        "title": "Show HN: Hnwork.app – UI for Who is hiring posts",
+        "url": "https://hnwork.app/",
+        "source": "hackernews",
+        "points": 9,
+        "meta": "2 comments",
+        "createdAt": "2026-07-08T20:00:04Z"
       },
       {
         "id": "hn-48835018",
         "title": "Show HN: Monogram, AI app with on the fly generation",
         "url": "https://www.monogram.ai/",
         "source": "hackernews",
-        "points": 8,
+        "points": 9,
         "meta": "3 comments",
         "createdAt": "2026-07-08T17:53:18Z"
       },
@@ -331,6 +618,24 @@
         "points": 7,
         "meta": "0 comments",
         "createdAt": "2026-07-08T18:22:58Z"
+      },
+      {
+        "id": "hn-48835063",
+        "title": "Show HN: Foreman, a self-hosted LLM gateway for cost aware model routing",
+        "url": "https://github.com/Northwood-Systems/foreman",
+        "source": "hackernews",
+        "points": 6,
+        "meta": "2 comments",
+        "createdAt": "2026-07-08T17:56:53Z"
+      },
+      {
+        "id": "hn-48836813",
+        "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
+        "url": "https://github.com/animesh-94/Onboard-CLI",
+        "source": "hackernews",
+        "points": 5,
+        "meta": "0 comments",
+        "createdAt": "2026-07-08T20:09:03Z"
       },
       {
         "id": "hn-48834348",
@@ -418,7 +723,7 @@
       {
         "name": "Faceless.so",
         "url": "https://trustmrr.com/faceless-so",
-        "mrr": 12388,
+        "mrr": 12349,
         "growthPct": null,
         "description": "All-in-One tool to grow your faceless channel. Generate niche videos with AI from custom prompts, Reddit posts, and blogs. Auto-post to YouTube, TikTok, Instagram.",
         "mrrDelta": null,
@@ -490,8 +795,8 @@
       {
         "name": "Stack Influence",
         "url": "https://trustmrr.com/stack-influence",
-        "mrr": 25051,
-        "growthPct": 8.9,
+        "mrr": 24601,
+        "growthPct": 8.37,
         "description": "Micro Creator marketing platform for eComm brands.",
         "mrrDelta": null,
         "rankDelta": null
@@ -526,8 +831,8 @@
       {
         "name": "1Lookup",
         "url": "https://trustmrr.com/1lookup",
-        "mrr": 218995,
-        "growthPct": -0.71,
+        "mrr": 221672,
+        "growthPct": -1.59,
         "description": "The #1 tool for validating phone, email and IP data in real time. All through one powerful API.",
         "mrrDelta": null,
         "rankDelta": null
@@ -535,7 +840,7 @@
       {
         "name": "Unnamed Company",
         "url": "https://trustmrr.com/unnamed-company",
-        "mrr": 352686,
+        "mrr": 353117,
         "growthPct": -3.57,
         "description": null,
         "mrrDelta": null,
@@ -544,7 +849,7 @@
       {
         "name": "Anonymous Startup",
         "url": "https://trustmrr.com/anonymous-startup",
-        "mrr": 349392,
+        "mrr": 348427,
         "growthPct": 18.65,
         "description": null,
         "mrrDelta": null,
@@ -554,7 +859,7 @@
         "name": "MyPlots",
         "url": "https://trustmrr.com/myplots",
         "mrr": 306467,
-        "growthPct": 19.88,
+        "growthPct": 18.52,
         "description": "Discover the events worth showing up for, grab your tickets in seconds, and host your own — all on the platform built for real-life moments.",
         "mrrDelta": null,
         "rankDelta": null
@@ -562,8 +867,8 @@
       {
         "name": "HypeProxies",
         "url": "https://trustmrr.com/hypeproxies",
-        "mrr": 295995,
-        "growthPct": 20.58,
+        "mrr": 296637,
+        "growthPct": 20.59,
         "description": "The fastest proxy infrastructure with unlimited bandwidth. Purpose-built for data collection and web scraping at scale. Over $100M in e-commerce purchases through our proxy software.",
         "mrrDelta": null,
         "rankDelta": null
@@ -571,8 +876,8 @@
       {
         "name": "Rezi",
         "url": "https://trustmrr.com/rezi",
-        "mrr": 260562,
-        "growthPct": -2.59,
+        "mrr": 260296,
+        "growthPct": -2.78,
         "description": "Most people agree this is the best resume builder in the world.\n\nWe have about 1M new users every year. \n\nRezi Enterprise, a new and growing product, supports over 300 organizations, including 1 fortune 500, and multiple universities. \n\nWe are now working to allow companies a way to connect with job seekers, and bridge the gap between company and job seeker while bringing transparency to job seekers.",
         "mrrDelta": null,
         "rankDelta": null
@@ -598,8 +903,8 @@
       {
         "name": "Cometly",
         "url": "https://trustmrr.com/cometly",
-        "mrr": 202639,
-        "growthPct": 0.53,
+        "mrr": 202340,
+        "growthPct": 6.8,
         "description": "Marketing attribution and analytics for SaaS companies. Use AI to chat with your ads data.",
         "mrrDelta": null,
         "rankDelta": null
@@ -635,7 +940,7 @@
         "name": "TRO_KIK",
         "url": "https://trustmrr.com/tro-kik",
         "mrr": 94133,
-        "growthPct": -1.49,
+        "growthPct": -1.13,
         "description": null,
         "mrrDelta": null,
         "rankDelta": null
@@ -643,7 +948,7 @@
       {
         "name": "Postiz",
         "url": "https://trustmrr.com/postiz",
-        "mrr": 165100,
+        "mrr": 165673,
         "growthPct": 27.9,
         "description": "Postiz is the ultimate agentic social media scheduler tool",
         "mrrDelta": null,
@@ -661,8 +966,8 @@
       {
         "name": "MaidsnBlack",
         "url": "https://trustmrr.com/maidsnblack",
-        "mrr": 140945,
-        "growthPct": 2.28,
+        "mrr": 143552,
+        "growthPct": 4.17,
         "description": "Home Cleaning Tech Driven Platform",
         "mrrDelta": null,
         "rankDelta": null
@@ -706,8 +1011,8 @@
       {
         "name": "LLM Gateway",
         "url": "https://trustmrr.com/llm-gateway",
-        "mrr": 18415,
-        "growthPct": 24.21,
+        "mrr": 18573,
+        "growthPct": 22.74,
         "description": "LLM Gateway is an open-source API gateway for Large Language Models (LLMs). It acts as a middleware between your applications and various LLM providers, allowing you to:\n\n- Route requests to multiple LLM providers (OpenAI, Anthropic, Google AI Studio, and others)\n- Manage API keys for different providers in one place\n- Track token usage and costs across all your LLM interactions\n- Analyze performance metrics to optimize your LLM usage",
         "mrrDelta": null,
         "rankDelta": null
@@ -722,29 +1027,20 @@
         "rankDelta": null
       },
       {
-        "name": "Indexsy",
-        "url": "https://trustmrr.com/indexsy-consulting-ltd",
-        "mrr": 49317,
-        "growthPct": -18.57,
-        "description": "We Build, Acquire & Scale Digital Assets",
-        "mrrDelta": null,
-        "rankDelta": null
-      },
-      {
-        "name": "Defined Chase",
-        "url": "https://trustmrr.com/defined-chase",
-        "mrr": 6089,
-        "growthPct": -11.72,
-        "description": "Our agency offers specialized digital marketing solutions tailored to drive measurable growth for businesses. Clients are typically billed during the checkout process upon confirming their chosen service package.",
-        "mrrDelta": null,
-        "rankDelta": null
-      },
-      {
         "name": "DataExpert / TechCreator",
         "url": "https://trustmrr.com/dataexpert-techcreator",
-        "mrr": 62724,
-        "growthPct": 49.15,
+        "mrr": 62627,
+        "growthPct": 48.15,
         "description": "DataExpert.io is a data engineering education company that empowers data engineers to level up their skills and become content creators as well!",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "Shugert Marketing",
+        "url": "https://trustmrr.com/shugert-marketing",
+        "mrr": 98680,
+        "growthPct": -56.34,
+        "description": "Certified Shopify Experts Solving Your Store’s Biggest Challenges",
         "mrrDelta": null,
         "rankDelta": null
       },
@@ -758,11 +1054,11 @@
         "rankDelta": null
       },
       {
-        "name": "Shugert Marketing",
-        "url": "https://trustmrr.com/shugert-marketing",
-        "mrr": 97836,
-        "growthPct": -56.82,
-        "description": "Certified Shopify Experts Solving Your Store’s Biggest Challenges",
+        "name": "Indexsy",
+        "url": "https://trustmrr.com/indexsy-consulting-ltd",
+        "mrr": 49317,
+        "growthPct": -22.52,
+        "description": "We Build, Acquire & Scale Digital Assets",
         "mrrDelta": null,
         "rankDelta": null
       },
@@ -803,18 +1099,9 @@
         "rankDelta": null
       },
       {
-        "name": "Presscart",
-        "url": "https://trustmrr.com/presscart",
-        "mrr": 2000,
-        "growthPct": 19.58,
-        "description": "Media marketplace for building your online visibility and credibility.",
-        "mrrDelta": null,
-        "rankDelta": null
-      },
-      {
         "name": "Stealth Venture",
         "url": "https://trustmrr.com/stealth-venture-3",
-        "mrr": 189074,
+        "mrr": 189418,
         "growthPct": 5.67,
         "description": null,
         "mrrDelta": null,
@@ -824,7 +1111,7 @@
         "name": "AEO Engine",
         "url": "https://trustmrr.com/aeo-engine",
         "mrr": 66733,
-        "growthPct": 11.5,
+        "growthPct": 12.75,
         "description": "AEO Engine is a living network of AI agents that collaborate in perfect sync - researching, creating, optimizing, and amplifying your content every day. Each one plays a role in expanding your visibility, guided by a central orchestrator that learns and adapts with every result to deliver compounding growth across Google, ChatGPT, AI Overviews, Perplexity, and beyond.",
         "mrrDelta": null,
         "rankDelta": null
@@ -839,20 +1126,29 @@
         "rankDelta": null
       },
       {
-        "name": "Codédex",
-        "url": "https://trustmrr.com/codedex",
-        "mrr": 87960,
-        "growthPct": 1.21,
-        "description": "Start your coding adventure ⋆˙⟡",
-        "mrrDelta": null,
-        "rankDelta": null
-      },
-      {
         "name": "esim4u",
         "url": "https://trustmrr.com/esim4u",
         "mrr": 31,
         "growthPct": 68.04,
         "description": "Telegram Mini App - Traveling the world or needing a reliable connection wherever you are. No need to look further. With our bot, purchase eSIMs from virtually anywhere on the globe.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "Codédex",
+        "url": "https://trustmrr.com/codedex",
+        "mrr": 87903,
+        "growthPct": 1.85,
+        "description": "Start your coding adventure ⋆˙⟡",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "Presscart",
+        "url": "https://trustmrr.com/presscart",
+        "mrr": 2000,
+        "growthPct": 19.58,
+        "description": "Media marketplace for building your online visibility and credibility.",
         "mrrDelta": null,
         "rankDelta": null
       },
@@ -877,7 +1173,7 @@
       {
         "name": "WaLead AI",
         "url": "https://trustmrr.com/walead-ai",
-        "mrr": 30646,
+        "mrr": 30470,
         "growthPct": 140.51,
         "description": "10x your sales on LinkedIn with AI",
         "mrrDelta": null,
@@ -886,8 +1182,8 @@
       {
         "name": "BackPedal Ltd",
         "url": "https://trustmrr.com/backpedal-ltd",
-        "mrr": 55716,
-        "growthPct": -23.98,
+        "mrr": 55811,
+        "growthPct": -23.73,
         "description": "GPS tracking and 24/7 recovery for your bike or ebike. If it gets stolen, we get it back.\n\nCustomers pay an upfront fee for the tracker and a recurring monthly subscription.",
         "mrrDelta": null,
         "rankDelta": null
@@ -920,20 +1216,20 @@
         "rankDelta": null
       },
       {
-        "name": "Unnamed Company",
-        "url": "https://trustmrr.com/unnamed-company-21",
-        "mrr": 44396,
-        "growthPct": 35.59,
-        "description": "AI voice and chat agents for SMB.",
+        "name": "Launch Club",
+        "url": "https://trustmrr.com/launch-club",
+        "mrr": 26500,
+        "growthPct": 43.88,
+        "description": "Reddit marketing to improve AI search.  SaaS helping business owners learn how to promote their products. Also provide tools and content creation for members.",
         "mrrDelta": null,
         "rankDelta": null
       },
       {
-        "name": "Launch Club",
-        "url": "https://trustmrr.com/launch-club",
-        "mrr": 26500,
-        "growthPct": 37.46,
-        "description": "Reddit marketing to improve AI search.  SaaS helping business owners learn how to promote their products. Also provide tools and content creation for members.",
+        "name": "Unnamed Company",
+        "url": "https://trustmrr.com/unnamed-company-21",
+        "mrr": 44396,
+        "growthPct": 34.26,
+        "description": "AI voice and chat agents for SMB.",
         "mrrDelta": null,
         "rankDelta": null
       },
@@ -947,19 +1243,37 @@
         "rankDelta": null
       },
       {
+        "name": "Defined Chase",
+        "url": "https://trustmrr.com/defined-chase",
+        "mrr": 6098,
+        "growthPct": -11.72,
+        "description": "Our agency offers specialized digital marketing solutions tailored to drive measurable growth for businesses. Clients are typically billed during the checkout process upon confirming their chosen service package.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
         "name": "Teachizy",
         "url": "https://trustmrr.com/teachizy-sas-maj-digital",
-        "mrr": 67021,
-        "growthPct": -4.04,
+        "mrr": 67176,
+        "growthPct": -5.26,
         "description": "Teachizy est le moyen le plus facile de créer une formation en ligne et en blended learning pour digitaliser son parcours de formation.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "Reddit Agency",
+        "url": "https://trustmrr.com/reddit-agency",
+        "mrr": 21667,
+        "growthPct": -26.34,
+        "description": "We'll get ChatGPT to recommend your brand or you don't pay",
         "mrrDelta": null,
         "rankDelta": null
       },
       {
         "name": "Vid.AI",
         "url": "https://trustmrr.com/vidai-llc",
-        "mrr": 75607,
-        "growthPct": -22.65,
+        "mrr": 75451,
+        "growthPct": -23.07,
         "description": "Turn any idea or script into ready-to-post videos that get views. AI generates voiceovers, visuals, and edits – all in minutes, no skills needed.",
         "mrrDelta": null,
         "rankDelta": null
@@ -968,7 +1282,7 @@
         "name": "GoTall",
         "url": "https://trustmrr.com/gotall",
         "mrr": 56346,
-        "growthPct": -11.93,
+        "growthPct": -11.53,
         "description": "Superwall ios application",
         "mrrDelta": null,
         "rankDelta": null
@@ -977,7 +1291,7 @@
         "name": "Stealth Venture",
         "url": "https://trustmrr.com/stealth-venture-34",
         "mrr": 29130,
-        "growthPct": 73.63,
+        "growthPct": 73.86,
         "description": null,
         "mrrDelta": null,
         "rankDelta": null
@@ -994,8 +1308,8 @@
       {
         "name": "SEOBOT",
         "url": "https://trustmrr.com/seobot",
-        "mrr": 53784,
-        "growthPct": -8.8,
+        "mrr": 53932,
+        "growthPct": -7.96,
         "description": "SeoBOT - AI Agent for SEO (keywords, research, blog, mini apps, pSEO and more)",
         "mrrDelta": null,
         "rankDelta": null
@@ -1040,7 +1354,7 @@
         "name": "b2bsaas",
         "url": "https://trustmrr.com/b2bsaas",
         "mrr": 63303,
-        "growthPct": 4.88,
+        "growthPct": 9.22,
         "description": "We sell probate leads to real estate investors and agents.",
         "mrrDelta": null,
         "rankDelta": null
@@ -1073,11 +1387,20 @@
         "rankDelta": null
       },
       {
-        "name": "Stealth Company",
-        "url": "https://trustmrr.com/stealth-company-36",
+        "name": "Taller",
+        "url": "https://trustmrr.com/taller",
         "mrr": 46432,
-        "growthPct": null,
-        "description": null,
+        "growthPct": 0,
+        "description": "We analyze your growth potential and give you a custom plan to make sure you reach it.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "My X project 2",
+        "url": "https://trustmrr.com/my-x-project-2",
+        "mrr": 15748,
+        "growthPct": 4.53,
+        "description": "my little profitable SaaS",
         "mrrDelta": null,
         "rankDelta": null
       },
@@ -1087,15 +1410,6 @@
         "mrr": 39,
         "growthPct": -39.21,
         "description": "DoorsDelivered.com is your trusted online supplier of high-quality internal doors and accessories. We specialise in a wide range of modern and classic solutions, including white doors, black doors, pocket doors, concealed doors, aluminium doors, frameless doors, fire doors, etc.. Designed for homeowners, developers, and trade professionals.With competitive pricing, expert support, and fast nationwide delivery. DoorsDelivered.com makes choosing the right internal doors simple and hassle-free.",
-        "mrrDelta": null,
-        "rankDelta": null
-      },
-      {
-        "name": "My X project 2",
-        "url": "https://trustmrr.com/my-x-project-2",
-        "mrr": 15768,
-        "growthPct": 4.36,
-        "description": "my little profitable SaaS",
         "mrrDelta": null,
         "rankDelta": null
       },
@@ -1123,15 +1437,6 @@
         "mrr": 45307,
         "growthPct": -33.15,
         "description": "Replace your scattered subscriptions with one platform. HR, CRM, projects, finance, and payroll — all in one place.",
-        "mrrDelta": null,
-        "rankDelta": null
-      },
-      {
-        "name": "Reddit Agency",
-        "url": "https://trustmrr.com/reddit-agency",
-        "mrr": 21667,
-        "growthPct": -26.34,
-        "description": "We'll get ChatGPT to recommend your brand or you don't pay",
         "mrrDelta": null,
         "rankDelta": null
       },
@@ -1174,18 +1479,9 @@
       {
         "name": "POST BRIDGE",
         "url": "https://trustmrr.com/post-bridge",
-        "mrr": 43745,
-        "growthPct": 13.52,
+        "mrr": 43711,
+        "growthPct": 13.73,
         "description": "Post your content to multiple social media platforms at the same time, all-in one place.",
-        "mrrDelta": null,
-        "rankDelta": null
-      },
-      {
-        "name": "uhoh.com",
-        "url": "https://trustmrr.com/uhoh-com",
-        "mrr": 32170,
-        "growthPct": 48.23,
-        "description": "The first IT help desk that's free to try and priced by you.",
         "mrrDelta": null,
         "rankDelta": null
       },
@@ -1217,20 +1513,20 @@
         "rankDelta": null
       },
       {
-        "name": "Sherpa",
-        "url": "https://trustmrr.com/sherpa",
-        "mrr": 25773,
-        "growthPct": null,
-        "description": "ChatGPT said:\n\nSherpa is a clinical-mentorship membership for healthcare professionals, offering monthly live sessions, a full library of recorded trainings, and a private community to discuss complex cases. Members can submit anonymous clinical questions, get expert guidance, and access practical tools to improve diagnostics and treatment. It’s designed to support practitioners who work alone and want continuous learning, clarity, and confident decision-making.",
-        "mrrDelta": null,
-        "rankDelta": null
-      },
-      {
         "name": "TrustMRR",
         "url": "https://trustmrr.com/trustmrr",
         "mrr": 19335,
         "growthPct": 47.21,
         "description": "The $1.2B database of verified startup revenues. Accidentally a startup marketplace.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "Sherpa",
+        "url": "https://trustmrr.com/sherpa",
+        "mrr": 25773,
+        "growthPct": null,
+        "description": "ChatGPT said:\n\nSherpa is a clinical-mentorship membership for healthcare professionals, offering monthly live sessions, a full library of recorded trainings, and a private community to discuss complex cases. Members can submit anonymous clinical questions, get expert guidance, and access practical tools to improve diagnostics and treatment. It’s designed to support practitioners who work alone and want continuous learning, clarity, and confident decision-making.",
         "mrrDelta": null,
         "rankDelta": null
       },
@@ -1244,11 +1540,29 @@
         "rankDelta": null
       },
       {
+        "name": "uhoh.com",
+        "url": "https://trustmrr.com/uhoh-com",
+        "mrr": 32876,
+        "growthPct": 48.23,
+        "description": "The first IT help desk that's free to try and priced by you.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
         "name": "Simple Analytics",
         "url": "https://trustmrr.com/simple-analytics",
-        "mrr": 39682,
-        "growthPct": 8.36,
+        "mrr": 39635,
+        "growthPct": 8.97,
         "description": "We build and sell software for businesses.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "Liinks",
+        "url": "https://trustmrr.com/liinks",
+        "mrr": 30651,
+        "growthPct": 16.42,
+        "description": "Link to your content and social accounts. Customize colors and styles. Automatically add links from your Instagram posts. Track how your audience interacts with your links.",
         "mrrDelta": null,
         "rankDelta": null
       },
@@ -1256,17 +1570,8 @@
         "name": "Private Enterprise",
         "url": "https://trustmrr.com/private-enterprise-21",
         "mrr": 32767,
-        "growthPct": -30.38,
+        "growthPct": -29.77,
         "description": "Competitor to: Lovable, Replit, Base44, Anything.com, etc. $50k/mo, established product in hot industry, company is run by an officer. Plenty of potential. AI app/website builder (build by chatting to AI)",
-        "mrrDelta": null,
-        "rankDelta": null
-      },
-      {
-        "name": "Liinks",
-        "url": "https://trustmrr.com/liinks",
-        "mrr": 30658,
-        "growthPct": 16.3,
-        "description": "Link to your content and social accounts. Customize colors and styles. Automatically add links from your Instagram posts. Track how your audience interacts with your links.",
         "mrrDelta": null,
         "rankDelta": null
       },
@@ -1285,6 +1590,15 @@
         "mrr": 28511,
         "growthPct": -19.42,
         "description": null,
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "Interactive Video SaaS",
+        "url": "https://trustmrr.com/interactive-video-saas",
+        "mrr": 41965,
+        "growthPct": 9.63,
+        "description": "Premier interactive video software used for education, training, marketing. $48k MRR + some services revenue. Easy to use, drag and drop editor rebuilt from the ground up in 2025, fully documented and clean with little to no tech debt. One full-time employee. Owner works 3-5 hours per week and can be replaced by a fractional engineer. High SDE. Great fit for a video-based company in the education or training space as an upsell. ***Offers must include LinkedIn profile***",
         "mrrDelta": null,
         "rankDelta": null
       },
@@ -1334,15 +1648,6 @@
         "rankDelta": null
       },
       {
-        "name": "Brevilabs",
-        "url": "https://trustmrr.com/brevilabs",
-        "mrr": 21154,
-        "growthPct": -7.52,
-        "description": "Tools for any AI agent to access and manage your personal context",
-        "mrrDelta": null,
-        "rankDelta": null
-      },
-      {
         "name": "Naman",
         "url": "https://trustmrr.com/naman",
         "mrr": null,
@@ -1382,7 +1687,7 @@
         "name": "SwiftSole",
         "url": "https://trustmrr.com/swiftsole-development-llc-zafar-habib-mbr",
         "mrr": 3892,
-        "growthPct": -1.92,
+        "growthPct": -1.64,
         "description": "Development company specializing in Apps",
         "mrrDelta": null,
         "rankDelta": null
@@ -1397,19 +1702,10 @@
         "rankDelta": null
       },
       {
-        "name": "Interactive Video SaaS",
-        "url": "https://trustmrr.com/interactive-video-saas",
-        "mrr": 41407,
-        "growthPct": 9.63,
-        "description": "Premier interactive video software used for education, training, marketing. $48k MRR + some services revenue. Easy to use, drag and drop editor rebuilt from the ground up in 2025, fully documented and clean with little to no tech debt. One full-time employee. Owner works 3-5 hours per week and can be replaced by a fractional engineer. High SDE. Great fit for a video-based company in the education or training space as an upsell. ***Offers must include LinkedIn profile***",
-        "mrrDelta": null,
-        "rankDelta": null
-      },
-      {
         "name": "ConvertLabs",
         "url": "https://trustmrr.com/convertlabs",
-        "mrr": 34279,
-        "growthPct": 1.46,
+        "mrr": 34740,
+        "growthPct": 0.47,
         "description": "We sell a SaaS product for booking and marketing for local service businesses.",
         "mrrDelta": null,
         "rankDelta": null
@@ -1471,8 +1767,8 @@
       {
         "name": "Plutio (Super Work AI)",
         "url": "https://trustmrr.com/plutio-super-work-ai",
-        "mrr": 19734,
-        "growthPct": 18.05,
+        "mrr": 19753,
+        "growthPct": 17.38,
         "description": "One app to run, grow, and automate your business.",
         "mrrDelta": null,
         "rankDelta": null
@@ -1480,8 +1776,8 @@
       {
         "name": "Replayed LTD",
         "url": "https://trustmrr.com/replayed-ltd",
-        "mrr": 19719,
-        "growthPct": 24.15,
+        "mrr": 20006,
+        "growthPct": 34.5,
         "description": "Best video editing service for YouTubers - No subscription. On demand. Direct chat with editors.",
         "mrrDelta": null,
         "rankDelta": null
@@ -1570,7 +1866,7 @@
       {
         "name": "Dotmarket.eu - Achat / vente de business web",
         "url": "https://trustmrr.com/dotmarket-eu",
-        "mrr": 15666,
+        "mrr": 15689,
         "growthPct": 64.67,
         "description": "Plateforme #1 en France pour acheter / vendre un business digital : SaaS, média, e-commerce, agence web. 300+ deals vérifiés et valorisés par nos soins proposés par an.",
         "mrrDelta": null,
@@ -1580,7 +1876,7 @@
         "name": "SMMDealFinder.com",
         "url": "https://trustmrr.com/smmdealfinder-com",
         "mrr": 10919,
-        "growthPct": 47.91,
+        "growthPct": 44.3,
         "description": "Software and Digital Marketing company. We offer advertising services and softwares for businesses and freelancers.",
         "mrrDelta": null,
         "rankDelta": null
@@ -1604,20 +1900,20 @@
         "rankDelta": null
       },
       {
+        "name": "Calendesk",
+        "url": "https://trustmrr.com/calendesk",
+        "mrr": 21595,
+        "growthPct": 0.25,
+        "description": "B2B SaaS helping therapists, psychologists, and service businesses manage bookings, payments, and client relationships. Features: subscription packages, white-label branding, client portals, API-first integration. For companies seeking predictable revenue, less admin work, and a professional brand—from solo practices to large networks. Bootstrapped.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
         "name": "Hidden Business",
         "url": "https://trustmrr.com/hidden-business-2",
         "mrr": 1414,
         "growthPct": -0.7,
         "description": null,
-        "mrrDelta": null,
-        "rankDelta": null
-      },
-      {
-        "name": "Calendesk",
-        "url": "https://trustmrr.com/calendesk",
-        "mrr": 21517,
-        "growthPct": 0.49,
-        "description": "B2B SaaS helping therapists, psychologists, and service businesses manage bookings, payments, and client relationships. Features: subscription packages, white-label branding, client portals, API-first integration. For companies seeking predictable revenue, less admin work, and a professional brand—from solo practices to large networks. Bootstrapped.",
         "mrrDelta": null,
         "rankDelta": null
       },
@@ -1661,7 +1957,7 @@
         "name": "Advise.so",
         "url": "https://trustmrr.com/advise-so",
         "mrr": 24485,
-        "growthPct": -18.23,
+        "growthPct": -18.82,
         "description": "Vibrant and active community of marketers",
         "mrrDelta": null,
         "rankDelta": null
@@ -1714,8 +2010,8 @@
       {
         "name": "Talefy",
         "url": "https://trustmrr.com/talefy",
-        "mrr": 25591,
-        "growthPct": 4.1,
+        "mrr": 25454,
+        "growthPct": 5.16,
         "description": "AI-Powered Interactive Story Games. Immerse Yourself in Endless Possibilities",
         "mrrDelta": null,
         "rankDelta": null
@@ -1750,7 +2046,7 @@
       {
         "name": "Esferas.io",
         "url": "https://trustmrr.com/esferas-io",
-        "mrr": 15952,
+        "mrr": 15902,
         "growthPct": 8.4,
         "description": "ESFERAS LLC provides LinkedIn automation tools.",
         "mrrDelta": null,
@@ -1766,6 +2062,15 @@
         "rankDelta": null
       },
       {
+        "name": "Brevilabs",
+        "url": "https://trustmrr.com/brevilabs",
+        "mrr": 21154,
+        "growthPct": -7.52,
+        "description": "Tools for any AI agent to access and manage your personal context",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
         "name": "Stealth Company",
         "url": "https://trustmrr.com/wava-ai",
         "mrr": 15267,
@@ -1777,8 +2082,8 @@
       {
         "name": "AE-intelligence",
         "url": "https://trustmrr.com/ae-intelligence",
-        "mrr": 30752,
-        "growthPct": -13,
+        "mrr": 30816,
+        "growthPct": -12.23,
         "description": "AE-intelligence is a holding company for few business. One of them is Humanize ai text which add a human touch to AI text.",
         "mrrDelta": null,
         "rankDelta": null
@@ -1822,8 +2127,8 @@
       {
         "name": "Dropkiller",
         "url": "https://trustmrr.com/dropkiller",
-        "mrr": 41688,
-        "growthPct": 24.92,
+        "mrr": 41992,
+        "growthPct": 26.05,
         "description": "We offer a subscription-based service that provides e-commerce entrepreneurs with access to product insights, ad creatives, and market analysis tools. Customers are charged at checkout or on a recurring monthly basis.",
         "mrrDelta": null,
         "rankDelta": null
@@ -1841,7 +2146,7 @@
         "name": "ChatDash, LLC",
         "url": "https://trustmrr.com/chatdash-llc",
         "mrr": 39333,
-        "growthPct": 25.12,
+        "growthPct": 25.97,
         "description": "ChatDash is a white-labeled AI assistant dashboard solution tailor-made for agencies, enabling them to provide clients with a customizable, brandable interface for managing their own Knowledge Bases. This platform enhances the value agencies offer by saving them time on Knowledge Base maintenance and allowing for higher ticket pricing for their AI chatbot services. With plans catering to various agency sizes, from small startups to established firms, ChatDash combines full Voiceflow and OpenAI Assistant API integrations with dedicated support, offering a premium, branded client experience across the board.",
         "mrrDelta": null,
         "rankDelta": null
@@ -1865,6 +2170,15 @@
         "rankDelta": null
       },
       {
+        "name": "anonymous-startup-2",
+        "url": "https://trustmrr.com/anonymous-startup-2",
+        "mrr": 37755,
+        "growthPct": 3.37,
+        "description": "One form to rule them all.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
         "name": "Notionlytics",
         "url": "https://trustmrr.com/notionlytics",
         "mrr": 37693,
@@ -1874,19 +2188,10 @@
         "rankDelta": null
       },
       {
-        "name": "anonymous-startup-2",
-        "url": "https://trustmrr.com/anonymous-startup-2",
-        "mrr": 37681,
-        "growthPct": 3.37,
-        "description": "One form to rule them all.",
-        "mrrDelta": null,
-        "rankDelta": null
-      },
-      {
         "name": "PolyPick",
         "url": "https://trustmrr.com/polypick",
         "mrr": 34715,
-        "growthPct": 803.83,
+        "growthPct": 805.35,
         "description": "The #1 AI platform for beating prediction markets.\n\nAnalyze Polymarket, Kalshi & more with AI, copy top traders, track whales, and make smarter bets in seconds.",
         "mrrDelta": null,
         "rankDelta": null
@@ -1894,7 +2199,7 @@
       {
         "name": "Conductor",
         "url": "https://trustmrr.com/conductor",
-        "mrr": 33006,
+        "mrr": 32947,
         "growthPct": 14.41,
         "description": "The best QuickBooks Desktop & Enterprise API on the planet.",
         "mrrDelta": null,
@@ -1912,8 +2217,8 @@
       {
         "name": "LocalRank.so",
         "url": "https://trustmrr.com/localrank-so",
-        "mrr": 30101,
-        "growthPct": 6.19,
+        "mrr": 29766,
+        "growthPct": 4.18,
         "description": "All-in-one AI Local SEO Software",
         "mrrDelta": null,
         "rankDelta": null
@@ -1948,7 +2253,7 @@
       {
         "name": "Shadow Co",
         "url": "https://trustmrr.com/shadow-co",
-        "mrr": 27805,
+        "mrr": 27915,
         "growthPct": 4.62,
         "description": "(っ◔◡◔)っ",
         "mrrDelta": null,
@@ -1994,7 +2299,7 @@
         "name": "Popular link in bio.",
         "url": "https://trustmrr.com/popular-link-in-bio",
         "mrr": 26444,
-        "growthPct": -58.51,
+        "growthPct": -57.9,
         "description": "Self growth link in bio. Feature social analytics for instagram (in-house scrapper). TikTok. Already built system for threads, twitter and YouTube but not shipped yet.",
         "mrrDelta": null,
         "rankDelta": null
@@ -2038,7 +2343,7 @@
       {
         "name": "DataFast",
         "url": "https://trustmrr.com/datafast",
-        "mrr": 24129,
+        "mrr": 24138,
         "growthPct": 7.72,
         "description": "Revenue-first analytics for startup founders",
         "mrrDelta": null,
@@ -2056,7 +2361,7 @@
       {
         "name": "SOVEREIGN LEADS LIMITED",
         "url": "https://trustmrr.com/sovereign-leads-limited",
-        "mrr": 23986,
+        "mrr": 24047,
         "growthPct": -28.87,
         "description": "Provides lead generation services for trades and construction companies",
         "mrrDelta": null,
@@ -2083,8 +2388,8 @@
       {
         "name": "Capgo",
         "url": "https://trustmrr.com/capgo",
-        "mrr": 23162,
-        "growthPct": 36.14,
+        "mrr": 23148,
+        "growthPct": 35.3,
         "description": "Capacitor plugin to update your app without sending to store",
         "mrrDelta": null,
         "rankDelta": null
@@ -2092,7 +2397,7 @@
       {
         "name": "Stealth Venture",
         "url": "https://trustmrr.com/stealth-venture-2",
-        "mrr": 23066,
+        "mrr": 23102,
         "growthPct": 8.65,
         "description": null,
         "mrrDelta": null,
@@ -2201,7 +2506,7 @@
         "name": "Kickly - Pronos Coupe du Monde ⚽",
         "url": "https://trustmrr.com/kickly-pronos-coupe-du-monde",
         "mrr": 6031,
-        "growthPct": 7742.66,
+        "growthPct": 7921.34,
         "description": "Pronostics sportifs.",
         "mrrDelta": null,
         "rankDelta": null
@@ -2396,15 +2701,6 @@
         "rankDelta": null
       },
       {
-        "name": "MakeShots - Appstore Screenshots",
-        "url": "https://trustmrr.com/makeshots-appstore-screenshots-1",
-        "mrr": 176,
-        "growthPct": 2340.91,
-        "description": "Turn your raw app screens into a polished, store-ready set in minutes - built to lift conversions and launch faster.",
-        "mrrDelta": null,
-        "rankDelta": null
-      },
-      {
         "name": "Vantage EA",
         "url": "https://trustmrr.com/vantage-ea",
         "mrr": 41,
@@ -2441,11 +2737,29 @@
         "rankDelta": null
       },
       {
+        "name": "Hidden Business",
+        "url": "https://trustmrr.com/hidden-business-30",
+        "mrr": 205,
+        "growthPct": 2066.75,
+        "description": null,
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
         "name": "MdView",
         "url": "https://trustmrr.com/mdview",
         "mrr": 102,
         "growthPct": 1939.8,
         "description": "Markdown file reader created for humans",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "MakeShots - Appstore Screenshots",
+        "url": "https://trustmrr.com/makeshots-appstore-screenshots-1",
+        "mrr": 176,
+        "growthPct": 1875.79,
+        "description": "Turn your raw app screens into a polished, store-ready set in minutes - built to lift conversions and launch faster.",
         "mrrDelta": null,
         "rankDelta": null
       },
@@ -2554,15 +2868,6 @@
         "mrr": 822,
         "growthPct": 1536.13,
         "description": "GETebook.ai turns ideas into publish-ready ebooks in minutes. Pick a topic, audience, and tone — our AI generates a structured outline, full chapters and cover art, then exports to PDF, EPUB, and Word with professional typography. Built for course creators, coaches, marketers, and indie authors who want lead magnets, paid products, or KDP-ready manuscripts without the blank-page grind.",
-        "mrrDelta": null,
-        "rankDelta": null
-      },
-      {
-        "name": "Hidden Business",
-        "url": "https://trustmrr.com/hidden-business-30",
-        "mrr": 205,
-        "growthPct": 1514.29,
-        "description": null,
         "mrrDelta": null,
         "rankDelta": null
       },
@@ -2747,6 +3052,15 @@
         "rankDelta": null
       },
       {
+        "name": "Pandascrow, Inc.",
+        "url": "https://trustmrr.com/pandascrow-inc",
+        "mrr": 212,
+        "growthPct": 960,
+        "description": "Pandascrow is a payment solution built on escrow technology to help Africa’s best businesses grow - from new startups, to market leaders in the commerce industry and beyond.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
         "name": "HabitBox",
         "url": "https://trustmrr.com/habitbox",
         "mrr": 18,
@@ -2761,15 +3075,6 @@
         "mrr": 18,
         "growthPct": 934.24,
         "description": "HabitBox is your all-in-one habit tracker, designed to help you stay consistent and motivated.",
-        "mrrDelta": null,
-        "rankDelta": null
-      },
-      {
-        "name": "Pandascrow, Inc.",
-        "url": "https://trustmrr.com/pandascrow-inc",
-        "mrr": 212,
-        "growthPct": 933.75,
-        "description": "Pandascrow is a payment solution built on escrow technology to help Africa’s best businesses grow - from new startups, to market leaders in the commerce industry and beyond.",
         "mrrDelta": null,
         "rankDelta": null
       },
@@ -2812,7 +3117,7 @@
       {
         "name": "Whisp",
         "url": "https://trustmrr.com/whisp",
-        "mrr": 252,
+        "mrr": 254,
         "growthPct": 868.25,
         "description": null,
         "mrrDelta": null,
@@ -2869,6 +3174,15 @@
         "mrr": 72,
         "growthPct": 800,
         "description": "Smart bookmark manager. \nCollect, organize and share your bookmarks, all in one place.\n\nAI-powered analysis, Auto titles, descriptions, tags & ALT text, AI upscale to 4K, Smart search (color, type), Generate color palettes, Drag & drop uploads, Copy paste image capture",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "slidelabs.net",
+        "url": "https://trustmrr.com/slidelabs-net",
+        "mrr": 53,
+        "growthPct": 783.33,
+        "description": "SlideLabs operates as a subscription-based web application that provides AI-assisted software tools for marketers and creators. Customers access the product online after signing up and paying through our website. Our services include trend-research and content-planning features based on user-provided keywords, and tools to generate styled product and marketing imagery from images users upload. We deliver access to the software over the internet; we do not ship physical goods.",
         "mrrDelta": null,
         "rankDelta": null
       },
@@ -2963,15 +3277,6 @@
         "rankDelta": null
       },
       {
-        "name": "Pain Base",
-        "url": "https://trustmrr.com/pain-base",
-        "mrr": 15,
-        "growthPct": 687.48,
-        "description": "Pain Base indexes real user complaints from Reddit, X, and Product Hunt, turning raw frustration into validated business opportunities. Find what people actually struggle with, then build the solution.",
-        "mrrDelta": null,
-        "rankDelta": null
-      },
-      {
         "name": "Stealth Venture",
         "url": "https://trustmrr.com/bottled",
         "mrr": 11219,
@@ -2983,7 +3288,7 @@
       {
         "name": "Stealth Company (Global Job Board)",
         "url": "https://trustmrr.com/stealth-company-global-job-board",
-        "mrr": 6856,
+        "mrr": 6861,
         "growthPct": 7.54,
         "description": "Huuuuuge growth potential in earnings for a marketing/sales person (which I am not); 1M+ job seekers in the database; trusted by big international organisations; Ubersuggest's traffic valuation: 395K$",
         "mrrDelta": null,
@@ -3073,8 +3378,8 @@
       {
         "name": "ZEMITH.COM",
         "url": "https://trustmrr.com/zemith-com",
-        "mrr": 1629,
-        "growthPct": 20.85,
+        "mrr": 1645,
+        "growthPct": 21.66,
         "description": "All in One AI SaaS",
         "mrrDelta": null,
         "rankDelta": null
@@ -3100,8 +3405,8 @@
       {
         "name": "Corey Chiu",
         "url": "https://trustmrr.com/corey-chiu",
-        "mrr": 4654,
-        "growthPct": -4.1,
+        "mrr": 4634,
+        "growthPct": -4.46,
         "description": "Indie Hacker",
         "mrrDelta": null,
         "rankDelta": null
@@ -3136,7 +3441,7 @@
       {
         "name": "Fiddl.art",
         "url": "https://trustmrr.com/fiddl-art",
-        "mrr": 1976,
+        "mrr": 2012,
         "growthPct": 0.59,
         "description": "Fiddl.art is a creative platform for high quality AI images and videos using models like Nano Banana Pro, Flux 2 and Sora. Magic Mirror gives fast guided results. A circular points economy lets you buy or earn points through missions, uploads and community activity. Others can unlock your creations so you earn more over time. Public galleries offer inspiration and learning. No subscription needed. Pay only for what you use.",
         "mrrDelta": null,
@@ -3181,8 +3486,8 @@
       {
         "name": "TranslateMom",
         "url": "https://trustmrr.com/translatemom",
-        "mrr": 4619,
-        "growthPct": 9.49,
+        "mrr": 4601,
+        "growthPct": 9.68,
         "description": "With over 100k followers on X at x.com/translatemom.\n\nAI-powered captioning, translation, dubbing and short-form video enhancement tool designed for creators who publish on TikTok, Reels, Shorts, and similar platforms. Automatic dynamic subtitles, fast editing presets, and easy export for social media formats.",
         "mrrDelta": null,
         "rankDelta": null
@@ -3235,7 +3540,7 @@
       {
         "name": "Wizlogo",
         "url": "https://trustmrr.com/wizlogo",
-        "mrr": 3346,
+        "mrr": 3351,
         "growthPct": 1.17,
         "description": "A web-based platform for creating logotypes in minutes. It features a streamlined creation process to help businesses create a logo.",
         "mrrDelta": null,
@@ -3344,7 +3649,7 @@
         "name": "Legendsverse",
         "url": "https://trustmrr.com/legendsverse",
         "mrr": 356,
-        "growthPct": 40.81,
+        "growthPct": 45.24,
         "description": "Legendsverse is an action figures tracking app.",
         "mrrDelta": null,
         "rankDelta": null
@@ -3424,8 +3729,8 @@
       {
         "name": "LIZAONAIR",
         "url": "https://trustmrr.com/lizaonair",
-        "mrr": 3526,
-        "growthPct": -21.98,
+        "mrr": 3516,
+        "growthPct": -21.96,
         "description": "Online services for Social Media Marketing",
         "mrrDelta": null,
         "rankDelta": null
@@ -3433,8 +3738,8 @@
       {
         "name": "MyFeedIn",
         "url": "https://trustmrr.com/myfeedin",
-        "mrr": 1020,
-        "growthPct": 1.89,
+        "mrr": 1022,
+        "growthPct": 1.9,
         "description": "Extension chrome to improve the user experience on LinkedIn.",
         "mrrDelta": null,
         "rankDelta": null
@@ -3460,8 +3765,8 @@
       {
         "name": "Writingmate.ai",
         "url": "https://trustmrr.com/writingmate-ai",
-        "mrr": 7257,
-        "growthPct": -22.48,
+        "mrr": 7177,
+        "growthPct": -19.85,
         "description": "All in one ai platform for content creators: from text to images, to videos all in one place.\n\nMCP and API support. Perfect start to compete with Higgsfield.",
         "mrrDelta": null,
         "rankDelta": null
@@ -3524,7 +3829,7 @@
         "name": "SessionWatcher",
         "url": "https://trustmrr.com/sessionwatcher",
         "mrr": 30,
-        "growthPct": 114.94,
+        "growthPct": 119.01,
         "description": "I sell a MacOS menu bar app to help users track their AI token usage in Claude Code & Codex.",
         "mrrDelta": null,
         "rankDelta": null
@@ -3533,7 +3838,7 @@
         "name": "PostPlanify",
         "url": "https://trustmrr.com/postplanify",
         "mrr": 3628,
-        "growthPct": 4.27,
+        "growthPct": 8.9,
         "description": "PostPlanify is an all-in-one social media management platform to plan, schedule, and manage content across multiple platforms. Keep everything organized in one place and stay consistent without switching between tools.\n\nTrack performance with built-in analytics, manage comments with a social inbox, and collaborate with your team or clients easily. Built for agencies,  teams, and creators.",
         "mrrDelta": null,
         "rankDelta": null
@@ -3568,7 +3873,7 @@
       {
         "name": "Followr",
         "url": "https://trustmrr.com/followr",
-        "mrr": 13785,
+        "mrr": 13850,
         "growthPct": -5.52,
         "description": "Followr.ai is an all-in-one AI-powered platform designed to automate and streamline social media creation and management. It lets users generate high-quality posts, images, and videos through its AI Studio, and even create realistic AI avatars capable of delivering scripted videos without needing a camera or recording setup. By combining content creation, scheduling, publishing, and analytics in one place, Followr.ai helps creators, brands, and agencies produce professional social content faster",
         "mrrDelta": null,
@@ -3578,7 +3883,7 @@
         "name": "RapidNative",
         "url": "https://trustmrr.com/shaper-studio-inc",
         "mrr": 5747,
-        "growthPct": -4.93,
+        "growthPct": -3.27,
         "description": "RapidNative is an AI-powered code generator that instantly converts your ideas into mobile apps using React Native and Expo. Perfect for developers, designers, and teams who want to accelerate mobile app development.",
         "mrrDelta": null,
         "rankDelta": null
@@ -3586,8 +3891,8 @@
       {
         "name": "notis.ai",
         "url": "https://trustmrr.com/notis-ai",
-        "mrr": 17372,
-        "growthPct": 7.41,
+        "mrr": 17392,
+        "growthPct": 7.29,
         "description": "Your AI Intern One Message Away: dump the busy work. Work like a team of ten. From meeting minutes to blog posts, from CRM updates to newsletter drafts—just speak, and it's done.",
         "mrrDelta": null,
         "rankDelta": null
@@ -3712,7 +4017,7 @@
       {
         "name": "Verbatik AI (Web + iOS app)",
         "url": "https://trustmrr.com/verbatik-ai-web-ios-app",
-        "mrr": 2087,
+        "mrr": 2106,
         "growthPct": 2.2,
         "description": "Instantly create unlimited UGC, voiceovers, voice cloning, and produce music, videos, sound effects, and AI chats — in 150+ languages.",
         "mrrDelta": null,
@@ -3748,7 +4053,7 @@
       {
         "name": "Laper",
         "url": "https://trustmrr.com/laper",
-        "mrr": 15375,
+        "mrr": 15455,
         "growthPct": 154.92,
         "description": "From first draft to final cut.\nThe only platform where screenwriters and AI collaborate on scripts, breakdowns, storyboards, and production.\nA complete pre-production SaaS—AI creative workspace, AI script auto-complete, AI-driven scene breakdowns, storyboards, art direction, cast management, location scouting, and budgeting. One platform for your entire team. Built to accelerate human storytelling.",
         "mrrDelta": null,
@@ -4000,7 +4305,7 @@
       {
         "name": "Uncoflow",
         "url": "https://trustmrr.com/uncoflow",
-        "mrr": 801,
+        "mrr": 803,
         "growthPct": 140.07,
         "description": "Uncoflow is an online platform for creating engaging training courses with advanced analytics and personalization features.",
         "mrrDelta": null,
@@ -4036,9 +4341,18 @@
       {
         "name": "iCANDrivers",
         "url": "https://trustmrr.com/icandrivers",
-        "mrr": 420,
+        "mrr": 400,
         "growthPct": -10.64,
         "description": "iCANDrivers offers custom drivers for running Holley EFI on M-Series Mac devices.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "Pain Base",
+        "url": "https://trustmrr.com/pain-base",
+        "mrr": 15,
+        "growthPct": 687.48,
+        "description": "Pain Base indexes real user complaints from Reddit, X, and Product Hunt, turning raw frustration into validated business opportunities. Find what people actually struggle with, then build the solution.",
         "mrrDelta": null,
         "rankDelta": null
       },
@@ -4093,24 +4407,6 @@
         "mrr": 1905,
         "growthPct": 0,
         "description": "TextWork uses text messages and AI to intelligently connect mobile workers when they need each other.",
-        "mrrDelta": null,
-        "rankDelta": null
-      },
-      {
-        "name": "PARAZETTEL",
-        "url": "https://trustmrr.com/parazettel",
-        "mrr": 79,
-        "growthPct": 2.59,
-        "description": "Master PKM through a PARA Method x Zettelkasten fusion.",
-        "mrrDelta": null,
-        "rankDelta": null
-      },
-      {
-        "name": "athletedata.health",
-        "url": "https://trustmrr.com/athletedata-health",
-        "mrr": 5982,
-        "growthPct": -13.43,
-        "description": "The proactive AI endurance coach.\nUsers connect fitness apps (Strava, Garmin, WHOOP, Garmin + more) and get proactive coaching based on their data",
         "mrrDelta": null,
         "rankDelta": null
       },
@@ -4316,7 +4612,7 @@
         "name": "TypeBoost",
         "url": "https://trustmrr.com/typeboost",
         "mrr": 22,
-        "growthPct": 225.41,
+        "growthPct": 191.89,
         "description": "TypeBoost is a macOS desktop app that allows users to apply AI text prompts system-wide to highlighted text – directly within other applications, without leaving the context. The app is launched via a global keyboard shortcut and enables users to quickly apply saved AI prompts to text, for example, to improve emails or edit text creatively.",
         "mrrDelta": null,
         "rankDelta": null
@@ -4397,7 +4693,7 @@
         "name": "Linkerflow",
         "url": "https://trustmrr.com/linkerflow",
         "mrr": 1006,
-        "growthPct": -18.76,
+        "growthPct": -21.53,
         "description": "Linkerflow is a Webflow contextual internal linking tool available on its marketplace.",
         "mrrDelta": null,
         "rankDelta": null
@@ -4459,7 +4755,7 @@
       {
         "name": "ChatSEO",
         "url": "https://trustmrr.com/chatseo",
-        "mrr": 22532,
+        "mrr": 22554,
         "growthPct": -7.39,
         "description": "Find & prioritize your SEO wins by chatting with your data.",
         "mrrDelta": null,
@@ -4511,10 +4807,28 @@
         "rankDelta": null
       },
       {
+        "name": "Virvid.ai",
+        "url": "https://trustmrr.com/virvid-ai",
+        "mrr": 7815,
+        "growthPct": -18.74,
+        "description": "AI shorts generator that helps creators and businesses turn ideas into viral faceless videos for TikTok, Instagram and YouTube, all on autopilot. Just set it up once and watch your channel grow.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "Social Post Flow",
+        "url": "https://trustmrr.com/social-post-flow",
+        "mrr": 503,
+        "growthPct": 25.35,
+        "description": "Automatically publish WordPress content to Facebook, X, Instagram, Threads, LinkedIn, TikTok, Pinterest, Bluesky and Mastodon, from just $49/year.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
         "name": "AI Text Humanizer",
         "url": "https://trustmrr.com/ai-text-humanizer-1",
         "mrr": 2233,
-        "growthPct": -40.23,
+        "growthPct": -40.24,
         "description": "Profitable AI text humanizer built for an underserved European academic market with limited local competition. Helps students turn rough or AI-generated writing into natural, human-sounding text while preserving meaning and structure. Strong local positioning with clear expansion potential across similar EU markets.",
         "mrrDelta": null,
         "rankDelta": null
@@ -4526,7 +4840,7 @@
         "title": "elder-plinius/T3MP3ST",
         "url": "https://github.com/elder-plinius/T3MP3ST",
         "source": "github",
-        "points": 3800,
+        "points": 3834,
         "meta": "TypeScript · autonomous red teaming platform; multi-agent offensive-security meta-harness",
         "createdAt": "2026-07-02T17:53:55Z",
         "topics": [
@@ -4542,7 +4856,7 @@
         "title": "x4gKing/X4G",
         "url": "https://github.com/x4gKing/X4G",
         "source": "github",
-        "points": 2139,
+        "points": 2296,
         "meta": "Python",
         "createdAt": "2026-07-04T06:43:51Z",
         "topics": []
@@ -4552,7 +4866,7 @@
         "title": "synthetic-sciences/openscience",
         "url": "https://github.com/synthetic-sciences/openscience",
         "source": "github",
-        "points": 1713,
+        "points": 1724,
         "meta": "TypeScript · The open-source AI workbench for scientific research",
         "createdAt": "2026-07-03T15:06:45Z",
         "topics": [
@@ -4578,7 +4892,7 @@
         "title": "Shpigford/knockoff",
         "url": "https://github.com/Shpigford/knockoff",
         "source": "github",
-        "points": 1360,
+        "points": 1375,
         "meta": "JavaScript · Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
         "createdAt": "2026-07-06T15:06:06Z",
         "topics": [
@@ -4592,7 +4906,7 @@
         "title": "ammaarreshi/Generals-Mac-iOS-iPad",
         "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
         "source": "github",
-        "points": 1352,
+        "points": 1355,
         "meta": "C++ · Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
         "createdAt": "2026-07-04T02:59:39Z",
         "topics": [
@@ -4615,7 +4929,7 @@
         "title": "jamesob/local-llm",
         "url": "https://github.com/jamesob/local-llm",
         "source": "github",
-        "points": 1260,
+        "points": 1266,
         "meta": "Shell · Everything I know about running LLMs locally",
         "createdAt": "2026-07-03T13:06:03Z",
         "topics": []
@@ -4625,7 +4939,7 @@
         "title": "MaximeRivest/riddle",
         "url": "https://github.com/MaximeRivest/riddle",
         "source": "github",
-        "points": 1189,
+        "points": 1195,
         "meta": "Rust · The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
         "createdAt": "2026-07-05T15:48:08Z",
         "topics": []
@@ -4635,7 +4949,7 @@
         "title": "xuchonglang/investing-for-beginners",
         "url": "https://github.com/xuchonglang/investing-for-beginners",
         "source": "github",
-        "points": 1171,
+        "points": 1176,
         "meta": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
         "createdAt": "2026-07-03T03:56:00Z",
         "topics": [
@@ -4651,7 +4965,7 @@
         "title": "anthropics/jacobian-lens",
         "url": "https://github.com/anthropics/jacobian-lens",
         "source": "github",
-        "points": 825,
+        "points": 842,
         "meta": "Python ·  Companion code for the global workspace interpretability paper",
         "createdAt": "2026-07-02T20:30:04Z",
         "topics": []
@@ -4661,7 +4975,7 @@
         "title": "jmerelnyc/Talos",
         "url": "https://github.com/jmerelnyc/Talos",
         "source": "github",
-        "points": 769,
+        "points": 775,
         "meta": "Python · GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
         "createdAt": "2026-07-02T14:43:11Z",
         "topics": [
@@ -4680,7 +4994,7 @@
         "title": "514-labs/dnsglobe",
         "url": "https://github.com/514-labs/dnsglobe",
         "source": "github",
-        "points": 723,
+        "points": 727,
         "meta": "Rust · Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
         "createdAt": "2026-07-05T01:03:37Z",
         "topics": [
@@ -4694,21 +5008,11 @@
         ]
       },
       {
-        "id": "gh-LinXiaoTao/FuckClaude",
-        "title": "LinXiaoTao/FuckClaude",
-        "url": "https://github.com/LinXiaoTao/FuckClaude",
-        "source": "github",
-        "points": 693,
-        "meta": "TypeScript",
-        "createdAt": "2026-07-02T05:36:45Z",
-        "topics": []
-      },
-      {
         "id": "gh-uzairansaruzi/hermex",
         "title": "uzairansaruzi/hermex",
         "url": "https://github.com/uzairansaruzi/hermex",
         "source": "github",
-        "points": 692,
+        "points": 695,
         "meta": "Swift · Native iPhone app for your Hermes agent",
         "createdAt": "2026-07-02T12:47:31Z",
         "topics": [
@@ -4723,11 +5027,21 @@
         ]
       },
       {
+        "id": "gh-LinXiaoTao/FuckClaude",
+        "title": "LinXiaoTao/FuckClaude",
+        "url": "https://github.com/LinXiaoTao/FuckClaude",
+        "source": "github",
+        "points": 693,
+        "meta": "TypeScript",
+        "createdAt": "2026-07-02T05:36:45Z",
+        "topics": []
+      },
+      {
         "id": "gh-yynxxxxx/Codex-X",
         "title": "yynxxxxx/Codex-X",
         "url": "https://github.com/yynxxxxx/Codex-X",
         "source": "github",
-        "points": 589,
+        "points": 590,
         "meta": "Rust · Codex Switch & Instruct desktop manager",
         "createdAt": "2026-07-04T03:28:35Z",
         "topics": []
@@ -4747,7 +5061,7 @@
         "title": "simonlin1212/Vibe-Research",
         "url": "https://github.com/simonlin1212/Vibe-Research",
         "source": "github",
-        "points": 543,
+        "points": 548,
         "meta": "TypeScript · Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
         "createdAt": "2026-07-05T06:30:55Z",
         "topics": [
@@ -4772,7 +5086,7 @@
         "title": "dzhng/skills",
         "url": "https://github.com/dzhng/skills",
         "source": "github",
-        "points": 542,
+        "points": 544,
         "meta": "JavaScript",
         "createdAt": "2026-07-02T10:24:16Z",
         "topics": []
@@ -4782,7 +5096,7 @@
         "title": "wouterdebie/davit",
         "url": "https://github.com/wouterdebie/davit",
         "source": "github",
-        "points": 520,
+        "points": 539,
         "meta": "Swift · A native macOS UI for Apple's platform",
         "createdAt": "2026-07-04T16:50:17Z",
         "topics": []
@@ -4792,7 +5106,7 @@
         "title": "asz798838958/FrciblyK12",
         "url": "https://github.com/asz798838958/FrciblyK12",
         "source": "github",
-        "points": 498,
+        "points": 499,
         "meta": "Python · 多线程全自动注册free 强上K12空间",
         "createdAt": "2026-07-02T03:47:34Z",
         "topics": []
@@ -4802,7 +5116,7 @@
         "title": "Robbyant/lingbot-vision",
         "url": "https://github.com/Robbyant/lingbot-vision",
         "source": "github",
-        "points": 472,
+        "points": 474,
         "meta": "Python · Self-supervised learning for spatial perception",
         "createdAt": "2026-07-06T14:09:42Z",
         "topics": []
@@ -4812,7 +5126,7 @@
         "title": "pocket-stack/pocketjs",
         "url": "https://github.com/pocket-stack/pocketjs",
         "source": "github",
-        "points": 428,
+        "points": 431,
         "meta": "TypeScript · High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind design system, and 60 FPS animation under an 8 MB memory budget.",
         "createdAt": "2026-07-03T07:28:28Z",
         "topics": [
@@ -4836,7 +5150,7 @@
         "title": "nagisanzenin/engram",
         "url": "https://github.com/nagisanzenin/engram",
         "source": "github",
-        "points": 423,
+        "points": 426,
         "meta": "Python · Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
         "createdAt": "2026-07-05T09:53:10Z",
         "topics": [
@@ -4854,7 +5168,7 @@
         "title": "ai4s-research/open-science",
         "url": "https://github.com/ai4s-research/open-science",
         "source": "github",
-        "points": 385,
+        "points": 386,
         "meta": "TypeScript · Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
         "createdAt": "2026-07-03T09:22:31Z",
         "topics": [
@@ -4876,21 +5190,11 @@
         ]
       },
       {
-        "id": "gh-Pluviobyte/rnskill",
-        "title": "Pluviobyte/rnskill",
-        "url": "https://github.com/Pluviobyte/rnskill",
-        "source": "github",
-        "points": 380,
-        "meta": "Python · 雪踏乌云的 AI Agent Skills 集合",
-        "createdAt": "2026-07-04T18:43:42Z",
-        "topics": []
-      },
-      {
         "id": "gh-can1357/pon",
         "title": "can1357/pon",
         "url": "https://github.com/can1357/pon",
         "source": "github",
-        "points": 379,
+        "points": 385,
         "meta": "Rust · Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, ruff parser, Green Tea GC, byte-exact differential testing against CPython.",
         "createdAt": "2026-07-02T16:44:07Z",
         "topics": [
@@ -4904,6 +5208,16 @@
           "runtime",
           "rust"
         ]
+      },
+      {
+        "id": "gh-V4bel/Januscape",
+        "title": "V4bel/Januscape",
+        "url": "https://github.com/V4bel/Januscape",
+        "source": "github",
+        "points": 385,
+        "meta": "C",
+        "createdAt": "2026-07-06T15:35:00Z",
+        "topics": []
       }
     ],
     "formDFilings": [
@@ -5190,6 +5504,15 @@
     ],
     "news": [
       {
+        "id": "rss-https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
+        "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
+        "url": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
+        "source": "rss:techcrunch",
+        "points": null,
+        "meta": "techcrunch",
+        "createdAt": "2026-07-08T20:29:50.000Z"
+      },
+      {
         "id": "rss-https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person",
         "title": "OpenAI launches GPT-Live, a full-duplex voice upgrade that lets ChatGPT talk more like a person",
         "url": "https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person",
@@ -5352,15 +5675,6 @@
         "createdAt": "2026-07-07T14:35:42.000Z"
       },
       {
-        "id": "rss-https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
-        "title": "This startup pits dealerships against each other to bid on your used car",
-        "url": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
-        "source": "rss:techcrunch",
-        "points": null,
-        "meta": "techcrunch",
-        "createdAt": "2026-07-07T14:00:00.000Z"
-      },
-      {
         "id": "rss-https://news.crunchbase.com/venture/na-startup-funding-ma-shattered-records-ai-q2-2026/",
         "title": "North American Startup Funding Shattered Records In First Half Of 2026, Driven By AI",
         "url": "https://news.crunchbase.com/venture/na-startup-funding-ma-shattered-records-ai-q2-2026/",
@@ -5381,9 +5695,39 @@
     ],
     "emergingTopics": [
       {
+        "term": "productivity",
+        "count": 20,
+        "velocity": 20
+      },
+      {
+        "term": "artificial intelligence",
+        "count": 18,
+        "velocity": 18
+      },
+      {
         "term": "llm",
         "count": 10,
         "velocity": 10
+      },
+      {
+        "term": "developer tools",
+        "count": 8,
+        "velocity": 8
+      },
+      {
+        "term": "agents",
+        "count": 7,
+        "velocity": 7
+      },
+      {
+        "term": "saas",
+        "count": 7,
+        "velocity": 7
+      },
+      {
+        "term": "api",
+        "count": 6,
+        "velocity": 6
       },
       {
         "term": "data",
@@ -5391,7 +5735,7 @@
         "velocity": 6
       },
       {
-        "term": "agents",
+        "term": "fintech",
         "count": 6,
         "velocity": 6
       },
@@ -5416,64 +5760,39 @@
         "velocity": 6
       },
       {
+        "term": "agent",
+        "count": 5,
+        "velocity": 5
+      },
+      {
+        "term": "open source",
+        "count": 4,
+        "velocity": 4
+      },
+      {
+        "term": "writing",
+        "count": 4,
+        "velocity": 4
+      },
+      {
+        "term": "task management",
+        "count": 4,
+        "velocity": 4
+      },
+      {
+        "term": "android",
+        "count": 4,
+        "velocity": 4
+      },
+      {
+        "term": "tech",
+        "count": 4,
+        "velocity": 4
+      },
+      {
         "term": "cli",
         "count": 4,
         "velocity": 4
-      },
-      {
-        "term": "research-tools",
-        "count": 4,
-        "velocity": 4
-      },
-      {
-        "term": "ios",
-        "count": 4,
-        "velocity": 4
-      },
-      {
-        "term": "mcp",
-        "count": 4,
-        "velocity": 4
-      },
-      {
-        "term": "agent",
-        "count": 3,
-        "velocity": 3
-      },
-      {
-        "term": "versions",
-        "count": 3,
-        "velocity": 3
-      },
-      {
-        "term": "typescript",
-        "count": 3,
-        "velocity": 3
-      },
-      {
-        "term": "after",
-        "count": 3,
-        "velocity": 3
-      },
-      {
-        "term": "releases",
-        "count": 3,
-        "velocity": 3
-      },
-      {
-        "term": "hermex",
-        "count": 3,
-        "velocity": 3
-      },
-      {
-        "term": "open-science",
-        "count": 3,
-        "velocity": 3
-      },
-      {
-        "term": "their",
-        "count": 3,
-        "velocity": 3
       }
     ]
   }
