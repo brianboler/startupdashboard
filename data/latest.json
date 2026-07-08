@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "generatedAt": "2026-07-08T19:20:51.626Z",
+  "generatedAt": "2026-07-08T19:22:18.167Z",
   "stats": {
     "totalItems": 605,
     "sources": {
@@ -293,7 +293,7 @@
         "url": "https://microsoft.github.io/flint-chart/#/",
         "source": "hackernews",
         "points": 55,
-        "meta": "22 comments",
+        "meta": "21 comments",
         "createdAt": "2026-07-08T17:46:12Z"
       },
       {
@@ -301,7 +301,7 @@
         "title": "Show HN: Freeport – a P2P ride-hailing marketplace I built on Nostr",
         "url": "https://ptrinh.github.io/freeport/",
         "source": "hackernews",
-        "points": 14,
+        "points": 15,
         "meta": "1 comments",
         "createdAt": "2026-07-08T16:28:07Z"
       },
@@ -4542,7 +4542,7 @@
         "title": "x4gKing/X4G",
         "url": "https://github.com/x4gKing/X4G",
         "source": "github",
-        "points": 2136,
+        "points": 2139,
         "meta": "Python",
         "createdAt": "2026-07-04T06:43:51Z",
         "topics": []
@@ -4578,7 +4578,7 @@
         "title": "Shpigford/knockoff",
         "url": "https://github.com/Shpigford/knockoff",
         "source": "github",
-        "points": 1359,
+        "points": 1360,
         "meta": "JavaScript · Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
         "createdAt": "2026-07-06T15:06:06Z",
         "topics": [
@@ -4592,7 +4592,7 @@
         "title": "ammaarreshi/Generals-Mac-iOS-iPad",
         "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
         "source": "github",
-        "points": 1351,
+        "points": 1352,
         "meta": "C++ · Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
         "createdAt": "2026-07-04T02:59:39Z",
         "topics": [
