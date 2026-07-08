@@ -1,0 +1,40 @@
+name: Daily data refresh
+
+on:
+  schedule:
+    - cron: '0 11 * * *'   # 11:00 UTC daily (~7 AM ET)
+  workflow_dispatch: {}      # manual trigger for testing
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Run pipeline
+        run: npm run pipeline
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PH_TOKEN: ${{ secrets.PH_TOKEN }}
+
+      - name: Run tests
+        run: npm test
+
+      - name: Commit fresh snapshot
+        run: |
+          git config user.name "startup-pulse-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          git diff --cached --quiet && echo "No data changes" && exit 0
+          git commit -m "data: daily snapshot $(date -u +%F)"
+          git push
