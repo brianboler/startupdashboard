@@ -4,43 +4,47 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Startup Pulse — Daily Startup Intelligence</title>
-  <meta name="description" content="A daily-refreshed dashboard of startup news, launches, verified-MRR leaders, SEC Form D filings, and emerging fields — aggregated from Hacker News, GitHub, TrustMRR, Product Hunt, SEC EDGAR, and RSS." />
-  <meta name="theme-color" content="#0b0e14" />
-  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjNWI4Y2ZmIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjOWQ2YmZmIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iOCIgZmlsbD0iIzBiMGUxNCIvPjxjaXJjbGUgY3g9IjE2IiBjeT0iMTYiIHI9IjciIGZpbGw9InVybCgjZykiLz48Y2lyY2xlIGN4PSIxNiIgY3k9IjE2IiByPSI3IiBmaWxsPSJub25lIiBzdHJva2U9IiM1YjhjZmYiIHN0cm9rZS1vcGFjaXR5PSIwLjUiIHN0cm9rZS13aWR0aD0iMiIvPjwvc3ZnPg==" />
+  <meta name="description" content="A daily-refreshed dashboard of startup news, launches, verified-MRR leaders, SEC Form D filings, community chatter, and emerging fields." />
+  <meta name="theme-color" content="#0C0C0B" />
+  <script>(function(){var t=localStorage.getItem('sp-theme');if(t)document.documentElement.dataset.theme=t;})();</script>
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Startup Pulse — Daily Startup Intelligence" />
-  <meta property="og:description" content="News, launches, verified MRR, SEC Form D filings, and emerging fields for startups — refreshed daily, $0/month." />
+  <meta property="og:description" content="News, launches, verified MRR, SEC Form D filings, community chatter, and emerging fields — refreshed daily, $0/month." />
   <meta property="og:url" content="https://brianboler.github.io/startupdashboard/" />
   <meta name="twitter:card" content="summary" />
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iNiIgZmlsbD0iIzBDMEMwQiIvPjxyZWN0IHg9IjkiIHk9IjgiIHdpZHRoPSI2IiBoZWlnaHQ9IjE2IiBmaWxsPSIjRkZCMjI0Ii8+PHJlY3QgeD0iMTkiIHk9IjE0IiB3aWR0aD0iNCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzNGQjk1MCIvPjwvc3ZnPg==" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <header class="topbar">
-    <div class="brand">
-      <span class="brand-dot"></span>
-      <h1>Startup&nbsp;Pulse</h1>
-      <span class="date-badge" id="date-badge">—</span>
+  <header class="masthead">
+    <a class="wordmark" href="./">STARTUP&nbsp;PULSE<span class="cursor" aria-hidden="true">▮</span></a>
+    <span class="date-badge" id="date-badge">—</span>
+    <div class="masthead-tools">
+      <input id="search" type="search" placeholder="Search everything (/)" autocomplete="off" />
+      <button id="theme-toggle" type="button" aria-label="Switch theme">◐</button>
     </div>
-    <input id="search" type="search" placeholder="Search everything… (/)" autocomplete="off" />
   </header>
 
-  <section class="stats-row" id="stats-row"><!-- stat chips injected --></section>
+  <div class="ticker" id="ticker" aria-label="Today's movers"></div>
 
-  <nav class="tabs" id="tabs">
+  <section class="statbar" id="stats-row"></section>
+
+  <nav class="tabs" id="tabs" aria-label="Sections">
     <button class="tab active" data-tab="all">Overview</button>
     <button class="tab" data-tab="headlines">Headlines</button>
     <button class="tab" data-tab="launches">Launches</button>
-    <button class="tab" data-tab="mrr">MRR Leaderboard</button>
-    <button class="tab" data-tab="repos">Trending Repos</button>
-    <button class="tab" data-tab="filings">Form D Filings</button>
+    <button class="tab" data-tab="mrr">MRR leaders</button>
+    <button class="tab" data-tab="community">Community</button>
+    <button class="tab" data-tab="repos">New repos</button>
+    <button class="tab" data-tab="filings">Form D</button>
     <button class="tab" data-tab="news">News</button>
   </nav>
 
-  <main class="grid" id="grid"><!-- panels injected --></main>
+  <main class="layout" id="grid"></main>
 
   <footer class="footer">
     <span id="generated-at"></span>
-    <span>Sources: Hacker News · GitHub · TrustMRR · Product Hunt · SEC EDGAR · RSS</span>
+    <span>HN · GitHub · TrustMRR · Product Hunt · SEC EDGAR · Reddit · Lobsters · RSS</span>
   </footer>
 
   <script src="app.js"></script>

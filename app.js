@@ -1,10 +1,19 @@
 const $ = (sel, el = document) => el.querySelector(sel);
-const fmtMoney = (n) =>
-  n == null ? '—' : n >= 1e6 ? `$${(n / 1e6).toFixed(1)}M` : n >= 1e3 ? `$${(n / 1e3).toFixed(1)}k` : `$${n}`;
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) =>
   ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const fmtMoney = (n) =>
+  n == null ? '—' : n >= 1e6 ? `$${(n / 1e6).toFixed(1)}M` : n >= 1e3 ? `$${(n / 1e3).toFixed(1)}k` : `$${n}`;
+const domainOf = (url) => { try { return new URL(url).hostname.replace(/^www\./, ''); } catch { return null; } };
+const relTime = (iso) => {
+  if (!iso) return '';
+  const s = (Date.now() - Date.parse(iso)) / 1000;
+  if (!Number.isFinite(s) || s < 0) return '';
+  if (s < 3600) return `${Math.max(1, Math.round(s / 60))}m`;
+  if (s < 86400) return `${Math.round(s / 3600)}h`;
+  return `${Math.round(s / 86400)}d`;
+};
 
-function countUp(el, target, ms = 700) {
+function countUp(el, target, ms = 650) {
   const start = performance.now();
   const tick = (t) => {
     const p = Math.min((t - start) / ms, 1);
@@ -14,120 +23,248 @@ function countUp(el, target, ms = 700) {
   requestAnimationFrame(tick);
 }
 
-function itemLi(item) {
-  return `<li data-search="${esc((item.title + ' ' + (item.meta ?? '')).toLowerCase())}">
-    <a href="${esc(item.url)}" target="_blank" rel="noopener">
-      <div class="item-title">${esc(item.title)}</div>
-      <div class="item-meta">
-        ${item.points != null ? `<span class="pts">▲ ${item.points}</span>` : ''}
-        ${item.meta ? `<span>${esc(item.meta)}</span>` : ''}
-        <span class="badge">${esc(item.source)}</span>
-      </div>
-    </a>
-  </li>`;
+function favImg(item) {
+  const dom = item.domain ?? domainOf(item.url);
+  return dom ? `<img class="fav" loading="lazy" referrerpolicy="no-referrer" alt=""
+    src="https://icons.duckduckgo.com/ip3/${esc(dom)}.ico" onerror="this.remove()">` : '';
 }
 
-function mrrLi(s, rank) {
-  const delta = s.mrrDelta == null ? '' :
-    s.mrrDelta >= 0 ? `<span class="delta-up">▲ ${fmtMoney(s.mrrDelta)}</span>`
-                    : `<span class="delta-down">▼ ${fmtMoney(-s.mrrDelta)}</span>`;
-  const rankBadge = s.rankDelta == null || s.rankDelta === 0 ? '' :
-    s.rankDelta > 0 ? `<span class="delta-up">↑${s.rankDelta}</span>` : `<span class="delta-down">↓${-s.rankDelta}</span>`;
-  const inner = `
-      <div class="item-title">#${rank + 1} ${esc(s.name)} ${rankBadge}</div>
-      <div class="item-meta">
-        <span class="mrr-val">${fmtMoney(s.mrr)}/mo</span> ${delta}
-        ${s.growthPct != null ? `<span>${s.growthPct > 0 ? '+' : ''}${s.growthPct}% growth</span>` : ''}
-        ${s.description ? `<span>${esc(s.description)}</span>` : ''}
-      </div>`;
-  return `<li data-search="${esc(s.name.toLowerCase())}">
-    ${s.url ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">${inner}</a>` : `<a>${inner}</a>`}
+function thumbImg(src) {
+  return src ? `<span class="thumbbox"><img class="thumb" loading="lazy" decoding="async" referrerpolicy="no-referrer" alt=""
+    src="${esc(src)}" onerror="this.closest('.thumbbox').remove()"></span>` : '';
+}
+
+function itemLi(item, { thumb = false, ghImage = false } = {}) {
+  const img = thumb ? thumbImg(ghImage ? `https://opengraph.githubassets.com/1/${esc(item.title)}` : item.image) : '';
+  const comments = item.commentsUrl && item.commentsUrl !== item.url
+    ? ` <a class="cmt" href="${esc(item.commentsUrl)}" target="_blank" rel="noopener">↳ thread</a>` : '';
+  return `<li data-search="${esc(`${item.title} ${item.meta ?? ''} ${item.source}`.toLowerCase())}">
+    <a class="row" href="${esc(item.url)}" target="_blank" rel="noopener">
+      ${img}
+      <span class="row-body">
+        <div class="item-title">${esc(item.title)}</div>
+        <div class="item-meta">
+          ${favImg(item)}
+          ${item.points != null ? `<span class="pts">${item.points}</span>` : ''}
+          ${item.meta ? `<span>${esc(item.meta)}</span>` : ''}
+          ${item.createdAt ? `<span>${relTime(item.createdAt)}</span>` : ''}${comments}
+        </div>
+      </span>
+    </a>
   </li>`;
 }
 
 function filingLi(f) {
   const date = `${f.dateFiled.slice(0, 4)}-${f.dateFiled.slice(4, 6)}-${f.dateFiled.slice(6, 8)}`;
   return `<li data-search="${esc(f.company.toLowerCase())}">
-    <a href="${esc(f.url)}" target="_blank" rel="noopener">
-      <div class="item-title">${esc(f.company)}</div>
-      <div class="item-meta"><span class="badge">Form ${esc(f.formType)}</span><span>filed ${date}</span><span>CIK ${esc(f.cik)}</span></div>
+    <a class="row" href="${esc(f.url)}" target="_blank" rel="noopener">
+      <span class="row-body">
+        <div class="item-title">${esc(f.company)}</div>
+        <div class="item-meta"><span class="amber">FORM ${esc(f.formType)}</span><span>${date}</span><span>CIK ${esc(f.cik)}</span></div>
+      </span>
     </a>
   </li>`;
+}
+
+function sparkline(values, w = 72, h = 20) {
+  if (!Array.isArray(values) || values.length < 2) return '';
+  const min = Math.min(...values), max = Math.max(...values);
+  const span = max - min || 1;
+  const pts = values.map((v, i) =>
+    `${(1 + (i / (values.length - 1)) * (w - 2)).toFixed(1)},${(h - 2 - ((v - min) / span) * (h - 4)).toFixed(1)}`
+  ).join(' ');
+  const up = values[values.length - 1] >= values[0];
+  return `<svg class="spark" viewBox="0 0 ${w} ${h}" width="${w}" height="${h}" aria-hidden="true">
+    <polyline points="${pts}" fill="none" stroke="var(--${up ? 'up' : 'down'})" stroke-width="1.5"/></svg>`;
+}
+
+/* ---- MRR sortable table ---- */
+let mrrData = [];
+let mrrSort = { key: 'rank', dir: 1 };
+
+function mrrDelta(s) {
+  if (s.mrrDelta == null || s.mrrDelta === 0) return '<span class="rank">—</span>';
+  return s.mrrDelta > 0
+    ? `<span class="delta-up">▲ ${fmtMoney(s.mrrDelta)}</span>`
+    : `<span class="delta-down">▼ ${fmtMoney(-s.mrrDelta)}</span>`;
+}
+
+function renderMrrBody() {
+  const { key, dir } = mrrSort;
+  const sorted = [...mrrData].sort((a, b) => {
+    const av = key === 'rank' ? a.rank : key === 'name' ? a.name?.toLowerCase() : a[key];
+    const bv = key === 'rank' ? b.rank : key === 'name' ? b.name?.toLowerCase() : b[key];
+    if (av == null && bv == null) return 0;
+    if (av == null) return 1;
+    if (bv == null) return -1;
+    return (av < bv ? -1 : av > bv ? 1 : 0) * dir;
+  });
+  $('#mrr-body').innerHTML = sorted.map((s) => `
+    <tr data-search="${esc((s.name ?? '').toLowerCase())}">
+      <td class="rank">${s.rank}</td>
+      <td>${s.url ? `<a class="mrr-name" href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>` : `<span class="mrr-name">${esc(s.name)}</span>`}</td>
+      <td class="num">${fmtMoney(s.mrr)}</td>
+      <td class="num">${mrrDelta(s)}</td>
+      <td>${sparkline(s.history)}</td>
+    </tr>`).join('');
+  document.querySelectorAll('.mrr-table th').forEach((th) =>
+    th.classList.toggle('sorted', th.dataset.key === key));
+  applySearch($('#search').value);
+}
+
+function mrrPanel(board) {
+  mrrData = board.map((s, i) => ({ ...s, rank: i + 1 }));
+  return `<section class="panel" data-panel="mrr">
+    <h2>MRR leaders <span class="count">${board.length}</span></h2>
+    <div class="mrr-scroll"><table class="mrr-table">
+      <thead><tr>
+        <th data-key="rank">#</th><th data-key="name">Startup</th>
+        <th data-key="mrr">MRR</th><th data-key="mrrDelta">Δ day</th><th data-key="history">14d</th>
+      </tr></thead>
+      <tbody id="mrr-body"></tbody>
+    </table></div>
+  </section>`;
+}
+
+/* ---- Ticker (signature) ---- */
+function buildTicker(s) {
+  const chips = [];
+  for (const m of (s.mrrLeaderboard ?? [])
+    .filter((x) => x.mrrDelta)
+    .sort((a, b) => Math.abs(b.mrrDelta) - Math.abs(a.mrrDelta)).slice(0, 12)) {
+    const cls = m.mrrDelta > 0 ? 'up' : 'down';
+    const arrow = m.mrrDelta > 0 ? '▲' : '▼';
+    chips.push(`<a class="tick" href="${esc(m.url ?? '#')}" target="_blank" rel="noopener">${esc(m.name)} <b class="${cls}">${arrow} ${fmtMoney(Math.abs(m.mrrDelta))}</b></a>`);
+  }
+  for (const f of (s.formDFilings ?? []).slice(0, 8)) {
+    chips.push(`<a class="tick" href="${esc(f.url)}" target="_blank" rel="noopener"><b class="amber">FORM ${esc(f.formType)}</b> ${esc(f.company)}</a>`);
+  }
+  for (const r of (s.trendingRepos ?? []).slice(0, 5)) {
+    chips.push(`<a class="tick" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)} <b class="up">★ ${(r.points ?? 0).toLocaleString()}</b></a>`);
+  }
+  if (!chips.length) return '';
+  const seg = chips.join('<span class="tick-sep">·</span>') + '<span class="tick-sep">·</span>';
+  return `<div class="ticker-track">${seg}${seg}</div>`; // duplicated for seamless -50% loop
 }
 
 function panel(key, title, lis, extraHtml = '') {
   return `<section class="panel" data-panel="${key}">
     <h2>${title} <span class="count">${lis.length}</span></h2>
     ${extraHtml}
-    <ul>${lis.length ? lis.join('') : '<div class="empty">No data today — check pipeline logs.</div>'}</ul>
+    <ul>${lis.length ? lis.join('') : '<div class="empty">Nothing here yet today. The pipeline refreshes at 11:00 UTC.</div>'}</ul>
   </section>`;
 }
 
 const PANEL_TABS = {
-  headlines: ['headlines'], launches: ['launches'], mrr: ['mrr'],
+  headlines: ['headlines'], launches: ['launches'], mrr: ['mrr'], community: ['community'],
   repos: ['repos'], filings: ['filings'], news: ['news'],
 };
+
+function applySearch(qRaw) {
+  const q = qRaw.trim().toLowerCase();
+  document.querySelectorAll('[data-search]').forEach((el) => {
+    el.classList.toggle('hidden', q !== '' && !el.dataset.search.includes(q));
+  });
+}
 
 async function main() {
   let snap;
   try {
     snap = await (await fetch('data/latest.json', { cache: 'no-store' })).json();
   } catch {
-    $('#grid').innerHTML = '<div class="empty">Could not load data/latest.json — run <code>npm run pipeline</code> first.</div>';
+    $('#grid').innerHTML = '<div class="empty">Could not load data/latest.json. Run <code>npm run pipeline</code>, then reload.</div>';
     return;
   }
   const s = snap.sections;
+  const community = s.community ?? [];
 
   $('#date-badge').textContent = snap.date;
   $('#generated-at').textContent = `Generated ${new Date(snap.generatedAt).toLocaleString()}`;
+  $('#ticker').innerHTML = buildTicker(s);
 
+  const td = snap.stats.totalDelta;
+  const tdHtml = td == null || td === 0 ? '' :
+    `<span class="tdelta ${td > 0 ? 'delta-up' : 'delta-down'}">${td > 0 ? '▲' : '▼'}${Math.abs(td)}</span>`;
   const chips = [
-    ['Total items', snap.stats.totalItems],
-    ['Headlines', s.headlines.length],
-    ['Launches', s.launches.length],
-    ['MRR startups', s.mrrLeaderboard.length],
-    ['New repos', s.trendingRepos.length],
-    ['Form D filings', s.formDFilings.length],
+    ['Items today', snap.stats.totalItems, tdHtml],
+    ['Headlines', s.headlines.length, ''],
+    ['Launches', s.launches.length, ''],
+    ['MRR tracked', s.mrrLeaderboard.length, ''],
+    ['Community', community.length, ''],
+    ['Repos', s.trendingRepos.length, ''],
+    ['Filings', s.formDFilings.length, ''],
   ];
-  $('#stats-row').innerHTML = chips.map(([label]) =>
-    `<div class="stat-chip"><div class="num">0</div><div class="label">${label}</div></div>`).join('');
-  document.querySelectorAll('.stat-chip .num').forEach((el, i) => countUp(el, chips[i][1]));
+  $('#stats-row').innerHTML = chips.map(([label, , extra]) =>
+    `<div class="stat"><div class="num"><span class="cn">0</span>${extra}</div><div class="label">${label}</div></div>`).join('');
+  document.querySelectorAll('.stat .num .cn').forEach((el, i) => countUp(el, chips[i][1]));
 
-  const topicChips = s.emergingTopics.map((t) =>
-    `<span class="topic-chip" title="count ${t.count}">${esc(t.term)}<span class="vel">×${t.velocity.toFixed(1)}</span></span>`).join('');
+  const topicChips = (s.emergingTopics ?? []).map((t) =>
+    `<button class="topic-chip" data-term="${esc(t.term)}" title="count ${t.count}">${esc(t.term)}<span class="vel">×${t.velocity.toFixed(1)}</span></button>`).join('');
 
-  $('#grid').innerHTML = [
-    panel('headlines', 'Top Headlines', s.headlines.map(itemLi)),
-    panel('launches', 'New Launches', s.launches.map(itemLi)),
-    panel('mrr', 'Verified MRR Leaderboard', s.mrrLeaderboard.map(mrrLi)),
-    panel('repos', 'Trending New Repos', s.trendingRepos.map(itemLi)),
-    panel('filings', 'Fresh Form D Filings (SEC)', s.formDFilings.map(filingLi)),
-    panel('news', 'Startup News', s.news.map(itemLi)),
-    panel('topics', 'Emerging Fields', [], `<div class="topic-cloud">${topicChips || '<span class="empty">Velocity builds after a few days of snapshots.</span>'}</div>`),
-  ].join('');
+  $('#grid').innerHTML = `
+    <div class="col-main">
+      ${panel('headlines', 'Headlines', s.headlines.map((i) => itemLi(i, { thumb: true })))}
+      ${panel('community', 'Community', community.map((i) => itemLi(i, { thumb: true })))}
+      ${panel('news', 'News', s.news.map((i) => itemLi(i, { thumb: true })))}
+    </div>
+    <div class="col-rail">
+      ${mrrPanel(s.mrrLeaderboard)}
+      ${panel('launches', 'Launches', s.launches.map((i) => itemLi(i, { thumb: true })))}
+      ${panel('repos', 'New repos', s.trendingRepos.map((i) => itemLi(i, { thumb: true, ghImage: true })))}
+      ${panel('filings', 'Form D filings', s.formDFilings.map(filingLi))}
+      ${panel('topics', 'Emerging fields', [], `<div class="topic-cloud">${topicChips || '<span class="empty">Velocity builds after a few days of snapshots.</span>'}</div>`)}
+    </div>`;
+  renderMrrBody();
 
-  // Tabs
-  $('#tabs').addEventListener('click', (e) => {
-    const tab = e.target.closest('.tab');
-    if (!tab) return;
-    document.querySelectorAll('.tab').forEach((t) => t.classList.toggle('active', t === tab));
+  /* Tabs + keyboard 1-8 */
+  const tabs = [...document.querySelectorAll('.tab')];
+  const activateTab = (tab) => {
+    tabs.forEach((t) => t.classList.toggle('active', t === tab));
     const key = tab.dataset.tab;
     document.querySelectorAll('.panel').forEach((p) => {
       const show = key === 'all' || (PANEL_TABS[key] ?? []).includes(p.dataset.panel);
       p.classList.toggle('hidden', !show);
     });
+  };
+  $('#tabs').addEventListener('click', (e) => {
+    const tab = e.target.closest('.tab');
+    if (tab) activateTab(tab);
   });
 
-  // Search ("/" focuses; filters every list item live)
+  /* Search */
   const search = $('#search');
+  search.addEventListener('input', () => applySearch(search.value));
   document.addEventListener('keydown', (e) => {
-    if (e.key === '/' && document.activeElement !== search) { e.preventDefault(); search.focus(); }
+    const typing = /^(INPUT|TEXTAREA)$/.test(document.activeElement?.tagName ?? '');
+    if (e.key === '/' && !typing) { e.preventDefault(); search.focus(); }
+    else if (e.key === 'Escape' && typing) { search.value = ''; applySearch(''); search.blur(); }
+    else if (!typing && /^[1-8]$/.test(e.key) && tabs[e.key - 1]) activateTab(tabs[e.key - 1]);
   });
-  search.addEventListener('input', () => {
-    const q = search.value.trim().toLowerCase();
-    document.querySelectorAll('li[data-search]').forEach((li) => {
-      li.classList.toggle('hidden', q !== '' && !li.dataset.search.includes(q));
-    });
+
+  /* Topic chips filter the search */
+  $('#grid').addEventListener('click', (e) => {
+    const chip = e.target.closest('.topic-chip');
+    if (!chip) return;
+    search.value = chip.dataset.term;
+    applySearch(chip.dataset.term);
+  });
+
+  /* MRR sort */
+  $('#grid').addEventListener('click', (e) => {
+    const th = e.target.closest('.mrr-table th');
+    if (!th) return;
+    const key = th.dataset.key;
+    mrrSort = { key, dir: mrrSort.key === key ? -mrrSort.dir : (key === 'name' || key === 'rank' ? 1 : -1) };
+    renderMrrBody();
+  });
+
+  /* Theme toggle */
+  $('#theme-toggle').addEventListener('click', () => {
+    const cur = document.documentElement.dataset.theme
+      ?? (matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+    const next = cur === 'dark' ? 'light' : 'dark';
+    document.documentElement.dataset.theme = next;
+    localStorage.setItem('sp-theme', next);
   });
 }
 
