@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { extractTerms, scoreEmergingTopics, buildSnapshot } from '../src/aggregate.js';
+import { extractTerms, scoreEmergingTopics, buildSnapshot, normalizeUrl, attachMrrHistory } from '../src/aggregate.js';
 
 describe('extractTerms', () => {
   it('counts title words >= 4 chars, lowercased, stopwords removed', () => {
@@ -55,5 +55,55 @@ describe('buildSnapshot', () => {
     expect(snap.sections.launches.map((l) => l.id)).toEqual(['ph-1', 'hn-2']); // merged, points desc
     expect(snap.stats.totalItems).toBeGreaterThan(0);
     expect(Array.isArray(snap.sections.emergingTopics)).toBe(true);
+  });
+});
+
+describe('normalizeUrl', () => {
+  it('strips utm params, hash, and trailing slash', () => {
+    expect(normalizeUrl('https://ex.com/post/?utm_source=x&utm_medium=y#top')).toBe('https://ex.com/post');
+    expect(normalizeUrl('https://ex.com/a?id=1&ref=hn')).toBe('https://ex.com/a?id=1');
+    expect(normalizeUrl('not a url')).toBe('not a url');
+  });
+});
+
+describe('attachMrrHistory', () => {
+  it('builds oldest-first history ending with today', () => {
+    const prev = [
+      { sections: { mrrLeaderboard: [{ name: 'Alpha', mrr: 9400 }] } }, // newest previous
+      { sections: { mrrLeaderboard: [{ name: 'Alpha', mrr: 9100 }] } }, // older
+    ];
+    const out = attachMrrHistory([{ name: 'Alpha', mrr: 9705 }], prev);
+    expect(out[0].history).toEqual([9100, 9400, 9705]);
+  });
+
+  it('only decorates the top N entries', () => {
+    const board = Array.from({ length: 65 }, (_, i) => ({ name: `S${i}`, mrr: 1000 - i }));
+    const out = attachMrrHistory(board, [], { top: 60 });
+    expect(out[59].history).toBeDefined();
+    expect(out[64].history).toBeUndefined();
+  });
+});
+
+describe('buildSnapshot v2', () => {
+  const base = {
+    date: '2026-07-09',
+    headlines: [{ id: 'hn-1', title: 'A big story', url: 'https://ex.com/story?utm_source=hn', source: 'hackernews', points: 100, meta: null, createdAt: null }],
+    showHn: [],
+    launches: [],
+    repos: [],
+    mrrLeaderboard: [],
+    filings: [],
+    news: [{ id: 'rss-1', title: 'Same story from rss', url: 'https://ex.com/story/', source: 'rss:techmeme', points: null, meta: 'techmeme', createdAt: null }],
+    community: [{ id: 'rd-1', title: 'We hit 40k MRR', url: 'https://red.dit/x', source: 'reddit:r/startups', points: 84, meta: 'r/startups · 12 comments', createdAt: null, commentsUrl: 'https://red.dit/x', image: null }],
+    previousSnapshots: [{ stats: { totalItems: 600 }, sections: { emergingTopics: [] } }],
+  };
+
+  it('adds community section, dedupes by normalized url, attaches domains and totalDelta', () => {
+    const snap = buildSnapshot(base);
+    expect(snap.sections.community).toHaveLength(1);
+    expect(snap.sections.news).toHaveLength(0); // deduped against headline
+    expect(snap.sections.headlines[0].domain).toBe('ex.com');
+    expect(snap.stats.sources.community).toBe(1);
+    expect(snap.stats.totalDelta).toBe(snap.stats.totalItems - 600);
   });
 });
