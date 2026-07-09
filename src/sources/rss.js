@@ -5,6 +5,12 @@ export const FEEDS = [
   { name: 'techcrunch', url: 'https://techcrunch.com/category/startups/feed/' },
   { name: 'crunchbase-news', url: 'https://news.crunchbase.com/feed/' },
   { name: 'venturebeat', url: 'https://venturebeat.com/feed/' },
+  { name: 'techmeme', url: 'https://www.techmeme.com/feed.xml' },
+  { name: 'the-verge', url: 'https://www.theverge.com/rss/index.xml' },
+  { name: 'ars-technica', url: 'https://feeds.arstechnica.com/arstechnica/index' },
+  { name: 'tnw', url: 'https://thenextweb.com/feed' },
+  { name: 'sifted', url: 'https://sifted.eu/feed' },
+  { name: 'geekwire', url: 'https://www.geekwire.com/feed/' },
 ];
 
 const MAX_AGE_MS = 48 * 3600 * 1000;

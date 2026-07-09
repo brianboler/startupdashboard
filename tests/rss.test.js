@@ -1,5 +1,6 @@
 import { describe, it, expect, vi, afterEach } from 'vitest';
 import { parseFeedItems } from '../src/sources/rss.js';
+import { FEEDS } from '../src/sources/rss.js';
 
 afterEach(() => vi.useRealTimers());
 
@@ -27,5 +28,15 @@ describe('parseFeedItems', () => {
       createdAt: '2026-07-08T09:00:00Z',
     });
     expect(parsed.some((p) => p.title === 'Stale news')).toBe(false);
+  });
+});
+
+describe('FEEDS', () => {
+  it('includes the diversified feed set', () => {
+    const names = FEEDS.map((f) => f.name);
+    for (const must of ['techcrunch', 'techmeme', 'the-verge', 'ars-technica', 'tnw', 'sifted', 'geekwire']) {
+      expect(names).toContain(must);
+    }
+    expect(FEEDS.every((f) => f.url.startsWith('https://'))).toBe(true);
   });
 });
