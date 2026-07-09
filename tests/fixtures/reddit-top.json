@@ -1,0 +1,13 @@
+{
+  "kind": "Listing",
+  "data": {
+    "children": [
+      { "kind": "t3", "data": { "id": "1abc01", "title": "We hit $40k MRR — AMA about our pivot", "permalink": "/r/startups/comments/1abc01/we_hit_40k_mrr/", "url": "https://www.reddit.com/r/startups/comments/1abc01/we_hit_40k_mrr/", "is_self": true, "ups": 412, "num_comments": 187, "created_utc": 1783290000, "subreddit": "startups", "stickied": false, "over_18": false, "thumbnail": "self", "link_flair_text": "Success Story" } },
+      { "kind": "t3", "data": { "id": "1abc02", "title": "Show off Saturday: I built an open-source Stripe alternative", "permalink": "/r/SaaS/comments/1abc02/show_off/", "url": "https://github.com/example/openstripe", "is_self": false, "ups": 233, "num_comments": 58, "created_utc": 1783293600, "subreddit": "SaaS", "stickied": false, "over_18": false, "thumbnail": "https://b.thumbs.redditmedia.com/xyz.jpg", "preview": { "images": [ { "source": { "url": "https://preview.redd.it/openstripe.png?width=1200&amp;format=png&amp;auto=webp&amp;s=abc123" } } ] } } },
+      { "kind": "t3", "data": { "id": "1abc03", "title": "Weekly promo thread — pinned", "permalink": "/r/indiehackers/comments/1abc03/weekly/", "url": "https://www.reddit.com/r/indiehackers/comments/1abc03/weekly/", "is_self": true, "ups": 900, "num_comments": 40, "created_utc": 1783200000, "subreddit": "indiehackers", "stickied": true, "over_18": false, "thumbnail": "self" } },
+      { "kind": "t3", "data": { "id": "1abc04", "title": "Barely upvoted post", "permalink": "/r/startups/comments/1abc04/meh/", "url": "https://example.com/meh", "is_self": false, "ups": 4, "num_comments": 1, "created_utc": 1783296000, "subreddit": "startups", "stickied": false, "over_18": false, "thumbnail": "default" } },
+      { "kind": "t3", "data": { "id": "1abc05", "title": "Local LLM beats GPT on our eval — writeup", "permalink": "/r/LocalLLaMA/comments/1abc05/local_llm/", "url": "https://blog.example.com/local-llm-eval", "is_self": false, "ups": 156, "num_comments": 73, "created_utc": 1783297200, "subreddit": "LocalLLaMA", "stickied": false, "over_18": false, "thumbnail": "default" } },
+      { "kind": "t3", "data": { "id": "1abc06", "title": "I automated my whole agency with n8n and lost my job (in a good way)", "permalink": "/r/Entrepreneur/comments/1abc06/automated/", "url": "https://www.reddit.com/r/Entrepreneur/comments/1abc06/automated/", "is_self": true, "ups": 88, "num_comments": 31, "created_utc": 1783298000, "subreddit": "Entrepreneur", "stickied": false, "over_18": false, "thumbnail": "self" } }
+    ]
+  }
+}
