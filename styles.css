@@ -127,6 +127,8 @@ img { max-width: 100%; }
   cursor: pointer; user-select: none;
 }
 .mrr-table th:hover, .mrr-table th.sorted { color: var(--amber); }
+.mrr-table th.nosort { cursor: default; }
+.mrr-table th.nosort:hover { color: var(--dim); }
 .mrr-table td { padding: 7px 10px; border-top: 1px solid var(--hairline); font-size: 0.84rem; }
 .mrr-table td.num { font-family: var(--mono); font-size: 0.8rem; }
 .mrr-table tr:hover td { background: var(--surface-2); }

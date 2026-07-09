@@ -119,7 +119,7 @@ function mrrPanel(board) {
     <div class="mrr-scroll"><table class="mrr-table">
       <thead><tr>
         <th data-key="rank">#</th><th data-key="name">Startup</th>
-        <th data-key="mrr">MRR</th><th data-key="mrrDelta">Δ day</th><th data-key="history">14d</th>
+        <th data-key="mrr">MRR</th><th data-key="mrrDelta">Δ day</th><th class="nosort">14d</th>
       </tr></thead>
       <tbody id="mrr-body"></tbody>
     </table></div>
@@ -252,7 +252,7 @@ async function main() {
   /* MRR sort */
   $('#grid').addEventListener('click', (e) => {
     const th = e.target.closest('.mrr-table th');
-    if (!th) return;
+    if (!th || !th.dataset.key) return; // e.g. the sparkline "14d" column is not sortable
     const key = th.dataset.key;
     mrrSort = { key, dir: mrrSort.key === key ? -mrrSort.dir : (key === 'name' || key === 'rank' ? 1 : -1) };
     renderMrrBody();

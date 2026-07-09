@@ -36,7 +36,9 @@ const report = {
   errors,
 };
 console.log(JSON.stringify(report, null, 2));
-const ok = report.panels >= 8 && report.rows > 80 && report.mrrRows > 50 &&
-  report.tickerChips > 5 && report.statCells === 7 && !report.loadError && errors.length === 0;
+// Gate on STRUCTURAL integrity + zero JS errors, NOT data volume — so a
+// legitimately thin day (a source outage → empty section) never fails CI and
+// skips the snapshot commit. The volume numbers above are printed for humans.
+const ok = report.panels >= 8 && report.statCells === 7 && !report.loadError && errors.length === 0;
 console.log(ok ? 'RENDER_CHECK: PASS' : 'RENDER_CHECK: FAIL');
 process.exit(ok ? 0 : 1);
