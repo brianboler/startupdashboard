@@ -98,5 +98,73 @@
   "https://openai.com/index/separating-signal-from-noise-coding-evaluations/": {
     "image": null,
     "fetchedAt": 1783557175473
+  },
+  "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02": {
+    "image": "https://dims.apnews.com/dims4/default/eb2d449/2147483647/strip/true/crop/4513x3007+0+162/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fca%2Fc8%2F5fff3b3e7c95ef4bbd4696383598%2F674e975157b745d28967fa953a18c3d4",
+    "fetchedAt": 1783604903710
+  },
+  "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/": {
+    "image": "https://www.patrick-breyer.de/wp-content/uploads/2023/07/logo_regular_vertical.png",
+    "fetchedAt": 1783604905248
+  },
+  "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/": {
+    "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/07/concept-of-computer-programming-or-developing-software-laptop-computer-with-code-on-screen-heart-message-cog-home-user-cloud-and-lock-icons.jpg?w=1600&h=900&fit=crop",
+    "fetchedAt": 1783604906114
+  },
+  "https://www.yamanote.fun/": {
+    "image": "https://www.yamanote.fun/icons/icon-512-0.3.png",
+    "fetchedAt": 1783604906604
+  },
+  "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming": {
+    "image": null,
+    "fetchedAt": 1783604907275
+  },
+  "https://www.bbc.com/news/articles/cg5pd9z2487o": {
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/34b8/live/e78d6300-7b7c-11f1-9510-1546718f668b.png",
+    "fetchedAt": 1783604907865
+  },
+  "https://github.com/linuxrebel/DocuBrowser": {
+    "image": "https://opengraph.githubassets.com/2f7d8f8f410e28f07e26eb5668e98d229adbcac27375f7d67444b7b7eef3c2ef/linuxrebel/DocuBrowser",
+    "fetchedAt": 1783604908911
+  },
+  "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony": {
+    "image": "https://ychef.files.bbci.co.uk/624x351/p0nvtng9.jpg",
+    "fetchedAt": 1783604909301
+  },
+  "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html": {
+    "image": "https://www.networkworld.com/wp-content/uploads/2026/07/4192827-0-97815400-1783093725-shutterstock_editorial_2066815178.jpg?quality=50&strip=all&w=1024",
+    "fetchedAt": 1783604909798
+  },
+  "https://www.techmeme.com/260709/p17#a260709p17": {
+    "image": null,
+    "fetchedAt": 1783604910164
+  },
+  "https://www.theverge.com/report/963106/ice-doxxing-office-of-professional-responsibility-free-speech": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKS519_FREE_SPEECH_CVIRGINIA_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1783604910639
+  },
+  "https://www.techmeme.com/260709/p16#a260709p16": {
+    "image": null,
+    "fetchedAt": 1783604910996
+  },
+  "https://sifted.eu/articles/europes-newest-defence-unicorn-raises-175m-series-b/": {
+    "image": "https://images.sifted.eu/wp-content/uploads/2025/06/26173057/krakentechnology.jpeg?w=1600&h=747&q=75&fit=crop&auto=compress,format",
+    "fetchedAt": 1783604912257
+  },
+  "https://www.techmeme.com/260709/p15#a260709p15": {
+    "image": null,
+    "fetchedAt": 1783604912613
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Reflect-graph-blog.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "fetchedAt": 1783604913015
+  },
+  "https://www.techmeme.com/260709/p14#a260709p14": {
+    "image": null,
+    "fetchedAt": 1783604913372
+  },
+  "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/c.ai-Series-1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "fetchedAt": 1783604913754
   }
 }
