@@ -26,9 +26,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PH_TOKEN: ${{ secrets.PH_TOKEN }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
 
       - name: Run tests
         run: npm test
+
+      - name: Verify dashboard renders
+        run: npm run verify:render
 
       - name: Commit fresh snapshot
         run: |

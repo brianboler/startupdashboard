@@ -12,12 +12,22 @@ stats, SEC Form D filings, and emerging-field signals. $0/month to run.
    failure never blocks the snapshot):
    - Hacker News (Algolia API) — headlines + Show HN launches
    - GitHub Search API — new repos trending by stars (emerging tools/fields)
-   - TrustMRR (polite scrape) — verified-MRR startup leaderboard + day-over-day deltas
+   - TrustMRR (polite scrape) — verified-MRR startup leaderboard, ranked by MRR, with day-over-day + 14-day history
    - Product Hunt (GraphQL API, needs `PH_TOKEN`) — today's top launches
    - SEC EDGAR daily form index — fresh Form D filings (private fundraising)
-   - RSS — TechCrunch Startups, Crunchbase News, VentureBeat
-3. It writes `data/latest.json` + `data/history/<date>.json` and commits.
+   - Reddit (JSON API, OAuth-first — needs `REDDIT_CLIENT_ID`/`SECRET`) — trending posts from founder, AI, and builder subreddits
+   - Lobsters (`hottest.json`) — technical/launch discussion
+   - RSS — TechCrunch, Crunchbase News, VentureBeat, Techmeme, The Verge, Ars Technica, The Next Web, Sifted, GeekWire
+3. It enriches top items with og:images (cached in `data/og-cache.json`, fetched once each), writes `data/latest.json` + `data/history/<date>.json`, and commits.
 4. GitHub Pages serves the static dashboard, which reads `data/latest.json`.
+
+## Design
+
+A "trading-floor-at-night" terminal: warm graphite darks, a single amber-phosphor
+accent, market green/red reserved for money movement, all data in monospace, and a
+live ticker tape of today's movers. Light "morning print" theme via the ◐ toggle
+(persisted). No external fonts, CSS, or JS — images are hotlinked (favicons via
+DuckDuckGo, og:images, GitHub social cards) with graceful text-only fallback.
 
 ## Local development
 
@@ -28,10 +38,16 @@ stats, SEC Form D filings, and emerging-field signals. $0/month to run.
 
 ## Configuration
 
-| Env var        | Required | Purpose                              |
-|----------------|----------|--------------------------------------|
-| `PH_TOKEN`     | no       | Product Hunt API (source skipped without it) |
-| `GITHUB_TOKEN` | no       | Higher GitHub API rate limits (auto in CI)   |
+| Env var                 | Required | Purpose                              |
+|-------------------------|----------|--------------------------------------|
+| `PH_TOKEN`              | no       | Product Hunt API (source skipped without it) |
+| `GITHUB_TOKEN`          | no       | Higher GitHub API rate limits (auto in CI)   |
+| `REDDIT_CLIENT_ID`      | no       | Reddit app-only OAuth (source reliably 200s with it; unauthenticated JSON often 403s) |
+| `REDDIT_CLIENT_SECRET`  | no       | Paired with `REDDIT_CLIENT_ID`               |
+
+To enable Reddit: create a **script** app at https://www.reddit.com/prefs/apps
+(redirect URI `http://localhost:8080`, unused), then
+`gh secret set REDDIT_CLIENT_ID` and `gh secret set REDDIT_CLIENT_SECRET`.
 
 ## Operations
 
