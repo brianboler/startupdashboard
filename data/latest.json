@@ -1,13 +1,13 @@
 {
   "date": "2026-07-09",
-  "generatedAt": "2026-07-09T00:28:43.008Z",
+  "generatedAt": "2026-07-09T00:32:55.833Z",
   "stats": {
-    "totalItems": 676,
-    "totalDelta": 46,
+    "totalItems": 698,
+    "totalDelta": 68,
     "sources": {
       "headlines": 30,
-      "launches": 5,
-      "community": 9,
+      "launches": 25,
+      "community": 11,
       "mrrLeaderboard": 467,
       "trendingRepos": 25,
       "formDFilings": 40,
@@ -22,7 +22,7 @@
         "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
         "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
         "source": "hackernews",
-        "points": 1276,
+        "points": 1280,
         "meta": "205 comments",
         "createdAt": "2026-07-08T08:46:06Z",
         "image": null,
@@ -33,7 +33,7 @@
         "title": "Chatto is now open source",
         "url": "https://www.hmans.dev/blog/chatto-is-open-source",
         "source": "hackernews",
-        "points": 681,
+        "points": 686,
         "meta": "184 comments",
         "createdAt": "2026-07-08T15:19:50Z",
         "image": "https://hmans.dev/blog/chatto-is-open-source/banner.png",
@@ -44,30 +44,19 @@
         "title": "GPT‑Live",
         "url": "https://openai.com/index/introducing-gpt-live/",
         "source": "hackernews",
-        "points": 572,
+        "points": 576,
         "meta": "395 comments",
         "createdAt": "2026-07-08T17:03:19Z",
         "image": null,
         "domain": "openai.com"
       },
       {
-        "id": "hn-48833715",
-        "title": "TypeScript 7",
-        "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
-        "source": "hackernews",
-        "points": 444,
-        "meta": "168 comments",
-        "createdAt": "2026-07-08T16:06:35Z",
-        "image": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2026/07/ts7-0-stable-1-1.png",
-        "domain": "devblogs.microsoft.com"
-      },
-      {
         "id": "hn-48835111",
         "title": "Grok 4.5",
         "url": "https://x.ai/news/grok-4-5",
         "source": "hackernews",
-        "points": 439,
-        "meta": "507 comments",
+        "points": 443,
+        "meta": "515 comments",
         "createdAt": "2026-07-08T18:00:32Z",
         "image": "https://x.ai/images/news/grok-4-5-og.png",
         "domain": "x.ai"
@@ -77,7 +66,7 @@
         "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
         "url": "https://mistral.ai/news/robostral-navigate/",
         "source": "hackernews",
-        "points": 399,
+        "points": 400,
         "meta": "93 comments",
         "createdAt": "2026-07-08T14:09:17Z",
         "image": "https://mistral.ai/cms-media/api/media/file/Robostral-navigate.jpg",
@@ -121,8 +110,8 @@
         "title": "FAANG Simulator",
         "url": "https://www.abeyk.com/escape-the-rat-race/",
         "source": "hackernews",
-        "points": 240,
-        "meta": "90 comments",
+        "points": 244,
+        "meta": "95 comments",
         "createdAt": "2026-07-08T20:05:42Z",
         "image": "https://www.abeyk.com/escape-the-rat-race/og.png",
         "domain": "abeyk.com"
@@ -132,8 +121,8 @@
         "title": "Rewriting Bun in Rust",
         "url": "https://bun.com/blog/bun-in-rust",
         "source": "hackernews",
-        "points": 207,
-        "meta": "106 comments",
+        "points": 217,
+        "meta": "109 comments",
         "createdAt": "2026-07-08T21:49:59Z",
         "image": null,
         "domain": "bun.com"
@@ -143,7 +132,7 @@
         "title": "Cloudflare Meerkat - Globally distributed consensus",
         "url": "https://blog.cloudflare.com/meerkat-introduction/",
         "source": "hackernews",
-        "points": 205,
+        "points": 207,
         "meta": "42 comments",
         "createdAt": "2026-07-08T13:18:03Z",
         "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/2m5WlLqGfABaWQdblYreVc/de77b9f9137d10c9dc2d6e71c6d8ee09/Introducing_Meerkat-_an_experiment_in_global_consensus-OG.png",
@@ -154,8 +143,8 @@
         "title": "Cloudflare Drop",
         "url": "https://www.cloudflare.com/drop/",
         "source": "hackernews",
-        "points": 197,
-        "meta": "102 comments",
+        "points": 198,
+        "meta": "103 comments",
         "createdAt": "2026-07-08T19:18:26Z",
         "image": "https://www.cloudflare.com/_summon/og-image.png",
         "domain": "cloudflare.com"
@@ -165,7 +154,7 @@
         "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
         "url": "https://microsoft.github.io/flint-chart/#/",
         "source": "hackernews",
-        "points": 172,
+        "points": 176,
         "meta": "71 comments",
         "createdAt": "2026-07-08T17:46:12Z",
         "image": null,
@@ -176,9 +165,10 @@
         "title": "Separating signal from noise in coding evaluations",
         "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
         "source": "hackernews",
-        "points": 129,
-        "meta": "56 comments",
+        "points": 130,
+        "meta": "57 comments",
         "createdAt": "2026-07-08T21:03:51Z",
+        "image": null,
         "domain": "openai.com"
       },
       {
@@ -186,8 +176,8 @@
         "title": "John Deere owners will get the right to repair equipment under FTC settlement",
         "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
         "source": "hackernews",
-        "points": 75,
-        "meta": "16 comments",
+        "points": 91,
+        "meta": "19 comments",
         "createdAt": "2026-07-08T23:37:43Z",
         "domain": "apnews.com"
       },
@@ -207,7 +197,7 @@
         "url": "https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997",
         "source": "hackernews",
         "points": 69,
-        "meta": "10 comments",
+        "meta": "11 comments",
         "createdAt": "2026-07-08T18:21:53Z",
         "domain": "forum.openmandriva.org"
       },
@@ -216,7 +206,7 @@
         "title": "DKIM2 and DMARCbis Have Landed",
         "url": "https://stalw.art/blog/dkim2-dmarcbis/",
         "source": "hackernews",
-        "points": 64,
+        "points": 66,
         "meta": "40 comments",
         "createdAt": "2026-07-06T13:02:57Z",
         "domain": "stalw.art"
@@ -226,8 +216,8 @@
         "title": "Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%",
         "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
         "source": "hackernews",
-        "points": 57,
-        "meta": "20 comments",
+        "points": 64,
+        "meta": "27 comments",
         "createdAt": "2026-07-08T23:11:28Z",
         "domain": "arstechnica.com"
       },
@@ -236,7 +226,7 @@
         "title": "Turning a pile of documents into a searchable useable knowledge base",
         "url": "https://github.com/linuxrebel/DocuBrowser",
         "source": "hackernews",
-        "points": 50,
+        "points": 55,
         "meta": "9 comments",
         "createdAt": "2026-07-08T20:37:29Z",
         "domain": "github.com"
@@ -266,7 +256,7 @@
         "title": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
         "url": "https://www.yamanote.fun/",
         "source": "hackernews",
-        "points": 32,
+        "points": 35,
         "meta": "11 comments",
         "createdAt": "2026-07-07T12:47:46Z",
         "domain": "yamanote.fun"
@@ -276,20 +266,10 @@
         "title": "New Sweden: the US's long-lost 'secret' colony",
         "url": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
         "source": "hackernews",
-        "points": 31,
+        "points": 33,
         "meta": "2 comments",
         "createdAt": "2026-07-08T19:26:18Z",
         "domain": "bbc.com"
-      },
-      {
-        "id": "hn-48836431",
-        "title": "Almost Always Unsigned",
-        "url": "https://graphitemaster.github.io/aau/",
-        "source": "hackernews",
-        "points": 24,
-        "meta": "26 comments",
-        "createdAt": "2026-07-08T19:35:07Z",
-        "domain": "graphitemaster.github.io"
       },
       {
         "id": "hn-48836813",
@@ -330,15 +310,353 @@
         "meta": "1 comments",
         "createdAt": "2026-03-19T14:11:56Z",
         "domain": "lcamtuf.coredump.cx"
+      },
+      {
+        "id": "hn-48794568",
+        "title": "My road trip with the do-gooding cactus smugglers",
+        "url": "https://economist.com/1843/2026/03/06/my-road-trip-with-the-do-gooding-cactus-smugglers",
+        "source": "hackernews",
+        "points": 9,
+        "meta": "1 comments",
+        "createdAt": "2026-07-05T14:30:44Z",
+        "domain": "economist.com"
+      },
+      {
+        "id": "hn-47613622",
+        "title": "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com",
+        "url": "https://news.ycombinator.com/item?id=47613622",
+        "source": "hackernews",
+        "points": 9,
+        "meta": "1 comments",
+        "createdAt": "2026-04-02T12:36:10Z",
+        "domain": "news.ycombinator.com"
       }
     ],
     "launches": [
+      {
+        "id": "ph-1190010",
+        "title": "ExploreYC",
+        "url": "https://www.producthunt.com/products/yc-company-explorer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 352,
+        "meta": "Open-source API for Y Combinator & a16z company data",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "image": "https://ph-files.imgix.net/0affb3fc-9a19-4185-9db7-b6ff3aa445ed.png?auto=format",
+        "topics": [
+          "API",
+          "Open Source",
+          "Developer Tools"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1184843",
+        "title": "IvyForms",
+        "url": "https://www.producthunt.com/products/ivyforms?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 278,
+        "meta": "A WordPress form builder for real workflows",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "image": "https://ph-files.imgix.net/f2306809-6985-4e71-9dbc-1ed84785c3cf.gif?auto=format",
+        "topics": [
+          "Productivity",
+          "WordPress",
+          "No-Code"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1190692",
+        "title": "Willow Frontier Pro",
+        "url": "https://www.producthunt.com/products/willow-voice?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 235,
+        "meta": "The fastest, most accurate dictation model in the world",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "image": "https://ph-files.imgix.net/75bede2c-ac00-4f6e-b17d-6cc6187a54ac.png?auto=format",
+        "topics": [
+          "Productivity",
+          "Writing",
+          "Artificial Intelligence"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1189541",
+        "title": "Bono AI",
+        "url": "https://www.producthunt.com/products/bono-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 220,
+        "meta": "Talk Once. Publish Everywhere.",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "image": "https://ph-files.imgix.net/dff60b47-303f-4a80-80ee-ee6827e70681.png?auto=format",
+        "topics": [
+          "Newsletters",
+          "Writing",
+          "Social Media"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1189743",
+        "title": "Link Preview API",
+        "url": "https://www.producthunt.com/products/link-preview-api?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 171,
+        "meta": "Free API to get Open Graph data, title & images for any URL",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "image": "https://ph-files.imgix.net/77b92fae-d27c-4bb4-bd87-c94f509e1526.png?auto=format",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Data"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1190152",
+        "title": "Cutrix",
+        "url": "https://www.producthunt.com/products/cutrix?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 163,
+        "meta": "AI-powered video translation that preserves speaker's tone",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "image": "https://ph-files.imgix.net/600d8398-d368-469c-89f4-78b43464bcaa.png?auto=format",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Video"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1190686",
+        "title": "LemonLime",
+        "url": "https://www.producthunt.com/products/lemonlime?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 154,
+        "meta": "Automates your existing workflows with a single prompt.",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "image": "https://ph-files.imgix.net/539316f1-7d13-4120-bb80-e570f80bcfce.png?auto=format",
+        "topics": [
+          "SaaS",
+          "Artificial Intelligence",
+          "Business Intelligence"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1190855",
+        "title": "Orbit for Mac",
+        "url": "https://www.producthunt.com/products/orbit-for-mac?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 139,
+        "meta": "Every Google account, in a single window",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "image": "https://ph-files.imgix.net/38f1e4dc-9df6-4731-928e-882dfd83af08.png?auto=format",
+        "topics": [
+          "Mac",
+          "Email",
+          "Productivity"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1190389",
+        "title": "agents-cli",
+        "url": "https://www.producthunt.com/products/agents-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 131,
+        "meta": "The CLI your coding agent uses to ship agents",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "image": "https://ph-files.imgix.net/1774b382-92c9-40a1-b5c2-8c5155eff501.png?auto=format",
+        "topics": [
+          "Developer Tools",
+          "Artificial Intelligence",
+          "GitHub"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1185881",
+        "title": "PopTask for Apple",
+        "url": "https://www.producthunt.com/products/poptask?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 131,
+        "meta": "Turn to-dos into scheduled tasks",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "image": "https://ph-files.imgix.net/99d67ecb-2936-4ea5-a804-6623e698128b.png?auto=format",
+        "topics": [
+          "Productivity",
+          "Task Management",
+          "Artificial Intelligence"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1187238",
+        "title": "Orus ",
+        "url": "https://www.producthunt.com/products/farao?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 122,
+        "meta": "Claude for investing in perpetuals",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "image": "https://ph-files.imgix.net/db9afda4-6767-4a94-8812-f1ad79f1f56e.png?auto=format",
+        "topics": [
+          "Android",
+          "Messaging",
+          "Fintech"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1180294",
+        "title": "New small business tools by IFTTT",
+        "url": "https://www.producthunt.com/products/ifttt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 121,
+        "meta": "Run your business with HubSpot, Figma, and more",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "image": "https://ph-files.imgix.net/92dd0d82-73fe-457e-8aa7-743458d2dbe6.png?auto=format",
+        "topics": [
+          "Android",
+          "Productivity",
+          "SaaS"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1185839",
+        "title": "Universal-3.5 Pro",
+        "url": "https://www.producthunt.com/products/assemblyai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 115,
+        "meta": "The most accurate STT model from AssemblyAI.",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "image": "https://ph-files.imgix.net/77d51987-9156-4014-9b49-92f808b76b7c.png?auto=format",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1190659",
+        "title": "Notion Agents iOS app",
+        "url": "https://www.producthunt.com/products/notion-agents-ios-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 113,
+        "meta": "Chat with Notion Agents anytime",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "image": "https://ph-files.imgix.net/5ed31270-ebcb-4bfa-b2e1-471ed40f9187.png?auto=format",
+        "topics": [
+          "Productivity",
+          "Bots"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1190786",
+        "title": "NanoKVM-Go",
+        "url": "https://www.producthunt.com/products/nanokvm-go?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 110,
+        "meta": "Give your AI agent physical control over any screen",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "image": "https://ph-files.imgix.net/5756802a-da68-401c-8281-02c513c8736d.jpeg?auto=format",
+        "topics": [
+          "Open Source",
+          "Hardware",
+          "Computers"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1186862",
+        "title": "Eodly",
+        "url": "https://www.producthunt.com/products/eodly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 104,
+        "meta": "Know what your team actually shipped today",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "image": "https://ph-files.imgix.net/353a552e-d463-4ba3-b634-f6e2bfdbea86.png?auto=format",
+        "topics": [
+          "Productivity",
+          "Task Management",
+          "Artificial Intelligence"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1190015",
+        "title": "Compendium",
+        "url": "https://www.producthunt.com/products/compendium-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 100,
+        "meta": "Keeping your team, agents, and data on one page",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "image": "https://ph-files.imgix.net/96ddf0f4-35c7-4a52-8a73-a7a5bcd9a5eb.png?auto=format",
+        "topics": [
+          "Productivity",
+          "SaaS",
+          "Artificial Intelligence"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1189413",
+        "title": "Jamboree",
+        "url": "https://www.producthunt.com/products/jamboree?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 95,
+        "meta": "Multiplayer synthesizer",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "image": "https://ph-files.imgix.net/9e8c3760-bb7e-4c66-b8b6-91a77d2b21f4.png?auto=format",
+        "topics": [
+          "Music",
+          "Tech"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1190626",
+        "title": "On-Device Field Extraction by Veryfi",
+        "url": "https://www.producthunt.com/products/veryfi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 93,
+        "meta": "Secure on-device extraction even if you're offline",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "image": "https://ph-files.imgix.net/fd433044-5823-48aa-8de1-89eb2c49501d.png?auto=format",
+        "topics": [
+          "Fintech",
+          "Tech",
+          "Tech news"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1190245",
+        "title": "Knowledge Atlas by Fini",
+        "url": "https://www.producthunt.com/products/fini-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 89,
+        "meta": "The self-learning knowledge base that improves itself",
+        "createdAt": "2026-07-08T07:01:00Z",
+        "image": "https://ph-files.imgix.net/bba9d32f-5e22-4301-b834-7c4174765146.png?auto=format",
+        "topics": [
+          "Productivity",
+          "Customer Success",
+          "Artificial Intelligence"
+        ],
+        "domain": "producthunt.com"
+      },
       {
         "id": "hn-48836713",
         "title": "Show HN: Hnwork.app – UI for Who is hiring posts",
         "url": "https://hnwork.app/",
         "source": "hackernews",
-        "points": 18,
+        "points": 19,
         "meta": "5 comments",
         "createdAt": "2026-07-08T20:00:04Z",
         "domain": "hnwork.app"
@@ -402,7 +720,7 @@
         "title": "Jim's TrueType QR Code Font",
         "url": "https://qr.jim.sh/",
         "source": "lobsters",
-        "points": 97,
+        "points": 98,
         "meta": "lobsters · programming",
         "createdAt": "2026-07-07T22:58:54.000-05:00",
         "commentsUrl": "https://lobste.rs/s/y0tvll/jim_s_truetype_qr_code_font",
@@ -432,6 +750,18 @@
         "commentsUrl": "https://lobste.rs/s/8kxouk/software_engineering_interview",
         "image": null,
         "domain": "krisshamloo.com"
+      },
+      {
+        "id": "lb-txmyod",
+        "title": "Announcing TypeScript 7.0",
+        "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+        "source": "lobsters",
+        "points": 42,
+        "meta": "lobsters · javascript, release",
+        "createdAt": "2026-07-08T11:57:26.000-05:00",
+        "commentsUrl": "https://lobste.rs/s/txmyod/announcing_typescript_7_0",
+        "image": null,
+        "domain": "devblogs.microsoft.com"
       },
       {
         "id": "lb-tvvosc",
@@ -468,6 +798,18 @@
         "commentsUrl": "https://lobste.rs/s/rcg4bo/gitlost_how_we_tricked_github_s_ai_agent",
         "image": null,
         "domain": "noma.security"
+      },
+      {
+        "id": "lb-fvpk3i",
+        "title": "Almost Always Unsigned",
+        "url": "https://graphitemaster.github.io/aau/",
+        "source": "lobsters",
+        "points": 10,
+        "meta": "lobsters · c, plt",
+        "createdAt": "2026-07-08T10:54:22.000-05:00",
+        "commentsUrl": "https://lobste.rs/s/fvpk3i/almost_always_unsigned",
+        "image": null,
+        "domain": "graphitemaster.github.io"
       },
       {
         "id": "lb-qmzekw",
@@ -1667,10 +2009,10 @@
       {
         "name": "Hyrox Fitness App",
         "url": "https://trustmrr.com/hyrox-fitness-app",
-        "mrr": 28636,
+        "mrr": 28680,
         "growthPct": 0,
         "description": "AI Hyrox Fitness App",
-        "mrrDelta": 0,
+        "mrrDelta": 44,
         "rankDelta": 79
       },
       {
@@ -1757,10 +2099,10 @@
       {
         "name": "Memorable",
         "url": "https://trustmrr.com/memorable",
-        "mrr": 26574,
+        "mrr": 26757,
         "growthPct": 17636.1,
         "description": "Memorable est une cagnotte en ligne festive et solidaire. Collectez de l'argent en ligne pour offrir un cadeau en groupe ou soutenir une cause qui vous est chère. \nImprimez une jolie carte avec tous les messages et photos laissés par les participants. \n\nLa cagnotte Memorable est gratuite.\nIl n’y a pas de frais obligatoires pour créer ou participer à une cagnotte. La plateforme est financée grâce aux contributions volontaires laissées par les utilisateurs.",
-        "mrrDelta": 0,
+        "mrrDelta": 183,
         "rankDelta": 92
       },
       {
@@ -2090,10 +2432,10 @@
       {
         "name": "Akari Tickets",
         "url": "https://trustmrr.com/akari-tickets",
-        "mrr": 18520,
+        "mrr": 18516,
         "growthPct": -4.52,
         "description": "Akari — EU/UK/US #1 Ticket reselling group. Get tickets for concerts, sports & festivals with real-time monitors, instant drop alerts & auto-checkout bots. Beat the queue on Ticketmaster, See Tickets & AXS. Proven results, active community & 24/7 support. Join Akari and never miss a drop again.",
-        "mrrDelta": 0,
+        "mrrDelta": -4,
         "rankDelta": 10
       },
       {
@@ -2189,10 +2531,10 @@
       {
         "name": "MagicSlides.app",
         "url": "https://trustmrr.com/magicslides-app",
-        "mrr": 13940,
+        "mrr": 13911,
         "growthPct": -0.88,
         "description": "MagicSlides next-gen AI presentation tool, converts any prompt, topic, or content source into a professional PPT in seconds.",
-        "mrrDelta": 0,
+        "mrrDelta": -29,
         "rankDelta": 153
       },
       {
@@ -2367,22 +2709,22 @@
         "rankDelta": 209
       },
       {
+        "name": "Chariot AI",
+        "url": "https://trustmrr.com/chariot-ai",
+        "mrr": 8201,
+        "growthPct": -2.38,
+        "description": "Create a website in minutes. Made for small businesses and non-technical users.",
+        "mrrDelta": 137,
+        "rankDelta": 157
+      },
+      {
         "name": "SetSmart",
         "url": "https://trustmrr.com/setsmart",
         "mrr": 8068,
         "growthPct": 38.57,
         "description": "AI sales setter that automatically qualifies your leads and books calls via Instagram DMs and WhatsApp. Custom scripts, smart filtering, direct calendar booking, 24/7. Integrates with Calendly, GHL, Zapier, Make and more. Setup in minutes.",
         "mrrDelta": 188,
-        "rankDelta": -87
-      },
-      {
-        "name": "Chariot AI",
-        "url": "https://trustmrr.com/chariot-ai",
-        "mrr": 8064,
-        "growthPct": -2.38,
-        "description": "Create a website in minutes. Made for small businesses and non-technical users.",
-        "mrrDelta": 0,
-        "rankDelta": 156
+        "rankDelta": -88
       },
       {
         "name": "Virvid.ai",
@@ -3197,10 +3539,10 @@
       {
         "name": "Specchio",
         "url": "https://trustmrr.com/specchio",
-        "mrr": 937,
+        "mrr": 970,
         "growthPct": 980.95,
         "description": "Unlock iPhone Mirroring for Europe",
-        "mrrDelta": 0,
+        "mrrDelta": 33,
         "rankDelta": -1
       },
       {
@@ -3897,13 +4239,22 @@
         "rankDelta": 26
       },
       {
+        "name": "MyCareerMate",
+        "url": "https://trustmrr.com/mycareermate",
+        "mrr": 138,
+        "growthPct": 1628.32,
+        "description": "Resume Builder, Linkedin Optimiser, Mentorship, AI Job Matching",
+        "mrrDelta": 28,
+        "rankDelta": -105
+      },
+      {
         "name": "webnovelai",
         "url": "https://trustmrr.com/webnovelai",
         "mrr": 135,
         "growthPct": 2855.07,
         "description": "销售面相全球用户的贴图服务",
         "mrrDelta": 0,
-        "rankDelta": -121
+        "rankDelta": -122
       },
       {
         "name": "FontofWeb",
@@ -3912,7 +4263,7 @@
         "growthPct": 80.58,
         "description": "A searchable database of real website design systems.",
         "mrrDelta": 0,
-        "rankDelta": 17
+        "rankDelta": 16
       },
       {
         "name": "H1BVisajobs.com",
@@ -3921,7 +4272,7 @@
         "growthPct": 25,
         "description": "We connect job seekers with correct employer to get the H1B Visa sponsorship.",
         "mrrDelta": -25,
-        "rankDelta": 40
+        "rankDelta": 39
       },
       {
         "name": "LLM Signal",
@@ -3930,7 +4281,7 @@
         "growthPct": 0,
         "description": "Help your company get discovered in AI/LLMs",
         "mrrDelta": 0,
-        "rankDelta": 89
+        "rankDelta": 88
       },
       {
         "name": "Openclaw.fast",
@@ -3939,7 +4290,7 @@
         "growthPct": -19.18,
         "description": "Managed hosting for OpenClaw. Deploy your own instance in under a minute — no servers, no setup, no maintenance. Your AI agents run 24/7 on reliable infrastructure. Scale with multiple instances, all managed from a single dashboard.",
         "mrrDelta": 0,
-        "rankDelta": 56
+        "rankDelta": 55
       },
       {
         "name": "LaunchChair",
@@ -3957,16 +4308,7 @@
         "growthPct": -2.09,
         "description": "YAOKA creates, sends, and follows up on your invoices for you, compliant by design, powered by AI, designed for French small businesses.",
         "mrrDelta": 0,
-        "rankDelta": 76
-      },
-      {
-        "name": "MyCareerMate",
-        "url": "https://trustmrr.com/mycareermate",
-        "mrr": 110,
-        "growthPct": 1628.32,
-        "description": "Resume Builder, Linkedin Optimiser, Mentorship, AI Job Matching",
-        "mrrDelta": 0,
-        "rankDelta": -112
+        "rankDelta": 75
       },
       {
         "name": "Gifts Qr",
@@ -5037,7 +5379,7 @@
         "title": "Shpigford/knockoff",
         "url": "https://github.com/Shpigford/knockoff",
         "source": "github",
-        "points": 1401,
+        "points": 1402,
         "meta": "JavaScript · Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
         "createdAt": "2026-07-06T15:06:06Z",
         "topics": [
@@ -5094,7 +5436,7 @@
         "title": "xuchonglang/investing-for-beginners",
         "url": "https://github.com/xuchonglang/investing-for-beginners",
         "source": "github",
-        "points": 1195,
+        "points": 1196,
         "meta": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
         "createdAt": "2026-07-03T03:56:00Z",
         "topics": [
@@ -5301,7 +5643,7 @@
         "title": "op7418/guizang-material-illustration",
         "url": "https://github.com/op7418/guizang-material-illustration",
         "source": "github",
-        "points": 304,
+        "points": 309,
         "meta": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
         "createdAt": "2026-07-07T13:57:13Z",
         "topics": [
@@ -5343,7 +5685,7 @@
         "title": "withmarbleapp/os-taxonomy",
         "url": "https://github.com/withmarbleapp/os-taxonomy",
         "source": "github",
-        "points": 289,
+        "points": 291,
         "meta": "JavaScript",
         "createdAt": "2026-07-08T09:27:48Z",
         "topics": []
@@ -6510,6 +6852,11 @@
         "velocity": 4
       },
       {
+        "term": "github",
+        "count": 4,
+        "velocity": 4
+      },
+      {
         "term": "research-tools",
         "count": 4,
         "velocity": 4
@@ -6543,11 +6890,6 @@
         "term": "google",
         "count": 4,
         "velocity": 4
-      },
-      {
-        "term": "typescript",
-        "count": 3,
-        "velocity": 3
       },
       {
         "term": "microsoft",
