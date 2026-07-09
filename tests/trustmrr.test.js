@@ -1,6 +1,28 @@
 import { describe, it, expect } from 'vitest';
 import { readFileSync } from 'node:fs';
-import { parseTrustMrr, parseMoney } from '../src/sources/trustmrr.js';
+import { parseTrustMrr, parseMoney, isAnonymousName } from '../src/sources/trustmrr.js';
+
+describe('isAnonymousName', () => {
+  it('flags TrustMRR placeholder names', () => {
+    for (const n of [
+      'Stealth Company', 'Stealth Venture', 'Stealth 02', 'Hidden Business',
+      'Hidden Company', 'Hidden Digital Business', 'Private Venture', 'Unnamed Company',
+      'Anonymous Startup', 'anonymous-startup-2', 'Confidential Startup',
+      'Stealth Company (Global Job Board)', '', '   ', null,
+    ]) {
+      expect(isAnonymousName(n)).toBe(true);
+    }
+  });
+
+  it('keeps real company names', () => {
+    for (const n of [
+      'Gumroad', 'Stan', 'easytools', 'Avenue Ticketing, Inc.', 'Maverick Intelligence, Inc.',
+      'Private Internet Access', 'Hidden Ridge Labs', 'Stealthburner 3D',
+    ]) {
+      expect(isAnonymousName(n)).toBe(false);
+    }
+  });
+});
 
 describe('parseMoney', () => {
   it('parses plain dollars', () => expect(parseMoney('$980')).toBe(980));

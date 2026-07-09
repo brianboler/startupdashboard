@@ -258,10 +258,20 @@ export function parseTrustMrr(html) {
   return best;
 }
 
+// TrustMRR shows founders who opted out of naming their startup as generic
+// placeholders ("Stealth Company", "Hidden Business", "Private Venture", …).
+// These carry no useful identity, so they're dropped from the leaderboard.
+const ANON_NAME =
+  /\b(stealth|unnamed|anonymous|undisclosed|confidential|redacted)\b|\bhidden\s+(business|company|digital|venture|startup)|\bprivate\s+(venture|company|business|startup)\b/i;
+
+export function isAnonymousName(name) {
+  return typeof name !== 'string' || name.trim() === '' || ANON_NAME.test(name);
+}
+
 export async function fetchTrustMrrLeaderboard() {
   try {
     const html = await fetchText(`${BASE_URL}/`);
-    const startups = parseTrustMrr(html);
+    const startups = parseTrustMrr(html).filter((s) => !isAnonymousName(s.name));
     if (startups.length === 0) {
       console.warn('trustmrr: parsed 0 startups — page markup may have changed');
     }
