@@ -170,5 +170,29 @@
   "https://thenextweb.com/news/amd-papermaster-raise-agentic-ai-cpus-gpus": {
     "image": "https://media.thenextweb.com/2026/07/Mark-Papermaster-CTO-AMD-Karim-Jalbout.avif",
     "fetchedAt": 1783618979791
+  },
+  "https://www.damninteresting.com/a-possible-future/": {
+    "image": "https://damn-8791.kxcdn.com/wp-content/uploads/2026/06/cover.jpg",
+    "fetchedAt": 1783619115945
+  },
+  "https://openai.com/index/chatgpt-for-your-most-ambitious-work/": {
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6wfXqEBNT0QiATjSpde6f4/fabc58fe0784ec397ec34b9e570e1700/OAI_ChatGPTWork_ProductBlog_OpenGraph_16x9_1200x630.png?w=1600&h=900&fit=fill",
+    "fetchedAt": 1783619116578
+  },
+  "https://tuxnet.dev/posts/tls-for-internal-services/": {
+    "image": "https://tuxnet.dev/img/this-is-the-way.webp",
+    "fetchedAt": 1783619119560
+  },
+  "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/": {
+    "image": null,
+    "fetchedAt": 1783619120081
+  },
+  "https://www.geekwire.com/2026/echodyne-opens-40m-radar-factory-near-seattle-to-meet-booming-demand-for-drone-detection/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/Echodyne-Ribbon-Cutting-3-1260x840.jpg",
+    "fetchedAt": 1783619120560
+  },
+  "https://thenextweb.com/news/waymo-calls-police-teens-drinking-orbeez-san-mateo": {
+    "image": "https://media.thenextweb.com/2026/07/Waymo-ride.avif",
+    "fetchedAt": 1783619121143
   }
 }

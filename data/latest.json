@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "generatedAt": "2026-07-09T17:43:00.149Z",
+  "generatedAt": "2026-07-09T17:45:21.500Z",
   "stats": {
     "totalItems": 640,
     "totalDelta": 10,
@@ -135,6 +135,7 @@
         "points": 69,
         "meta": "5 comments",
         "createdAt": "2026-07-09T15:25:25Z",
+        "image": "https://damn-8791.kxcdn.com/wp-content/uploads/2026/06/cover.jpg",
         "domain": "damninteresting.com"
       },
       {
@@ -145,6 +146,7 @@
         "points": 65,
         "meta": "14 comments",
         "createdAt": "2026-07-09T17:03:53Z",
+        "image": "https://images.ctfassets.net/kftzwdyauwt9/6wfXqEBNT0QiATjSpde6f4/fabc58fe0784ec397ec34b9e570e1700/OAI_ChatGPTWork_ProductBlog_OpenGraph_16x9_1200x630.png?w=1600&h=900&fit=fill",
         "domain": "openai.com"
       },
       {
@@ -155,6 +157,7 @@
         "points": 62,
         "meta": "39 comments",
         "createdAt": "2026-07-09T14:57:02Z",
+        "image": "https://tuxnet.dev/img/this-is-the-way.webp",
         "domain": "tuxnet.dev"
       },
       {
@@ -165,6 +168,7 @@
         "points": 57,
         "meta": "63 comments",
         "createdAt": "2026-07-09T05:46:50Z",
+        "image": null,
         "domain": "thetruthasiseeitnow.com"
       },
       {
@@ -334,7 +338,7 @@
         "title": "Show HN: LastShelf – an emergency map of your family's documents bills& contacts",
         "url": "https://www.lastshelf.ai/",
         "source": "hackernews",
-        "points": 28,
+        "points": 29,
         "meta": "18 comments",
         "createdAt": "2026-07-09T15:13:11Z",
         "domain": "lastshelf.ai"
@@ -434,7 +438,7 @@
         "title": "Lobsters Interview with mitchellh",
         "url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
         "source": "lobsters",
-        "points": 44,
+        "points": 45,
         "meta": "lobsters · interview, person",
         "createdAt": "2026-07-09T10:41:15.000-05:00",
         "commentsUrl": "https://lobste.rs/s/0mam5k/lobsters_interview_with_mitchellh",
@@ -1348,15 +1352,6 @@
         ]
       },
       {
-        "name": "Private Enterprise",
-        "url": "https://trustmrr.com/hype-social-media-strategy",
-        "mrr": 37291,
-        "growthPct": -15.3,
-        "description": "Marketing platform connected to SMM panels. Offers engagement services, followers, and press articles to customers worldwide. The platform has a base of 500 registered customers.\n\nFrom August 2024 to February 2025, it generated $271,553 USD in sales. Of this amount, $182,899 USD were renewals (725 renewals) and $88,654 USD were new sales (+400 new sales).\n\nThe platform does not have an automatic subscription system, as each customer renews when their campaign expires. The plans are memberships.",
-        "mrrDelta": 12117,
-        "rankDelta": 111
-      },
-      {
         "name": "Lunchbreak",
         "url": "https://trustmrr.com/lunchbreak",
         "mrr": 36302,
@@ -1420,15 +1415,6 @@
         "rankDelta": 120
       },
       {
-        "name": "uhoh.com",
-        "url": "https://trustmrr.com/uhoh-com",
-        "mrr": 32871,
-        "growthPct": 3.45,
-        "description": "The first IT help desk that's free to try and priced by you.",
-        "mrrDelta": -5,
-        "rankDelta": 11
-      },
-      {
         "name": "Rank Prompt",
         "url": "https://trustmrr.com/rank-prompt",
         "mrr": 31611,
@@ -1447,13 +1433,22 @@
         "rankDelta": 91
       },
       {
+        "name": "BeamX",
+        "url": "https://trustmrr.com/beamx",
+        "mrr": 30884,
+        "growthPct": 327.84,
+        "description": "A ridesharing application that enables safe, affordable & reliable rides throughout the Caribbean.",
+        "mrrDelta": 3331,
+        "rankDelta": 311
+      },
+      {
         "name": "Liinks",
         "url": "https://trustmrr.com/liinks",
         "mrr": 30692,
         "growthPct": 15.43,
         "description": "Link to your content and social accounts. Customize colors and styles. Automatically add links from your Instagram posts. Track how your audience interacts with your links.",
         "mrrDelta": 41,
-        "rankDelta": 32
+        "rankDelta": 31
       },
       {
         "name": "WaLead AI",
@@ -1462,7 +1457,7 @@
         "growthPct": 132.1,
         "description": "10x your sales on LinkedIn with AI",
         "mrrDelta": 65,
-        "rankDelta": -12
+        "rankDelta": -13
       },
       {
         "name": "HabitKit",
@@ -1471,7 +1466,7 @@
         "growthPct": null,
         "description": "Change Your Life - One Habit at a Time",
         "mrrDelta": 4,
-        "rankDelta": 102
+        "rankDelta": 101
       },
       {
         "name": "Web3Forms",
@@ -1480,16 +1475,7 @@
         "growthPct": 25.73,
         "description": "Contact Form API for Modern Websites",
         "mrrDelta": 69,
-        "rankDelta": 13
-      },
-      {
-        "name": "BeamX",
-        "url": "https://trustmrr.com/beamx",
-        "mrr": 30087,
-        "growthPct": 327.84,
-        "description": "A ridesharing application that enables safe, affordable & reliable rides throughout the Caribbean.",
-        "mrrDelta": 2534,
-        "rankDelta": 307
+        "rankDelta": 12
       },
       {
         "name": "LocalRank.so",
@@ -1861,15 +1847,6 @@
         "rankDelta": -74
       },
       {
-        "name": "LLM Gateway",
-        "url": "https://trustmrr.com/llm-gateway",
-        "mrr": 18955,
-        "growthPct": 24.54,
-        "description": "LLM Gateway is an open-source API gateway for Large Language Models (LLMs). It acts as a middleware between your applications and various LLM providers, allowing you to:\n\n- Route requests to multiple LLM providers (OpenAI, Anthropic, Google AI Studio, and others)\n- Manage API keys for different providers in one place\n- Track token usage and costs across all your LLM interactions\n- Analyze performance metrics to optimize your LLM usage",
-        "mrrDelta": 382,
-        "rankDelta": -102
-      },
-      {
         "name": "Carnage Bot",
         "url": "https://trustmrr.com/carnage-bot",
         "mrr": 18746,
@@ -1967,15 +1944,6 @@
         "description": "AI Agents for complex customer support.",
         "mrrDelta": 0,
         "rankDelta": 254
-      },
-      {
-        "name": "Stealth Company",
-        "url": "https://trustmrr.com/wava-ai",
-        "mrr": 14347,
-        "growthPct": -14.94,
-        "description": "Short form video creation tool",
-        "mrrDelta": 10017,
-        "rankDelta": 171
       },
       {
         "name": "MagicSlides.app",
@@ -2275,15 +2243,6 @@
         "rankDelta": 297
       },
       {
-        "name": "Game Assessment Prep",
-        "url": "https://trustmrr.com/game-assessment-prep",
-        "mrr": 5490,
-        "growthPct": -45.59,
-        "description": "Game Assessment Prep is an online practice platform for HireVue game based assessments. Users train with realistic simulations across all 11 games: cognitive, spatial, and personality, plus strategies to improve speed, accuracy, and confidence. Subscription MRR, low overhead, SEO friendly niche, and clear growth levers via paid ads, affiliates, university/career center deals, and B2B bundles for coaching firms.",
-        "mrrDelta": -356,
-        "rankDelta": 262
-      },
-      {
         "name": "*** OF PROMPT OÜ",
         "url": "https://trustmrr.com/of-prompt-o",
         "mrr": 5285,
@@ -2557,7 +2516,7 @@
         "name": "StartClaw",
         "url": "https://trustmrr.com/startclaw",
         "mrr": 3067,
-        "growthPct": 4.29,
+        "growthPct": 6.19,
         "description": "We help people be more productive with an AI tracking software, and help businesses help their employees become more productive.",
         "mrrDelta": 0,
         "rankDelta": 245
@@ -2813,15 +2772,6 @@
         "description": "Mental health site with digital access to resources for Therapists, psychologists and mental health professionals.",
         "mrrDelta": 36,
         "rankDelta": 134
-      },
-      {
-        "name": "Mental health subscription site",
-        "url": "https://trustmrr.com/mental-health-subscription-site",
-        "mrr": 1295,
-        "growthPct": 23.83,
-        "description": "Mental health site with digital access to resources for Therapists, psychologists and mental health professionals.",
-        "mrrDelta": 36,
-        "rankDelta": 96
       },
       {
         "name": "BasinCheck",
@@ -3146,15 +3096,6 @@
         "description": "Cozy is a journaling app where your entries live on your computer, the same way your thoughts live in your mind. They stay yours to keep and yours to share with whoever you want, never trapped in a server or fed into someone's AI.",
         "mrrDelta": -70,
         "rankDelta": -8
-      },
-      {
-        "name": "Cozy",
-        "url": "https://trustmrr.com/cozy",
-        "mrr": 505,
-        "growthPct": 380.49,
-        "description": "Cozy is a journaling app where your entries live on your computer, the same way your thoughts live in your mind. They stay yours to keep and yours to share with whoever you want, never trapped in a server or fed into someone's AI.",
-        "mrrDelta": -70,
-        "rankDelta": -47
       },
       {
         "name": "Tarkle",
@@ -4030,15 +3971,6 @@
         "rankDelta": null
       },
       {
-        "name": "Dog Walker Central",
-        "url": "https://trustmrr.com/dog-walker-central",
-        "mrr": 46,
-        "growthPct": -69.52,
-        "description": "We are pet care providers creating a platform for other pet care providers to manage their business",
-        "mrrDelta": null,
-        "rankDelta": null
-      },
-      {
         "name": "Lorea",
         "url": "https://trustmrr.com/lorea",
         "mrr": 43,
@@ -4336,15 +4268,6 @@
         "rankDelta": null
       },
       {
-        "name": "Founder Best",
-        "url": "https://trustmrr.com/founder-best",
-        "mrr": 19,
-        "growthPct": 2093.31,
-        "description": "Founder.best is a community-driven platform for founders, indie hackers, and makers to launch and grow their products.\n\n• Launch your startup and get discovered\n• Compete in weekly product rankings\n• Collect feedback from real users\n• Gain visibility and attract early adopters\n• Connect with fellow founders and builders\n• Discover trending startups and tools\n\nBuilt for founders who ship, share, and grow in public. 🚀",
-        "mrrDelta": null,
-        "rankDelta": null
-      },
-      {
         "name": "PlainMarkdown",
         "url": "https://trustmrr.com/plainmarkdown",
         "mrr": 19,
@@ -4451,15 +4374,6 @@
         "description": "Moonshift helps you build, deploy, and market projects from just an idea, while you sleep.",
         "mrrDelta": -19,
         "rankDelta": -188
-      },
-      {
-        "name": "Moonshift",
-        "url": "https://trustmrr.com/moonshift",
-        "mrr": 11,
-        "growthPct": 6807.55,
-        "description": "Moonshift helps you build, deploy, and market projects from just an idea, while you sleep.",
-        "mrrDelta": -19,
-        "rankDelta": -229
       },
       {
         "name": "RISHIKESH TECHNOLOGY",
@@ -4786,7 +4700,7 @@
         "title": "ammaarreshi/Generals-Mac-iOS-iPad",
         "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad",
         "source": "github",
-        "points": 1389,
+        "points": 1390,
         "meta": "C++ · Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
         "createdAt": "2026-07-04T02:59:39Z",
         "topics": [
@@ -4898,21 +4812,11 @@
         ]
       },
       {
-        "id": "gh-Kulaxyz/token-diet",
-        "title": "Kulaxyz/token-diet",
-        "url": "https://github.com/Kulaxyz/token-diet",
-        "source": "github",
-        "points": 566,
-        "meta": "Shell · Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
-        "createdAt": "2026-07-03T15:20:04Z",
-        "topics": []
-      },
-      {
         "id": "gh-Robbyant/lingbot-vision",
         "title": "Robbyant/lingbot-vision",
         "url": "https://github.com/Robbyant/lingbot-vision",
         "source": "github",
-        "points": 568,
+        "points": 569,
         "meta": "Python · Self-supervised learning for spatial perception",
         "createdAt": "2026-07-06T14:09:42Z",
         "topics": []
@@ -4932,7 +4836,7 @@
         "title": "Robbyant/lingbot-world-v2",
         "url": "https://github.com/Robbyant/lingbot-world-v2",
         "source": "github",
-        "points": 539,
+        "points": 540,
         "meta": "Python · Infinite Worlds with Versatile Interactions",
         "createdAt": "2026-07-08T09:24:50Z",
         "topics": []
@@ -5093,7 +4997,7 @@
         "title": "oso95/scroll-world",
         "url": "https://github.com/oso95/scroll-world",
         "source": "github",
-        "points": 366,
+        "points": 367,
         "meta": "JavaScript · Claude Code skill/plugin: immersive scroll-scrubbed 'fly through the world' landing pages generated with Higgsfield (Emons-style diorama flights, seamless connectors, portable scrub engine).",
         "createdAt": "2026-07-06T21:28:58Z",
         "topics": []
@@ -5478,6 +5382,7 @@
         "points": null,
         "meta": "geekwire",
         "createdAt": "2026-07-09T16:22:24.000Z",
+        "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/Echodyne-Ribbon-Cutting-3-1260x840.jpg",
         "domain": "geekwire.com"
       },
       {
@@ -5488,6 +5393,7 @@
         "points": null,
         "meta": "tnw",
         "createdAt": "2026-07-09T16:16:14.000Z",
+        "image": "https://media.thenextweb.com/2026/07/Waymo-ride.avif",
         "domain": "thenextweb.com"
       },
       {
