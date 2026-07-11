@@ -1,9 +1,9 @@
 {
   "date": "2026-07-11",
-  "generatedAt": "2026-07-11T22:09:54.206Z",
+  "generatedAt": "2026-07-11T22:12:23.795Z",
   "stats": {
     "totalItems": 618,
-    "totalDelta": -22,
+    "totalDelta": -35,
     "sources": {
       "headlines": 30,
       "launches": 1,
@@ -135,6 +135,7 @@
         "points": 87,
         "meta": "41 comments",
         "createdAt": "2026-07-07T23:51:49Z",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "domain": "theverge.com"
       },
       {
@@ -145,6 +146,7 @@
         "points": 87,
         "meta": "33 comments",
         "createdAt": "2026-07-11T13:40:27Z",
+        "image": "https://shipthatcode.com/opengraph-image?e5981ff808b13a14",
         "domain": "shipthatcode.com"
       },
       {
@@ -155,6 +157,7 @@
         "points": 74,
         "meta": "40 comments",
         "createdAt": "2026-07-11T15:26:12Z",
+        "image": null,
         "domain": "math.ucdavis.edu"
       },
       {
@@ -165,6 +168,7 @@
         "points": 74,
         "meta": "31 comments",
         "createdAt": "2026-07-11T17:23:52Z",
+        "image": null,
         "domain": "pluralistic.net"
       },
       {
@@ -394,7 +398,7 @@
         "title": "Madame Semver Will See You Now",
         "url": "https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html",
         "source": "lobsters",
-        "points": 25,
+        "points": 26,
         "meta": "lobsters · satire",
         "createdAt": "2026-07-11T07:24:51.000-05:00",
         "commentsUrl": "https://lobste.rs/s/wjr8hw/madame_semver_will_see_you_now",
@@ -522,6 +526,7 @@
         "history": [
           7143938,
           7143938,
+          7143938,
           7143938
         ]
       },
@@ -534,6 +539,7 @@
         "mrrDelta": 0,
         "rankDelta": 0,
         "history": [
+          3569654,
           3569654,
           3569654,
           3569654
@@ -550,6 +556,7 @@
         "history": [
           2703570,
           2703570,
+          2703570,
           2703570
         ]
       },
@@ -559,11 +566,12 @@
         "mrr": 508257,
         "growthPct": 26.04,
         "description": "Junglebee is a SaaS booking platform for the tour and charter industry. It gives operators a simple way to manage online bookings, availability, and payments — purpose-built for the Caribbean market.",
-        "mrrDelta": 7067,
-        "rankDelta": 1,
+        "mrrDelta": 2112,
+        "rankDelta": 0,
         "history": [
           494617,
           501190,
+          506145,
           508257
         ]
       },
@@ -574,8 +582,9 @@
         "growthPct": 172.84,
         "description": "Modern tech-enabled ticketing/going-out platform, being able to book events, movies and restaurant tables.",
         "mrrDelta": 0,
-        "rankDelta": -1,
+        "rankDelta": 0,
         "history": [
+          502645,
           502645,
           502645,
           502645
@@ -587,11 +596,12 @@
         "mrr": 291364,
         "growthPct": 16.73,
         "description": "The fastest proxy infrastructure with unlimited bandwidth. Purpose-built for data collection and web scraping at scale. Over $100M in e-commerce purchases through our proxy software.",
-        "mrrDelta": -5880,
+        "mrrDelta": -6181,
         "rankDelta": 0,
         "history": [
           296637,
           297244,
+          297545,
           291364
         ]
       },
@@ -601,11 +611,12 @@
         "mrr": 259338,
         "growthPct": -4.82,
         "description": "Most people agree this is the best resume builder in the world.\n\nWe have about 1M new users every year. \n\nRezi Enterprise, a new and growing product, supports over 300 organizations, including 1 fortune 500, and multiple universities. \n\nWe are now working to allow companies a way to connect with job seekers, and bridge the gap between company and job seeker while bringing transparency to job seekers.",
-        "mrrDelta": -1439,
+        "mrrDelta": -988,
         "rankDelta": 1,
         "history": [
           260296,
           260777,
+          260326,
           259338
         ]
       },
@@ -615,11 +626,12 @@
         "mrr": 248924,
         "growthPct": -19.23,
         "description": "Discover the events worth showing up for, grab your tickets in seconds, and host your own — all on the platform built for real-life moments.",
-        "mrrDelta": -37904,
+        "mrrDelta": -23926,
         "rankDelta": -1,
         "history": [
           306467,
           286828,
+          272850,
           248924
         ]
       },
@@ -634,6 +646,7 @@
         "history": [
           234319,
           234319,
+          234319,
           234319
         ]
       },
@@ -644,8 +657,9 @@
         "growthPct": null,
         "description": "Building products and teaching others how to ship.",
         "mrrDelta": 0,
-        "rankDelta": 0,
+        "rankDelta": 1,
         "history": [
+          223300,
           223300,
           223300,
           223300
@@ -657,11 +671,12 @@
         "mrr": 220785,
         "growthPct": -10.12,
         "description": "The #1 tool for validating phone, email and IP data in real time. All through one powerful API.",
-        "mrrDelta": -1604,
-        "rankDelta": 0,
+        "mrrDelta": -2593,
+        "rankDelta": -1,
         "history": [
           221672,
           222389,
+          223378,
           220785
         ]
       },
@@ -676,6 +691,7 @@
         "history": [
           202340,
           202340,
+          202340,
           203141
         ]
       },
@@ -685,11 +701,12 @@
         "mrr": 190810,
         "growthPct": -6.01,
         "description": "Supliful is an all-in-one platform for Creators to launch and operate a scalable CPG brand. Our approach unifies the entire business cycle – from product selection all the way through e-commerce enablement and order fulfillment – into a single digital platform with no upfront costs. We charge customers at the time they make the purchase.",
-        "mrrDelta": 530,
+        "mrrDelta": 638,
         "rankDelta": 0,
         "history": [
           190274,
           190280,
+          190172,
           190810
         ]
       },
@@ -704,6 +721,7 @@
         "history": [
           189339,
           189339,
+          189339,
           189339
         ]
       },
@@ -713,8 +731,8 @@
         "mrr": 170701,
         "growthPct": 13.73,
         "description": null,
-        "mrrDelta": 145806,
-        "rankDelta": 77,
+        "mrrDelta": 146148,
+        "rankDelta": 78,
         "history": [
           169587,
           32767,
@@ -723,6 +741,10 @@
           37291,
           32892,
           24895,
+          169243,
+          36988,
+          32417,
+          24553,
           170701
         ]
       },
@@ -732,11 +754,12 @@
         "mrr": 167121,
         "growthPct": 25.02,
         "description": "Postiz is the ultimate agentic social media scheduler tool",
-        "mrrDelta": 822,
+        "mrrDelta": -88,
         "rankDelta": 0,
         "history": [
           165673,
           166299,
+          167209,
           167121
         ]
       },
@@ -746,11 +769,12 @@
         "mrr": 160290,
         "growthPct": 2.19,
         "description": "Hormone Prescribing service in UK & Operations/Automation Consulting Agency",
-        "mrrDelta": 679,
+        "mrrDelta": -236,
         "rankDelta": 0,
         "history": [
           158713,
           159611,
+          160526,
           160290
         ]
       },
@@ -760,11 +784,12 @@
         "mrr": 134093,
         "growthPct": -9.29,
         "description": "Home Cleaning Tech Driven Platform",
-        "mrrDelta": -6360,
+        "mrrDelta": -13248,
         "rankDelta": 0,
         "history": [
           143552,
           140453,
+          147341,
           134093
         ]
       },
@@ -779,6 +804,7 @@
         "history": [
           128005,
           128005,
+          128005,
           128005
         ]
       },
@@ -788,11 +814,12 @@
         "mrr": 126577,
         "growthPct": -41.85,
         "description": "Certified Shopify Experts Solving Your Store’s Biggest Challenges",
-        "mrrDelta": 24209,
-        "rankDelta": 1,
+        "mrrDelta": 18186,
+        "rankDelta": 0,
         "history": [
           98680,
           102368,
+          108391,
           126577
         ]
       },
@@ -802,11 +829,12 @@
         "mrr": 103882,
         "growthPct": 0.89,
         "description": "Non funded, 0 to $2m ARR (soon), quickest ever?",
-        "mrrDelta": -1206,
-        "rankDelta": -1,
+        "mrrDelta": -1118,
+        "rankDelta": 0,
         "history": [
           105271,
           105088,
+          105000,
           103882
         ]
       },
@@ -816,11 +844,12 @@
         "mrr": 100284,
         "growthPct": 7.63,
         "description": "My business is a content distribution platform that connects social media influencers with brands. Customers pay a deposit and run influencer marketing campaigns on the platform. We handle influencer payouts.",
-        "mrrDelta": 29448,
-        "rankDelta": 9,
+        "mrrDelta": 13127,
+        "rankDelta": 2,
         "history": [
           77010,
           70836,
+          87157,
           100284
         ]
       },
@@ -842,11 +871,12 @@
         "mrr": 95532,
         "growthPct": 1.61,
         "description": null,
-        "mrrDelta": 1459,
-        "rankDelta": -1,
+        "mrrDelta": 599,
+        "rankDelta": -2,
         "history": [
           94133,
           94073,
+          94933,
           95532
         ]
       },
@@ -856,11 +886,12 @@
         "mrr": 88284,
         "growthPct": -0.07,
         "description": "Start your coding adventure ⋆˙⟡",
-        "mrrDelta": 409,
-        "rankDelta": -1,
+        "mrrDelta": 261,
+        "rankDelta": -2,
         "history": [
           87903,
           87875,
+          88023,
           88284
         ]
       },
@@ -870,11 +901,12 @@
         "mrr": 86891,
         "growthPct": 0.43,
         "description": "We sell CRM and Lead generation softwares.",
-        "mrrDelta": -306,
+        "mrrDelta": -31,
         "rankDelta": -1,
         "history": [
           93187,
           87197,
+          86922,
           86891
         ]
       },
@@ -884,11 +916,12 @@
         "mrr": 81727,
         "growthPct": -7.77,
         "description": "Unleash the power of AI and elevate your betting game with PropGPT: AI Props Analysis, the first app of its kind dedicated to transforming how you approach sports betting.",
-        "mrrDelta": -938,
-        "rankDelta": -1,
+        "mrrDelta": -321,
+        "rankDelta": 0,
         "history": [
           82562,
           82665,
+          82048,
           81727
         ]
       },
@@ -899,8 +932,9 @@
         "growthPct": 14.03,
         "description": null,
         "mrrDelta": 0,
-        "rankDelta": 0,
+        "rankDelta": 1,
         "history": [
+          79479,
           79479,
           79479,
           79479
@@ -912,11 +946,12 @@
         "mrr": 77577,
         "growthPct": -9.98,
         "description": "We are a sales automation tool for B2B sales teams. We help them generate more leads with automated, yet personalized outreach on cold email and social channels.",
-        "mrrDelta": -2675,
-        "rankDelta": -2,
+        "mrrDelta": -2571,
+        "rankDelta": -1,
         "history": [
           79715,
           80252,
+          80148,
           77577
         ]
       },
@@ -926,11 +961,12 @@
         "mrr": 74560,
         "growthPct": -22.55,
         "description": "Turn any idea or script into ready-to-post videos that get views. AI generates voiceovers, visuals, and edits – all in minutes, no skills needed.",
-        "mrrDelta": -616,
-        "rankDelta": -1,
+        "mrrDelta": -1061,
+        "rankDelta": 0,
         "history": [
           75451,
           75176,
+          75621,
           74560
         ]
       },
@@ -940,11 +976,12 @@
         "mrr": 68123,
         "growthPct": 27.67,
         "description": "MyCater is a B2B catering marketplace that helps companies seamlessly manage all their office catering needs. From breakfast and lunch to corporate events and cocktail receptions, businesses can order from a curated selection of trusted caterers. With streamlined ordering, invoicing, and dedicated support, MyCater makes corporate catering simple, reliable, and scalable across France.",
-        "mrrDelta": -5130,
-        "rankDelta": -1,
+        "mrrDelta": -4653,
+        "rankDelta": 0,
         "history": [
           75952,
           73253,
+          72776,
           68123
         ]
       },
@@ -954,11 +991,12 @@
         "mrr": 67467,
         "growthPct": 18.11,
         "description": null,
-        "mrrDelta": 1147,
-        "rankDelta": 1,
+        "mrrDelta": 607,
+        "rankDelta": 0,
         "history": [
           65966,
           66320,
+          66860,
           67467
         ]
       },
@@ -969,8 +1007,9 @@
         "growthPct": 6.98,
         "description": "AEO Engine is a living network of AI agents that collaborate in perfect sync - researching, creating, optimizing, and amplifying your content every day. Each one plays a role in expanding your visibility, guided by a central orchestrator that learns and adapts with every result to deliver compounding growth across Google, ChatGPT, AI Overviews, Perplexity, and beyond.",
         "mrrDelta": 0,
-        "rankDelta": -1,
+        "rankDelta": 0,
         "history": [
+          66733,
           66733,
           66733,
           66733
@@ -987,6 +1026,7 @@
         "history": [
           65843,
           65843,
+          65843,
           65843
         ]
       },
@@ -996,11 +1036,12 @@
         "mrr": 63774,
         "growthPct": 1.55,
         "description": "Project A is a popular AI-powered fortune-telling and astrology app with more than 50 Million downloads and 1M Active users. It provides personalized readings—including tarot, astrology, clairvoyance, and traditional coffee cup readings—by combining machine learning algorithms with ancient mystical practices.",
-        "mrrDelta": 72,
+        "mrrDelta": -84,
         "rankDelta": 0,
         "history": [
           63881,
           63702,
+          63858,
           63774
         ]
       },
@@ -1010,11 +1051,12 @@
         "mrr": 63174,
         "growthPct": 5.73,
         "description": "We sell probate leads to real estate investors and agents.\n\nTech stack is TALL\nTailwind\nAlpine\nLaravel\nLivewire",
-        "mrrDelta": -226,
+        "mrrDelta": 115,
         "rankDelta": 0,
         "history": [
           63303,
           63400,
+          63059,
           63174
         ]
       },
@@ -1024,11 +1066,12 @@
         "mrr": 62885,
         "growthPct": 31.29,
         "description": "DataExpert.io is a data engineering education company that empowers data engineers to level up their skills and become content creators as well!",
-        "mrrDelta": 203,
+        "mrrDelta": -116,
         "rankDelta": 0,
         "history": [
           62627,
           62682,
+          63001,
           62885
         ]
       },
@@ -1038,11 +1081,12 @@
         "mrr": 57071,
         "growthPct": 67.72,
         "description": "Get search visitors autonomously. \n\nRankAI runs autonomously – getting you millions of web visitors from Google & ChatGPT.\n\nInvestors from YCombinator, OpenAI, A16z, etc.",
-        "mrrDelta": 887,
-        "rankDelta": 1,
+        "mrrDelta": -475,
+        "rankDelta": 0,
         "history": [
           56463,
           56184,
+          57546,
           57071
         ]
       },
@@ -1052,11 +1096,12 @@
         "mrr": 56296,
         "growthPct": -10.93,
         "description": "Superwall ios application",
-        "mrrDelta": -35,
-        "rankDelta": -1,
+        "mrrDelta": -18,
+        "rankDelta": 0,
         "history": [
           56346,
           56331,
+          56314,
           56296
         ]
       },
@@ -1066,11 +1111,12 @@
         "mrr": 55478,
         "growthPct": -21.22,
         "description": "GPS tracking and 24/7 recovery for your bike or ebike. If it gets stolen, we get it back.\n\nCustomers pay an upfront fee for the tracker and a recurring monthly subscription.",
-        "mrrDelta": 74,
+        "mrrDelta": -51,
         "rankDelta": 0,
         "history": [
           55811,
           55404,
+          55529,
           55478
         ]
       },
@@ -1085,6 +1131,7 @@
         "history": [
           54684,
           54684,
+          54684,
           54684
         ]
       },
@@ -1094,11 +1141,12 @@
         "mrr": 52954,
         "growthPct": -7.69,
         "description": "SeoBOT - AI Agent for SEO (keywords, research, blog, mini apps, pSEO and more)",
-        "mrrDelta": -761,
+        "mrrDelta": -693,
         "rankDelta": 0,
         "history": [
           53932,
           53715,
+          53647,
           52954
         ]
       },
@@ -1108,11 +1156,12 @@
         "mrr": 52546,
         "growthPct": 40.79,
         "description": "CartBoss is a pay-as-you-go SMS cart recovery SaaS for e-commerce stores, built to recover abandoned carts with high-converting SMS reminders.",
-        "mrrDelta": 548,
-        "rankDelta": 1,
+        "mrrDelta": 218,
+        "rankDelta": 0,
         "history": [
           52491,
           51998,
+          52328,
           52546
         ]
       },
@@ -1122,11 +1171,12 @@
         "mrr": 51480,
         "growthPct": 16.69,
         "description": "Photo sharing app for events",
-        "mrrDelta": -44,
-        "rankDelta": 1,
+        "mrrDelta": 105,
+        "rankDelta": 0,
         "history": [
           51489,
           51524,
+          51375,
           51480
         ]
       },
@@ -1136,11 +1186,12 @@
         "mrr": 50319,
         "growthPct": -4.04,
         "description": "You'll have to figure it out.",
-        "mrrDelta": -1757,
-        "rankDelta": -2,
+        "mrrDelta": -216,
+        "rankDelta": 0,
         "history": [
           48830,
           52076,
+          50535,
           50319
         ]
       },
@@ -1155,6 +1206,7 @@
         "history": [
           49317,
           49317,
+          49317,
           50314
         ]
       },
@@ -1164,11 +1216,12 @@
         "mrr": 48566,
         "growthPct": -52.73,
         "description": "IberGour is an online shop of Spanish jamon iberico. We are the shop with the largest experience in selling jamon online (since 2005) with +30,000 customers in the EU and UK. We offer a wide variety of Spanish hams from leading brands and qualities (pata negra, bellota -acorn-fed-, organic, etc.).\n\nOur jamones are 100% guaranteed: if you don't like the ham for whatever reason, we pick it up for free and exchange it for another one or give you your money back, no questions asked, no small print.",
-        "mrrDelta": -46950,
-        "rankDelta": -25,
+        "mrrDelta": -34885,
+        "rankDelta": -21,
         "history": [
           96797,
           95516,
+          83451,
           48566
         ]
       },
@@ -1178,11 +1231,12 @@
         "mrr": 46379,
         "growthPct": 0,
         "description": "We analyze your growth potential and give you a custom plan to make sure you reach it.",
-        "mrrDelta": -1688,
+        "mrrDelta": -1679,
         "rankDelta": -1,
         "history": [
           46432,
           48067,
+          48058,
           46379
         ]
       },
@@ -1192,11 +1246,12 @@
         "mrr": 44950,
         "growthPct": -11.46,
         "description": "No detail, cause I'm scared",
-        "mrrDelta": 149,
-        "rankDelta": 0,
+        "mrrDelta": -49,
+        "rankDelta": -1,
         "history": [
           44779,
           44801,
+          44999,
           44950
         ]
       },
@@ -1206,11 +1261,12 @@
         "mrr": 44251,
         "growthPct": 33.85,
         "description": "We offer a subscription-based service that provides e-commerce entrepreneurs with access to product insights, ad creatives, and market analysis tools. Customers are charged at checkout or on a recurring monthly basis.",
-        "mrrDelta": 1713,
-        "rankDelta": 3,
+        "mrrDelta": 1049,
+        "rankDelta": 2,
         "history": [
           41992,
           42538,
+          43202,
           44251
         ]
       },
@@ -1220,11 +1276,12 @@
         "mrr": 43772,
         "growthPct": 223.04,
         "description": "Peekaboo (aipeekaboo.com) is an AI Visibility platform that helps brands, agencies, and publishers understand and improve how they appear in AI-generated search results and answers.\n\nWe track your visibility across key AI engines including ChatGPT, Gemini, Perplexity, Google AI Overviews (AIO), and Google AI Mode, showing where and how your brand is mentioned, cited, or recommended.",
-        "mrrDelta": 3950,
-        "rankDelta": 4,
+        "mrrDelta": 300,
+        "rankDelta": 0,
         "history": [
           39322,
           39822,
+          43472,
           43772
         ]
       },
@@ -1234,11 +1291,12 @@
         "mrr": 43216,
         "growthPct": 10.68,
         "description": "Post your content to multiple social media platforms at the same time, all-in one place.",
-        "mrrDelta": -504,
-        "rankDelta": -1,
+        "mrrDelta": -601,
+        "rankDelta": -2,
         "history": [
           43711,
           43720,
+          43817,
           43216
         ]
       },
@@ -1248,11 +1306,12 @@
         "mrr": 43003,
         "growthPct": -37.41,
         "description": "Replace your scattered subscriptions with one platform. HR, CRM, projects, finance, and payroll — all in one place.",
-        "mrrDelta": -1612,
-        "rankDelta": -3,
+        "mrrDelta": -1094,
+        "rankDelta": -4,
         "history": [
           45307,
           44615,
+          44097,
           43003
         ]
       },
@@ -1262,11 +1321,12 @@
         "mrr": 42678,
         "growthPct": 21.2,
         "description": "Premier interactive video software used for education, training, marketing. $48k MRR + some services revenue. Easy to use, drag and drop editor rebuilt from the ground up in 2025, fully documented and clean with little to no tech debt. One full-time employee. Owner works 3-5 hours per week and can be replaced by a fractional engineer. High SDE. Great fit for a video-based company in the education or training space as an upsell. ***Offers must include LinkedIn profile***",
-        "mrrDelta": 26,
-        "rankDelta": -2,
+        "mrrDelta": 75,
+        "rankDelta": -1,
         "history": [
           41965,
           42652,
+          42603,
           42678
         ]
       },
@@ -1276,11 +1336,12 @@
         "mrr": 40509,
         "growthPct": 16.46,
         "description": "Track, manage, leverage short-form data.",
-        "mrrDelta": 241,
+        "mrrDelta": -540,
         "rankDelta": -1,
         "history": [
           40346,
           40268,
+          41049,
           40509
         ]
       },
@@ -1290,11 +1351,12 @@
         "mrr": 39797,
         "growthPct": 16.18,
         "description": "We build and sell software for businesses.",
-        "mrrDelta": -24,
+        "mrrDelta": -25,
         "rankDelta": 0,
         "history": [
           39635,
           39821,
+          39822,
           39797
         ]
       },
@@ -1304,11 +1366,12 @@
         "mrr": 39128,
         "growthPct": 13.14,
         "description": "ChatDash is a white-labeled AI assistant dashboard solution tailor-made for agencies, enabling them to provide clients with a customizable, brandable interface for managing their own Knowledge Bases. This platform enhances the value agencies offer by saving them time on Knowledge Base maintenance and allowing for higher ticket pricing for their AI chatbot services. With plans catering to various agency sizes, from small startups to established firms, ChatDash combines full Voiceflow and OpenAI Assistant API integrations with dedicated support, offering a premium, branded client experience across the board.",
-        "mrrDelta": -85,
-        "rankDelta": 1,
+        "mrrDelta": -205,
+        "rankDelta": 0,
         "history": [
           39333,
           39213,
+          39333,
           39128
         ]
       },
@@ -1318,11 +1381,12 @@
         "mrr": 37657,
         "growthPct": 14.79,
         "description": "Detailed analytics for Notion. For company wikis, community knowledge bases, and shared documents. Find out what's helpful, and what isn't.",
-        "mrrDelta": -36,
+        "mrrDelta": 0,
         "rankDelta": 1,
         "history": [
           37693,
           37693,
+          37657,
           37657
         ]
       },
@@ -1332,8 +1396,8 @@
         "mrr": 37629,
         "growthPct": -15.53,
         "description": "Marketing platform connected to SMM panels. Offers engagement services, followers, and press articles to customers worldwide. The platform has a base of 500 registered customers.\n\nFrom August 2024 to February 2025, it generated $271,553 USD in sales. Of this amount, $182,899 USD were renewals (725 renewals) and $88,654 USD were new sales (+400 new sales).\n\nThe platform does not have an automatic subscription system, as each customer renews when their campaign expires. The plans are memberships.",
-        "mrrDelta": 12734,
-        "rankDelta": 33,
+        "mrrDelta": 13076,
+        "rankDelta": 34,
         "history": [
           169587,
           32767,
@@ -1342,6 +1406,10 @@
           37291,
           32892,
           24895,
+          169243,
+          36988,
+          32417,
+          24553,
           37629
         ]
       },
@@ -1351,11 +1419,12 @@
         "mrr": 36055,
         "growthPct": -13.85,
         "description": "Lunchbreak helps students and professionals make AI-generated content undetectable across all major detectors, including Turnitin and GPTZero, while keeping their natural tone and voice.",
-        "mrrDelta": -247,
+        "mrrDelta": 30,
         "rankDelta": 1,
         "history": [
           36317,
           36302,
+          36025,
           36055
         ]
       },
@@ -1374,7 +1443,7 @@
         "mrr": 34520,
         "growthPct": 8.09,
         "description": "Real time interview insights for job seekers.",
-        "mrrDelta": -178,
+        "mrrDelta": -137,
         "rankDelta": 1
       },
       {
@@ -1383,8 +1452,8 @@
         "mrr": 34284,
         "growthPct": 394.69,
         "description": "A ridesharing application that enables safe, affordable & reliable rides throughout the Caribbean.",
-        "mrrDelta": 3400,
-        "rankDelta": 7
+        "mrrDelta": 1812,
+        "rankDelta": 4
       },
       {
         "name": "uhoh.com",
@@ -1392,8 +1461,8 @@
         "mrr": 33879,
         "growthPct": 3.45,
         "description": "The first IT help desk that's free to try and priced by you.",
-        "mrrDelta": 5,
-        "rankDelta": 1
+        "mrrDelta": 3,
+        "rankDelta": 0
       },
       {
         "name": "Conductor",
@@ -1401,7 +1470,7 @@
         "mrr": 33310,
         "growthPct": -42.59,
         "description": "The best QuickBooks Desktop & Enterprise API on the planet.",
-        "mrrDelta": 186,
+        "mrrDelta": 0,
         "rankDelta": 1
       },
       {
@@ -1410,8 +1479,8 @@
         "mrr": 32686,
         "growthPct": 10601.95,
         "description": "Memorable est une cagnotte en ligne festive et solidaire. Collectez de l'argent en ligne pour offrir un cadeau en groupe ou soutenir une cause qui vous est chère. \nImprimez une jolie carte avec tous les messages et photos laissés par les participants. \n\nLa cagnotte Memorable est gratuite.\nIl n’y a pas de frais obligatoires pour créer ou participer à une cagnotte. La plateforme est financée grâce aux contributions volontaires laissées par les utilisateurs.",
-        "mrrDelta": 5615,
-        "rankDelta": 18
+        "mrrDelta": 3391,
+        "rankDelta": 11
       },
       {
         "name": "PolyPick",
@@ -1419,8 +1488,8 @@
         "mrr": 32553,
         "growthPct": 737.17,
         "description": "The #1 AI platform for beating prediction markets.\n\nAnalyze Polymarket, Kalshi & more with AI, copy top traders, track whales, and make smarter bets in seconds.",
-        "mrrDelta": -1925,
-        "rankDelta": -3
+        "mrrDelta": -985,
+        "rankDelta": -2
       },
       {
         "name": "CNVS",
@@ -1437,8 +1506,8 @@
         "mrr": 31562,
         "growthPct": 24.79,
         "description": "Rank Prompt helps users understand how their website shows up on AI Search Engines and how to improve it. AEO (AI SEO).",
-        "mrrDelta": -49,
-        "rankDelta": -1
+        "mrrDelta": 0,
+        "rankDelta": 0
       },
       {
         "name": "Private Enterprise",
@@ -1446,8 +1515,8 @@
         "mrr": 31103,
         "growthPct": -32.65,
         "description": "Competitor to: Lovable, Replit, Base44, Anything.com, etc. $50k/mo, established product in hot industry, company is run by an officer. Plenty of potential. AI app/website builder (build by chatting to AI)",
-        "mrrDelta": 6208,
-        "rankDelta": 22
+        "mrrDelta": 6550,
+        "rankDelta": 23
       },
       {
         "name": "AE-intelligence",
@@ -1455,8 +1524,8 @@
         "mrr": 31032,
         "growthPct": -6.79,
         "description": "AE-intelligence is a holding company for few business. One of them is Humanize ai text which add a human touch to AI text.",
-        "mrrDelta": 107,
-        "rankDelta": -2
+        "mrrDelta": 79,
+        "rankDelta": -1
       },
       {
         "name": "Web3Forms",
@@ -1464,8 +1533,8 @@
         "mrr": 30779,
         "growthPct": 21.27,
         "description": "Contact Form API for Modern Websites",
-        "mrrDelta": 546,
-        "rankDelta": 2
+        "mrrDelta": 292,
+        "rankDelta": 0
       },
       {
         "name": "Liinks",
@@ -1473,7 +1542,7 @@
         "mrr": 30751,
         "growthPct": 15.25,
         "description": "Link to your content and social accounts. Customize colors and styles. Automatically add links from your Instagram posts. Track how your audience interacts with your links.",
-        "mrrDelta": 59,
+        "mrrDelta": 36,
         "rankDelta": -2
       },
       {
@@ -1482,8 +1551,8 @@
         "mrr": 30291,
         "growthPct": null,
         "description": "Change Your Life - One Habit at a Time",
-        "mrrDelta": -70,
-        "rankDelta": -1
+        "mrrDelta": -56,
+        "rankDelta": 0
       },
       {
         "name": "EliteTrainer",
@@ -1491,8 +1560,8 @@
         "mrr": 29857,
         "growthPct": 0.51,
         "description": "Software for Elite Personal Trainers",
-        "mrrDelta": 1025,
-        "rankDelta": 2
+        "mrrDelta": 224,
+        "rankDelta": 1
       },
       {
         "name": "WaLead AI",
@@ -1500,8 +1569,8 @@
         "mrr": 29763,
         "growthPct": 150.8,
         "description": "10x your sales on LinkedIn with AI",
-        "mrrDelta": -772,
-        "rankDelta": -4
+        "mrrDelta": -658,
+        "rankDelta": -3
       },
       {
         "name": "LocalRank.so",
@@ -1518,8 +1587,8 @@
         "mrr": 28936,
         "growthPct": 0,
         "description": "AI Hyrox Fitness App",
-        "mrrDelta": 76,
-        "rankDelta": -2
+        "mrrDelta": 4,
+        "rankDelta": 0
       },
       {
         "name": "Based Labs AI",
@@ -1528,7 +1597,7 @@
         "growthPct": 0.74,
         "description": "AI video tools and community",
         "mrrDelta": 0,
-        "rankDelta": -1
+        "rankDelta": 0
       },
       {
         "name": "Tribe Social",
@@ -1537,7 +1606,7 @@
         "growthPct": 48.2,
         "description": "Tribe Social provides a platform for creating custom community apps with features like courses, live calls, and payments.",
         "mrrDelta": 0,
-        "rankDelta": -1
+        "rankDelta": 0
       },
       {
         "name": "Shadow Co",
@@ -1545,8 +1614,8 @@
         "mrr": 28261,
         "growthPct": 4.34,
         "description": "(っ◔◡◔)っ",
-        "mrrDelta": 321,
-        "rankDelta": -1
+        "mrrDelta": 362,
+        "rankDelta": 0
       },
       {
         "name": "DropPop",
@@ -1555,7 +1624,7 @@
         "growthPct": -56.32,
         "description": "The #1 Dropshipping Tool to Automate Depop, Vinted, Etsy and Ebay with AI.\nYour all-in-one tool for automating listings, generating descriptions, changing images, and fulfilling orders seamlessly.",
         "mrrDelta": -8,
-        "rankDelta": -1
+        "rankDelta": 0
       },
       {
         "name": "Atlas",
@@ -1563,8 +1632,8 @@
         "mrr": 27537,
         "growthPct": -20.05,
         "description": "Atlas is a personalized learning platform for students. Atlas's AI studies your class materials to help you nail your homework and ace your tests.",
-        "mrrDelta": -31,
-        "rankDelta": -1
+        "mrrDelta": 59,
+        "rankDelta": 0
       },
       {
         "name": "Produce.so",
@@ -1573,7 +1642,7 @@
         "growthPct": -100,
         "description": "AI tool for creating long-form videos and scripts for YouTube channels.",
         "mrrDelta": 0,
-        "rankDelta": -1
+        "rankDelta": 0
       },
       {
         "name": "Debatium",
@@ -1581,7 +1650,7 @@
         "mrr": 26647,
         "growthPct": -4.06,
         "description": "Debatium is a conversation game app for couples to explore various topics and deepen their bond.",
-        "mrrDelta": 389,
+        "mrrDelta": 287,
         "rankDelta": 2
       },
       {
@@ -1608,7 +1677,7 @@
         "mrr": 25995,
         "growthPct": 6.05,
         "description": "Angel Match is a database of 124,000 angels and VCs to raise your seed round.",
-        "mrrDelta": 188,
+        "mrrDelta": 216,
         "rankDelta": 0
       },
       {
@@ -1626,7 +1695,7 @@
         "mrr": 25737,
         "growthPct": -14.31,
         "description": "SEO stack is an SEO/marketing SaaS that offers data warehousing with AI. It is a rebuild of Google search console with Google analytics, it allows SEOs and marketers to get better results in search engines and LLMs, it also provides AI and LLM visibility tracking.",
-        "mrrDelta": -9,
+        "mrrDelta": -26,
         "rankDelta": 0
       },
       {
@@ -1635,7 +1704,7 @@
         "mrr": 25430,
         "growthPct": 4.88,
         "description": "AI-Powered Interactive Story Games. Immerse Yourself in Endless Possibilities",
-        "mrrDelta": -47,
+        "mrrDelta": 228,
         "rankDelta": 0
       },
       {
@@ -1654,7 +1723,7 @@
         "growthPct": 21.7,
         "description": "Micro Creator marketing platform for eComm brands.",
         "mrrDelta": 0,
-        "rankDelta": 0
+        "rankDelta": -1
       },
       {
         "name": "TrackAI",
@@ -1662,7 +1731,7 @@
         "mrr": 24540,
         "growthPct": 0,
         "description": "TrackAI is an AI calorie tracking app for iOS and Android: snap a photo of your meal and instantly get calories and macros. For busy people to stay consistent. Launched June 2025, it grew to $20k MRR ($244k ARR), 4,700+ paying subscribers and 327k+ installs in 12 months - profitable since month two and fully self-funded.",
-        "mrrDelta": 468,
+        "mrrDelta": 439,
         "rankDelta": 5
       },
       {
@@ -1671,8 +1740,8 @@
         "mrr": 24325,
         "growthPct": 13.53,
         "description": "Revenue-first analytics for startup founders",
-        "mrrDelta": 55,
-        "rankDelta": 0
+        "mrrDelta": 161,
+        "rankDelta": 2
       },
       {
         "name": "SOVEREIGN LEADS LIMITED",
@@ -1680,8 +1749,8 @@
         "mrr": 24255,
         "growthPct": -36.07,
         "description": "Provides lead generation services for trades and construction companies",
-        "mrrDelta": 47,
-        "rankDelta": 1
+        "mrrDelta": -23,
+        "rankDelta": -1
       },
       {
         "name": "Backlinker AI",
@@ -1689,8 +1758,8 @@
         "mrr": 24250,
         "growthPct": -2.38,
         "description": "Backlinker AI automates backlink acquisition through AI-powered reporter and editorial outreach. Built for agencies, founders, and SEO teams, it finds relevant opportunities, drafts responses, and helps win high-authority mentions at scale. The business has generated almost $500K in gross volume in under 3 years and is growing roughly 180% year over year.",
-        "mrrDelta": 300,
-        "rankDelta": 3
+        "mrrDelta": 0,
+        "rankDelta": -1
       },
       {
         "name": "Marky",
@@ -1698,8 +1767,8 @@
         "mrr": 24042,
         "growthPct": -19.47,
         "description": "A tool for self-publishing authors to manage their social media.",
-        "mrrDelta": -185,
-        "rankDelta": -2
+        "mrrDelta": 200,
+        "rankDelta": 2
       },
       {
         "name": "Private Enterprise",
@@ -1707,8 +1776,8 @@
         "mrr": 24033,
         "growthPct": -24.97,
         "description": null,
-        "mrrDelta": -862,
-        "rankDelta": -7
+        "mrrDelta": -520,
+        "rankDelta": -6
       },
       {
         "name": "Evergreen Support, LLC",
@@ -1725,7 +1794,7 @@
         "mrr": 23516,
         "growthPct": 23.05,
         "description": "Capacitor plugin to update your app without sending to store",
-        "mrrDelta": 119,
+        "mrrDelta": 135,
         "rankDelta": 1
       },
       {
@@ -1743,8 +1812,8 @@
         "mrr": 23352,
         "growthPct": 0,
         "description": "A profitable subscription app solving a personal, emotionally-driven problem. No seasonality, universal demand across cultures, strong upfront willingness-to-pay.\nAlready localized into multiple languages and live on iOS and Google Play, though those localized markets haven't been targeted yet. It ranks strongly in both traditional and AI/LLM search for several of the category's highest-intent keywords, all trending up.",
-        "mrrDelta": 1046,
-        "rankDelta": 3
+        "mrrDelta": 440,
+        "rankDelta": 0
       },
       {
         "name": "ChatSEO",
@@ -1752,8 +1821,8 @@
         "mrr": 22764,
         "growthPct": -7.93,
         "description": "Find & prioritize your SEO wins by chatting with your data.",
-        "mrrDelta": -169,
-        "rankDelta": -1
+        "mrrDelta": -105,
+        "rankDelta": 0
       },
       {
         "name": "Michael Veail",
@@ -1762,7 +1831,7 @@
         "growthPct": 2.63,
         "description": "Provides lead generation services for trades and construction businesses",
         "mrrDelta": 0,
-        "rankDelta": -1
+        "rankDelta": 0
       },
       {
         "name": "Pushouse",
@@ -1770,8 +1839,8 @@
         "mrr": 21998,
         "growthPct": 30.14,
         "description": "Pushouse provides software and technology services that enable e-commerce businesses to automate customer communication, marketing, and sales processes through WhatsApp and other digital channels. The platform offers WhatsApp automation, AI-powered chat flows, order notifications, customer support automation, digital marketing tools, and integration services with e-commerce systems to improve customer experience and increase online sales.",
-        "mrrDelta": -336,
-        "rankDelta": -1
+        "mrrDelta": -409,
+        "rankDelta": 0
       },
       {
         "name": "Reddit Agency",
@@ -1788,7 +1857,7 @@
         "mrr": 21443,
         "growthPct": 4.84,
         "description": "B2B SaaS helping therapists, psychologists, and service businesses manage bookings, payments, and client relationships. Features: subscription packages, white-label branding, client portals, API-first integration. For companies seeking predictable revenue, less admin work, and a professional brand—from solo practices to large networks. Bootstrapped.",
-        "mrrDelta": -137,
+        "mrrDelta": 67,
         "rankDelta": 0
       },
       {
@@ -1797,8 +1866,8 @@
         "mrr": 21227,
         "growthPct": 24.46,
         "description": "LLM Gateway is an open-source API gateway for Large Language Models (LLMs). It acts as a middleware between your applications and various LLM providers, allowing you to:\n\n- Route requests to multiple LLM providers (OpenAI, Anthropic, Google AI Studio, and others)\n- Manage API keys for different providers in one place\n- Track token usage and costs across all your LLM interactions\n- Analyze performance metrics to optimize your LLM usage",
-        "mrrDelta": 2422,
-        "rankDelta": 6
+        "mrrDelta": 1297,
+        "rankDelta": 3
       },
       {
         "name": "Brevilabs",
@@ -1806,7 +1875,7 @@
         "mrr": 21027,
         "growthPct": -14.72,
         "description": "Tools for any AI agent to access and manage your personal context",
-        "mrrDelta": -48,
+        "mrrDelta": -63,
         "rankDelta": -1
       },
       {
@@ -1824,7 +1893,7 @@
         "mrr": 20764,
         "growthPct": -11.59,
         "description": "Nous développons une application mobile de facturation destinée aux artisans du bâtiment. Celle-ci a pour but d'aider ces personnes à générer des devis, factures, attestations pour la TVA réduite et rapports d'intervention de manière intuitive et simplifiée. L'idée est de proposer à nos clients un plan mensuel, facturé au mois le mois, et un plan annuel, facturé une fois par an.",
-        "mrrDelta": 587,
+        "mrrDelta": -31,
         "rankDelta": -1
       },
       {
@@ -1833,8 +1902,8 @@
         "mrr": 19835,
         "growthPct": 11.03,
         "description": "One app to run, grow, and automate your business.",
-        "mrrDelta": -48,
-        "rankDelta": -1
+        "mrrDelta": -46,
+        "rankDelta": 0
       },
       {
         "name": "ColdSire",
@@ -1842,8 +1911,8 @@
         "mrr": 19316,
         "growthPct": -8.72,
         "description": "We help businesses scale outreach with premium cold email inboxes.",
-        "mrrDelta": -218,
-        "rankDelta": -1
+        "mrrDelta": -213,
+        "rankDelta": 0
       },
       {
         "name": "Carnage Bot",
@@ -1860,7 +1929,7 @@
         "mrr": 18702,
         "growthPct": -13.07,
         "description": "Akari — EU/UK/US #1 Ticket reselling group. Get tickets for concerts, sports & festivals with real-time monitors, instant drop alerts & auto-checkout bots. Beat the queue on Ticketmaster, See Tickets & AXS. Proven results, active community & 24/7 support. Join Akari and never miss a drop again.",
-        "mrrDelta": 193,
+        "mrrDelta": 42,
         "rankDelta": 1
       },
       {
@@ -1870,7 +1939,7 @@
         "growthPct": 29.98,
         "description": "AIWriteBook is an all-in-one AI book creation platform used by 15,700+ authors to go from idea to published book in hours - not months.\n\nStart from scratch or import an existing manuscript (.docx, .pdf, .epub). The AI learns your writing style and generates chapters that sound like you, not generic AI. Every book gets deep character development, chapter-by-chapter outlines, and a story bible that keeps your plot consistent.\n\nFiction authors get AI-generated characters with personalities, arcs, a",
         "mrrDelta": -280,
-        "rankDelta": -3
+        "rankDelta": -2
       },
       {
         "name": "Taja AI",
@@ -1878,7 +1947,7 @@
         "mrr": 18634,
         "growthPct": 1.05,
         "description": "Taja helps SMB's optimize, repurpose, and distribute their long form videos across all major social platforms.",
-        "mrrDelta": 325,
+        "mrrDelta": 85,
         "rankDelta": 0
       },
       {
@@ -1887,8 +1956,8 @@
         "mrr": 16953,
         "growthPct": -7.4,
         "description": "Your AI Intern One Message Away: dump the busy work. Work like a team of ten. From meeting minutes to blog posts, from CRM updates to newsletter drafts—just speak, and it's done.",
-        "mrrDelta": -519,
-        "rankDelta": 1
+        "mrrDelta": -178,
+        "rankDelta": 0
       },
       {
         "name": "My X project 2",
@@ -1896,8 +1965,8 @@
         "mrr": 15842,
         "growthPct": -0.36,
         "description": "my little profitable SaaS",
-        "mrrDelta": 75,
-        "rankDelta": 2
+        "mrrDelta": 56,
+        "rankDelta": 1
       },
       {
         "name": "Laper",
@@ -1905,7 +1974,7 @@
         "mrr": 15707,
         "growthPct": 126.47,
         "description": "From first draft to final cut.\nThe only platform where screenwriters and AI collaborate on scripts, breakdowns, storyboards, and production.\nA complete pre-production SaaS—AI creative workspace, AI script auto-complete, AI-driven scene breakdowns, storyboards, art direction, cast management, location scouting, and budgeting. One platform for your entire team. Built to accelerate human storytelling.",
-        "mrrDelta": 32,
+        "mrrDelta": 76,
         "rankDelta": 3
       },
       {
@@ -1914,8 +1983,8 @@
         "mrr": 15692,
         "growthPct": 15.1,
         "description": "ESFERAS LLC provides LinkedIn automation tools.",
-        "mrrDelta": -160,
-        "rankDelta": -1
+        "mrrDelta": -10,
+        "rankDelta": 0
       },
       {
         "name": "Replayed LTD",
@@ -1923,7 +1992,7 @@
         "mrr": 15668,
         "growthPct": -18.8,
         "description": "Best video editing service for YouTubers - No subscription. On demand. Direct chat with editors.",
-        "mrrDelta": 65,
+        "mrrDelta": 352,
         "rankDelta": 2
       },
       {
@@ -1932,7 +2001,7 @@
         "mrr": 15561,
         "growthPct": 90.09,
         "description": "Plateforme #1 en France pour acheter / vendre un business digital : SaaS, média, e-commerce, agence web. 300+ deals vérifiés et valorisés par nos soins proposés par an.",
-        "mrrDelta": -146,
+        "mrrDelta": -91,
         "rankDelta": -1
       },
       {
@@ -1941,7 +2010,7 @@
         "mrr": 15223,
         "growthPct": 38.66,
         "description": "AI Agents for complex customer support.",
-        "mrrDelta": 326,
+        "mrrDelta": 247,
         "rankDelta": 1
       },
       {
@@ -1950,7 +2019,7 @@
         "mrr": 13902,
         "growthPct": 0.01,
         "description": "MagicSlides next-gen AI presentation tool, converts any prompt, topic, or content source into a professional PPT in seconds.",
-        "mrrDelta": -59,
+        "mrrDelta": -68,
         "rankDelta": 1
       },
       {
@@ -1959,8 +2028,8 @@
         "mrr": 13548,
         "growthPct": 12.83,
         "description": "The fastest way to get compliant with cyber security frameworks like SOC 2 and ISO 27001.",
-        "mrrDelta": -4067,
-        "rankDelta": -8
+        "mrrDelta": -2970,
+        "rankDelta": -7
       },
       {
         "name": "Mobile App",
@@ -1968,8 +2037,8 @@
         "mrr": 13338,
         "growthPct": 0,
         "description": "Currently in redesign with a Ukranian designer - internationnaly translated but only french market is exploited for now",
-        "mrrDelta": 500,
-        "rankDelta": 2
+        "mrrDelta": 206,
+        "rankDelta": 1
       },
       {
         "name": "iCollect Everything - All Apps",
@@ -1977,8 +2046,8 @@
         "mrr": 13123,
         "growthPct": 6.93,
         "description": "iCollect Everything is the #1 app on the App Store for managing your collectibles or inventory, whether at home, business, work, or school.",
-        "mrrDelta": 54,
-        "rankDelta": 0
+        "mrrDelta": 33,
+        "rankDelta": 1
       },
       {
         "name": "Hong Xuan Kow",
@@ -1995,7 +2064,7 @@
         "mrr": 11360,
         "growthPct": 5.25,
         "description": "Followr.ai is an all-in-one AI-powered platform designed to automate and streamline social media creation and management. It lets users generate high-quality posts, images, and videos through its AI Studio, and even create realistic AI avatars capable of delivering scripted videos without needing a camera or recording setup. By combining content creation, scheduling, publishing, and analytics in one place, Followr.ai helps creators, brands, and agencies produce professional social content faster",
-        "mrrDelta": -2490,
+        "mrrDelta": -2398,
         "rankDelta": -3
       },
       {
@@ -2004,7 +2073,7 @@
         "mrr": 10748,
         "growthPct": 52.65,
         "description": "Software and Digital Marketing company. We offer advertising services and softwares for businesses and freelancers.",
-        "mrrDelta": -61,
+        "mrrDelta": -30,
         "rankDelta": 0
       },
       {
@@ -2022,8 +2091,8 @@
         "mrr": 10503,
         "growthPct": 2450.88,
         "description": "NDISCompliant.com.au provides AI-powered compliance automation software for Australian NDIS (National Disability Insurance Scheme) registered providers. Our SaaS platform generates personalised compliance documents (policies, procedures, risk registers, training matrices) mapped to NDIS Practice Standards, performs automated gap analysis against audit requirements, and monitors regulatory changes. We offer three monthly subscription tiers ($149, $349, $699 AUD/month) with optional annual billing. All services are delivered digitally via our web platform — no physical goods. Customers are Australian businesses (B2B) operating in the disability services sector. Operated by Axior Labs, ABN registered sole trader, Bendigo VIC Australia.",
-        "mrrDelta": 1239,
-        "rankDelta": 4
+        "mrrDelta": 620,
+        "rankDelta": 1
       },
       {
         "name": "FriendFilter + GroupFilter",
@@ -2031,8 +2100,8 @@
         "mrr": 9755,
         "growthPct": 24.72,
         "description": "FriendFilter and GroupFilter are established Chrome extensions for Facebook friend and group management. $11.3K MRR / $135.6K ARR from ~390 subscribers. Stack: Rails, Vue.js, PostgreSQL. Recent v7.2.4 maintenance release. Bonus asset: 100K dormant email list (2019–present). Growth levers already built: CWS Featured badge renomination (submitted Q1 2026), SEO landing page, Rewardful affiliate program. Asset sale to buyer's LLC. 30 days transition support included.",
-        "mrrDelta": 82,
-        "rankDelta": 2
+        "mrrDelta": 37,
+        "rankDelta": 1
       },
       {
         "name": "Private Location Intelligence API platform",
@@ -2040,8 +2109,8 @@
         "mrr": 9666,
         "growthPct": 11,
         "description": "Global Foot Traffic (Venue Visitor) data platform. Helps to find lively social scenes efficiently, avoid crowds, automate city guides, or optimize visitor schedules. It forecasts hourly busyness for millions of public places. Using anonymized GPS data, it shows venue visitor patterns and peaks. Includes tools to analyze and filter countries/ cities/ neighborhoods on (live) visitor patterns, venue type, ratings, visit duration, popularity, etc. Includes API to build 3rd party apps on top of it.",
-        "mrrDelta": -41,
-        "rankDelta": -1
+        "mrrDelta": 108,
+        "rankDelta": 1
       },
       {
         "name": "CodeFast",
@@ -2049,7 +2118,7 @@
         "mrr": 9321,
         "growthPct": 26.47,
         "description": "A course to learn how to code in days, not years",
-        "mrrDelta": -468,
+        "mrrDelta": -767,
         "rankDelta": -3
       },
       {
@@ -2058,7 +2127,7 @@
         "mrr": 9252,
         "growthPct": -4.97,
         "description": "All-in-One tool to grow your faceless channel. Generate niche videos with AI from custom prompts, Reddit posts, and blogs. Auto-post to YouTube, TikTok, Instagram.",
-        "mrrDelta": -2377,
+        "mrrDelta": -2531,
         "rankDelta": -7
       },
       {
@@ -2067,8 +2136,8 @@
         "mrr": 8848,
         "growthPct": 92.61,
         "description": "Profitable, founder-runnable hybrid SaaS + Webflow component marketplace with a measurable wedge into AI coding tools. Currently 362 paying subscribers plus 79 lifetime customers; $91k all-time gross via LemonSqueezy. Webflow+Framer Marketplace template royalties and a growing Framer affiliate stream included (subject to platform re-onboarding).\n\nCatalog & product: 2,155 hand-built Webflow components across 163 collections, 285 wireframes.",
-        "mrrDelta": -23,
-        "rankDelta": 1
+        "mrrDelta": 55,
+        "rankDelta": 0
       },
       {
         "name": "Socialcrawl",
@@ -2076,8 +2145,8 @@
         "mrr": 8484,
         "growthPct": 348.76,
         "description": "Web search engine for people's opinions not web pages.\nAlso providing an API to access 24+ social media platforms from a single API key.",
-        "mrrDelta": 1120,
-        "rankDelta": 6
+        "mrrDelta": 632,
+        "rankDelta": 3
       },
       {
         "name": "BettrBot",
@@ -2085,7 +2154,7 @@
         "mrr": 8455,
         "growthPct": 3.32,
         "description": "BettrBot is a desktop app that automates blackjack basic strategy across 12 sweepstakes casino platforms (Stake, Pulsz, Chumba, LuckyLand, Modo, Shuffle, Gains, ClubsPoker, AceBet, and others)",
-        "mrrDelta": 197,
+        "mrrDelta": 110,
         "rankDelta": 0
       },
       {
@@ -2094,8 +2163,8 @@
         "mrr": 8409,
         "growthPct": 27.56,
         "description": "AI sales setter that automatically qualifies your leads and books calls via Instagram DMs and WhatsApp. Custom scripts, smart filtering, direct calendar booking, 24/7. Integrates with Calendly, GHL, Zapier, Make and more. Setup in minutes.",
-        "mrrDelta": 219,
-        "rankDelta": 0
+        "mrrDelta": -169,
+        "rankDelta": -2
       },
       {
         "name": "Chariot AI",
@@ -2103,8 +2172,8 @@
         "mrr": 8181,
         "growthPct": -8.01,
         "description": "Create a website in minutes. Made for small businesses and non-technical users.",
-        "mrrDelta": 154,
-        "rankDelta": 0
+        "mrrDelta": 37,
+        "rankDelta": -1
       },
       {
         "name": "Virvid.ai",
@@ -2112,8 +2181,8 @@
         "mrr": 7641,
         "growthPct": -23.4,
         "description": "AI shorts generator that helps creators and businesses turn ideas into viral faceless videos for TikTok, Instagram and YouTube, all on autopilot. Just set it up once and watch your channel grow.",
-        "mrrDelta": -135,
-        "rankDelta": 0
+        "mrrDelta": null,
+        "rankDelta": null
       },
       {
         "name": "Roofclaw",
@@ -2122,7 +2191,7 @@
         "growthPct": 3094.28,
         "description": "Personalized setup and delivery of Openclaw powered Macbook Air. Delivered safe and secure with ONE ON ONE training, and weekly support. Connected to your desired API's with skills included. Powered by Roofing Business Partner. Not required to be a roofer, but its certainly our niche that has been getting Claws.",
         "mrrDelta": 0,
-        "rankDelta": 0
+        "rankDelta": -1
       },
       {
         "name": "Kickly - Pronos Coupe du Monde ⚽",
@@ -2130,8 +2199,8 @@
         "mrr": 7381,
         "growthPct": 1053.79,
         "description": "Pronostics sportifs.",
-        "mrrDelta": 952,
-        "rankDelta": 6
+        "mrrDelta": 619,
+        "rankDelta": 1
       },
       {
         "name": "Writingmate.ai",
@@ -2139,8 +2208,8 @@
         "mrr": 7070,
         "growthPct": -12.09,
         "description": "All in one ai platform for content creators: from text to images, to videos all in one place.\n\nMCP and API support. Perfect start to compete with Higgsfield.",
-        "mrrDelta": -179,
-        "rankDelta": 1
+        "mrrDelta": -175,
+        "rankDelta": -2
       },
       {
         "name": "RTMP.IN",
@@ -2148,8 +2217,8 @@
         "mrr": 6848,
         "growthPct": -5.95,
         "description": "Go live on Instagram from your computer with OBS, XSplit, vMix, SLOBS, Wirecast, VidBlasterX, Restream, CameraFi Live, StreamYard, YouStreamer, OneStream or any streaming software or online service.\n\nYou can stream from you browser with your Webcam \nor restream any video! \n\nUse our service to improve your Live Broadcast to the next level!",
-        "mrrDelta": -19,
-        "rankDelta": 1
+        "mrrDelta": -15,
+        "rankDelta": -2
       },
       {
         "name": "Avium",
@@ -2158,7 +2227,7 @@
         "growthPct": 87.78,
         "description": "Personal Branding Agency for World-Class Experts. We build the online visibility infrastructure for keynote speakers, book authors, and founders whose real-world authority outpaces their online presence.",
         "mrrDelta": 0,
-        "rankDelta": 1
+        "rankDelta": -1
       },
       {
         "name": "Fidelatoo",
@@ -2166,8 +2235,8 @@
         "mrr": 6466,
         "growthPct": -39.07,
         "description": "Loyalty built around people, not cards.",
-        "mrrDelta": -17,
-        "rankDelta": 1
+        "mrrDelta": -16,
+        "rankDelta": -1
       },
       {
         "name": "Outstand.so",
@@ -2175,8 +2244,8 @@
         "mrr": 6313,
         "growthPct": 13.26,
         "description": "Unified social media API - the only usage-based pricing API in this market. For developers, agents and content management automations. Covering 10+ social network connections with 1 single API.",
-        "mrrDelta": 127,
-        "rankDelta": 2
+        "mrrDelta": 37,
+        "rankDelta": -1
       },
       {
         "name": "Defined Chase",
@@ -2184,8 +2253,8 @@
         "mrr": 6090,
         "growthPct": -54.86,
         "description": "Our agency offers specialized digital marketing solutions tailored to drive measurable growth for businesses. Clients are typically billed during the checkout process upon confirming their chosen service package.",
-        "mrrDelta": -14,
-        "rankDelta": 2
+        "mrrDelta": -11,
+        "rankDelta": -1
       },
       {
         "name": "Weddx",
@@ -2193,8 +2262,8 @@
         "mrr": 5949,
         "growthPct": 1174.7,
         "description": "Premiere Pro plugin that watches every clip, finds the moments that matter, and builds a wedding movie right on your Premiere timeline.",
-        "mrrDelta": 1022,
-        "rankDelta": 9
+        "mrrDelta": 499,
+        "rankDelta": 3
       },
       {
         "name": "RapidNative",
@@ -2202,8 +2271,8 @@
         "mrr": 5938,
         "growthPct": 1.38,
         "description": "RapidNative is an AI-powered code generator that instantly converts your ideas into mobile apps using React Native and Expo. Perfect for developers, designers, and teams who want to accelerate mobile app development.",
-        "mrrDelta": 71,
-        "rankDelta": 1
+        "mrrDelta": -40,
+        "rankDelta": -1
       },
       {
         "name": "Setter AI LLC",
@@ -2212,7 +2281,7 @@
         "growthPct": -69.8,
         "description": "Setter AI (via TrySetter) is an AI-driven lead engagement and appointment-booking assistant designed to help businesses capture more sales opportunities. It instantly follows up with new leads (in ~10 seconds), engages them in natural dialogues and guides qualified prospects into scheduled meetings via channels like WhatsApp, SMS & your website chat. With deep calendar integrations and automated follow-ups, it reduces missed opportunities and boosts conversion without more headcoount.",
         "mrrDelta": 0,
-        "rankDelta": 1
+        "rankDelta": -1
       },
       {
         "name": "Okfans",
@@ -2220,8 +2289,8 @@
         "mrr": 5559,
         "growthPct": 12.74,
         "description": "OnlyFans alternative.",
-        "mrrDelta": 39,
-        "rankDelta": 2
+        "mrrDelta": -94,
+        "rankDelta": -1
       },
       {
         "name": "CoinPay",
@@ -2229,8 +2298,8 @@
         "mrr": 5335,
         "growthPct": 53249.9,
         "description": "We offer consulting services and a stripe support payment gateway with a good DX",
-        "mrrDelta": 2022,
-        "rankDelta": 31
+        "mrrDelta": 1442,
+        "rankDelta": 15
       },
       {
         "name": "*** OF PROMPT OÜ",
@@ -2239,7 +2308,7 @@
         "growthPct": 58.69,
         "description": "Digital products/services for educational AI resources. We charge during checkout.",
         "mrrDelta": 0,
-        "rankDelta": 2
+        "rankDelta": -1
       },
       {
         "name": "Magic",
@@ -2247,8 +2316,8 @@
         "mrr": 5103,
         "growthPct": -26.99,
         "description": "AI-Powered Product Videos & Images That Scale.",
-        "mrrDelta": -16,
-        "rankDelta": 2
+        "mrrDelta": 14,
+        "rankDelta": -1
       },
       {
         "name": "Rendler Studio Inc.",
@@ -2257,7 +2326,7 @@
         "growthPct": -63.1,
         "description": "Creative Content Studio for Architects and Real Estate Developers. Bringing vision of the unbuilt projects to life. Our 3D visuals serve as an effective tool for selling projects and attracting investment for construction.",
         "mrrDelta": 0,
-        "rankDelta": 4
+        "rankDelta": 0
       },
       {
         "name": "Easy Moving Permits",
@@ -2265,8 +2334,8 @@
         "mrr": 4699,
         "growthPct": -2.55,
         "description": "easyMovingPermits.com enables users to apply for and manage moving and street permits across multiple cities through our online platform. Customers discover our service through our website and find permits based on their location and needs, with transparent pricing that includes city fees and service charges. We charge customers per permit application using Stripe as our payment processor.",
-        "mrrDelta": 664,
-        "rankDelta": 9
+        "mrrDelta": 236,
+        "rankDelta": 3
       },
       {
         "name": "TranslateMom",
@@ -2274,8 +2343,8 @@
         "mrr": 4647,
         "growthPct": 12.91,
         "description": "With over 100k followers on X at x.com/translatemom.\n\nAI-powered captioning, translation, dubbing and short-form video enhancement tool designed for creators who publish on TikTok, Reels, Shorts, and similar platforms. Automatic dynamic subtitles, fast editing presets, and easy export for social media formats.",
-        "mrrDelta": 10,
-        "rankDelta": 4
+        "mrrDelta": 0,
+        "rankDelta": 0
       },
       {
         "name": "Corey Chiu",
@@ -2283,8 +2352,8 @@
         "mrr": 4614,
         "growthPct": -16.18,
         "description": "Indie Hacker",
-        "mrrDelta": 19,
-        "rankDelta": 4
+        "mrrDelta": -10,
+        "rankDelta": 0
       },
       {
         "name": "Rewarx AI Product Photography Generator",
@@ -2292,8 +2361,8 @@
         "mrr": 4574,
         "growthPct": 18.23,
         "description": "#1 AI Product Photography Generation Tool for E-Commerce Businesses and Batch Process, AI Background Removal and Replace, AI Mockup Generator, AI Model for Fashion, AI Product Shoot, AI Product Page, AI Ghost Mannequin for all sellers and creators. AI for Amazon, Etsy, Shopify, etc.",
-        "mrrDelta": -93,
-        "rankDelta": 1
+        "mrrDelta": -91,
+        "rankDelta": -3
       },
       {
         "name": "Eloking",
@@ -2301,8 +2370,8 @@
         "mrr": 4539,
         "growthPct": 3.62,
         "description": "Uber for competitive gaming.",
-        "mrrDelta": 251,
-        "rankDelta": 3
+        "mrrDelta": 345,
+        "rankDelta": 1
       },
       {
         "name": "Qoest",
@@ -2311,7 +2380,7 @@
         "growthPct": 8467.89,
         "description": null,
         "mrrDelta": 0,
-        "rankDelta": 3
+        "rankDelta": -1
       },
       {
         "name": "Easy App Reports by Beyond Analytics",
@@ -2320,7 +2389,7 @@
         "growthPct": -23.36,
         "description": "Visualize your App Store, Google Play, and Ad Performance data in one place without coding. The app industry's favourite data hub.",
         "mrrDelta": 200,
-        "rankDelta": 5
+        "rankDelta": 1
       },
       {
         "name": "ApplyAll",
@@ -2329,7 +2398,7 @@
         "growthPct": -37.67,
         "description": "We get people jobs.",
         "mrrDelta": -833,
-        "rankDelta": -5
+        "rankDelta": -9
       },
       {
         "name": "Chessigma",
@@ -2337,8 +2406,8 @@
         "mrr": 4011,
         "growthPct": 137.69,
         "description": "Chess.com but free. 1M+ users.",
-        "mrrDelta": 95,
-        "rankDelta": 5
+        "mrrDelta": 91,
+        "rankDelta": 2
       },
       {
         "name": "Scouting Stats AI",
@@ -2346,8 +2415,8 @@
         "mrr": 3929,
         "growthPct": 0.75,
         "description": "A match prediction platform for bettors with scouting features. Developed using advanced data science, AI, and with custom visual creation features.",
-        "mrrDelta": 39,
-        "rankDelta": 6
+        "mrrDelta": 50,
+        "rankDelta": 3
       },
       {
         "name": "Catering Funnels",
@@ -2356,7 +2425,7 @@
         "growthPct": 25.42,
         "description": "Catering Funnels is a combo of white label saas and done for you lead generation services for restaurants that do catering.",
         "mrrDelta": 0,
-        "rankDelta": 2
+        "rankDelta": -2
       },
       {
         "name": "LaDataViz",
@@ -2365,7 +2434,7 @@
         "growthPct": 21.16,
         "description": "We improve your Tableau experience with powerful tools.",
         "mrrDelta": -42,
-        "rankDelta": -1
+        "rankDelta": -5
       },
       {
         "name": "SwiftSole",
@@ -2373,8 +2442,8 @@
         "mrr": 3892,
         "growthPct": -2.18,
         "description": "Development company specializing in Apps",
-        "mrrDelta": -20,
-        "rankDelta": 2
+        "mrrDelta": -30,
+        "rankDelta": -3
       },
       {
         "name": "Changelogfy",
@@ -2383,7 +2452,7 @@
         "growthPct": -43.24,
         "description": "Take better decisions and build impact products from user feedback",
         "mrrDelta": 0,
-        "rankDelta": 3
+        "rankDelta": 0
       },
       {
         "name": "Voicerr AI",
@@ -2391,8 +2460,8 @@
         "mrr": 3808,
         "growthPct": 216.28,
         "description": "Voicerr.ai lets agencies launch and scale a fully white-labeled AI voice calling business — branded dashboards, automated billing, and lead-gen campaigns included — without building any infrastructure themselves.",
-        "mrrDelta": -28,
-        "rankDelta": 3
+        "mrrDelta": 28,
+        "rankDelta": 1
       },
       {
         "name": "Oaki",
@@ -2400,8 +2469,8 @@
         "mrr": 3753,
         "growthPct": 51.31,
         "description": "OAKI is an AI powered recruiter. It helps job seekers through every step of the job-hunting process, from resume building to interview prep and everything in between.",
-        "mrrDelta": 90,
-        "rankDelta": 4
+        "mrrDelta": 20,
+        "rankDelta": 1
       },
       {
         "name": "Wizlogo",
@@ -2409,8 +2478,8 @@
         "mrr": 3643,
         "growthPct": -4.08,
         "description": "A web-based platform for creating logotypes in minutes. It features a streamlined creation process to help businesses create a logo.",
-        "mrrDelta": 190,
-        "rankDelta": 10
+        "mrrDelta": 192,
+        "rankDelta": 6
       },
       {
         "name": "Quantt",
@@ -2418,8 +2487,8 @@
         "mrr": 3610,
         "growthPct": 24.26,
         "description": "We specialise in creating educational content for people who want to improve their coding, technology, mathematics and financial literacy so that they get land their dream job. This is an interactive programming application for learning.",
-        "mrrDelta": null,
-        "rankDelta": null
+        "mrrDelta": 102,
+        "rankDelta": 2
       },
       {
         "name": "ShipFast",
@@ -2427,8 +2496,8 @@
         "mrr": 3587,
         "growthPct": -35.14,
         "description": "Ship your startups in days, not months!",
-        "mrrDelta": 0,
-        "rankDelta": 2
+        "mrrDelta": -249,
+        "rankDelta": -4
       },
       {
         "name": "yew",
@@ -2436,8 +2505,8 @@
         "mrr": 3521,
         "growthPct": -13.96,
         "description": "AI-powered Cronus Zen scripts for every game you play — lifetime updates included.",
-        "mrrDelta": -215,
-        "rankDelta": -1
+        "mrrDelta": -142,
+        "rankDelta": -2
       },
       {
         "name": "Stuff & Matters, Inc.",
@@ -2446,7 +2515,7 @@
         "growthPct": 75,
         "description": "Creator of the world's #1 HubSpot theme.",
         "mrrDelta": 0,
-        "rankDelta": 4
+        "rankDelta": 1
       },
       {
         "name": "LIZAONAIR",
@@ -2454,8 +2523,8 @@
         "mrr": 3467,
         "growthPct": -20.35,
         "description": "Online services for Social Media Marketing",
-        "mrrDelta": -69,
-        "rankDelta": 0
+        "mrrDelta": -54,
+        "rankDelta": -3
       },
       {
         "name": "OpenTweet",
@@ -2463,8 +2532,8 @@
         "mrr": 3438,
         "growthPct": 5.74,
         "description": "AI-powered super simple X posts scheduler with MCP & OpenClaw integration.",
-        "mrrDelta": -93,
-        "rankDelta": 0
+        "mrrDelta": -61,
+        "rankDelta": -2
       },
       {
         "name": "PostPlanify",
@@ -2472,7 +2541,7 @@
         "mrr": 3401,
         "growthPct": 4.61,
         "description": "PostPlanify is an all-in-one social media management platform to plan, schedule, and manage content across multiple platforms. Keep everything organized in one place and stay consistent without switching between tools.\n\nTrack performance with built-in analytics, manage comments with a social inbox, and collaborate with your team or clients easily. Built for agencies,  teams, and creators.",
-        "mrrDelta": -128,
+        "mrrDelta": -29,
         "rankDelta": 0
       },
       {
@@ -2481,8 +2550,8 @@
         "mrr": 3093,
         "growthPct": -0.94,
         "description": "Powered sales CRM and coaching app",
-        "mrrDelta": -7,
-        "rankDelta": 4
+        "mrrDelta": -5,
+        "rankDelta": 1
       },
       {
         "name": "BeginFlow",
@@ -2490,8 +2559,8 @@
         "mrr": 2855,
         "growthPct": 111927.46,
         "description": "BeginFlow is an AI-first mobile app factory. Describe your idea or upload a PRD, and the platform generates a complete React Native + Expo project — screens, data model, integrations, env keys and translations included. Preview it live, run built-in QA checks, and ship the app via EAS Build, GitHub push, or ZIP export. No proprietary runtime, no lock-in: the code is fully yours from day one.",
-        "mrrDelta": 1060,
-        "rankDelta": 22
+        "mrrDelta": 313,
+        "rankDelta": 4
       },
       {
         "name": "StartClaw",
@@ -2499,8 +2568,8 @@
         "mrr": 2668,
         "growthPct": -17.73,
         "description": "We help people be more productive with an AI tracking software, and help businesses help their employees become more productive.",
-        "mrrDelta": -399,
-        "rankDelta": 3
+        "mrrDelta": 0,
+        "rankDelta": 1
       },
       {
         "name": "Xquik",
@@ -2508,8 +2577,8 @@
         "mrr": 2614,
         "growthPct": 1.49,
         "description": "All-in-one X automation platform. 40+ tools for extraction, write actions, monitoring & trending. REST API, webhooks & MCP.",
-        "mrrDelta": 179,
-        "rankDelta": 7
+        "mrrDelta": 99,
+        "rankDelta": 3
       },
       {
         "name": "CaptureFlow",
@@ -2518,7 +2587,7 @@
         "growthPct": 39.91,
         "description": "CaptureFlow enables users to capture their expertise through video, voice, documents, links, and tools and convert it into professional content ready for posting on all social media channels using the most advanced AI models on the market.",
         "mrrDelta": 0,
-        "rankDelta": 4
+        "rankDelta": 0
       },
       {
         "name": "PHOTO AI STUDIO",
@@ -2526,8 +2595,8 @@
         "mrr": 2580,
         "growthPct": 20.02,
         "description": "We use AI to provide AI Generated photoshoots of our users. We charge our users for credits they can spend after to get more photoshoots as well as we use Google Adsense as another stream of revenue, lifting the revenue to ~5000$/mo",
-        "mrrDelta": -462,
-        "rankDelta": 1
+        "mrrDelta": 79,
+        "rankDelta": 2
       },
       {
         "name": "Athenify",
@@ -2535,8 +2604,8 @@
         "mrr": 2503,
         "growthPct": 7.48,
         "description": "Athenify is the best time tracking app for students.",
-        "mrrDelta": 6,
-        "rankDelta": 3
+        "mrrDelta": 3,
+        "rankDelta": 2
       },
       {
         "name": "Personapp.io",
@@ -2545,7 +2614,7 @@
         "growthPct": -84.98,
         "description": "PersonApp is a SaaS-based video chat platform that connects users globally through real-time video interactions. It operates on a subscription and credit-based model, where users pay for premium features. The platform is fully automated, cloud-hosted, and scalable, requiring no manual service delivery.",
         "mrrDelta": 0,
-        "rankDelta": 6
+        "rankDelta": 2
       },
       {
         "name": "Mahlzait",
@@ -2554,7 +2623,7 @@
         "growthPct": 17.43,
         "description": "Calorie Tracker with AI",
         "mrrDelta": 1,
-        "rankDelta": 6
+        "rankDelta": 2
       },
       {
         "name": "Verbatik AI (Web + iOS app)",
@@ -2563,7 +2632,7 @@
         "growthPct": 2.66,
         "description": "Instantly create unlimited UGC, voiceovers, voice cloning, and produce music, videos, sound effects, and AI chats — in 150+ languages.",
         "mrrDelta": 0,
-        "rankDelta": 7
+        "rankDelta": 3
       },
       {
         "name": "Get Brazil Visa",
@@ -2571,8 +2640,8 @@
         "mrr": 2090,
         "growthPct": -11.93,
         "description": "Our app helps users who are applying for a Brazilian digital nomad visa to navigate the complicated government portals and the process in general.",
-        "mrrDelta": -282,
-        "rankDelta": 1
+        "mrrDelta": -33,
+        "rankDelta": 3
       },
       {
         "name": "Fiddl.art",
@@ -2580,8 +2649,8 @@
         "mrr": 2042,
         "growthPct": 11.91,
         "description": "Fiddl.art is a creative platform for high quality AI images and videos using models like Nano Banana Pro, Flux 2 and Sora. Magic Mirror gives fast guided results. A circular points economy lets you buy or earn points through missions, uploads and community activity. Others can unlock your creations so you earn more over time. Public galleries offer inspiration and learning. No subscription needed. Pay only for what you use.",
-        "mrrDelta": 40,
-        "rankDelta": 7
+        "mrrDelta": 86,
+        "rankDelta": 5
       },
       {
         "name": "Tokfluence",
@@ -2590,7 +2659,7 @@
         "growthPct": -22.96,
         "description": "Drive More Sales With the Right TikTok Influencers. 250 Million profiles analyzed and 10 Million curated creators list.Search by niche and location, access real engagement data, and launch high-converting campaigns with confidence. Start free. Cancel anytime.",
         "mrrDelta": -99,
-        "rankDelta": 3
+        "rankDelta": -1
       },
       {
         "name": "Kome",
@@ -2598,8 +2667,8 @@
         "mrr": 2003,
         "growthPct": -6.29,
         "description": "Get instant summaries and bookmark manager with just a click.",
-        "mrrDelta": -6,
-        "rankDelta": 4
+        "mrrDelta": 0,
+        "rankDelta": 1
       },
       {
         "name": "Presscart",
@@ -2608,7 +2677,7 @@
         "growthPct": -36.47,
         "description": "Media marketplace for building your online visibility and credibility.",
         "mrrDelta": 0,
-        "rankDelta": 5
+        "rankDelta": 1
       },
       {
         "name": "Claude Fast!",
@@ -2626,7 +2695,7 @@
         "growthPct": 0,
         "description": "TextWork uses text messages and AI to intelligently connect mobile workers when they need each other.",
         "mrrDelta": 0,
-        "rankDelta": 4
+        "rankDelta": 1
       },
       {
         "name": "HeyRudy",
@@ -2634,8 +2703,8 @@
         "mrr": 1890,
         "growthPct": -5.01,
         "description": "Your AI gaming sidekick",
-        "mrrDelta": 24,
-        "rankDelta": 4
+        "mrrDelta": 27,
+        "rankDelta": 1
       },
       {
         "name": "MimikFlow",
@@ -2643,8 +2712,8 @@
         "mrr": 1804,
         "growthPct": 146.13,
         "description": "Automated prospection and setting using AI",
-        "mrrDelta": -4,
-        "rankDelta": 4
+        "mrrDelta": -3,
+        "rankDelta": 1
       },
       {
         "name": "Clawhosters.com",
@@ -2652,8 +2721,8 @@
         "mrr": 1754,
         "growthPct": -19.8,
         "description": "We offer managed hosting for OpenClaw, the open-source AI agent framework. Our service provides instant deployment, zero-maintenance infrastructure, and multi-platform support, making personal AI assistants accessible to everyone without technical expertise.",
-        "mrrDelta": -3,
-        "rankDelta": 6
+        "mrrDelta": -2,
+        "rankDelta": 1
       },
       {
         "name": "Practiceme",
@@ -2661,8 +2730,8 @@
         "mrr": 1712,
         "growthPct": 18.98,
         "description": "AI-powered English practice with native accents and real-time feedback.",
-        "mrrDelta": 114,
-        "rankDelta": 9
+        "mrrDelta": 56,
+        "rankDelta": 4
       },
       {
         "name": "WritePanda",
@@ -2671,7 +2740,7 @@
         "growthPct": 8878.71,
         "description": "The AI video editor that runs locally",
         "mrrDelta": 550,
-        "rankDelta": 19
+        "rankDelta": 16
       },
       {
         "name": "ZEMITH.COM",
@@ -2680,7 +2749,7 @@
         "growthPct": 13.01,
         "description": "All in One AI SaaS",
         "mrrDelta": -1,
-        "rankDelta": 4
+        "rankDelta": 1
       },
       {
         "name": "Prompt Builder",
@@ -2688,8 +2757,8 @@
         "mrr": 1649,
         "growthPct": 12.71,
         "description": "Prompt Builder turns your simple ideas into professional-grade prompts that get exceptional results every single time.",
-        "mrrDelta": -9,
-        "rankDelta": 4
+        "mrrDelta": -37,
+        "rankDelta": -2
       },
       {
         "name": "Christian Tech Jobs",
@@ -2697,8 +2766,8 @@
         "mrr": 1447,
         "growthPct": 45.66,
         "description": "A job board for blockchain companies, with a focus on DeFi",
-        "mrrDelta": -7,
-        "rankDelta": 6
+        "mrrDelta": -2,
+        "rankDelta": 1
       },
       {
         "name": "Bhyte Software, LLC",
@@ -2715,8 +2784,8 @@
         "mrr": 1422,
         "growthPct": null,
         "description": "helping you find Ai agents to build.",
-        "mrrDelta": 500,
-        "rankDelta": 22
+        "mrrDelta": 0,
+        "rankDelta": 0
       },
       {
         "name": "Voxdub",
@@ -2724,8 +2793,8 @@
         "mrr": 1405,
         "growthPct": 83.72,
         "description": "Rythmo band software",
-        "mrrDelta": 21,
-        "rankDelta": 5
+        "mrrDelta": 17,
+        "rankDelta": 1
       },
       {
         "name": "VECTOSOLVE",
@@ -2733,8 +2802,8 @@
         "mrr": 1349,
         "growthPct": 41.2,
         "description": "VectoSolve turns PNG and JPG images into clean, production-ready vector files in seconds. Built for makers, not just designers. Export to SVG, DXF, G-code and DST, with output tuned per niche: Cricut, Glowforge and diode laser, embroidery, Etsy sellers, pro designers. Five badge packs unlock niche-specific tools and exports. The fastest way to go from a raster image to a cut-ready or stitch-ready file.",
-        "mrrDelta": -83,
-        "rankDelta": 3
+        "mrrDelta": -48,
+        "rankDelta": -1
       },
       {
         "name": "Mental health subscription site",
@@ -2742,8 +2811,8 @@
         "mrr": 1329,
         "growthPct": 21.42,
         "description": "Mental health site with digital access to resources for Therapists, psychologists and mental health professionals.",
-        "mrrDelta": 34,
-        "rankDelta": 4
+        "mrrDelta": 14,
+        "rankDelta": 0
       },
       {
         "name": "Fld",
@@ -2751,8 +2820,8 @@
         "mrr": 1295,
         "growthPct": -9.93,
         "description": null,
-        "mrrDelta": 70,
-        "rankDelta": 8
+        "mrrDelta": 61,
+        "rankDelta": 4
       },
       {
         "name": "BasinCheck",
@@ -2761,7 +2830,7 @@
         "growthPct": 6694.63,
         "description": "BasinCheck is a field-first safety audit platform for oil & gas contractors, built to replace paper checklists and spreadsheets with fast mobile inspections, offline mode, and audit-ready documentation. It automatically turns failed items into tracked corrective actions, and supports OSHA-ready exports (including OSHA 300/300A) so you can prove compliance in minutes, not days",
         "mrrDelta": 0,
-        "rankDelta": 3
+        "rankDelta": -1
       },
       {
         "name": "9x12tools.com",
@@ -2770,7 +2839,7 @@
         "growthPct": 18.79,
         "description": "Micro SaaS startup providing instant landing pages for 9x12 local EDDM operators. Custom domain connection, entire site editable via dashboard, setups in less than a minute.",
         "mrrDelta": 0,
-        "rankDelta": 3
+        "rankDelta": -1
       },
       {
         "name": "MoveMRR",
@@ -2779,7 +2848,7 @@
         "growthPct": -56.54,
         "description": "MoveMRR is a SaaS tool that automates the migration of active Stripe subscriptions between accounts during a SaaS business sale. It recreates subscriptions in the buyer's Stripe account with correct billing cycles, safely deactivates old ones, and prevents double-charging — preserving MRR throughout the transition. With idempotent execution, full audit logging, and restricted API key scoping, MoveMRR makes high-stakes subscription transfers safe and repeatable.",
         "mrrDelta": 0,
-        "rankDelta": 4
+        "rankDelta": -1
       },
       {
         "name": "ReelMoney",
@@ -2787,8 +2856,8 @@
         "mrr": 1220,
         "growthPct": -27.86,
         "description": "Automate TikTok to drive traffic to your business. ReelFarm alternative. Create AI Influencer photos and videos.\n\nKeywords - Social, Slideshow, Arcads, Makeugc, Icon, Ads, Video, Automation, Marketing, Faceless, AI Influencer, Memes",
-        "mrrDelta": -48,
-        "rankDelta": 2
+        "mrrDelta": -19,
+        "rankDelta": -1
       },
       {
         "name": "Warmr",
@@ -2796,8 +2865,8 @@
         "mrr": 1196,
         "growthPct": null,
         "description": "Run your own iPhone farm on autopilot: shadowban safe automated account warm-ups on TikTok + Instagram plus scheduled auto-posting, driven from real iPhones you own.",
-        "mrrDelta": null,
-        "rankDelta": null
+        "mrrDelta": 0,
+        "rankDelta": 1
       },
       {
         "name": "ClaudeKit",
@@ -2805,8 +2874,8 @@
         "mrr": 1086,
         "growthPct": 739.9,
         "description": "A toolkit that turns Claude Code into a working team, with slash commands, skills and subagents for coding, marketing, video, seo, ecommerce and trading.",
-        "mrrDelta": -16,
-        "rankDelta": 5
+        "mrrDelta": -32,
+        "rankDelta": 2
       },
       {
         "name": "MyFeedIn",
@@ -2814,8 +2883,8 @@
         "mrr": 1056,
         "growthPct": -25.38,
         "description": "Extension chrome to improve the user experience on LinkedIn.",
-        "mrrDelta": 23,
-        "rankDelta": 7
+        "mrrDelta": 28,
+        "rankDelta": 4
       },
       {
         "name": "Linkerflow",
@@ -2824,7 +2893,7 @@
         "growthPct": -12.12,
         "description": "Linkerflow is a Webflow contextual internal linking tool available on its marketplace.",
         "mrrDelta": 0,
-        "rankDelta": 5
+        "rankDelta": 2
       },
       {
         "name": "izoukhai",
@@ -2832,8 +2901,8 @@
         "mrr": 1007,
         "growthPct": null,
         "description": "The cheapest dynamic QR code generator on the market.",
-        "mrrDelta": null,
-        "rankDelta": null
+        "mrrDelta": -40,
+        "rankDelta": 0
       },
       {
         "name": "Convitede",
@@ -2841,8 +2910,8 @@
         "mrr": 1004,
         "growthPct": -1.73,
         "description": "At Convitede, you create personalized invitations for any occasion—quickly, easily, and with style. Birthdays, weddings, gender reveals, graduations, and more — your invitation, your way.",
-        "mrrDelta": 28,
-        "rankDelta": 5
+        "mrrDelta": 12,
+        "rankDelta": 2
       },
       {
         "name": "AI Directories",
@@ -2851,7 +2920,7 @@
         "growthPct": -18.82,
         "description": "We will manually submit your startup to 100+ directories 🚀",
         "mrrDelta": 162,
-        "rankDelta": 11
+        "rankDelta": 9
       },
       {
         "name": "PicX Studio",
@@ -2859,8 +2928,8 @@
         "mrr": 948,
         "growthPct": -39,
         "description": "PicX Studio is an AI-powered design and image-generation platform built to make professional visuals as easy as sending a message. Instead of complicated editing tools, PicX uses a conversational interface, you simply describe what you want, and the AI creates or edits visuals instantly.",
-        "mrrDelta": null,
-        "rankDelta": null
+        "mrrDelta": -24,
+        "rankDelta": 1
       },
       {
         "name": "figoca",
@@ -2868,8 +2937,8 @@
         "mrr": 935,
         "growthPct": 1.58,
         "description": "figoca is a trading card research hub that helps collectors, hobbyists, and sellers make smarter buying and selling decisions. It provides real eBay sold listing data so users can check what any card actually sells for. Key features include card price comps, rookie card databases, complete set checklists, AI-powered card grading, and educational guides on collecting and grading. figoca also offers a Chrome extension for instant price insights directly on eBay. Whether you collect sports cards or",
-        "mrrDelta": -18,
-        "rankDelta": 4
+        "mrrDelta": -9,
+        "rankDelta": 2
       },
       {
         "name": "Photo String Art",
@@ -2877,8 +2946,8 @@
         "mrr": 916,
         "growthPct": -1.49,
         "description": "photostringart.com is a website and mobile app that allow generating string art pattern with a state-of-the-art algorithm. Beating all competitor algorithms in the market. A subscription is needed in order to generate a string art.",
-        "mrrDelta": 5,
-        "rankDelta": 6
+        "mrrDelta": 0,
+        "rankDelta": 2
       },
       {
         "name": "Whappy, Inc.",
@@ -2886,8 +2955,8 @@
         "mrr": 911,
         "growthPct": 179.29,
         "description": "AI-powered WhatsApp automation platform that instantly engages new leads, qualifies them through natural conversations, and automatically books appointments — all without manual work. Think of it as a 24/7 sales rep inside WhatsApp that turns conversations into conversions.",
-        "mrrDelta": -2,
-        "rankDelta": 4
+        "mrrDelta": -1,
+        "rankDelta": 2
       },
       {
         "name": "Audn.AI",
@@ -2895,8 +2964,8 @@
         "mrr": 872,
         "growthPct": 25.56,
         "description": "Audn automates external black-box penetration testing for AI companies and enterprises. Existing cyber models are trained mostly on open-source data, while the highest-risk vulnerabilities now sit in closed-source production systems like binaries, public endpoints, network misconfigurations, AI behaviours. We have early pentester usage and a paid pilot with a YC S25 voice AI startup that generated revenue tied to a retailer contract.",
-        "mrrDelta": null,
-        "rankDelta": null
+        "mrrDelta": -40,
+        "rankDelta": 2
       },
       {
         "name": "ShotCaller",
@@ -2905,7 +2974,7 @@
         "growthPct": 5.68,
         "description": "Discord bot",
         "mrrDelta": -7,
-        "rankDelta": 4
+        "rankDelta": 2
       },
       {
         "name": "Learn Farsi",
@@ -2913,8 +2982,8 @@
         "mrr": 829,
         "growthPct": 862.08,
         "description": "An easy to use Farsi Learning tool using spaced repition to help you learn.",
-        "mrrDelta": null,
-        "rankDelta": null
+        "mrrDelta": 100,
+        "rankDelta": 7
       },
       {
         "name": "Uncoflow",
@@ -2923,7 +2992,7 @@
         "growthPct": 129.49,
         "description": "Uncoflow is an online platform for creating engaging training courses with advanced analytics and personalization features.",
         "mrrDelta": -1,
-        "rankDelta": 4
+        "rankDelta": 2
       },
       {
         "name": "Limesnap",
@@ -2932,7 +3001,7 @@
         "growthPct": -4.67,
         "description": "AI Chatbot That Creates Reels & Carousels In Seconds",
         "mrrDelta": 0,
-        "rankDelta": 4
+        "rankDelta": 2
       },
       {
         "name": "GETebook.ai",
@@ -2941,7 +3010,7 @@
         "growthPct": 2064.39,
         "description": "GETebook.ai turns ideas into publish-ready ebooks in minutes. Pick a topic, audience, and tone — our AI generates a structured outline, full chapters and cover art, then exports to PDF, EPUB, and Word with professional typography. Built for course creators, coaches, marketers, and indie authors who want lead magnets, paid products, or KDP-ready manuscripts without the blank-page grind.",
         "mrrDelta": 11,
-        "rankDelta": 4
+        "rankDelta": 2
       },
       {
         "name": "GetMentioned",
@@ -2959,7 +3028,7 @@
         "growthPct": -46.18,
         "description": "I write about AI Agent Economy in german for the DACH region. ( biggest paid newsletter in the AI space in Germany )",
         "mrrDelta": -2,
-        "rankDelta": 3
+        "rankDelta": 1
       },
       {
         "name": "Quran Unlock",
@@ -2967,8 +3036,8 @@
         "mrr": 709,
         "growthPct": -32.14,
         "description": "Read Quran to Unlock Apps",
-        "mrrDelta": -1,
-        "rankDelta": 4
+        "mrrDelta": 5,
+        "rankDelta": 3
       },
       {
         "name": "Translate a Book with AI",
@@ -2977,7 +3046,7 @@
         "growthPct": 642.2,
         "description": "Translate a Book with AI provide high-quality AI book translations to thousands of self-publishing authors, publishers, companies and readers. We support dozens of file formats and preserve layout, while allowing to customize the result to your unique style - both before and after the translation.",
         "mrrDelta": -30,
-        "rankDelta": 2
+        "rankDelta": 1
       },
       {
         "name": "MangaTime",
@@ -2985,8 +3054,8 @@
         "mrr": 694,
         "growthPct": 15.65,
         "description": "Follow all your favorite manga, manhwa, manhua, and webtoon series in one easy-to-use app. Track your reading progress, mark chapters as read, and stay up to date with new releases.",
-        "mrrDelta": 11,
-        "rankDelta": 4
+        "mrrDelta": 9,
+        "rankDelta": 3
       },
       {
         "name": "VideoDubber.ai",
@@ -2994,8 +3063,8 @@
         "mrr": 678,
         "growthPct": 18.36,
         "description": "Video Translation with voice cloning \nwith 150+ languages and accents\nat the most affordable rate in the market.",
-        "mrrDelta": -28,
-        "rankDelta": 2
+        "mrrDelta": -9,
+        "rankDelta": 1
       },
       {
         "name": "Landkit",
@@ -3003,8 +3072,8 @@
         "mrr": 667,
         "growthPct": 12.08,
         "description": "Landkit is an AI-powered \"Marketing Co-Founder\" designed to help SaaS startups scale through specialized Generative Engine Optimization (GEO) and SEO. The platform focuses on securing brand citations in AI models like ChatGPT and Perplexity, offering an AI Bot Readiness Audit and Content Studio to optimize for AI crawlers. The LandKit Growth Team acts as a \"done-for-you\" marketing department for SaaS founders, providing a dedicated human strategist to execute the entire GEO/AEO and SEO roadmap",
-        "mrrDelta": -5,
-        "rankDelta": 3
+        "mrrDelta": 0,
+        "rankDelta": 2
       },
       {
         "name": "Conecta Fitness",
@@ -3012,8 +3081,8 @@
         "mrr": 646,
         "growthPct": 27.07,
         "description": "Marketplace for Personal Trainers in Brazil",
-        "mrrDelta": 44,
-        "rankDelta": 6
+        "mrrDelta": 11,
+        "rankDelta": 3
       },
       {
         "name": "STELLA PROXIES",
@@ -3022,7 +3091,7 @@
         "growthPct": 29.75,
         "description": "Fastest residential proxy provider optimized for Sneaker and E-Commerce Limited Releases. Over 40,000+ clients and $100M+ in purchases powered with our infra.",
         "mrrDelta": 0,
-        "rankDelta": 3
+        "rankDelta": 1
       },
       {
         "name": "GlobalSeo",
@@ -3031,7 +3100,7 @@
         "growthPct": 30.53,
         "description": "Translate websites with AI online.",
         "mrrDelta": 0,
-        "rankDelta": 3
+        "rankDelta": 2
       },
       {
         "name": "Lanreal Technologies Inc.",
@@ -3039,8 +3108,8 @@
         "mrr": 589,
         "growthPct": 1930.76,
         "description": "An AI Native company trying to reimagine the development, shipping and marketing cycle with AI first workflows",
-        "mrrDelta": 58,
-        "rankDelta": 5
+        "mrrDelta": 29,
+        "rankDelta": 3
       },
       {
         "name": "PolyScout",
@@ -3049,7 +3118,7 @@
         "growthPct": 819.22,
         "description": "Polymarket trader tracker & alerts.",
         "mrrDelta": 0,
-        "rankDelta": 3
+        "rankDelta": 1
       },
       {
         "name": "Social Post Flow",
@@ -3057,8 +3126,8 @@
         "mrr": 512,
         "growthPct": 17.99,
         "description": "Automatically publish WordPress content to Facebook, X, Instagram, Threads, LinkedIn, TikTok, Pinterest, Bluesky and Mastodon, from just $49/year.",
-        "mrrDelta": 4,
-        "rankDelta": 4
+        "mrrDelta": 0,
+        "rankDelta": 3
       },
       {
         "name": "Headroom",
@@ -3067,7 +3136,7 @@
         "growthPct": 1126.05,
         "description": "Get 2x the Claude Code usage without doubling your bill\n\nHeadroom is a menu bar app that quietly optimizes all the inputs that Claude Code gets. \n\nIt trims prompt bloat, strips boilerplate and compresses documents without throwing anything away.",
         "mrrDelta": 9,
-        "rankDelta": 6
+        "rankDelta": 4
       },
       {
         "name": "Tarkle",
@@ -3076,7 +3145,7 @@
         "growthPct": 141.39,
         "description": "Tarkle is the white-label infrastructure for agencies and startups. From client portals and file sharing to contractor management and creative services, we're building products that scale with client-facing businesses.",
         "mrrDelta": 0,
-        "rankDelta": 4
+        "rankDelta": 2
       },
       {
         "name": "Ritual75",
@@ -3084,8 +3153,8 @@
         "mrr": 480,
         "growthPct": null,
         "description": "Ritual75 is a 75-day discipline reset app designed to help you build consistency, track your daily rituals, and become the strongest version of yourself. Log your workouts, water intake, steps, reading, progress photos, and reflections — all in one simple challenge tracker.",
-        "mrrDelta": null,
-        "rankDelta": null
+        "mrrDelta": -54,
+        "rankDelta": -1
       },
       {
         "name": "Unsection",
@@ -3093,8 +3162,8 @@
         "mrr": 452,
         "growthPct": -56.75,
         "description": "Discover curated website section design library",
-        "mrrDelta": -10,
-        "rankDelta": 5
+        "mrrDelta": -5,
+        "rankDelta": 3
       },
       {
         "name": "Flowpost",
@@ -3103,7 +3172,7 @@
         "growthPct": 15.06,
         "description": "AI-powered tools for LinkedIn creators that pulls serious organic traffic: ~50,000 monthly sessions from Google across Spain, Italy, Brazil, France and Latin America. On top of that we offer AI carousel and post generation. The standout asset is distribution: we rank #1 for high-intent LinkedIn search terms in six languages — a hard-won SEO moat and a large, engaged audience ready to be monetized.",
         "mrrDelta": -1,
-        "rankDelta": 5
+        "rankDelta": 3
       },
       {
         "name": "AlgoEdge Insights",
@@ -3120,8 +3189,8 @@
         "mrr": 412,
         "growthPct": 2065.84,
         "description": "Find abandoned Reddit communities with thousands of subscribers and inactive moderators, then claim them as your own.",
-        "mrrDelta": 63,
-        "rankDelta": 14
+        "mrrDelta": 40,
+        "rankDelta": 7
       },
       {
         "name": "ThisisACompany",
@@ -3130,7 +3199,7 @@
         "growthPct": 1310,
         "description": null,
         "mrrDelta": -1,
-        "rankDelta": 7
+        "rankDelta": 3
       },
       {
         "name": "own.page",
@@ -3139,7 +3208,7 @@
         "growthPct": 213.15,
         "description": "own.page is a platform that empowers users to create personalized, interactive web pages with ease. Customers are charged during checkout for any services or subscriptions.",
         "mrrDelta": 6,
-        "rankDelta": 8
+        "rankDelta": 3
       },
       {
         "name": "Webclaw",
@@ -3148,7 +3217,7 @@
         "growthPct": -55.69,
         "description": "The fastest web scraper for AI agents.\n67% fewer tokens. Sub-millisecond extraction. Zero browser overhead.",
         "mrrDelta": -49,
-        "rankDelta": 2
+        "rankDelta": -1
       },
       {
         "name": "Knightvision",
@@ -3157,7 +3226,7 @@
         "growthPct": -8.16,
         "description": "Important: A significant portion of recurring revenue is processed through Whop (separate billing platform) and is NOT reflected in the Stripe MRR or all-time totals shown above. Actual MRR is meaningfully higher. \n\nAI-powered ad intelligence and video generation platform. Users purchase credits to analyze social media advertisements and generate UGC-style video content using AI tools, with subscriptions billed via both Stripe and Whop.",
         "mrrDelta": 0,
-        "rankDelta": 7
+        "rankDelta": 2
       },
       {
         "name": "iCANDrivers",
@@ -3165,8 +3234,8 @@
         "mrr": 370,
         "growthPct": -17.78,
         "description": "iCANDrivers offers custom drivers for running Holley EFI on M-Series Mac devices.",
-        "mrrDelta": -30,
-        "rankDelta": 4
+        "mrrDelta": 0,
+        "rankDelta": 3
       },
       {
         "name": "Legendsverse",
@@ -3174,8 +3243,8 @@
         "mrr": 362,
         "growthPct": 52.37,
         "description": "Legendsverse is an action figures tracking app.",
-        "mrrDelta": 3,
-        "rankDelta": 6
+        "mrrDelta": 0,
+        "rankDelta": 3
       },
       {
         "name": "Cozy",
@@ -3183,8 +3252,8 @@
         "mrr": 351,
         "growthPct": 36.02,
         "description": "Cozy is a journaling app where your entries live on your computer, the same way your thoughts live in your mind. They stay yours to keep and yours to share with whoever you want, never trapped in a server or fed into someone's AI.",
-        "mrrDelta": -154,
-        "rankDelta": -9
+        "mrrDelta": -76,
+        "rankDelta": -4
       },
       {
         "name": "YuhuCall",
@@ -3193,7 +3262,7 @@
         "growthPct": 3400,
         "description": "Wir betreiben eine webbasierte Anwendung für internationale Telefonie. Kundinnen und Kunden können Guthaben erwerben und dieses für kostenpflichtige Telefongespräche in verschiedene Länder nutzen. Zahlungen werden online abgewickelt, die Abrechnung erfolgt nutzungsbasiert.",
         "mrrDelta": 0,
-        "rankDelta": 5
+        "rankDelta": 2
       },
       {
         "name": "Pronto",
@@ -3202,7 +3271,7 @@
         "growthPct": -4.24,
         "description": "Pronto helps job seekers create applications that pass ATS filters and impress hiring managers.",
         "mrrDelta": 0,
-        "rankDelta": 7
+        "rankDelta": 3
       },
       {
         "name": "Crayvon Ai Humanizer For Germans",
@@ -3219,8 +3288,8 @@
         "mrr": 320,
         "growthPct": 1.15,
         "description": "QuizGPT provides AI-powered quiz assistance for Kahoot through a Chrome extension. Customers are charged immediately at checkout for monthly access to two subscription tiers: Premium (up to 150 quiz answers) and Ultra (up to 1,000 quiz answers), both including auto-click and auto-highlight tools.",
-        "mrrDelta": null,
-        "rankDelta": null
+        "mrrDelta": 13,
+        "rankDelta": 5
       },
       {
         "name": "Steps: Workout & Pedometer",
@@ -3228,8 +3297,8 @@
         "mrr": 318,
         "growthPct": 15.33,
         "description": "Your complete step and workout tracking companion with Apple Watch sync, beautiful charts, workout analytics, and personalized goals to keep you moving.",
-        "mrrDelta": -3,
-        "rankDelta": 6
+        "mrrDelta": -4,
+        "rankDelta": 2
       },
       {
         "name": "BuildOnDomains",
@@ -3238,7 +3307,7 @@
         "growthPct": 37.84,
         "description": "BuildOnDomains finds expiring domain auctions that you can build a business from.",
         "mrrDelta": -10,
-        "rankDelta": 6
+        "rankDelta": 2
       },
       {
         "name": "Delegated.to",
@@ -3247,7 +3316,7 @@
         "growthPct": 47110.88,
         "description": "Deploy your personal AI team\nin under 2 minutes\nLaunch your SEO assistant, sales follow-ups, coding helper, and 24/7 receptionist from one simple dashboard.\n\nBuilt for small teams. No AI knowledge required.",
         "mrrDelta": 0,
-        "rankDelta": 6
+        "rankDelta": 3
       },
       {
         "name": "HSKLord",
@@ -3256,7 +3325,7 @@
         "growthPct": 73.23,
         "description": "HSK Chinese Language Learning flashcards",
         "mrrDelta": 12,
-        "rankDelta": 7
+        "rankDelta": 5
       },
       {
         "name": "BuildLedger",
@@ -3264,8 +3333,8 @@
         "mrr": 295,
         "growthPct": 959.38,
         "description": "Software as a service",
-        "mrrDelta": 1,
-        "rankDelta": 5
+        "mrrDelta": 0,
+        "rankDelta": 2
       },
       {
         "name": "Cleaner Ai",
@@ -3273,8 +3342,8 @@
         "mrr": 294,
         "growthPct": 0,
         "description": "Reclaim GBs of space in seconds with Cleanup AI, the smartest phone cleaner app designed to reclaim your storage space in seconds.",
-        "mrrDelta": 61,
-        "rankDelta": 11
+        "mrrDelta": 27,
+        "rankDelta": 6
       },
       {
         "name": "ColorCraft",
@@ -3283,7 +3352,7 @@
         "growthPct": -13.78,
         "description": "Generate Coloring Books With Ease.",
         "mrrDelta": -32,
-        "rankDelta": -1
+        "rankDelta": -5
       },
       {
         "name": "tinyCRM",
@@ -3292,7 +3361,7 @@
         "growthPct": -10.48,
         "description": "One customer database for all your products. See every customer across all your projects.",
         "mrrDelta": 0,
-        "rankDelta": 4
+        "rankDelta": 2
       },
       {
         "name": "NexoMind AI",
@@ -3301,7 +3370,7 @@
         "growthPct": 80.9,
         "description": "A private AI journal that turns overthinking into clarity — an emotional read, a clarity score, and one quiet reflection. In under 30 seconds.",
         "mrrDelta": 0,
-        "rankDelta": 5
+        "rankDelta": 2
       },
       {
         "name": "ilovemp4",
@@ -3309,8 +3378,8 @@
         "mrr": 245,
         "growthPct": 68.41,
         "description": "ilovemp4 is a website that allow user to transcode and modify their video files, with various format. Transcoding, compressin, auto subtitles are services that ilovemp4.com sells",
-        "mrrDelta": 9,
-        "rankDelta": 6
+        "mrrDelta": 4,
+        "rankDelta": 5
       },
       {
         "name": "TRYA",
@@ -3318,8 +3387,8 @@
         "mrr": 242,
         "growthPct": -59.8,
         "description": "Trya is an app that helps users manage their budget, track spending, and set savings goals.",
-        "mrrDelta": null,
-        "rankDelta": null
+        "mrrDelta": -10,
+        "rankDelta": 2
       },
       {
         "name": "Claudethings",
@@ -3336,8 +3405,8 @@
         "mrr": 240,
         "growthPct": 2301.7,
         "description": "ERPExplorer helps you find and explore SAP ECC and SAP S/4HANA details for objects like Tables and Transaction Codes.",
-        "mrrDelta": null,
-        "rankDelta": null
+        "mrrDelta": 0,
+        "rankDelta": 3
       },
       {
         "name": "Youtube Transcript Dev | Extract & Download Video Transcripts",
@@ -3346,7 +3415,7 @@
         "growthPct": 39.73,
         "description": "Go beyond basic YouTube captions. Extract transcripts from any youtube video using audio-based transcription when captions aren't available. Then do more with your transcripts — generate mindmaps, create summaries, or chat with the content to find exactly what you need.\n\n8000 Total Users (300-600 new users each week)\n\nSDKs, MCP, Web Extension, Mobile App (In Review - App Store)\n\nEdtech Module have 3000+ students including from Top US Colleges.\n\nThumbnail Dev Module to Generate Youtube Thumbnails",
         "mrrDelta": 9,
-        "rankDelta": 6
+        "rankDelta": 5
       },
       {
         "name": "Whisper",
@@ -3355,7 +3424,7 @@
         "growthPct": 60.92,
         "description": "Whisper is an AI assistant that helps you work smarter by staying completely invisible during screen sharing.",
         "mrrDelta": -1,
-        "rankDelta": 3
+        "rankDelta": 2
       },
       {
         "name": "Hired",
@@ -3364,7 +3433,7 @@
         "growthPct": -2.39,
         "description": "Hired automates your entire job search — from discovering opportunities and finding hiring managers to sending personalised applications and leveraging internal company networks it's feature rich and uses users personal gmail to send emails too, primed for distribution.",
         "mrrDelta": 0,
-        "rankDelta": 3
+        "rankDelta": 2
       },
       {
         "name": "Pandascrow, Inc.",
@@ -3373,7 +3442,7 @@
         "growthPct": 986.18,
         "description": "Pandascrow is a payment solution built on escrow technology to help Africa’s best businesses grow - from new startups, to market leaders in the commerce industry and beyond.",
         "mrrDelta": 0,
-        "rankDelta": 4
+        "rankDelta": 3
       },
       {
         "name": "WP CRITIQUE",
@@ -3381,8 +3450,8 @@
         "mrr": 211,
         "growthPct": 1223.2,
         "description": "WP Critique provides WordPress support services including assistance, migration, optimization, and malware removal.",
-        "mrrDelta": 11,
-        "rankDelta": 5
+        "mrrDelta": -1,
+        "rankDelta": 3
       },
       {
         "name": "Crawlly AI",
@@ -3408,8 +3477,8 @@
         "mrr": 203,
         "growthPct": -11.94,
         "description": "AI generated running training plans",
-        "mrrDelta": 59,
-        "rankDelta": 16
+        "mrrDelta": 44,
+        "rankDelta": 13
       },
       {
         "name": "Infinia",
@@ -3427,7 +3496,7 @@
         "growthPct": 37.5,
         "description": "Email Phishing Scanner: detect scams, suspicious links and fraudulent email!\n\nThis Chrome extension helps you identify phishing emails, online scams and fraud attempts directly while reading your email in the browser.\n\nWhat this extension does:\n- Analyzes email content to detect phishing\n- Checks suspicious links\n- Highlights warning signs such as fake urgency, unusual requests\n- Alerts you when an email may be a scam or phishing attempt\n- Works directly inside your browser with no complex setup",
         "mrrDelta": 0,
-        "rankDelta": 1
+        "rankDelta": 0
       },
       {
         "name": "MyAgentMail",
@@ -3436,7 +3505,7 @@
         "growthPct": 3107.55,
         "description": "MyAgentMail is a transactional email infrastructure platform for developers and businesses building AI agents. We provide email APIs, IMAP/SMTP access, and custom domain management so that AI agents can programmatically send, receive, and manage email on behalf of their users.\nOur customers are developers, startups, and enterprises who need to equip their AI agents with dedicated email addresses for transactional use cases",
         "mrrDelta": 0,
-        "rankDelta": 1
+        "rankDelta": 0
       },
       {
         "name": "SalesGenie",
@@ -3445,7 +3514,7 @@
         "growthPct": 1445.2,
         "description": "SalesGenie is a Discord bot built specifically for paid community owners. Instead of just welcoming users and hoping they figure things out themselves, the moment someone joins your server, SalesGenie opens a private ticket/thread channel with them and starts a real 1on1 conversation. It welcomes them, finds out why they joined, uncovers their goals and pain points, handles their doubts, answers their questions, and guides them toward your paid membership.",
         "mrrDelta": 0,
-        "rankDelta": 1
+        "rankDelta": 0
       },
       {
         "name": "Talon",
@@ -3454,7 +3523,7 @@
         "growthPct": 2112.96,
         "description": "Organize your X Bookmarks using AI:\nAutomatic Rules, Auto-label, chat with your bookmarks and much more",
         "mrrDelta": 0,
-        "rankDelta": 1
+        "rankDelta": 0
       },
       {
         "name": "InsiteGPT",
@@ -3463,7 +3532,7 @@
         "growthPct": 117.8,
         "description": "InsiteGPT turns your docs, site, and help center into a support agent that answers customers and captures leads automatically, no developer required.",
         "mrrDelta": 0,
-        "rankDelta": 2
+        "rankDelta": 0
       },
       {
         "name": "Youtube to Transcript",
@@ -3471,8 +3540,8 @@
         "mrr": 182,
         "growthPct": 28.65,
         "description": "YouTube to Transcript is an active Chrome extension with 20K WAU in CWS\n\nMetrics: \n+ $200 MRR, \n+ $45/mo costs, \n+ 10k+ registered users.\n+ 40% users from Tier 1 countries (20% USA)\n\nThe sale includes the Chrome Web Store asset, a top-ranked WordPress landing page with avg. position 7.4, and a Bubble.io backend (I can move it to your server). \n\nMonetization: SaaS subscriptions & lifetime deals. \nGrowth points: leveraging content SEO and migrating to custom code to drop operating costs to $15/mo.",
-        "mrrDelta": null,
-        "rankDelta": null
+        "mrrDelta": 10,
+        "rankDelta": 2
       },
       {
         "name": "ZeroLeaks",
@@ -3481,7 +3550,7 @@
         "growthPct": 1122.86,
         "description": null,
         "mrrDelta": 0,
-        "rankDelta": 1
+        "rankDelta": 0
       },
       {
         "name": "Compresto",
@@ -3489,7 +3558,7 @@
         "mrr": 172,
         "growthPct": -1.42,
         "description": "Compresto.app is a macOS app that quickly compresses images, videos, PDFs, and GIFs with minimal loss in quality, helping users reduce file sizes for storage or sharing.",
-        "mrrDelta": -14,
+        "mrrDelta": -7,
         "rankDelta": -2
       },
       {
@@ -3498,7 +3567,7 @@
         "mrr": 171,
         "growthPct": -78.18,
         "description": "Guara Cloud é uma plataforma de nuvem brasileira que oferece deploy, observabilidade, escala e segurança. Ela permite que desenvolvedores lancem suas aplicações rapidamente com infraestrutura nacional e preços em Reais.",
-        "mrrDelta": 2,
+        "mrrDelta": 1,
         "rankDelta": 0
       },
       {
@@ -3507,7 +3576,7 @@
         "mrr": 161,
         "growthPct": -55.43,
         "description": "WidGeek Widget is the fastest and most fun way to stay close to your best friends by beaming your mood directly to their Home Screen.",
-        "mrrDelta": -2,
+        "mrrDelta": -1,
         "rankDelta": 1
       },
       {
@@ -3525,8 +3594,8 @@
         "mrr": 153,
         "growthPct": 1001.43,
         "description": "BabelBot is a real-time translation bot for Discord servers, using AI to translate messages instantly.",
-        "mrrDelta": null,
-        "rankDelta": null
+        "mrrDelta": 0,
+        "rankDelta": 1
       },
       {
         "name": "MyCareerMate",
@@ -3534,8 +3603,8 @@
         "mrr": 152,
         "growthPct": 2220.24,
         "description": "Resume Builder, Linkedin Optimiser, Mentorship, AI Job Matching",
-        "mrrDelta": 14,
-        "rankDelta": 4
+        "mrrDelta": 0,
+        "rankDelta": 1
       },
       {
         "name": "Mention Drop",
@@ -3544,7 +3613,7 @@
         "growthPct": 862.07,
         "description": "MentionDrop is a real-time web mention monitoring platform built for founders, marketers, and DevRel teams who need to know the moment their brand, product, or competitors get mentioned online. Positioned as a functional replacement for Google Alerts, it crawls billions of web pages daily and delivers intelligent, context-aware notifications through email, Slack, or webhook integrations.",
         "mrrDelta": 0,
-        "rankDelta": -1
+        "rankDelta": 1
       },
       {
         "name": "Sneakmart",
@@ -3553,7 +3622,7 @@
         "growthPct": -50.82,
         "description": "The best contemporary, luxury and urban brands, carefully selected, at prices reserved for members.",
         "mrrDelta": 0,
-        "rankDelta": -1
+        "rankDelta": 1
       },
       {
         "name": "Mixels.ai",
@@ -3562,7 +3631,7 @@
         "growthPct": 5.43,
         "description": "Digital pixel art editing app with built in Ai generation, offering subscription based models as well as token packs for generating images.",
         "mrrDelta": 0,
-        "rankDelta": 0
+        "rankDelta": 1
       },
       {
         "name": "webnovelai",
@@ -3598,7 +3667,7 @@
         "growthPct": 0,
         "description": "Help your company get discovered in AI/LLMs",
         "mrrDelta": 0,
-        "rankDelta": 1
+        "rankDelta": 0
       },
       {
         "name": "RookieDex: Sports Card Scanner",
@@ -3616,7 +3685,7 @@
         "growthPct": 1.53,
         "description": "Managed hosting for OpenClaw. Deploy your own instance in under a minute — no servers, no setup, no maintenance. Your AI agents run 24/7 on reliable infrastructure. Scale with multiple instances, all managed from a single dashboard.",
         "mrrDelta": 0,
-        "rankDelta": 0
+        "rankDelta": -1
       },
       {
         "name": "philosopherinvestor.substack",
@@ -3634,7 +3703,7 @@
         "growthPct": 31.42,
         "description": "● Practice Chinese writing without limits. Full Pro access for 1 year.\n\n  What You Get\n\n  - Unlimited Practice & Worksheets — Practice anytime and generate unlimited worksheets, with up to 200 characters per sheet\n  - All HSK PDFs — Download HSK 1–9 worksheets in both HSK 2.0 and 3.0\n  - SRS Flashcards — Unlock flashcards for all HSK levels\n  - Unlimited HSK Level Checker — Check Chinese text with no daily limits\n  - Vocabulary Export & Groups — Save, organize, and export your vocabulary\n  - All",
         "mrrDelta": 4,
-        "rankDelta": 0
+        "rankDelta": -1
       },
       {
         "name": "Rendervi",
@@ -3652,7 +3721,7 @@
         "growthPct": -52.58,
         "description": "A tool to build courses with AI",
         "mrrDelta": -220,
-        "rankDelta": -44
+        "rankDelta": -48
       },
       {
         "name": "YAOKA",
@@ -3661,7 +3730,7 @@
         "growthPct": -2.09,
         "description": "YAOKA creates, sends, and follows up on your invoices for you, compliant by design, powered by AI, designed for French small businesses.",
         "mrrDelta": 0,
-        "rankDelta": -4
+        "rankDelta": -5
       },
       {
         "name": "Gifts Qr",
@@ -3670,7 +3739,7 @@
         "growthPct": 185.3,
         "description": "Giftsqr allows users to create personalized online gifts using QR codes for various occasions.",
         "mrrDelta": 0,
-        "rankDelta": -3
+        "rankDelta": -4
       },
       {
         "name": "Maynuu",
@@ -3679,7 +3748,7 @@
         "growthPct": -83.6,
         "description": "A system to help small businesses accept online orders & reservations easily, with payment processing and delivery integration. Customers are charged during checkout.",
         "mrrDelta": null,
-        "rankDelta": 97
+        "rankDelta": 94
       },
       {
         "name": "CitoHR",
@@ -3688,7 +3757,7 @@
         "growthPct": -38.45,
         "description": "Simple, affordable HR for SMEs and startups. Set up in minutes, not months.",
         "mrrDelta": -4,
-        "rankDelta": -4
+        "rankDelta": -5
       },
       {
         "name": "GPT Master",
@@ -3697,7 +3766,7 @@
         "growthPct": 892.65,
         "description": "ChatGPT Power Toolkit",
         "mrrDelta": 0,
-        "rankDelta": -4
+        "rankDelta": -5
       },
       {
         "name": "VibeFast",
@@ -3750,8 +3819,8 @@
         "mrr": 95,
         "growthPct": -2.56,
         "description": "Extract Amazon reviews in one click. Analyse with AI, save as CSV/Excel/JSON. No coding needed.\n\nThis Chrome extension scrapes reviews from any product page, delivers AI-powered summaries of pros, cons, and buyer insights, and pulls up to 500 unique reviews per ASIN with Max Mode. Export to CSV, Excel, or JSON, plus sort, filter, and search before exporting. Built for Amazon sellers, researchers, and e-commerce teams who need clean review data fast.",
-        "mrrDelta": 9,
-        "rankDelta": 0
+        "mrrDelta": -9,
+        "rankDelta": -10
       },
       {
         "name": "Catch a Monster Hub",
@@ -3786,8 +3855,8 @@
         "mrr": 85,
         "growthPct": 92.38,
         "description": "Transitioned to superwall, revenue is not updated..\n\nNoteWall turns your lock screen into a personal reminder board. Add notes, reminders, goals, habits, or quotes, and they appear right on your lock screen.",
-        "mrrDelta": 17,
-        "rankDelta": 4
+        "mrrDelta": 1,
+        "rankDelta": -4
       },
       {
         "name": "Cite Me",
@@ -3823,7 +3892,7 @@
         "growthPct": null,
         "description": "Old business funding my new SAAS GojiberryAI : Check out my website for some tips :)",
         "mrrDelta": 0,
-        "rankDelta": -4
+        "rankDelta": -6
       },
       {
         "name": "Bookmarker",
@@ -3832,7 +3901,7 @@
         "growthPct": 800,
         "description": "Smart bookmark manager. \nCollect, organize and share your bookmarks, all in one place.\n\nAI-powered analysis, Auto titles, descriptions, tags & ALT text, AI upscale to 4K, Smart search (color, type), Generate color palettes, Drag & drop uploads, Copy paste image capture",
         "mrrDelta": 0,
-        "rankDelta": -3
+        "rankDelta": -5
       },
       {
         "name": "SkipCut",
@@ -3840,8 +3909,8 @@
         "mrr": 69,
         "growthPct": -55.45,
         "description": "watch videos without distractions.",
-        "mrrDelta": -9,
-        "rankDelta": -8
+        "mrrDelta": 0,
+        "rankDelta": -5
       },
       {
         "name": "Linkie",
@@ -3849,8 +3918,8 @@
         "mrr": 66,
         "growthPct": 2295.22,
         "description": "A customizable link-in-bio tool that lets creators and businesses showcase all their important links, content, and products in one sleek, unbranded page - perfect for sharing across social media.",
-        "mrrDelta": 7,
-        "rankDelta": 0
+        "mrrDelta": 0,
+        "rankDelta": -4
       },
       {
         "name": "careervivid",
@@ -3859,7 +3928,7 @@
         "growthPct": 1906.69,
         "description": "CareerVivid is an AI-powered platform designed to help job seekers craft professional resumes and confidently prepare for interviews. Leveraging the Gemini API, users can instantly generate or parse resumes, receive AI suggestions to enhance their content, and choose from a variety of professional templates. The integrated Interview Studio offers realistic mock interviews with a voice-based AI agent, providing detailed performance analysis and feedback to help users succeed in their job search.",
         "mrrDelta": 0,
-        "rankDelta": -3
+        "rankDelta": -4
       },
       {
         "name": "Kuomba",
@@ -3868,7 +3937,7 @@
         "growthPct": 3327.14,
         "description": "Kuomba is a job application tool, helping candidates find job, track applications, build resumes, cover letters and more.",
         "mrrDelta": 0,
-        "rankDelta": -3
+        "rankDelta": -4
       },
       {
         "name": "The Pepino Brand",
@@ -3877,7 +3946,7 @@
         "growthPct": 803.08,
         "description": "The Pepino Brand es un software de gestión de marca (BrandOS) que centraliza activos (logos, tipografías, colores, plantillas) y facilita su uso y compartición. Incluye conversor multiformato, almacenamiento en la nube y personalización del portal, con soporte y onboarding.",
         "mrrDelta": 0,
-        "rankDelta": -2
+        "rankDelta": -4
       },
       {
         "name": "PhotoGuruAI",
@@ -3886,7 +3955,7 @@
         "growthPct": 729.18,
         "description": "AI Professional Headshot Generator",
         "mrrDelta": 0,
-        "rankDelta": -2
+        "rankDelta": -4
       },
       {
         "name": "True Moments",
@@ -3895,7 +3964,7 @@
         "growthPct": 0,
         "description": "Bring your photos to life in seconds.",
         "mrrDelta": 0,
-        "rankDelta": -2
+        "rankDelta": -4
       },
       {
         "name": "RestoreBunny",
@@ -3904,7 +3973,7 @@
         "growthPct": -48.61,
         "description": "Restore old and damaged photos with AI. Fix blur, scratches, faded colors, and bring old memories back to life in minutes.",
         "mrrDelta": 0,
-        "rankDelta": -2
+        "rankDelta": -4
       },
       {
         "name": "slidelabs.net",
@@ -3913,7 +3982,7 @@
         "growthPct": 783.33,
         "description": "SlideLabs operates as a subscription-based web application that provides AI-assisted software tools for marketers and creators. Customers access the product online after signing up and paying through our website. Our services include trend-research and content-planning features based on user-provided keywords, and tools to generate styled product and marketing imagery from images users upload. We deliver access to the software over the internet; we do not ship physical goods.",
         "mrrDelta": 0,
-        "rankDelta": -1
+        "rankDelta": -3
       },
       {
         "name": "Vercel Analytics — Verceltics",
@@ -3921,8 +3990,8 @@
         "mrr": 53,
         "growthPct": -30.24,
         "description": "Native iOS app for Vercel users to check Web Analytics, projects, deployments, domains, referrers, devices, countries, and UTM data from iPhone. Open source, with local token storage in iOS Keychain and optional App Store unlocks.",
-        "mrrDelta": 13,
-        "rankDelta": 12
+        "mrrDelta": 5,
+        "rankDelta": 2
       },
       {
         "name": "ConvertAudioToText",
@@ -3930,8 +3999,8 @@
         "mrr": 50,
         "growthPct": 15243.23,
         "description": "Convert audio & video to text instantly. 99% accurate AI transcription with speaker detection. 99+ languages. 10 minutes free.",
-        "mrrDelta": 10,
-        "rankDelta": 9
+        "mrrDelta": 0,
+        "rankDelta": -4
       },
       {
         "name": "Tiller",
@@ -3940,7 +4009,7 @@
         "growthPct": -62.56,
         "description": "Deploy AI agents with one click.",
         "mrrDelta": 0,
-        "rankDelta": -3
+        "rankDelta": -4
       },
       {
         "name": "Gately",
@@ -3949,7 +4018,7 @@
         "growthPct": -39.51,
         "description": "Create powerful gated experiences with built-in authentication, customizable forms, payment processing, email campaigns, and helpdesk support — all in one place.",
         "mrrDelta": 0,
-        "rankDelta": -3
+        "rankDelta": -4
       },
       {
         "name": "OverThink",
@@ -3958,7 +4027,7 @@
         "growthPct": 0,
         "description": "software and training services and we charge instantly at checkout and recurring each month",
         "mrrDelta": 0,
-        "rankDelta": -3
+        "rankDelta": -4
       },
       {
         "name": "Travedeus",
@@ -3967,7 +4036,7 @@
         "growthPct": 1100,
         "description": "Travedeus is a travel agency website builder.",
         "mrrDelta": 0,
-        "rankDelta": -3
+        "rankDelta": -4
       },
       {
         "name": "Applausible",
@@ -3993,8 +4062,8 @@
         "mrr": 46,
         "growthPct": 146.61,
         "description": "I sell a MacOS menu bar app to help users track their AI token usage in Claude Code & Codex.",
-        "mrrDelta": 16,
-        "rankDelta": 15
+        "mrrDelta": 12,
+        "rankDelta": 9
       },
       {
         "name": "Dog Walker Central",
@@ -4003,7 +4072,7 @@
         "growthPct": -26.21,
         "description": "We are pet care providers creating a platform for other pet care providers to manage their business",
         "mrrDelta": 0,
-        "rankDelta": -3
+        "rankDelta": -4
       },
       {
         "name": "Loop Mind",
@@ -4012,7 +4081,7 @@
         "growthPct": -43.47,
         "description": "Loop Mind listens, finds the pattern your thoughts are stuck in, and shows you what your brain is actually doing.",
         "mrrDelta": 0,
-        "rankDelta": -5
+        "rankDelta": -4
       },
       {
         "name": "DateMore",
@@ -4030,7 +4099,7 @@
         "growthPct": 1556.97,
         "description": "Conversion intelligence platform for LLM",
         "mrrDelta": 0,
-        "rankDelta": -4
+        "rankDelta": -5
       },
       {
         "name": "Heard - Journal That Talks Back",
@@ -4039,7 +4108,7 @@
         "growthPct": 2921.3,
         "description": "Heard is an AI-powered voice journaling app designed to feel like a best friend that listens, remembers, and helps users better understand themselves. Users simply talk naturally while the app transcribes conversations, asks thoughtful follow-up questions, and helps uncover emotional patterns, habits, and personal growth over time. Combines AI conversation, voice journaling, mood reflection, and companion-style UX into a highly relatable Gen Z/Millennial wellness product.",
         "mrrDelta": 0,
-        "rankDelta": -2
+        "rankDelta": -4
       },
       {
         "name": "Doors Delivered",
@@ -4048,7 +4117,7 @@
         "growthPct": -55.67,
         "description": "DoorsDelivered.com is your trusted online supplier of high-quality internal doors and accessories. We specialise in a wide range of modern and classic solutions, including white doors, black doors, pocket doors, concealed doors, aluminium doors, frameless doors, fire doors, etc.. Designed for homeowners, developers, and trade professionals.With competitive pricing, expert support, and fast nationwide delivery. DoorsDelivered.com makes choosing the right internal doors simple and hassle-free.",
         "mrrDelta": 0,
-        "rankDelta": -1
+        "rankDelta": -4
       },
       {
         "name": "SiteRoast",
@@ -4057,7 +4126,7 @@
         "growthPct": 6510.17,
         "description": "Siteroast is a single‑URL to full conversion audit engine designed specifically for SaaS and marketing sites. Paste in a landing page URL, and Siteroast captures the page, runs structured programmatic checks, and layers a consulting‑style AI review on top to deliver a detailed CRO audit and fix plan.",
         "mrrDelta": 0,
-        "rankDelta": -1
+        "rankDelta": -4
       },
       {
         "name": "Cornerman",
@@ -4066,7 +4135,7 @@
         "growthPct": 1950,
         "description": "Your next job\nstarts here.\nFind jobs. Apply smarter. Nail the interview.\n\nCornerman is the AI copilot for the hardest job market in a decade. Discover roles, tailor your resume, track every application, and get coached through the interview — all for a dollar to start.\n\nStart your $1 trial",
         "mrrDelta": 0,
-        "rankDelta": -1
+        "rankDelta": -4
       },
       {
         "name": "SpendSpace.io",
@@ -4075,7 +4144,7 @@
         "growthPct": 58.33,
         "description": "This is the only personal finance app that gives you complete control in defining your income and spending categories. Learn how to track your spending, set budgets, spot subscriptions, credit card analysis, observe trends, and month over month spending habits",
         "mrrDelta": 4,
-        "rankDelta": 1
+        "rankDelta": -2
       },
       {
         "name": "StatsPanda.com",
@@ -4084,7 +4153,7 @@
         "growthPct": 42.94,
         "description": "Explore live statistics on countries, U.S. states, population data, and global trends. Real-time counters and comprehensive demographic insights.",
         "mrrDelta": 0,
-        "rankDelta": -2
+        "rankDelta": -5
       },
       {
         "name": "ADDINVOICES",
@@ -4102,7 +4171,7 @@
         "growthPct": 724.89,
         "description": "Reflectary is an AI-powered journaling app that turns your daily reflections (text or voice) into structured journal entries, complete with unique cover images. It also features a weekly streak system to build consistency. Designed to support mental clarity and self-growth, it blends simplicity with meaningful insights.",
         "mrrDelta": 0,
-        "rankDelta": -1
+        "rankDelta": -4
       },
       {
         "name": "esim4u",
@@ -4111,7 +4180,7 @@
         "growthPct": 73.44,
         "description": "Telegram Mini App - Traveling the world or needing a reliable connection wherever you are. No need to look further. With our bot, purchase eSIMs from virtually anywhere on the globe.",
         "mrrDelta": 0,
-        "rankDelta": -1
+        "rankDelta": -2
       },
       {
         "name": "NutriGenie",
@@ -4120,7 +4189,7 @@
         "growthPct": 1034.85,
         "description": "NutriGenie is the world's first AI-Powered personal nutritionist. The \"Genie\" provides personalized advice to every single user, based on their specific fitness goals, health conditions, and dietary restrictions.\n\nHow It Works\n\n1) Set Your Goals – Tell NutriGenie what matters to you\n\n2) Scan Any Barcode – Instantly see if a food aligns with your goals\n\n3) Make Smarter Choices – Avoid foods that slow your progress\n\nParents love the app because they can create a profile for each of their children.",
         "mrrDelta": 0,
-        "rankDelta": -1
+        "rankDelta": -2
       },
       {
         "name": "1418 Technologies LLC",
@@ -4129,7 +4198,7 @@
         "growthPct": 6666.67,
         "description": "Modern technology services for individuals and businesses.",
         "mrrDelta": 0,
-        "rankDelta": -1
+        "rankDelta": -2
       },
       {
         "name": "ShotLab",
@@ -4138,7 +4207,7 @@
         "growthPct": 1357.29,
         "description": "Make your screenshots stand out with stunning backgrounds, frames, drop shadows, cool stickers & more.",
         "mrrDelta": 0,
-        "rankDelta": 0
+        "rankDelta": -2
       },
       {
         "name": "FindAffiliates",
@@ -4146,8 +4215,8 @@
         "mrr": 29,
         "growthPct": 1242.76,
         "description": "The fastest way to find affiliate programs for your content and business.",
-        "mrrDelta": null,
-        "rankDelta": null
+        "mrrDelta": 0,
+        "rankDelta": -2
       },
       {
         "name": "RedditPill",
@@ -4156,7 +4225,7 @@
         "growthPct": 0,
         "description": "Reddit marketing tool for SaaS founders.",
         "mrrDelta": 0,
-        "rankDelta": 0
+        "rankDelta": -2
       },
       {
         "name": "Micro Coach",
@@ -4165,7 +4234,7 @@
         "growthPct": 0,
         "description": "Micro Coach is a fitness coaching app that guides users through structured training blocks, tracks workouts, and adapts future programs based on progress. Users follow scheduled workouts, log sets, reps, and weights, view performance trends, and receive updated training plans at the end of each block, helping them train smarter and consistently progress toward their goals.",
         "mrrDelta": 0,
-        "rankDelta": 1
+        "rankDelta": -2
       },
       {
         "name": "Hosted Status Page",
@@ -4174,7 +4243,7 @@
         "growthPct": 3985.88,
         "description": "Hosted Status Page - A SaaS status page platform built with Go and PostgreSQL. Customers get branded, multi-region status pages with uptime monitoring, incident management, scheduled maintenance windows, and real-time component health. A wide range of notification channels keeps teams instantly in the loop on incidents, while an embeddable widget and WordPress plugin let any business show live status anywhere. Built for reliability-focused teams who want trust and transparency.",
         "mrrDelta": 0,
-        "rankDelta": 1
+        "rankDelta": -2
       },
       {
         "name": "Lorea",
@@ -4182,8 +4251,8 @@
         "mrr": 25,
         "growthPct": 3775,
         "description": "Lorea.app is an AI-powered educational platform (SaaS) that provides students with interactive study tools. We offer AI-generated 3D study worlds, automated summaries of lecture materials, and custom mock exams.",
-        "mrrDelta": -18,
-        "rankDelta": -22
+        "mrrDelta": -8,
+        "rankDelta": -11
       },
       {
         "name": "DockUI",
@@ -4192,7 +4261,7 @@
         "growthPct": 1588.98,
         "description": "DockUI provides SwiftUI templates and a design tool for iOS developers.",
         "mrrDelta": 5,
-        "rankDelta": 4
+        "rankDelta": 3
       },
       {
         "name": "H1BVisajobs.com",
@@ -4200,8 +4269,8 @@
         "mrr": 25,
         "growthPct": -20,
         "description": "We connect job seekers with correct employer to get the H1B Visa sponsorship.",
-        "mrrDelta": -100,
-        "rankDelta": -67
+        "mrrDelta": 0,
+        "rankDelta": -4
       },
       {
         "name": "luttie",
@@ -4210,7 +4279,7 @@
         "growthPct": 1634.95,
         "description": "color grade from the browser. create LUTS and use them in your editing software of choice",
         "mrrDelta": 2,
-        "rankDelta": 0
+        "rankDelta": -1
       },
       {
         "name": "Hijama.app",
@@ -4218,8 +4287,8 @@
         "mrr": 23,
         "growthPct": 868.68,
         "description": "Une annuaire de praticien de hijama",
-        "mrrDelta": -131,
-        "rankDelta": -77
+        "mrrDelta": 0,
+        "rankDelta": -5
       },
       {
         "name": "Pear MCP",
@@ -4228,7 +4297,7 @@
         "growthPct": 714.83,
         "description": "Pear MCP connects Apple iCloud (Calendar, Reminders, Contacts) to AI assistants like Claude, ChatGPT, and Cursor via the Model Context Protocol. 29 tools for full CRUD — create events, manage reminders, search contacts, find free slots, and more. No local install; 2-minute setup with Apple app-specific passwords. Built with Next.js 15, Supabase, Stripe. Freemium model: free tier (200 calls/mo), one-time $29 Pro for unlimited. First-to-market — no competitor covers all three iCloud services.",
         "mrrDelta": 0,
-        "rankDelta": -4
+        "rankDelta": -5
       },
       {
         "name": "TypeBoost",
@@ -4237,7 +4306,7 @@
         "growthPct": 122.17,
         "description": "TypeBoost is a macOS desktop app that allows users to apply AI text prompts system-wide to highlighted text – directly within other applications, without leaving the context. The app is launched via a global keyboard shortcut and enables users to quickly apply saved AI prompts to text, for example, to improve emails or edit text creatively.",
         "mrrDelta": 0,
-        "rankDelta": -4
+        "rankDelta": -5
       },
       {
         "name": "InstanteCard",
@@ -4246,7 +4315,7 @@
         "growthPct": 1581.14,
         "description": "Send beautiful, personalized digital cards for any occasion in under 2 minutes.",
         "mrrDelta": 0,
-        "rankDelta": -3
+        "rankDelta": -4
       },
       {
         "name": "MarketingCheat",
@@ -4255,7 +4324,7 @@
         "growthPct": 1034.72,
         "description": "SaaS to automate TikTok marketing.",
         "mrrDelta": 0,
-        "rankDelta": -2
+        "rankDelta": -3
       },
       {
         "name": "PlainMarkdown",
@@ -4263,8 +4332,8 @@
         "mrr": 19,
         "growthPct": -66.67,
         "description": "Convert any webpage into clean Markdown with one click.\nEdit inline, run AI actions like summarize, fact-check, or your own prompts, and send the result to your notes app.",
-        "mrrDelta": 0,
-        "rankDelta": 2
+        "mrrDelta": null,
+        "rankDelta": null
       },
       {
         "name": "HabitBox",
@@ -4273,7 +4342,7 @@
         "growthPct": 934.24,
         "description": "HabitBox is a habit tracking app that helps users build better habits and break bad ones.",
         "mrrDelta": 0,
-        "rankDelta": 3
+        "rankDelta": -1
       },
       {
         "name": "HabitBox",
@@ -4282,7 +4351,7 @@
         "growthPct": 934.24,
         "description": "HabitBox is your all-in-one habit tracker, designed to help you stay consistent and motivated.",
         "mrrDelta": 0,
-        "rankDelta": 2
+        "rankDelta": -2
       },
       {
         "name": "Jodu",
@@ -4291,7 +4360,7 @@
         "growthPct": 751.62,
         "description": "Make easy scrapbook and collages to curate digital photos and share to friends and clients.",
         "mrrDelta": 0,
-        "rankDelta": 2
+        "rankDelta": -2
       },
       {
         "name": "Pain Base",
@@ -4300,7 +4369,7 @@
         "growthPct": 687.48,
         "description": "All-in-one tool for founders. Validate ideas - Grow users",
         "mrrDelta": 0,
-        "rankDelta": 3
+        "rankDelta": -2
       },
       {
         "name": "Linkship",
@@ -4309,7 +4378,7 @@
         "growthPct": 0,
         "description": "Create a stunning link-in-bio page in minutes. Custom themes, real-time analytics, and a Pro plan that won't break the bank. Free forever, Pro from $5/mo.",
         "mrrDelta": 0,
-        "rankDelta": 1
+        "rankDelta": -2
       },
       {
         "name": "OFL",
@@ -4318,7 +4387,7 @@
         "growthPct": -72.64,
         "description": "Browse leaked content from OnlyFans, Fansly, Patreon, Fanbox and more.",
         "mrrDelta": 0,
-        "rankDelta": 2
+        "rankDelta": -2
       },
       {
         "name": "The World Now",
@@ -4326,8 +4395,8 @@
         "mrr": 14,
         "growthPct": 58.26,
         "description": "The World Now is a real-time global intelligence platform that tracks conflicts, natural disasters, and geopolitical events on an interactive 3D globe. \n\nOur flagship feature, Catalyst, uses AI to analyze how world events impact 28 financial assets — crypto, forex, equities, and commodities — with multi-timeframe market predictions. Live trackers cover earthquakes, wildfires, hurricanes, volcanic eruptions, and active conflicts worldwide. Built for traders, analysts,  and anyone who needs to und",
-        "mrrDelta": 2,
-        "rankDelta": 5
+        "mrrDelta": 0,
+        "rankDelta": -2
       },
       {
         "name": "SeggWat",
@@ -4336,7 +4405,7 @@
         "growthPct": 1131.84,
         "description": "SeggWat — Feedback collection platform for product teams. Embeddable widgets with feature voting, a public roadmap, and a feedback reward system that incentivizes users to share insights. Drop into any website with a single script tag. Includes a dashboard for triage, a Chrome extension for annotated screenshots, an iOS app for  mobile triage, and an MCP server for AI-powered workflows.",
         "mrrDelta": 0,
-        "rankDelta": 1
+        "rankDelta": -2
       },
       {
         "name": "Notiq",
@@ -4344,8 +4413,8 @@
         "mrr": 12,
         "growthPct": null,
         "description": "Turn any youtube video into structured notes",
-        "mrrDelta": null,
-        "rankDelta": null
+        "mrrDelta": 0,
+        "rankDelta": -2
       },
       {
         "name": "LocManage - Gestion Locative",
@@ -4354,7 +4423,7 @@
         "growthPct": 821.87,
         "description": "Gérez vos locations en toute simplicité. L'app de gestion locative moderne et conforme à la loi française pour les propriétaires bailleurs.",
         "mrrDelta": 0,
-        "rankDelta": 1
+        "rankDelta": -1
       },
       {
         "name": "Moonshift",
@@ -4363,7 +4432,7 @@
         "growthPct": 6807.55,
         "description": "Moonshift helps you build, deploy, and market projects from just an idea, while you sleep.",
         "mrrDelta": 0,
-        "rankDelta": 2
+        "rankDelta": -1
       },
       {
         "name": "Slashit App",
@@ -4381,7 +4450,7 @@
         "growthPct": 0,
         "description": "​ZyloChat is a social media automation platform designed to enhance user engagement and streamline social media management. It offers features such as AI-powered auto-replies, trigger-based responses, automated direct message handling, story reply automation, engagement analytics, AI-generated captions, smart hashtag suggestions, bulk post scheduling, and multi-platform posting. These tools aim to help businesses and influencers manage their social media presence more effectively.\nUsers have pra",
         "mrrDelta": 0,
-        "rankDelta": 2
+        "rankDelta": -1
       },
       {
         "name": "MDskills.ai",
@@ -4390,7 +4459,7 @@
         "growthPct": 0,
         "description": "Welcome to the Open Skills Ecosystem\nThe community layer for AI agent skills\n\nDiscover, create, fork, and share reusable capabilities for Claude Code, Codex, Cursor, and 18+ AI agents.\n\nEvery listing is reviewed by the Skill Advisor for quality, security, and compatibility.",
         "mrrDelta": 0,
-        "rankDelta": 2
+        "rankDelta": -1
       },
       {
         "name": "CalBudget",
@@ -4398,8 +4467,8 @@
         "mrr": 8,
         "growthPct": 4272.75,
         "description": "CalBudget helps you take control of your finances with AI-powered budgeting. Instead of complicated spreadsheets or rigid budgeting apps, CalBudget analyzes your spending and automatically builds a personalized monthly plan that actually fits your lifestyle. Track expenses, understand your spending patterns, and get a clear picture of where your money is going — all in one simple dashboard.",
-        "mrrDelta": null,
-        "rankDelta": null
+        "mrrDelta": 0,
+        "rankDelta": -1
       },
       {
         "name": "Coaching Marketing Kit LLC",
@@ -4408,7 +4477,7 @@
         "growthPct": 1010,
         "description": "PLR Box offers an expansive digital product library designed for entrepreneurs, creators, and marketers who want to accelerate their online business success. With over 1000 high-quality resources at your fingertips, AssetBay provides everything you need to create, customize, and sell digital products under your brand.",
         "mrrDelta": 0,
-        "rankDelta": 1
+        "rankDelta": -1
       },
       {
         "name": "ShipTested",
@@ -4417,7 +4486,7 @@
         "growthPct": 197.68,
         "description": "You shipped your MVP with ChatGPT. Now stop shipping scared. Get AI-generated tests that actually pass and run, designed for apps built with AI.",
         "mrrDelta": 0,
-        "rankDelta": 2
+        "rankDelta": -1
       },
       {
         "name": "Declutr - Swipe to Delete Unwanted Photos",
@@ -4426,7 +4495,7 @@
         "growthPct": 1054.03,
         "description": "Tired of a cluttered gallery? Swipe to Delete makes organizing your photos quick, easy, and satisfying. With simple swipe gestures, you can delete unwanted photos, duplicates, or blurry shots in seconds. No complicated steps, no long menus — just swipe and clean!",
         "mrrDelta": 0,
-        "rankDelta": 2
+        "rankDelta": -1
       },
       {
         "name": "Track My Geo",
@@ -4435,7 +4504,7 @@
         "growthPct": 0,
         "description": "Real-time geo tracking. Zero hardware. One Phone.\nTurn everyday phones into fleet GPS trackers.",
         "mrrDelta": 0,
-        "rankDelta": 2
+        "rankDelta": -1
       },
       {
         "name": "Offthecuffspeech",
@@ -4443,8 +4512,8 @@
         "mrr": 3,
         "growthPct": 4092.83,
         "description": "Improve public speaking skills with random impromptu topics - one minute daily practice.",
-        "mrrDelta": -3,
-        "rankDelta": -2
+        "mrrDelta": 2,
+        "rankDelta": 0
       },
       {
         "name": "BoardSpy Inc",
@@ -4453,7 +4522,7 @@
         "growthPct": 10000,
         "description": "BoardSpy sends pre-departure traffic and weather push alerts before you leave for work and surfaces time-sensitive local deals from social media feeds.",
         "mrrDelta": 0,
-        "rankDelta": 2
+        "rankDelta": -2
       },
       {
         "name": "retailerpjobs",
@@ -4462,7 +4531,7 @@
         "growthPct": 2068.64,
         "description": "RetailERPJobs.com is a niche Verticle job marketplace connecting Retail ERP professionals with employers hiring for those specific skill sets.",
         "mrrDelta": 0,
-        "rankDelta": 2
+        "rankDelta": -1
       },
       {
         "name": "Subclip",
@@ -4471,7 +4540,7 @@
         "growthPct": 269.5,
         "description": "Focus on creative work. Automate the rest. Stop spending 80% of your time on repetitive tasks.",
         "mrrDelta": 0,
-        "rankDelta": 2
+        "rankDelta": -1
       },
       {
         "name": "Naman",
@@ -4480,7 +4549,7 @@
         "growthPct": -66.07,
         "description": null,
         "mrrDelta": null,
-        "rankDelta": 2
+        "rankDelta": -1
       },
       {
         "name": "Naman-venture",
@@ -4489,7 +4558,7 @@
         "growthPct": 279.54,
         "description": null,
         "mrrDelta": null,
-        "rankDelta": 2
+        "rankDelta": -1
       },
       {
         "name": "Shopquantum",
@@ -4498,7 +4567,7 @@
         "growthPct": -5.48,
         "description": "we are fulfillment company specific in analytic",
         "mrrDelta": null,
-        "rankDelta": 2
+        "rankDelta": -1
       },
       {
         "name": "product0",
@@ -4507,7 +4576,7 @@
         "growthPct": 2.55,
         "description": "very first and oldest product. supporting it just for legacy customers.",
         "mrrDelta": null,
-        "rankDelta": 2
+        "rankDelta": -1
       },
       {
         "name": "One Mint",
@@ -4516,7 +4585,7 @@
         "growthPct": -100,
         "description": "We offer a suite of tools for NFT creators. We offer design tools to help creators generate large NFT collections and we allow them to create a storefront to sell their collection.\n\nOur customers are artists but also professionals who assists teams in creating their NFT collection.",
         "mrrDelta": null,
-        "rankDelta": 2
+        "rankDelta": -1
       },
       {
         "name": "Rankr",
@@ -4525,7 +4594,7 @@
         "growthPct": 10.22,
         "description": "Check out my new project --> https://openclip.app\n\n\nRankr is an e-commerce marketplace optimization tool.",
         "mrrDelta": null,
-        "rankDelta": 2
+        "rankDelta": -1
       },
       {
         "name": "Parallel Drive",
@@ -4534,7 +4603,7 @@
         "growthPct": -100,
         "description": "Parallel Drive is an AI-first software studio building software agents battle tested with real production client work.",
         "mrrDelta": null,
-        "rankDelta": 3
+        "rankDelta": 0
       },
       {
         "name": "Fun",
@@ -4552,7 +4621,7 @@
         "growthPct": 705.2,
         "description": "Part 1 of the meme app saga",
         "mrrDelta": null,
-        "rankDelta": 2
+        "rankDelta": -1
       },
       {
         "name": "Discord Bot +1M servers + 1k Daily new servers",
@@ -4561,7 +4630,7 @@
         "growthPct": 0,
         "description": "Business makes ~$4,000/m, total made in the past 12 months: $45,000.\nDiscord Bot +1M servers + 1k Daily new servers.\nProduct hasn't been updated since 2022, renovation would boost revenue, guaranteed, I am from Iraq, and all the ******* banks are restricting me, there is absolutely no way to withdraw.\nData shows $0 cuz I use Patreon to receive payments.",
         "mrrDelta": null,
-        "rankDelta": 2
+        "rankDelta": -1
       },
       {
         "name": "Dijital Link - Link in bio",
@@ -4570,7 +4639,7 @@
         "growthPct": 0,
         "description": "Link kısaltma, bio link oluşturma ve QR kod çözümlerini Dijital Link ile tek platformda yönetin. Profesyonel bağlantılarınızı tek linkte toplayın.",
         "mrrDelta": null,
-        "rankDelta": 2
+        "rankDelta": -1
       },
       {
         "name": "DLV Guide",
@@ -4579,7 +4648,7 @@
         "growthPct": null,
         "description": "DLV Guide is a high-performing mobile app with a 4.8★ rating and £112,000+ in revenue over 2+ years, proving strong product-market fit. Growth opportunities include hundreds of user-requested features, improved ASO and marketing to reach new players, and increased ad revenue through better placements and rewarded ads. Selling due to limited time to continue scaling.",
         "mrrDelta": null,
-        "rankDelta": 2
+        "rankDelta": -1
       },
       {
         "name": "RichPredict - Football Predictions, Free Tips, Betting Tips",
@@ -4588,7 +4657,7 @@
         "growthPct": null,
         "description": "RichPredict is a high-performance analytics platform delivering football predictions with over 80% accuracy. Powered by 50+ specialized AI models, we analyze and cross-reference every match to provide the highest-probability outcomes. While we offer free tips, our premium monthly packages cater to serious users seeking expert-level data. Currently generating $9k–$13k monthly in ad revenue, we accept crypto payments as we scale. Experience the future of sports betting through data, not luck.",
         "mrrDelta": null,
-        "rankDelta": 3
+        "rankDelta": -1
       },
       {
         "name": "Agentpedia Codes",
@@ -4597,7 +4666,7 @@
         "growthPct": 0,
         "description": "200K+ pageviews.80K+ MAU.285% growth last month.\nA go-to resource for developers building AI agents—MCP server integrations, agent skills, workflows, coding rules, and curated Nano Banana prompts.\n\nDA 32. Zero marketing spend. Zero infrastructure costs. Fully SEO-driven growth with strong engagement.\n\nPositioned at the center of the fast-growing AI agent ecosystem.",
         "mrrDelta": null,
-        "rankDelta": null
+        "rankDelta": -1
       },
       {
         "name": "ClipVault",
@@ -4606,7 +4675,7 @@
         "growthPct": -100,
         "description": "ClipVault — Start a faceless TikTok this weekend",
         "mrrDelta": null,
-        "rankDelta": 2
+        "rankDelta": -1
       },
       {
         "name": "Source Club",
@@ -4615,7 +4684,7 @@
         "growthPct": 0,
         "description": "Join the private club where people are building, monetizing, and marketing products with AI.",
         "mrrDelta": null,
-        "rankDelta": null
+        "rankDelta": 0
       }
     ],
     "trendingRepos": [
@@ -4658,7 +4727,7 @@
         "title": "oso95/scroll-world",
         "url": "https://github.com/oso95/scroll-world",
         "source": "github",
-        "points": 861,
+        "points": 863,
         "meta": "JavaScript · A skill that turn any brand into a scrollable 3D world",
         "createdAt": "2026-07-06T21:28:58Z",
         "topics": []
@@ -4779,7 +4848,7 @@
         "title": "nagisanzenin/engram",
         "url": "https://github.com/nagisanzenin/engram",
         "source": "github",
-        "points": 510,
+        "points": 511,
         "meta": "Python · Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
         "createdAt": "2026-07-05T09:53:10Z",
         "topics": [
@@ -4807,7 +4876,7 @@
         "title": "x4gKing/PasarGuard",
         "url": "https://github.com/x4gKing/PasarGuard",
         "source": "github",
-        "points": 469,
+        "points": 470,
         "meta": "Dockerfile",
         "createdAt": "2026-07-05T18:55:14Z",
         "topics": []
@@ -4837,7 +4906,7 @@
         "title": "x4gKing/PasarGuard-Node",
         "url": "https://github.com/x4gKing/PasarGuard-Node",
         "source": "github",
-        "points": 441,
+        "points": 443,
         "meta": "Dockerfile",
         "createdAt": "2026-07-06T07:02:26Z",
         "topics": []
@@ -5338,6 +5407,7 @@
         "points": null,
         "meta": "the-verge",
         "createdAt": "2026-07-11T15:00:00.000Z",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_2887.jpeg?quality=90&strip=all&crop=0%2C24.763158265338%2C100%2C34.691184608181&w=1200",
         "domain": "theverge.com"
       },
       {
@@ -5348,6 +5418,7 @@
         "points": null,
         "meta": "the-verge",
         "createdAt": "2026-07-11T15:00:00.000Z",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/SMBW_Talking_Flower_001_illu01_01_R_ad-0.png?quality=90&strip=all&crop=0%2C14.496596022281%2C100%2C71.006807955439&w=1200",
         "domain": "theverge.com"
       },
       {
@@ -5923,22 +5994,7 @@
         "velocity": 5
       },
       {
-        "term": "robbyant",
-        "count": 4,
-        "velocity": 4
-      },
-      {
-        "term": "europe",
-        "count": 4,
-        "velocity": 4
-      },
-      {
         "term": "javascript",
-        "count": 3,
-        "velocity": 3
-      },
-      {
-        "term": "google",
         "count": 3,
         "velocity": 3
       },
@@ -5963,11 +6019,6 @@
         "velocity": 3
       },
       {
-        "term": "after",
-        "count": 3,
-        "velocity": 3
-      },
-      {
         "term": "years",
         "count": 3,
         "velocity": 3
@@ -5978,22 +6029,12 @@
         "velocity": 3
       },
       {
-        "term": "x4gking",
-        "count": 3,
-        "velocity": 3
-      },
-      {
         "term": "lingbot-video",
         "count": 3,
         "velocity": 3
       },
       {
         "term": "hardware",
-        "count": 3,
-        "velocity": 3
-      },
-      {
-        "term": "bloomberg",
         "count": 3,
         "velocity": 3
       },
@@ -6011,6 +6052,36 @@
         "term": "investors",
         "count": 3,
         "velocity": 3
+      },
+      {
+        "term": "claude-code",
+        "count": 6,
+        "velocity": 2.5714285714285716
+      },
+      {
+        "term": "openai",
+        "count": 7,
+        "velocity": 2.1
+      },
+      {
+        "term": "ai-agent",
+        "count": 6,
+        "velocity": 2
+      },
+      {
+        "term": "robbyant",
+        "count": 4,
+        "velocity": 1.7142857142857144
+      },
+      {
+        "term": "mcp",
+        "count": 4,
+        "velocity": 1.7142857142857144
+      },
+      {
+        "term": "google",
+        "count": 3,
+        "velocity": 1.2857142857142858
       }
     ]
   }
