@@ -195,132 +195,76 @@
     "image": "https://media.thenextweb.com/2026/07/Waymo-ride.avif",
     "fetchedAt": 1783619121143
   },
-  "https://github.com/JustVugg/colibri": {
-    "image": "https://opengraph.githubassets.com/e8983116dc12eddcdc0c9e035456892f2e69fd715e2f53ee0f14314c9a583062/JustVugg/colibri",
-    "fetchedAt": 1783689038576
-  },
-  "https://github.com/malisper/pgrust": {
-    "image": "https://opengraph.githubassets.com/33b611e660186224ba4baa630c738cecb46fcfba18633104b6d91573754e9ff8/malisper/pgrust",
-    "fetchedAt": 1783689039452
-  },
-  "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429": {
-    "image": "https://kotaku.com/app/uploads/2026/05/06-running-train-1200x675.jpg",
-    "fetchedAt": 1783689040081
-  },
-  "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/": {
-    "image": null,
-    "fetchedAt": 1783689040774
-  },
-  "https://scotto.me/blog/2026-07-09-why-lisp/": {
-    "image": "https://scotto.me/og/2026-07-09-why-lisp.png",
-    "fetchedAt": 1783689041306
-  },
-  "https://nahla.dev/blog/waitfree_queue/": {
-    "image": null,
-    "fetchedAt": 1783689041786
-  },
-  "https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268631_Xreal_A01_Plus_CFaulkner_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1783689042213
-  },
-  "https://thenextweb.com/news/kraken-technology-maritime-defence-unicorn-series-b": {
-    "image": "https://media.thenextweb.com/2026/07/kraken-k3-scout-1-oversea.avif",
-    "fetchedAt": 1783689042699
-  },
-  "https://thenextweb.com/news/facewatch-facial-recognition-police-alerts-uk-shops": {
-    "image": "https://media.thenextweb.com/2026/07/Surveillance-cameras-UK.avif",
-    "fetchedAt": 1783689043169
-  },
-  "https://www.techmeme.com/260710/p11#a260710p11": {
-    "image": null,
-    "fetchedAt": 1783689043536
-  },
-  "https://thenextweb.com/news/uk-critical-third-parties-cloud-oversight": {
-    "image": "https://media.thenextweb.com/2026/07/G_Store_cabinet_of_curiosities_3_credit__Mark_W.avif",
-    "fetchedAt": 1783689044004
-  },
-  "https://www.techmeme.com/260710/p10#a260710p10": {
-    "image": null,
-    "fetchedAt": 1783689044364
-  },
-  "https://thenextweb.com/news/openai-google-ai-china-singapore-export-controls": {
-    "image": "https://media.thenextweb.com/2026/07/Dinosaur-Stan-skeleton-at-Google.avif",
-    "fetchedAt": 1783689044838
-  },
-  "https://www.theverge.com/games/963515/doom-the-dark-ages-revelations-review": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_9745.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-    "fetchedAt": 1783689045245
-  },
   "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/": {
     "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-    "fetchedAt": 1783770646869
-  },
-  "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/": {
-    "image": null,
-    "fetchedAt": 1783770647371
-  },
-  "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban": {
-    "image": "https://i.guim.co.uk/img/media/b522a4563292b5972c9443aa2001a8637f1266b5/72_226_2591_2073/master/2591.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8576dc8571bc0efaa7b0ef0eb44b88fa",
-    "fetchedAt": 1783770648052
-  },
-  "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf": {
-    "image": null,
-    "fetchedAt": 1783770648585
-  },
-  "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/": {
-    "image": null,
-    "fetchedAt": 1783770649163
-  },
-  "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/": {
-    "image": "https://i0.wp.com/acoup.blog/wp-content/uploads/2026/01/Medinet_Habu_Ramses_III._Tempel_Nordostwand_Abzeichnung_01.jpg?fit=1200%2C595&ssl=1",
-    "fetchedAt": 1783770649964
-  },
-  "https://ai-2040.com/": {
-    "image": "https://ai-2040.com/opengraph-choose-a-path.png",
-    "fetchedAt": 1783770650577
+    "fetchedAt": 1783807780340
   },
   "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity": {
     "image": "https://www.brown.edu/sites/default/files/styles/wide_lrg/public/2026-07/chemistry-stock.jpg?h=1d4b4ebd&itok=Iv8YhdkV",
-    "fetchedAt": 1783770651391
-  },
-  "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/": {
-    "image": "https://vfxblog.com/wp-content/uploads/2017/08/death1.jpg",
-    "fetchedAt": 1783770651913
+    "fetchedAt": 1783807780982
   },
   "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/": {
     "image": null,
-    "fetchedAt": 1783770652721
+    "fetchedAt": 1783807781755
   },
-  "https://thenextweb.com/news/meta-muse-image-instagram-privacy-backlash-pulled": {
-    "image": "https://media.thenextweb.com/2026/07/meta-muse-image-instagram-privacy-backlash-pulled.avif",
-    "fetchedAt": 1783770653244
+  "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey": {
+    "image": "https://i.guim.co.uk/img/media/76e6d41e9793d20f38e9c89b53fa8b8b1ba200bd/0_0_2626_2102/master/2626.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c2d6630b6b07d50764b7644f341e5e82",
+    "fetchedAt": 1783807782374
   },
-  "https://www.techmeme.com/260711/p5#a260711p5": {
+  "https://evanhahn.com/prefer-strict-tables-in-sqlite/": {
     "image": null,
-    "fetchedAt": 1783770653629
+    "fetchedAt": 1783807782952
   },
-  "https://thenextweb.com/news/apple-sues-openai-trade-secrets-theft-hardware": {
-    "image": "https://media.thenextweb.com/2026/07/apple-sues-openai-trade-secrets-theft-hardware.avif",
-    "fetchedAt": 1783770654128
+  "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres": {
+    "image": "https://clickhouse.com/_next/image?url=%2Fuploads%2FScaling_Pgbouncer_in_Click_House_ed1f77793f.jpg&w=1200&h=630&q=75",
+    "fetchedAt": 1783807783594
   },
-  "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_2100.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-    "fetchedAt": 1783770654637
-  },
-  "https://www.techmeme.com/260711/p4#a260711p4": {
+  "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html": {
     "image": null,
-    "fetchedAt": 1783770655002
+    "fetchedAt": 1783807784131
   },
-  "https://www.techmeme.com/260711/p3#a260711p3": {
+  "https://antjs.org": {
     "image": null,
-    "fetchedAt": 1783770655368
+    "fetchedAt": 1783807784794
   },
-  "https://www.techmeme.com/260711/p2#a260711p2": {
-    "image": null,
-    "fetchedAt": 1783770655732
+  "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom": {
+    "image": "https://images.prismic.io/bethtechnology/aitsR6lQnVZVEPNy_Nvidia%2CCoreWeave%2CandNebius%E2%80%93InsidetheCircularFinancingoftheGPUBoom.png?auto=format,compress",
+    "fetchedAt": 1783807785378
   },
-  "https://www.techmeme.com/260711/p1#a260711p1": {
+  "https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989": {
+    "image": "https://m.media-amazon.com/images/G/01/share-icons/previewdoh/amazon.png",
+    "fetchedAt": 1783807788001
+  },
+  "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/maxresdefault_503c4e.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "fetchedAt": 1783807788675
+  },
+  "https://www.techmeme.com/260711/p10#a260711p10": {
+    "image": "https://cdn.theatlantic.com/thumbor/090pmNuECc7Ke1PQBPumChuVzTQ=/0x43:2000x1085/1200x625/media/img/mt/2026/07/2026_06_25_Tiffany_phones_final2/original.jpg",
+    "fetchedAt": 1783807789861
+  },
+  "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB385_PARAMOUNT_D.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
+    "fetchedAt": 1783807790312
+  },
+  "https://www.techmeme.com/260711/p9#a260711p9": {
+    "image": "https://storage.ghost.io/c/af/ca/afcaa655-46e2-45b8-889a-2881de5cce69/content/images/size/w1200/2026/07/glenn-close-fatal-attraction-knife.jpg",
+    "fetchedAt": 1783807791105
+  },
+  "https://www.techmeme.com/260711/p8#a260711p8": {
+    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8L8Np2m40z0/v2/1200x800.jpg",
+    "fetchedAt": 1783807791830
+  },
+  "https://www.geekwire.com/2026/microsofts-reset-a-new-era-for-seattle-startups-and-how-ai-is-changing-everything-for-founders/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/deck.jpg",
+    "fetchedAt": 1783807792406
+  },
+  "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools": {
     "image": null,
-    "fetchedAt": 1783770656099
+    "fetchedAt": 1783807792983
+  },
+  "https://www.techmeme.com/260711/p7#a260711p7": {
+    "image": "https://torrentfreak.com/images/googledns.png",
+    "fetchedAt": 1783807793847
   }
 }

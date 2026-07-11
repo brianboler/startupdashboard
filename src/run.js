@@ -6,7 +6,6 @@ import { fetchTrustMrrLeaderboard } from './sources/trustmrr.js';
 import { fetchTodayLaunches } from './sources/producthunt.js';
 import { fetchRecentFormD } from './sources/edgar.js';
 import { fetchNewsHeadlines } from './sources/rss.js';
-import { fetchRedditPulse } from './sources/reddit.js';
 import { fetchLobsters } from './sources/lobsters.js';
 import { buildSnapshot, attachMrrHistory } from './aggregate.js';
 import { enrichWithOgImages } from './lib/og.js';
@@ -25,7 +24,7 @@ async function settle(name, promise) {
   }
 }
 
-const [headlines, showHn, repos, mrrRaw, launches, filings, news, reddit, lobsters] = await Promise.all([
+const [headlines, showHn, repos, mrrRaw, launches, filings, news, lobsters] = await Promise.all([
   settle('hackernews front page', fetchFrontPage()),
   settle('show hn', fetchShowHN()),
   settle('github trending', fetchNewTrendingRepos()),
@@ -33,11 +32,10 @@ const [headlines, showHn, repos, mrrRaw, launches, filings, news, reddit, lobste
   settle('product hunt', fetchTodayLaunches()),
   settle('edgar form d', fetchRecentFormD()),
   settle('rss news', fetchNewsHeadlines()),
-  settle('reddit pulse', fetchRedditPulse()),
   settle('lobsters', fetchLobsters()),
 ]);
 
-const community = [...reddit, ...lobsters].sort((a, b) => (b.points ?? 0) - (a.points ?? 0));
+const community = [...lobsters].sort((a, b) => (b.points ?? 0) - (a.points ?? 0));
 
 // Discover og:images for the top headlines/news (cached, so each URL is fetched once ever).
 const OG_CACHE = join(DATA_DIR, 'og-cache.json');
