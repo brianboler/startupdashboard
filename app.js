@@ -84,14 +84,29 @@ function sparkline(values, w = 72, h = 20) {
     <polyline points="${pts}" fill="none" stroke="var(--${up ? 'up' : 'down'})" stroke-width="1.5"/></svg>`;
 }
 
+// Company logo tile with a lettered fallback (shown when no logo / image errors).
+function logoImg(logo, name, cls = 'mrr-logo') {
+  const initial = esc(((name ?? '?').trim().charAt(0) || '?').toUpperCase());
+  const img = logo && /^https:\/\//.test(logo)
+    ? `<img class="${cls}" loading="lazy" decoding="async" referrerpolicy="no-referrer" alt="" src="${esc(logo)}" onerror="this.remove()">`
+    : '';
+  return `<span class="${cls}-wrap" data-i="${initial}">${img}</span>`;
+}
+
+// 30-day growth cell, TrustMRR-style (green up / red down).
+function growthCell(pct) {
+  if (typeof pct !== 'number') return '<span class="rank">—</span>';
+  return `<span class="${pct >= 0 ? 'growth-up' : 'growth-down'}">${pct >= 0 ? '▲' : '▼'} ${Math.abs(pct).toFixed(1)}%</span>`;
+}
+
 /* ---- Hero "Today's Pulse" strip (built from real data, each card null-checked) ---- */
 function heroLeaderCard(m) {
   if (!m) return '';
   return `<a class="hero-card hero-leader" href="${esc(safeUrl(m.url))}" target="_blank" rel="noopener">
     <div class="hero-eyebrow"><span class="amber">▲ TOP MRR</span></div>
-    <div class="hero-name">${esc(m.name)}</div>
+    <div class="hero-leader-head">${logoImg(m.logo, m.name, 'hero-logo')}<div class="hero-name">${esc(m.name)}</div></div>
     <div class="hero-figure">${fmtMoney(m.mrr)}</div>
-    <div class="hero-sub"><span class="hero-tag">Δ day</span>${mrrDelta(m)}</div>
+    <div class="hero-sub">${growthCell(m.growthPct)}<span class="hero-tag">30d</span></div>
     <div class="hero-spark">${sparkline(m.history, 240, 40)}</div>
   </a>`;
 }
@@ -142,13 +157,6 @@ function buildHero(s) {
 let mrrData = [];
 let mrrSort = { key: 'rank', dir: 1 };
 
-function mrrDelta(s) {
-  if (s.mrrDelta == null || s.mrrDelta === 0) return '<span class="rank">—</span>';
-  return s.mrrDelta > 0
-    ? `<span class="delta-up">▲ ${fmtMoney(s.mrrDelta)}</span>`
-    : `<span class="delta-down">▼ ${fmtMoney(-s.mrrDelta)}</span>`;
-}
-
 function renderMrrBody() {
   const { key, dir } = mrrSort;
   const sorted = [...mrrData].sort((a, b) => {
@@ -162,9 +170,9 @@ function renderMrrBody() {
   $('#mrr-body').innerHTML = sorted.map((s) => `
     <tr data-search="${esc((s.name ?? '').toLowerCase())}">
       <td class="rank">${s.rank}</td>
-      <td>${s.url ? `<a class="mrr-name" href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener">${esc(s.name)}</a>` : `<span class="mrr-name">${esc(s.name)}</span>`}</td>
+      <td class="co">${logoImg(s.logo, s.name)}${s.url ? `<a class="mrr-name" href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener">${esc(s.name)}</a>` : `<span class="mrr-name">${esc(s.name)}</span>`}</td>
       <td class="num">${fmtMoney(s.mrr)}</td>
-      <td class="num">${mrrDelta(s)}</td>
+      <td class="num">${growthCell(s.growthPct)}</td>
       <td>${sparkline(s.history)}</td>
     </tr>`).join('');
   document.querySelectorAll('.mrr-table th').forEach((th) =>
@@ -179,7 +187,7 @@ function mrrPanel(board) {
     <div class="mrr-scroll"><table class="mrr-table">
       <thead><tr>
         <th data-key="rank">#</th><th data-key="name">Startup</th>
-        <th data-key="mrr">MRR</th><th data-key="mrrDelta">Δ day</th><th class="nosort">14d</th>
+        <th data-key="mrr">MRR</th><th data-key="growthPct">30d</th><th class="nosort">14d</th>
       </tr></thead>
       <tbody id="mrr-body"></tbody>
     </table></div>
