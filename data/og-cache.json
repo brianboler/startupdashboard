@@ -422,5 +422,17 @@
   "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review": {
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/soft-pink-truth.jpg?quality=90&strip=all&crop=0%2C5.1234106207928%2C100%2C89.753178758414&w=1200",
     "fetchedAt": 1783885524090
+  },
+  "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6": {
+    "image": "https://storage.googleapis.com/ployai/d21bf4ad-2458-43ee-9561-54c28ab0e85f/user/fcebce5c-colorful-hero-opus-vs-gpt.png",
+    "fetchedAt": 1783891228823
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279420244.jpg?quality=90&strip=all&crop=0%2C10.807256256556%2C100%2C78.385487486888&w=1200",
+    "fetchedAt": 1783891229324
+  },
+  "https://www.techmeme.com/260712/p8#a260712p8": {
+    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRhhNvTMkhNk/v1/1200x800.jpg",
+    "fetchedAt": 1783893004063
   }
 }

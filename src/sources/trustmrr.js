@@ -1,7 +1,8 @@
 import * as cheerio from 'cheerio';
-import { fetchText } from '../lib/http.js';
+import { fetchText, USER_AGENT } from '../lib/http.js';
 
 const BASE_URL = 'https://trustmrr.com';
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 /**
  * Parse a human-readable dollar amount into a number.
@@ -274,7 +275,103 @@ export function isAnonymousName(name) {
   return typeof name !== 'string' || name.trim() === '' || ANON_NAME.test(name);
 }
 
+// Map an authenticated /api/v1/startups record to the common Startup shape.
+export function mapApiStartup(s) {
+  if (!s || typeof s.name !== 'string' || !s.name.trim()) return null;
+  const num = (v) => (typeof v === 'number' && Number.isFinite(v) ? v : null);
+  const rev = s.revenue ?? {};
+  const revenue = num(rev.last30Days) ?? num(rev.mrr);
+  const site = typeof s.website === 'string' && /^https?:\/\//.test(s.website) ? s.website : null;
+  return {
+    name: s.name.trim(),
+    url: site ?? (typeof s.url === 'string' && s.url ? s.url : null),
+    logo: typeof s.icon === 'string' && /^https:\/\//.test(s.icon) ? s.icon : null,
+    mrr: revenue == null ? null : Math.round(revenue),          // last-30-day revenue (primary)
+    mrrValue: num(rev.mrr) != null ? Math.round(rev.mrr) : null, // subscription MRR
+    totalRevenue: num(rev.total) != null ? Math.round(rev.total) : null,
+    growthPct: num(s.growth30d) != null ? roundPct(s.growth30d) : null,
+    mrrGrowth: num(s.growthMRR30d) != null ? roundPct(s.growthMRR30d) : null,
+    traffic: num(s.visitorsLast30Days) != null ? Math.round(s.visitorsLast30Days) : null,
+    revPerVisitor: num(s.revenuePerVisitor),
+    description: typeof s.description === 'string' && s.description.trim() ? s.description.trim() : null,
+  };
+}
+
+// Wait for the rate-limit window to reset (from x-ratelimit-reset). Returns false
+// if there's no reset info or the wait exceeds the cap (caller should stop).
+async function waitForReset(headers, maxWaitMs) {
+  const reset = Number(headers.get('x-ratelimit-reset'));
+  let waitMs = Number.isFinite(reset) ? reset - Date.now() + 1000 : maxWaitMs;
+  if (waitMs <= 0) waitMs = 1000;
+  if (waitMs > maxWaitMs) return false;
+  console.warn(`trustmrr api: rate-limit window used — waiting ${Math.round(waitMs / 1000)}s for reset`);
+  await sleep(waitMs);
+  return true;
+}
+
+// Fetch verified startups by revenue via the authenticated API, paging across
+// rate-limit windows (10 req/window, ~60s) up to a fixed PAGE BUDGET. Bounding by
+// pages keeps runtime predictable (N pages ≈ N/10 minutes of waiting); the daily
+// cron sets a deeper budget (TRUSTMRR_PAGES) than local runs. Each page = 10
+// companies by revenue; anonymous listings are dropped, so yield is a bit lower.
+async function fetchTrustMrrFromApi(key, opts = {}) {
+  const maxPages = opts.maxPages ?? (Number(process.env.TRUSTMRR_PAGES) || 20);
+  const maxWaitMs = opts.maxWaitMs ?? 70000;
+  const out = [];
+  const seen = new Set();
+  let page = 1;
+
+  while (page <= maxPages) {
+    let res;
+    try {
+      res = await fetch(`${BASE_URL}/api/v1/startups?limit=10&sort=revenue&page=${page}`, {
+        headers: { Authorization: `Bearer ${key}`, 'User-Agent': USER_AGENT },
+        signal: AbortSignal.timeout(15000),
+      });
+    } catch (err) {
+      console.warn(`trustmrr api: page ${page} network error (${err.message}) — stopping with ${out.length}`);
+      break;
+    }
+    if (res.status === 429) {
+      if (await waitForReset(res.headers, maxWaitMs)) continue; // retry same page after reset
+      console.warn(`trustmrr api: rate-limited, stopping with ${out.length}`);
+      break;
+    }
+    if (!res.ok) {
+      console.warn(`trustmrr api: page ${page} HTTP ${res.status} — stopping with ${out.length}`);
+      break;
+    }
+    const data = await res.json();
+    const items = data?.data ?? [];
+    for (const raw of items) {
+      const s = mapApiStartup(raw);
+      if (s && !isAnonymousName(s.name) && !seen.has(s.name)) {
+        seen.add(s.name);
+        out.push(s);
+      }
+    }
+    if (!items.length || !data?.meta?.hasMore) break;
+    page++;
+    if (Number(res.headers.get('x-ratelimit-remaining')) <= 0 && page <= maxPages) {
+      if (!(await waitForReset(res.headers, maxWaitMs))) break;
+    }
+  }
+  return out;
+}
+
 export async function fetchTrustMrrLeaderboard() {
+  // Prefer the authenticated API (sanctioned, richer, paginated) when a key is set.
+  const key = process.env.TRUSTMRR_API_KEY;
+  if (key) {
+    try {
+      const startups = await fetchTrustMrrFromApi(key);
+      if (startups.length) return startups;
+      console.warn('trustmrr api: 0 startups — falling back to homepage');
+    } catch (err) {
+      console.warn(`trustmrr api failed (${err.message}) — falling back to homepage`);
+    }
+  }
+  // Fallback: parse the public homepage RSC.
   try {
     const html = await fetchText(`${BASE_URL}/`);
     const startups = parseTrustMrr(html).filter((s) => !isAnonymousName(s.name));
