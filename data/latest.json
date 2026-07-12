@@ -1,14 +1,14 @@
 {
   "date": "2026-07-12",
-  "generatedAt": "2026-07-12T21:50:04.426Z",
+  "generatedAt": "2026-07-12T21:55:05.492Z",
   "stats": {
-    "totalItems": 251,
-    "totalDelta": -367,
+    "totalItems": 312,
+    "totalDelta": -306,
     "sources": {
       "headlines": 24,
-      "launches": 2,
+      "launches": 22,
       "community": 15,
-      "mrrLeaderboard": 103,
+      "mrrLeaderboard": 144,
       "trendingRepos": 25,
       "formDFilings": 40,
       "news": 22,
@@ -165,7 +165,7 @@
         "title": "LARP – Revenue infrastructure for serious founders",
         "url": "https://www.larp.website/",
         "source": "hackernews",
-        "points": 93,
+        "points": 95,
         "meta": "23 comments",
         "createdAt": "2026-07-12T16:56:41Z",
         "image": null,
@@ -275,6 +275,86 @@
     ],
     "launches": [
       {
+        "id": "ph-1189574",
+        "title": "JustVibe",
+        "url": "https://www.producthunt.com/products/justvibe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 432,
+        "meta": "The search engine for doing, with apps built for you",
+        "createdAt": "2026-07-12T07:01:00Z",
+        "image": "https://ph-files.imgix.net/d188283d-ca82-4a07-90ae-122af14bf13d.png?auto=format",
+        "topics": [
+          "Web App",
+          "Search",
+          "No-Code"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1190387",
+        "title": "Miora",
+        "url": "https://www.producthunt.com/products/miora-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 342,
+        "meta": "Scale your creativity on editable canvas with agent memory",
+        "createdAt": "2026-07-12T07:01:00Z",
+        "image": "https://ph-files.imgix.net/eecc5bf5-4f75-442b-9030-aca7cb7d770b.png?auto=format",
+        "topics": [
+          "Design Tools",
+          "Marketing",
+          "Artificial Intelligence"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1175731",
+        "title": "FetchSandbox",
+        "url": "https://www.producthunt.com/products/fetchsandbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 329,
+        "meta": "API integration testing that remembers what breaks",
+        "createdAt": "2026-07-12T07:01:00Z",
+        "image": "https://ph-files.imgix.net/f7b32fa6-6bf4-46f8-8a99-84b4559d37b4.png?auto=format",
+        "topics": [
+          "API",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1180472",
+        "title": "Second Brain for AI v2",
+        "url": "https://www.producthunt.com/products/second-brain-cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 289,
+        "meta": "AI memory that connects the dots across every tool",
+        "createdAt": "2026-07-12T07:01:00Z",
+        "image": "https://ph-files.imgix.net/a258efad-8dea-4ed3-b1bb-169089817168.png?auto=format",
+        "topics": [
+          "Productivity",
+          "Developer Tools",
+          "Artificial Intelligence"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1188816",
+        "title": "ServiceBeard",
+        "url": "https://www.producthunt.com/products/servicebeard?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 134,
+        "meta": "Sync your mailbox with your issue tracker",
+        "createdAt": "2026-07-12T07:01:00Z",
+        "image": "https://ph-files.imgix.net/4e9cb3ca-eefb-4a98-bcb1-efa079463813.png?auto=format",
+        "topics": [
+          "Productivity",
+          "Developer Tools",
+          "GitHub"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
         "id": "hn-48882562",
         "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
         "url": "https://github.com/hasenj/go-shirei/",
@@ -283,6 +363,243 @@
         "meta": "37 comments",
         "createdAt": "2026-07-12T16:55:42Z",
         "domain": "github.com"
+      },
+      {
+        "id": "ph-1187667",
+        "title": "Offer Max",
+        "url": "https://www.producthunt.com/products/offer-max?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 27,
+        "meta": "Every job application is a click, not an evening ",
+        "createdAt": "2026-07-12T07:01:00Z",
+        "image": "https://ph-files.imgix.net/3c20babe-b900-4975-af7c-641b57abf6c5.png?auto=format",
+        "topics": [
+          "Chrome Extensions",
+          "Artificial Intelligence",
+          "Career"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1194050",
+        "title": "CONTRABAND VR Cinema",
+        "url": "https://www.producthunt.com/products/contraband-vr-cinema?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 26,
+        "meta": "A theatrical experience with friends, from home.",
+        "createdAt": "2026-07-12T07:01:00Z",
+        "image": "https://ph-files.imgix.net/ac02b864-8e01-4735-b9d5-987a7a2bed78.jpeg?auto=format",
+        "topics": [
+          "Virtual Reality",
+          "Movies"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1193113",
+        "title": "Mochi Analytics",
+        "url": "https://www.producthunt.com/products/mochi-analytics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 22,
+        "meta": "Analytics you would actually want to look at",
+        "createdAt": "2026-07-12T07:01:00Z",
+        "image": "https://ph-files.imgix.net/075c3391-2a59-4089-b3a0-41e5edd0d387.png?auto=format",
+        "topics": [
+          "Analytics",
+          "Marketing",
+          "SaaS"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1188523",
+        "title": "Flowing",
+        "url": "https://www.producthunt.com/products/flowing?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 20,
+        "meta": " Ground your academic writing in your own papers.",
+        "createdAt": "2026-07-12T07:01:00Z",
+        "image": "https://ph-files.imgix.net/5f3c55db-0bd9-4166-8e0a-fbb5822b9d76.png?auto=format",
+        "topics": [
+          "Productivity",
+          "Writing",
+          "Artificial Intelligence"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1191703",
+        "title": "AI Visibility",
+        "url": "https://www.producthunt.com/products/ai-visibility?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 20,
+        "meta": "Check how ChatGPT, Gemini and Claude talk about your brand",
+        "createdAt": "2026-07-12T07:01:00Z",
+        "image": "https://ph-files.imgix.net/e00761b7-1908-4ad9-9961-2718bf9d7cf2.png?auto=format",
+        "topics": [
+          "Analytics",
+          "SEO",
+          "Artificial Intelligence"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1193479",
+        "title": "OGCanvas",
+        "url": "https://www.producthunt.com/products/ogcanvas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 16,
+        "meta": "A visual editor for dynamic Open Graph images",
+        "createdAt": "2026-07-12T07:01:00Z",
+        "image": "https://ph-files.imgix.net/832aa40d-af42-4553-8b86-3295c817a8d7.png?auto=format",
+        "topics": [
+          "Design Tools",
+          "Developer Tools",
+          "Design templates"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1194112",
+        "title": "Long-term Software Governance",
+        "url": "https://www.producthunt.com/products/long-term-software-governance?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 15,
+        "meta": "Keep commercial software reliable for the long run.",
+        "createdAt": "2026-07-12T07:01:00Z",
+        "image": "https://ph-files.imgix.net/bf1ebcfa-f1b1-4b18-9a05-5e968d4f5e20.png?auto=format",
+        "topics": [
+          "User Experience",
+          "Artificial Intelligence",
+          "Vibe coding"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1193505",
+        "title": "LockIn for Chrome",
+        "url": "https://www.producthunt.com/products/lockin-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 15,
+        "meta": "Increase productivity with AI distraction blocking",
+        "createdAt": "2026-07-12T07:01:00Z",
+        "image": "https://ph-files.imgix.net/d9146094-6739-40f4-8f20-b86b0ad652aa.png?auto=format",
+        "topics": [
+          "Productivity",
+          "Task Management",
+          "Artificial Intelligence"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1189830",
+        "title": "Alson Shop",
+        "url": "https://www.producthunt.com/products/alsonai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 14,
+        "meta": "The AI-native bookstore for our storybooks",
+        "createdAt": "2026-07-12T07:01:00Z",
+        "image": "https://ph-files.imgix.net/4ba8a8c1-2f80-411f-add2-09fd1cf3c32d.png?auto=format",
+        "topics": [
+          "Education",
+          "E-Commerce",
+          "Books"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1192243",
+        "title": "Gymsly",
+        "url": "https://www.producthunt.com/products/gymsly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 14,
+        "meta": "Gym management software for the modern world",
+        "createdAt": "2026-07-12T07:01:00Z",
+        "image": "https://ph-files.imgix.net/dd77346f-e18e-4057-9cee-a434b5f6a682.png?auto=format",
+        "topics": [
+          "Health & Fitness",
+          "Sales",
+          "Analytics"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1194091",
+        "title": "YourOnlyAI",
+        "url": "https://www.producthunt.com/products/youronlyai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 13,
+        "meta": "Find the right tool, not the hype.",
+        "createdAt": "2026-07-12T07:01:00Z",
+        "image": "https://ph-files.imgix.net/6ed340e1-3e0c-4532-a1bc-47eddc7960ee.png?auto=format",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Search"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1192099",
+        "title": "Orivon",
+        "url": "https://www.producthunt.com/products/orivon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 13,
+        "meta": "Discover where your potential creates the most value",
+        "createdAt": "2026-07-12T07:01:00Z",
+        "image": "https://ph-files.imgix.net/bbb44912-9b1a-45bd-9796-e3796d72cbf7.png?auto=format",
+        "topics": [
+          "Productivity",
+          "Artificial Intelligence",
+          "Career"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1193826",
+        "title": "a.v.r.i.z ",
+        "url": "https://www.producthunt.com/products/a-v-r-i-z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 12,
+        "meta": "Your commute is build time",
+        "createdAt": "2026-07-12T07:01:00Z",
+        "image": "https://ph-files.imgix.net/ee9bc985-2cd9-4f83-9e97-c151da4216ba.png?auto=format",
+        "topics": [
+          "Developer Tools"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1193641",
+        "title": "linkedn't",
+        "url": "https://www.producthunt.com/products/linkedn-t?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 11,
+        "meta": "the linkedin slop translator",
+        "createdAt": "2026-07-12T07:01:00Z",
+        "image": "https://ph-files.imgix.net/36b54260-a8d8-4998-9e11-d92fd6090c6c.png?auto=format",
+        "topics": [
+          "Browser Extensions",
+          "Chrome Extensions",
+          "Artificial Intelligence"
+        ],
+        "domain": "producthunt.com"
+      },
+      {
+        "id": "ph-1193608",
+        "title": "Vincent 4.0",
+        "url": "https://www.producthunt.com/products/iisacc-vincent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Startup-Dashboard+%28ID%3A+291872%29",
+        "source": "producthunt",
+        "points": 11,
+        "meta": "Local-first digital paper for visual thinking",
+        "createdAt": "2026-07-12T07:01:00Z",
+        "image": "https://ph-files.imgix.net/43ca2305-2cf3-4cbe-a2aa-757b5a998896.png?auto=format",
+        "topics": [
+          "Design Tools",
+          "Productivity",
+          "Notes"
+        ],
+        "domain": "producthunt.com"
       },
       {
         "id": "hn-48884663",
@@ -409,7 +726,7 @@
         "title": "Closing a three-year-old issue using Rust arenas",
         "url": "https://giacomocavalieri.me/writing/gleam-rust-arenas",
         "source": "lobsters",
-        "points": 16,
+        "points": 17,
         "meta": "lobsters · performance, rust",
         "createdAt": "2026-07-12T13:58:31.905-05:00",
         "commentsUrl": "https://lobste.rs/s/7840ca/closing_three_year_old_issue_using_rust",
@@ -2438,6 +2755,621 @@
         "description": "Idea to mobile app designs",
         "mrrDelta": null,
         "rankDelta": null
+      },
+      {
+        "name": "ApplyAll",
+        "url": "https://www.applyall.com",
+        "logo": "https://d21oz30g4w22sz.cloudfront.net/logos/apply-all-inc-b4201f25-6730-48b0-930b-34ae98c3c4ed.png",
+        "mrr": 23362,
+        "mrrValue": 4061,
+        "totalRevenue": 714091,
+        "growthPct": -36.32,
+        "mrrGrowth": 0,
+        "traffic": 16036,
+        "revPerVisitor": 1.4569,
+        "description": "We get people jobs.",
+        "mrrDelta": 19301,
+        "rankDelta": 64
+      },
+      {
+        "name": "*** OF PROMPT OÜ",
+        "url": "https://godofprompt.ai",
+        "logo": "https://files.stripe.com/links/MDB8YWNjdF8xUU5ZZlJBQndLbjB1SFVNfGZsX2xpdmVfVzRieGhEWUR2TkZlQkxPT0I2Q0xFaWdX00EBqEjeyc",
+        "mrr": 22836,
+        "mrrValue": 5285,
+        "totalRevenue": 558045,
+        "growthPct": 58.69,
+        "mrrGrowth": -17.72,
+        "traffic": 36353,
+        "revPerVisitor": 0.6282,
+        "description": "Digital products/services for educational AI resources. We charge during checkout.",
+        "mrrDelta": 17551,
+        "rankDelta": 53
+      },
+      {
+        "name": "Conductor",
+        "url": "https://conductor.is",
+        "logo": "https://files.stripe.com/links/MDB8YWNjdF8xTFJqZTZCV0hLU1NRV2VOfGZsX2xpdmVfVU1lYnR2ZldudHNGcnVlWElxZDZlVWhE002UxhPqla",
+        "mrr": 22803,
+        "mrrValue": 33241,
+        "totalRevenue": 364383,
+        "growthPct": -41.6,
+        "mrrGrowth": 5.18,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "The best QuickBooks Desktop & Enterprise API on the planet.",
+        "mrrDelta": -10507,
+        "rankDelta": -41
+      },
+      {
+        "name": "StoryShort",
+        "url": "https://storyshort.ai",
+        "logo": "https://d21oz30g4w22sz.cloudfront.net/logos/storyshort-f711f3b0-2ed9-486e-a850-d59aeca31922.png",
+        "mrr": 22689,
+        "mrrValue": 21892,
+        "totalRevenue": 519154,
+        "growthPct": -3.45,
+        "mrrGrowth": -5.75,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "StoryShorts helps to create short videos with AI based on text prompts.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "Evergreen Support, LLC",
+        "url": "https://evergreensupport.co/",
+        "logo": null,
+        "mrr": 22594,
+        "mrrValue": 23529,
+        "totalRevenue": 749030,
+        "growthPct": 0.35,
+        "mrrGrowth": -3.68,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "Customer support services for online sellers. Recurring monthly or weekly charges for services.",
+        "mrrDelta": -935,
+        "rankDelta": -8
+      },
+      {
+        "name": "My X project 3",
+        "url": "https://x.com/buildWithJames",
+        "logo": "https://d21oz30g4w22sz.cloudfront.net/logos/sunoapi-50b7c808-2789-4fac-bcfd-2b05327adea6.png",
+        "mrr": 22570,
+        "mrrValue": 2812,
+        "totalRevenue": 190852,
+        "growthPct": -26.97,
+        "mrrGrowth": -9.64,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "[Private metric reference available after login.]",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "Backlinker AI",
+        "url": "https://backlinker.ai",
+        "logo": "https://d21oz30g4w22sz.cloudfront.net/logos/seo-startup-0326818f-cba7-4496-bfcf-84c9eb1993f7.jpg",
+        "mrr": 22535,
+        "mrrValue": 24250,
+        "totalRevenue": 488392,
+        "growthPct": -2.38,
+        "mrrGrowth": -0.61,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "Backlinker AI automates backlink acquisition through AI-powered reporter and editorial outreach. Built for agencies, founders, and SEO teams, it finds relevant opportunities, drafts responses, and hel",
+        "mrrDelta": -1715,
+        "rankDelta": -13
+      },
+      {
+        "name": "DataFast",
+        "url": "https://datafa.st",
+        "logo": "https://files.stripe.com/links/MDB8YWNjdF8xUFh0d21FSWVCUjVYSWpmfGZsX2xpdmVfbTdjN3JWMGtjbWlISWoyaVJLVzFxMVA200rgEMPTYU",
+        "mrr": 22340,
+        "mrrValue": 24026,
+        "totalRevenue": 218786,
+        "growthPct": 12.77,
+        "mrrGrowth": 4.41,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "Revenue-first analytics for startup founders",
+        "mrrDelta": -1985,
+        "rankDelta": -16
+      },
+      {
+        "name": "Brawler",
+        "url": "https://apps.apple.com/app/id6760366949",
+        "logo": "https://www.appatar.io/app.rork.boxing-pro-ai-trainer/small",
+        "mrr": 22211,
+        "mrrValue": 6449,
+        "totalRevenue": 28471,
+        "growthPct": 0,
+        "mrrGrowth": 0,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "Your AI boxing coach. Anytime. Anywhere.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "Tribe Social",
+        "url": "https://tribesocial.io",
+        "logo": "https://files.stripe.com/links/MDB8YWNjdF8xUUpJaXE0UFhUajBUUFcwfGZsX2xpdmVfekozczhjU2NkSTZwVGdVcE84SnhMc0ZU005eJNQeux",
+        "mrr": 21980,
+        "mrrValue": 28271,
+        "totalRevenue": 342368,
+        "growthPct": 43.43,
+        "mrrGrowth": 0,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "Tribe Social provides a platform for creating custom community apps with features like courses, live calls, and payments.",
+        "mrrDelta": -6291,
+        "rankDelta": -33
+      },
+      {
+        "name": "Lancer.app",
+        "url": "https://www.lancer.app",
+        "logo": "https://files.stripe.com/links/MDB8YWNjdF8xUkhVbGtFMEEzUkk2aExEfGZsX2xpdmVfU1VOSE5yRWxDSTdSQlRLY2FIcEJkd0VF00hpT21JNq",
+        "mrr": 21892,
+        "mrrValue": 17884,
+        "totalRevenue": 138485,
+        "growthPct": 24.16,
+        "mrrGrowth": 4.76,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "Lancer.app is an AI-powered tool that automates job application process on Upwork for freelancers and agencies.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "BuildMyAgent.io",
+        "url": "https://buildmyagent.io",
+        "logo": "https://d21oz30g4w22sz.cloudfront.net/logos/buildmyagent-io-a05fe741-17eb-4c70-bc0d-dbfd0aef0b0e.png",
+        "mrr": 21830,
+        "mrrValue": 21416,
+        "totalRevenue": 689091,
+        "growthPct": 0.37,
+        "mrrGrowth": -13.25,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "BuildMyAgent.io is a web-based platform that helps teams and agencies design, test, and deploy AI-driven agents and chatbots using LLMs and prompt engineering.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "SuperX",
+        "url": "https://superx.so/",
+        "logo": "https://files.stripe.com/links/MDB8YWNjdF8xUncxbEVHMXlidWFQVUFRfGZsX2xpdmVfNEN1RG1LbWh5VzlzTmxOR3ZHV0hkcThj00pVIZ3Ewd",
+        "mrr": 21401,
+        "mrrValue": 22881,
+        "totalRevenue": 189229,
+        "growthPct": 22.58,
+        "mrrGrowth": 13.65,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "Audience growth on X.",
+        "mrrDelta": -2069,
+        "rankDelta": -14
+      },
+      {
+        "name": "BYQ Supply",
+        "url": "https://byq.lemonsqueezy.com",
+        "logo": "https://cdn.lemonsqueezy.com/avatars/stores/145343/QenEOivhzGzEifIGlV8WBnCgADpTNRi3EhTcuxaF.png?fit=contain&format=auto&height=100&ixlib=php-3.3.1&width=100",
+        "mrr": 21370,
+        "mrrValue": 8848,
+        "totalRevenue": 121778,
+        "growthPct": 72.41,
+        "mrrGrowth": 22.51,
+        "traffic": 13610,
+        "revPerVisitor": 1.6251,
+        "description": "[Private metric reference available after login.] Currently 362 paying subscribers plus 79 lifetime customers; $91k all-time gross via LemonSqueezy. [Private metric reference available after login.]",
+        "mrrDelta": 12522,
+        "rankDelta": 22
+      },
+      {
+        "name": "Plutio (Super Work AI)",
+        "url": "https://plutio.com",
+        "logo": "https://d21oz30g4w22sz.cloudfront.net/logos/plutio-2259aa3c-e1d6-441c-a0f0-b280c913c444.png",
+        "mrr": 21152,
+        "mrrValue": 19813,
+        "totalRevenue": 1433716,
+        "growthPct": 11.43,
+        "mrrGrowth": 0.32,
+        "traffic": 17217,
+        "revPerVisitor": 1.2191,
+        "description": "One app to run, grow, and automate your business.",
+        "mrrDelta": 1317,
+        "rankDelta": -5
+      },
+      {
+        "name": "Pasul.ro",
+        "url": "https://www.pasul.ro",
+        "logo": "https://d21oz30g4w22sz.cloudfront.net/logos/pasul-ro-12252792-dea1-4cec-9f82-7efd33f5add1.png",
+        "mrr": 20997,
+        "mrrValue": 0,
+        "totalRevenue": 234874,
+        "growthPct": 2.1,
+        "mrrGrowth": 0,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "Pasul.ro is a Romanian mental health platform that matches clients in Romania and abroad with vetted Romanian-speaking psychologists and therapists for online therapy and in-person sessions. We combin",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "OVER THE PLANET",
+        "url": "https://www.overtheplanet.com",
+        "logo": "https://files.stripe.com/links/MDB8YWNjdF8xSDVrSnRGNWRiQUVXUUVyfGZsX2xpdmVfUzNkcWgyRkx0dlRIaWRyUW5PcUc3UWFQ00xvY8E2s6",
+        "mrr": 20861,
+        "mrrValue": 0,
+        "totalRevenue": 265389,
+        "growthPct": 21.25,
+        "mrrGrowth": 0,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "We provide tailored / customized holiday packages which may include experiences, rentals and services, hotel accommodations to our customers. We would be charging our customers the full amount at the",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "Saaspa.ge",
+        "url": "https://saaspa.ge",
+        "logo": "https://d21oz30g4w22sz.cloudfront.net/logos/pdb-online-diensten-17ef8ae4-8f5b-4e73-a7d9-7d3de48fed6c.png",
+        "mrr": 20604,
+        "mrrValue": 1466,
+        "totalRevenue": 147029,
+        "growthPct": null,
+        "mrrGrowth": null,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "The Latest Startups And Submit Your Own For A Free DoFollow Backklink",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "Crush AI",
+        "url": "https://trycrush.ai",
+        "logo": "https://d21oz30g4w22sz.cloudfront.net/logos/uab-minderse-acff623c-53ad-4b0c-bc89-4854e520bc8f.png",
+        "mrr": 20283,
+        "mrrValue": 20406,
+        "totalRevenue": 131078,
+        "growthPct": -35.68,
+        "mrrGrowth": -30.67,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "Crush analyzes competitors, generates creatives, and optimizes your spend to scale what works and turn off what doesn't.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "Laper",
+        "url": "https://laper.ai",
+        "logo": "https://files.stripe.com/links/MDB8YWNjdF8xU0NJa0hJWVg3Zm5qb3E4fGZsX2xpdmVfaGJjTlJTTXdJcDFhSmhOSWxJVDBQS1Rq00Q06CswkO",
+        "mrr": 20153,
+        "mrrValue": 15651,
+        "totalRevenue": 33027,
+        "growthPct": 114.76,
+        "mrrGrowth": 119.32,
+        "traffic": 11,
+        "revPerVisitor": 1817.9527,
+        "description": "From first draft to final cut. The only platform where screenwriters and AI collaborate on scripts, breakdowns, storyboards, and production. A complete pre-production SaaS—AI creative workspace, AI sc",
+        "mrrDelta": 4446,
+        "rankDelta": -2
+      },
+      {
+        "name": "Luce",
+        "url": "https://www.agency.luce.sh",
+        "logo": "https://files.stripe.com/links/MDB8YWNjdF8xU205VzdFRU1qUTY2Tk5KfGZsX2xpdmVfV2JyQkM4T01LOG9LYzFIMmdGa21ORFoy00NPNTTWY5",
+        "mrr": 19600,
+        "mrrValue": 0,
+        "totalRevenue": 56601,
+        "growthPct": 110.52,
+        "mrrGrowth": -100,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "AI Native SEO, GEO, Reddit Agency for Startups",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "ToolScale",
+        "url": "https://toolscale.io",
+        "logo": "https://d21oz30g4w22sz.cloudfront.net/logos/toolscale-llc-f5e60368-1775-406f-a69b-31e71b1a69aa.png",
+        "mrr": 19277,
+        "mrrValue": 22163,
+        "totalRevenue": 149465,
+        "growthPct": 7.95,
+        "mrrGrowth": -2.27,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "40+ Premium Ecom & AI Tools in one subscription",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "Marky",
+        "url": "https://mymarky.ai",
+        "logo": "https://files.stripe.com/links/MDB8YWNjdF8xTlQ3TlpFNDNEUmNMU05QfGZsX2xpdmVfSUlhSENYNmJRaHF3VGVvRmFwdHZ5ZGdV00OBz7sgDW",
+        "mrr": 19016,
+        "mrrValue": 23807,
+        "totalRevenue": 933789,
+        "growthPct": -19.62,
+        "mrrGrowth": -5.78,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "A tool for self-publishing authors to manage their social media.",
+        "mrrDelta": -5026,
+        "rankDelta": -28
+      },
+      {
+        "name": "Akari Tickets",
+        "url": "https://whop.com/akari",
+        "logo": "https://img-v2-prod.whop.com/ZpTiAyC_U2YjossruCWVr0gbYpZVBqKbKfM0PEirHz4/mb:180000/plain/https://assets-2-prod.whop.com/public/uploads/2024-12-13/user_49916_600f7ae7-f670-46f7-81b9-4221665f965b.png",
+        "mrr": 18664,
+        "mrrValue": 18437,
+        "totalRevenue": 846712,
+        "growthPct": -14.56,
+        "mrrGrowth": -3.69,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "Akari — EU/UK/US #1 Ticket reselling group. Get tickets for concerts, sports & festivals with real-time monitors, instant drop alerts & auto-checkout bots. Beat the queue on Ticketmaster, See Tickets",
+        "mrrDelta": -38,
+        "rankDelta": -11
+      },
+      {
+        "name": "ZebraSnap",
+        "url": "https://www.zebrasnap.com",
+        "logo": "https://d21oz30g4w22sz.cloudfront.net/logos/zebrasnap-d835a8d9-db9e-4ffe-84a2-e599a8cb7036.svg",
+        "mrr": 18552,
+        "mrrValue": 376,
+        "totalRevenue": 67410,
+        "growthPct": 48.88,
+        "mrrGrowth": 72.47,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "Our marketplace allows photographers to sell the photos they take at events directly to participants and attendees. Customers can easily find and purchase their images online, with secure payments and",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "Distribb",
+        "url": "https://distribb.io",
+        "logo": "https://d21oz30g4w22sz.cloudfront.net/logos/rebelgrowth-33ff2f40-1def-4d18-87c0-26b87927e290.jpg",
+        "mrr": 18513,
+        "mrrValue": 16234,
+        "totalRevenue": 84771,
+        "growthPct": 33.01,
+        "mrrGrowth": -28.99,
+        "traffic": 0,
+        "revPerVisitor": null,
+        "description": "Done-for-you Reddit, SEO & social media automation software. Keyword research, daily articles, backlinks, distributes to 13 social platforms. Powerful Social Media scheduler. Reddit Reply Agent.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "Khosmos",
+        "url": "https://khosmos.fr",
+        "logo": "https://files.stripe.com/links/MDB8YWNjdF8xTXFac1lGMFYxZU5sOGZkfGZsX2xpdmVfOElka2QwcWxJT1JLcjRGNmwxMWVKQnly00HNB8Xtr5",
+        "mrr": 18269,
+        "mrrValue": 20782,
+        "totalRevenue": 297143,
+        "growthPct": -14.65,
+        "mrrGrowth": 8.04,
+        "traffic": 517,
+        "revPerVisitor": 35.9514,
+        "description": "Nous développons une application mobile de facturation destinée aux artisans du bâtiment. Celle-ci a pour but d'aider ces personnes à générer des devis, factures, attestations pour la TVA réduite et r",
+        "mrrDelta": -2495,
+        "rankDelta": -18
+      },
+      {
+        "name": "Atlas",
+        "url": "https://www.atlas.org",
+        "logo": "https://files.stripe.com/links/MDB8YWNjdF8xUG5PRXBIaExZclRES0k3fGZsX2xpdmVfWjBZaVR1TWxLbDA3STRrS252U2o0UHcy00uDcL0AGl",
+        "mrr": 17937,
+        "mrrValue": 27459,
+        "totalRevenue": 749701,
+        "growthPct": -21.42,
+        "mrrGrowth": -6.03,
+        "traffic": 191449,
+        "revPerVisitor": 0.0946,
+        "description": "Atlas is a personalized learning platform for students. Atlas's AI studies your class materials to help you nail your homework and ace your tests.",
+        "mrrDelta": -9600,
+        "rankDelta": -48
+      },
+      {
+        "name": "Advise.so",
+        "url": "https://advise.so",
+        "logo": "https://files.stripe.com/links/MDB8YWNjdF8xTUJ3Z1k0SUhPNVNDWFBifGZsX2xpdmVfQk00UXJFWURiRUhGc25HTTJVb1lYS2dT00E1dM88nK",
+        "mrr": 17367,
+        "mrrValue": 24654,
+        "totalRevenue": 970929,
+        "growthPct": -13.75,
+        "mrrGrowth": -0.48,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "Vibrant and active community of marketers",
+        "mrrDelta": -7287,
+        "rankDelta": -40
+      },
+      {
+        "name": "AdStellar",
+        "url": "https://www.adstellar.ai",
+        "logo": "https://files.stripe.com/links/MDB8YWNjdF8xU01aQVhJdm9naTRaTG9TfGZsX2xpdmVfeHBlbkNTYUllU1RtczJnZTBJd243VkFu00Vg1KNz37",
+        "mrr": 17276,
+        "mrrValue": 18861,
+        "totalRevenue": 76585,
+        "growthPct": -5.81,
+        "mrrGrowth": -23.03,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "Launch Meta ads 10x faster & find winning ad combos with 10x less ad budget.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "PolyPick",
+        "url": "https://polypick.app",
+        "logo": "https://d21oz30g4w22sz.cloudfront.net/logos/polypick-ca9b3a47-6591-48ab-b552-b52c207a39af.png",
+        "mrr": 17221,
+        "mrrValue": 31407,
+        "totalRevenue": 19269,
+        "growthPct": 744.42,
+        "mrrGrowth": -41.14,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "The #1 AI platform for beating prediction markets. Analyze Polymarket, Kalshi & more with AI, copy top traders, track whales, and make smarter bets in seconds.",
+        "mrrDelta": -15332,
+        "rankDelta": -67
+      },
+      {
+        "name": "notis.ai",
+        "url": "https://notis.ai",
+        "logo": "https://files.stripe.com/links/MDB8YWNjdF8xUTJ1ckFBOWpXYTBBUGZBfGZsX2xpdmVfOGJDcW9sM014MjNGU2I4cW1rb2pvcVdz00dAHAvO57",
+        "mrr": 16975,
+        "mrrValue": 17005,
+        "totalRevenue": 195901,
+        "growthPct": -8.66,
+        "mrrGrowth": -0.35,
+        "traffic": 16256,
+        "revPerVisitor": 1.0434,
+        "description": "Your AI Intern One Message Away: dump the busy work. Work like a team of ten. From meeting minutes to blog posts, from CRM updates to newsletter drafts—just speak, and it's done.",
+        "mrrDelta": 22,
+        "rankDelta": -16
+      },
+      {
+        "name": "FaceKit",
+        "url": "https://facekitapp.com",
+        "logo": "https://d21oz30g4w22sz.cloudfront.net/logos/facekit-adf19ce2-cd74-42f5-b2a2-cf111bfbd672.png",
+        "mrr": 16819,
+        "mrrValue": 16895,
+        "totalRevenue": 189080,
+        "growthPct": -38.82,
+        "mrrGrowth": -1.57,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "[Private metric reference available after login.] Most unique and accurate app in this space. Includes very valuable data in the backend - to be elaborated on.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "AutoContent API",
+        "url": "https://autocontentapi.com",
+        "logo": "https://files.stripe.com/links/MDB8YWNjdF8xUURvZkxHVWU1VnNMdTBRfGZsX2xpdmVfQ05hMmZYbHViSFRoMDlwS3EydEk5TGxa00BCiE9VsN",
+        "mrr": 16764,
+        "mrrValue": 17036,
+        "totalRevenue": 239061,
+        "growthPct": 6.78,
+        "mrrGrowth": 0.35,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "AutoContent API provides an API for automated content generation across multiple formats.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "ColdSire",
+        "url": "https://coldsire.com",
+        "logo": "https://files.stripe.com/links/MDB8YWNjdF8xTjkxbExDZWR5akxMclBRfGZsX2xpdmVfaDM3aGpteUZpcVJ5dW1KN1dkbHk2Q0JL00uqGnE9T8",
+        "mrr": 16412,
+        "mrrValue": 19298,
+        "totalRevenue": 997163,
+        "growthPct": -8.38,
+        "mrrGrowth": -6.78,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "We help businesses scale outreach with premium cold email inboxes.",
+        "mrrDelta": -2904,
+        "rankDelta": -24
+      },
+      {
+        "name": "Superbullet, LLC",
+        "url": "https://superbulletstudios.com",
+        "logo": "https://files.stripe.com/links/MDB8YWNjdF8xU2MwQWJDekFMR3dERHI4fGZsX2xpdmVfamFXamlsVmxHVFpNVHU2OVZBaUhVQ0V500dG0MhZ2R",
+        "mrr": 16160,
+        "mrrValue": 8964,
+        "totalRevenue": 63528,
+        "growthPct": 33.28,
+        "mrrGrowth": 47.82,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "Superbullet Studios builds AI-powered Roblox AI game creation platform SuperbulletAI and a creator AI marketplace for the Roblox ecosystem, enabling developers to create, sell, and collaborate. We’re",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "Draft AI",
+        "url": "https://getdraft.io",
+        "logo": "https://www.appatar.io/app.Draft/small",
+        "mrr": 15995,
+        "mrrValue": 15225,
+        "totalRevenue": 183092,
+        "growthPct": -4.13,
+        "mrrGrowth": 0,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "Draft AI turns voice recordings into social media posts and scripts",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "Replayed LTD",
+        "url": "https://replayed.co",
+        "logo": "https://d21oz30g4w22sz.cloudfront.net/logos/replayed-ltd-165bfe94-dcb4-435e-92e3-d94190c8ab3a.png",
+        "mrr": 15994,
+        "mrrValue": 0,
+        "totalRevenue": 1388988,
+        "growthPct": -16.51,
+        "mrrGrowth": 0,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "Best video editing service for YouTubers - No subscription. On demand. Direct chat with editors.",
+        "mrrDelta": 326,
+        "rankDelta": -18
+      },
+      {
+        "name": "WriteStack",
+        "url": "https://substack.com/@orelzilberman",
+        "logo": "https://files.stripe.com/links/MDB8YWNjdF8xUGRvMHpSeGhZUURmUllHfGZsX2xpdmVfeXZoUVJwZzVnOFY1a3lJN2o1YVJLRm1400Sxo9KHPB",
+        "mrr": 15931,
+        "mrrValue": 14243,
+        "totalRevenue": 132069,
+        "growthPct": 9.91,
+        "mrrGrowth": 2,
+        "traffic": 6000,
+        "revPerVisitor": 2.5568,
+        "description": "I want to process payments through Stripe, using Stripe's API. I also want to create tools for stripe, like a dashboard.",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "Glamour",
+        "url": "https://apps.apple.com/app/id6737767298",
+        "logo": "https://www.appatar.io/com.glamour.glamourapp/small",
+        "mrr": 15924,
+        "mrrValue": 15133,
+        "totalRevenue": 95128,
+        "growthPct": -3.43,
+        "mrrGrowth": 0,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "Glamour is an AI-powered personal color analysis app helping users discover their ideal color palette for clothing, makeup, and accessories. Users upload a selfie and get personalized seasonal color a",
+        "mrrDelta": null,
+        "rankDelta": null
+      },
+      {
+        "name": "Low Content AI",
+        "url": "https://www.lowcontent.ai",
+        "logo": "https://d21oz30g4w22sz.cloudfront.net/logos/low-content-ai-c3240883-ddf8-4ec4-a8d8-7d48bdace43e.jpg",
+        "mrr": 15828,
+        "mrrValue": 20014,
+        "totalRevenue": 594755,
+        "growthPct": -43.2,
+        "mrrGrowth": -15.01,
+        "traffic": null,
+        "revPerVisitor": null,
+        "description": "Creates low-content books using AI tools, ready for publishing on Amazon.",
+        "mrrDelta": null,
+        "rankDelta": null
       }
     ],
     "trendingRepos": [
@@ -2470,7 +3402,7 @@
         "title": "oso95/scroll-world",
         "url": "https://github.com/oso95/scroll-world",
         "source": "github",
-        "points": 1199,
+        "points": 1203,
         "meta": "JavaScript · A skill that turn any brand into a scrollable 3D world",
         "createdAt": "2026-07-06T21:28:58Z",
         "topics": []
@@ -2637,7 +3569,7 @@
         "title": "yusukebe/ax",
         "url": "https://github.com/yusukebe/ax",
         "source": "github",
-        "points": 412,
+        "points": 413,
         "meta": "TypeScript · The AI-era curl",
         "createdAt": "2026-07-06T09:39:01Z",
         "topics": []
@@ -3281,12 +4213,42 @@
     ],
     "emergingTopics": [
       {
+        "term": "analytics",
+        "count": 7,
+        "velocity": 7
+      },
+      {
+        "term": "design tools",
+        "count": 6,
+        "velocity": 6
+      },
+      {
         "term": "anthropic",
         "count": 4,
         "velocity": 4
       },
       {
         "term": "times",
+        "count": 4,
+        "velocity": 4
+      },
+      {
+        "term": "search",
+        "count": 4,
+        "velocity": 4
+      },
+      {
+        "term": "artificial intelligence",
+        "count": 22,
+        "velocity": 4
+      },
+      {
+        "term": "chrome extensions",
+        "count": 4,
+        "velocity": 4
+      },
+      {
+        "term": "career",
         "count": 4,
         "velocity": 4
       },
@@ -3306,12 +4268,22 @@
         "velocity": 4
       },
       {
+        "term": "developer tools",
+        "count": 10,
+        "velocity": 3.3333333333333335
+      },
+      {
         "term": "spending",
         "count": 3,
         "velocity": 3
       },
       {
         "term": "july",
+        "count": 3,
+        "velocity": 3
+      },
+      {
+        "term": "sales",
         "count": 3,
         "velocity": 3
       },
@@ -3336,49 +4308,9 @@
         "velocity": 2.6666666666666665
       },
       {
-        "term": "says",
-        "count": 4,
-        "velocity": 1.7777777777777777
-      },
-      {
-        "term": "amazon",
-        "count": 3,
-        "velocity": 1.7142857142857142
-      },
-      {
-        "term": "javascript",
-        "count": 3,
-        "velocity": 1.7142857142857142
-      },
-      {
-        "term": "lingbot-video",
-        "count": 3,
-        "velocity": 1.7142857142857142
-      },
-      {
-        "term": "claude-code",
-        "count": 6,
-        "velocity": 1.7142857142857142
-      },
-      {
-        "term": "apple",
-        "count": 3,
-        "velocity": 1.3333333333333333
-      },
-      {
-        "term": "agent",
-        "count": 3,
-        "velocity": 1.3333333333333333
-      },
-      {
-        "term": "robbyant",
-        "count": 4,
-        "velocity": 1.3333333333333333
-      },
-      {
-        "term": "meta",
-        "count": 3,
-        "velocity": 1.2
+        "term": "productivity",
+        "count": 14,
+        "velocity": 2.3333333333333335
       }
     ]
   }
