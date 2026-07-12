@@ -290,5 +290,73 @@
   "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale": {
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/SMBW_Talking_Flower_001_illu01_01_R_ad-0.png?quality=90&strip=all&crop=0%2C14.496596022281%2C100%2C71.006807955439&w=1200",
     "fetchedAt": 1783807943435
+  },
+  "https://www.iroh.computer/blog/mesh-llm": {
+    "image": "https://www.iroh.computer/api/og?title=Blog&subtitle=Mesh%20LLM:%20distributed%20AI%20computing%20on%20iroh",
+    "fetchedAt": 1783857462306
+  },
+  "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/": {
+    "image": "https://studyfinds.com/wp-content/uploads/2026/07/Modern-office-scaled.jpeg",
+    "fetchedAt": 1783857463311
+  },
+  "https://timeseriesofindia.com/economy/reads/upi-architecture/": {
+    "image": "https://timeseriesofindia.com/og/reads/upi-architecture.png",
+    "fetchedAt": 1783857463733
+  },
+  "https://thebeach.dev/posts/lisp-agent/": {
+    "image": "https://thebeach.dev/images/lisp-agent.jpg",
+    "fetchedAt": 1783857464469
+  },
+  "https://github.com/Wren6991/RISCBoy": {
+    "image": "https://opengraph.githubassets.com/f486b9f11b2b20eb82677b99ecba63db4440d392466e9f71686f5844fea4bdd1/Wren6991/RISCBoy",
+    "fetchedAt": 1783857464899
+  },
+  "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/vint-cerf-GettyImages-454796419.jpg?resize=1200,723",
+    "fetchedAt": 1783857465295
+  },
+  "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans": {
+    "image": null,
+    "fetchedAt": 1783857473649
+  },
+  "https://arxiv.org/abs/2607.07267": {
+    "image": null,
+    "fetchedAt": 1783857474161
+  },
+  "https://fabiensanglard.net/tb4/index.html": {
+    "image": null,
+    "fetchedAt": 1783857474620
+  },
+  "https://www.techmeme.com/260712/p5#a260712p5": {
+    "image": null,
+    "fetchedAt": 1783857474998
+  },
+  "https://www.techmeme.com/260712/p4#a260712p4": {
+    "image": null,
+    "fetchedAt": 1783857475358
+  },
+  "https://www.techmeme.com/260712/p3#a260712p3": {
+    "image": null,
+    "fetchedAt": 1783857475721
+  },
+  "https://www.techmeme.com/260712/p2#a260712p2": {
+    "image": null,
+    "fetchedAt": 1783857476081
+  },
+  "https://www.techmeme.com/260712/p1#a260712p1": {
+    "image": null,
+    "fetchedAt": 1783857476444
+  },
+  "https://www.geekwire.com/2026/what-to-know-about-vinod-khosla-the-silicon-valley-legend-whose-family-is-buying-the-seahawks/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/IMG_3238-1260x840.jpg",
+    "fetchedAt": 1783857476850
+  },
+  "https://www.techmeme.com/260711/p12#a260711p12": {
+    "image": null,
+    "fetchedAt": 1783857477212
+  },
+  "https://www.techmeme.com/260711/p11#a260711p11": {
+    "image": null,
+    "fetchedAt": 1783857477578
   }
 }
