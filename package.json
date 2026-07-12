@@ -10,7 +10,9 @@
     "pipeline": "node src/run.js",
     "test": "vitest run",
     "test:watch": "vitest",
-    "verify:render": "node tools/render-check.mjs"
+    "verify:render": "node tools/render-check.mjs",
+    "build:site": "node tools/build-site.mjs",
+    "deploy": "node tools/build-site.mjs && npx wrangler deploy"
   },
   "dependencies": {
     "cheerio": "^1.0.0",
