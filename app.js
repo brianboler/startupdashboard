@@ -95,9 +95,18 @@ function logoImg(logo, name, cls = 'mrr-logo') {
 
 // 30-day growth cell, TrustMRR-style (green up / red down).
 function growthCell(pct) {
-  if (typeof pct !== 'number') return '<span class="rank">—</span>';
+  if (typeof pct !== 'number') return DASH;
   return `<span class="${pct >= 0 ? 'growth-up' : 'growth-down'}">${pct >= 0 ? '▲' : '▼'} ${Math.abs(pct).toFixed(1)}%</span>`;
 }
+const DASH = '<span class="rank">—</span>';
+const moneyCell = (n) => (typeof n === 'number' ? fmtMoney(n) : DASH);
+const fmtTraffic = (n) => {
+  if (typeof n !== 'number' || !Number.isFinite(n)) return DASH;
+  if (n >= 1e6) return `${(n / 1e6).toFixed(1)}M`;
+  if (n >= 1e3) return `${(n / 1e3).toFixed(1)}k`;
+  return `${n}`;
+};
+const perVisitorCell = (n) => (typeof n === 'number' && Number.isFinite(n) ? `$${n.toFixed(2)}` : DASH);
 
 /* ---- Hero "Today's Pulse" strip (built from real data, each card null-checked) ---- */
 function heroLeaderCard(m) {
@@ -171,8 +180,11 @@ function renderMrrBody() {
     <tr data-search="${esc((s.name ?? '').toLowerCase())}">
       <td class="rank">${s.rank}</td>
       <td class="co">${logoImg(s.logo, s.name)}${s.url ? `<a class="mrr-name" href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener">${esc(s.name)}</a>` : `<span class="mrr-name">${esc(s.name)}</span>`}</td>
-      <td class="num">${fmtMoney(s.mrr)}</td>
+      <td class="num">${moneyCell(s.mrr)}</td>
+      <td class="num">${moneyCell(s.mrrValue)}</td>
       <td class="num">${growthCell(s.growthPct)}</td>
+      <td class="num">${fmtTraffic(s.traffic)}</td>
+      <td class="num">${perVisitorCell(s.revPerVisitor)}</td>
       <td>${sparkline(s.history)}</td>
     </tr>`).join('');
   document.querySelectorAll('.mrr-table th').forEach((th) =>
@@ -182,12 +194,17 @@ function renderMrrBody() {
 
 function mrrPanel(board) {
   mrrData = board.map((s, i) => ({ ...s, rank: i + 1 }));
-  return `<section class="panel" data-panel="mrr">
-    <h2>MRR leaders <span class="count">${board.length}</span></h2>
+  return `<section class="panel panel-wide" data-panel="mrr">
+    <h2>Revenue Leaderboard <span class="count">${board.length}</span></h2>
     <div class="mrr-scroll"><table class="mrr-table">
       <thead><tr>
-        <th data-key="rank">#</th><th data-key="name">Startup</th>
-        <th data-key="mrr">MRR</th><th data-key="growthPct">30d</th><th class="nosort">14d</th>
+        <th data-key="rank">#</th><th data-key="name">Company</th>
+        <th class="num" data-key="mrr">Revenue</th>
+        <th class="num" data-key="mrrValue">MRR</th>
+        <th class="num" data-key="growthPct">Growth</th>
+        <th class="num" data-key="traffic">Traffic</th>
+        <th class="num" data-key="revPerVisitor">$/visitor</th>
+        <th class="nosort">14d</th>
       </tr></thead>
       <tbody id="mrr-body"></tbody>
     </table></div>
@@ -271,13 +288,13 @@ async function main() {
     `<button class="topic-chip" data-term="${esc(t.term)}" title="count ${t.count}">${esc(t.term)}<span class="vel">×${t.velocity.toFixed(1)}</span></button>`).join('');
 
   $('#grid').innerHTML = `
+    ${mrrPanel(s.mrrLeaderboard)}
     <div class="col-main">
       ${panel('headlines', 'Headlines', s.headlines.map((i) => itemLi(i, { thumb: true })))}
       ${panel('community', 'Community', community.map((i) => itemLi(i, { thumb: true })))}
       ${panel('news', 'News', s.news.map((i) => itemLi(i, { thumb: true })))}
     </div>
     <div class="col-rail">
-      ${mrrPanel(s.mrrLeaderboard)}
       ${panel('launches', 'Launches', s.launches.map((i) => itemLi(i, { thumb: true })))}
       ${panel('repos', 'New repos', s.trendingRepos.map((i) => itemLi(i, { thumb: true, ghImage: true })))}
       ${panel('filings', 'Form D filings', s.formDFilings.map(filingLi))}

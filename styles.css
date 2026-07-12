@@ -223,6 +223,13 @@ img { max-width: 100%; }
 .growth-down { color: var(--down); font-weight: 600; }
 .hero-leader-head { display: flex; align-items: center; gap: 10px; margin: 2px 0 4px; }
 
+/* Full-width TrustMRR-style leaderboard */
+.panel-wide { grid-column: 1 / -1; }
+.mrr-scroll { max-height: 620px; }
+.mrr-table { min-width: 680px; }
+.mrr-table th.num, .mrr-table td.num { text-align: right; }
+.mrr-table td.rank { text-align: left; }
+
 /* Topic chips */
 .topic-cloud { display: flex; flex-wrap: wrap; gap: 6px; padding: 4px 16px 14px; }
 .topic-chip {
