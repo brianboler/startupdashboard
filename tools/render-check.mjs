@@ -25,6 +25,13 @@ await new Promise((r) => setTimeout(r, 300));
 
 const doc = window.document;
 const q = (s) => doc.querySelectorAll(s).length;
+const sections = JSON.parse(latest).sections ?? {};
+// The hero strip is built from the top item of these sections. On a legitimately
+// thin day a section can be empty, so only require hero cards when data exists.
+const heroExpected =
+  (sections.mrrLeaderboard?.length ?? 0) > 0 ||
+  (sections.launches?.length ?? 0) > 0 ||
+  (sections.formDFilings?.length ?? 0) > 0;
 const report = {
   panels: q('.panel'),
   rows: q('li[data-search]'),
@@ -32,6 +39,7 @@ const report = {
   tickerChips: q('.tick'),
   statCells: q('.stat'),
   topicChips: q('.topic-chip'),
+  heroCards: q('.hero-card'),
   loadError: /Could not load/.test(doc.querySelector('#grid')?.innerHTML ?? ''),
   errors,
 };
@@ -39,6 +47,7 @@ console.log(JSON.stringify(report, null, 2));
 // Gate on STRUCTURAL integrity + zero JS errors, NOT data volume — so a
 // legitimately thin day (a source outage → empty section) never fails CI and
 // skips the snapshot commit. The volume numbers above are printed for humans.
-const ok = report.panels >= 8 && report.statCells === 7 && !report.loadError && errors.length === 0;
+const ok = report.panels >= 8 && report.statCells === 7 && !report.loadError && errors.length === 0
+  && (!heroExpected || report.heroCards >= 1);
 console.log(ok ? 'RENDER_CHECK: PASS' : 'RENDER_CHECK: FAIL');
 process.exit(ok ? 0 : 1);

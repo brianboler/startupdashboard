@@ -78,6 +78,60 @@ function sparkline(values, w = 72, h = 20) {
     <polyline points="${pts}" fill="none" stroke="var(--${up ? 'up' : 'down'})" stroke-width="1.5"/></svg>`;
 }
 
+/* ---- Hero "Today's Pulse" strip (built from real data, each card null-checked) ---- */
+function heroLeaderCard(m) {
+  if (!m) return '';
+  return `<a class="hero-card hero-leader" href="${esc(m.url ?? '#')}" target="_blank" rel="noopener">
+    <div class="hero-eyebrow"><span class="amber">▲ TOP MRR</span></div>
+    <div class="hero-name">${esc(m.name)}</div>
+    <div class="hero-figure">${fmtMoney(m.mrr)}</div>
+    <div class="hero-sub">${mrrDelta(m)}<span class="hero-tag">/ mo</span></div>
+    <div class="hero-spark">${sparkline(m.history, 240, 40)}</div>
+  </a>`;
+}
+
+function heroLaunchCard(l) {
+  if (!l) return '';
+  const cover = l.image
+    ? `<span class="hero-cover"><img loading="lazy" decoding="async" referrerpolicy="no-referrer" alt=""
+        src="${esc(l.image)}" onerror="this.closest('.hero-cover').remove()"></span>`
+    : '';
+  return `<a class="hero-card hero-launch" href="${esc(l.url ?? '#')}" target="_blank" rel="noopener">
+    <div class="hero-eyebrow"><span class="amber">LAUNCHING NOW</span></div>
+    ${cover}
+    <div class="hero-name hero-name-md">${esc(l.title)}</div>
+    <div class="hero-sub">
+      ${l.points != null ? `<span class="pts">▲ ${l.points}</span>` : ''}
+      ${l.source ? `<span class="hero-tag">${esc(l.source)}</span>` : ''}
+    </div>
+  </a>`;
+}
+
+function heroFilingCard(f) {
+  if (!f) return '';
+  const date = f.dateFiled && f.dateFiled.length >= 8
+    ? `${f.dateFiled.slice(0, 4)}-${f.dateFiled.slice(4, 6)}-${f.dateFiled.slice(6, 8)}` : '';
+  return `<a class="hero-card hero-filing" href="${esc(f.url ?? '#')}" target="_blank" rel="noopener">
+    <div class="hero-eyebrow"><span class="amber">JUST FILED</span></div>
+    <div class="hero-badge">FORM ${esc(f.formType)}</div>
+    <div class="hero-name hero-name-md">${esc(f.company)}</div>
+    <div class="hero-sub">
+      ${date ? `<span class="hero-tag">${date}</span>` : ''}
+      ${f.cik ? `<span class="hero-tag">CIK ${esc(f.cik)}</span>` : ''}
+    </div>
+  </a>`;
+}
+
+function buildHero(s) {
+  const cards = [
+    heroLeaderCard((s.mrrLeaderboard ?? [])[0]),
+    heroLaunchCard((s.launches ?? [])[0]),
+    heroFilingCard((s.formDFilings ?? [])[0]),
+  ].filter(Boolean);
+  if (!cards.length) return '';
+  return `<div class="hero-head">Today's Pulse</div><div class="hero-grid">${cards.join('')}</div>`;
+}
+
 /* ---- MRR sortable table ---- */
 let mrrData = [];
 let mrrSort = { key: 'rank', dir: 1 };
@@ -181,6 +235,7 @@ async function main() {
   $('#date-badge').textContent = snap.date;
   $('#generated-at').textContent = `Generated ${new Date(snap.generatedAt).toLocaleString()}`;
   $('#ticker').innerHTML = buildTicker(s);
+  $('#hero').innerHTML = buildHero(s);
 
   const td = snap.stats.totalDelta;
   const tdHtml = td == null || td === 0 ? '' :
