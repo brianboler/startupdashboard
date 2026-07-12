@@ -4,6 +4,12 @@ const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) =>
 const fmtMoney = (n) =>
   n == null ? '—' : n >= 1e6 ? `$${(n / 1e6).toFixed(1)}M` : n >= 1e3 ? `$${(n / 1e3).toFixed(1)}k` : `$${n}`;
 const domainOf = (url) => { try { return new URL(url).hostname.replace(/^www\./, ''); } catch { return null; } };
+// Allow only http(s) in hrefs — blocks javascript:/data:/vbscript: scheme XSS from feed data.
+const safeUrl = (u) => {
+  if (!u) return '#';
+  try { const p = new URL(u, location.href); return (p.protocol === 'https:' || p.protocol === 'http:') ? p.href : '#'; }
+  catch { return '#'; }
+};
 const relTime = (iso) => {
   if (!iso) return '';
   const s = (Date.now() - Date.parse(iso)) / 1000;
@@ -37,9 +43,9 @@ function thumbImg(src) {
 function itemLi(item, { thumb = false, ghImage = false } = {}) {
   const img = thumb ? thumbImg(ghImage ? `https://opengraph.githubassets.com/1/${esc(item.title)}` : item.image) : '';
   const comments = item.commentsUrl && item.commentsUrl !== item.url
-    ? ` <a class="cmt" href="${esc(item.commentsUrl)}" target="_blank" rel="noopener">↳ thread</a>` : '';
+    ? ` <a class="cmt" href="${esc(safeUrl(item.commentsUrl))}" target="_blank" rel="noopener">↳ thread</a>` : '';
   return `<li data-search="${esc(`${item.title} ${item.meta ?? ''} ${item.source}`.toLowerCase())}">
-    <a class="row" href="${esc(item.url)}" target="_blank" rel="noopener">
+    <a class="row" href="${esc(safeUrl(item.url))}" target="_blank" rel="noopener">
       ${img}
       <span class="row-body">
         <div class="item-title">${esc(item.title)}</div>
@@ -57,7 +63,7 @@ function itemLi(item, { thumb = false, ghImage = false } = {}) {
 function filingLi(f) {
   const date = `${f.dateFiled.slice(0, 4)}-${f.dateFiled.slice(4, 6)}-${f.dateFiled.slice(6, 8)}`;
   return `<li data-search="${esc(f.company.toLowerCase())}">
-    <a class="row" href="${esc(f.url)}" target="_blank" rel="noopener">
+    <a class="row" href="${esc(safeUrl(f.url))}" target="_blank" rel="noopener">
       <span class="row-body">
         <div class="item-title">${esc(f.company)}</div>
         <div class="item-meta"><span class="amber">FORM ${esc(f.formType)}</span><span>${date}</span><span>CIK ${esc(f.cik)}</span></div>
@@ -81,11 +87,11 @@ function sparkline(values, w = 72, h = 20) {
 /* ---- Hero "Today's Pulse" strip (built from real data, each card null-checked) ---- */
 function heroLeaderCard(m) {
   if (!m) return '';
-  return `<a class="hero-card hero-leader" href="${esc(m.url ?? '#')}" target="_blank" rel="noopener">
+  return `<a class="hero-card hero-leader" href="${esc(safeUrl(m.url))}" target="_blank" rel="noopener">
     <div class="hero-eyebrow"><span class="amber">▲ TOP MRR</span></div>
     <div class="hero-name">${esc(m.name)}</div>
     <div class="hero-figure">${fmtMoney(m.mrr)}</div>
-    <div class="hero-sub">${mrrDelta(m)}<span class="hero-tag">/ mo</span></div>
+    <div class="hero-sub"><span class="hero-tag">Δ day</span>${mrrDelta(m)}</div>
     <div class="hero-spark">${sparkline(m.history, 240, 40)}</div>
   </a>`;
 }
@@ -96,7 +102,7 @@ function heroLaunchCard(l) {
     ? `<span class="hero-cover"><img loading="lazy" decoding="async" referrerpolicy="no-referrer" alt=""
         src="${esc(l.image)}" onerror="this.closest('.hero-cover').remove()"></span>`
     : '';
-  return `<a class="hero-card hero-launch" href="${esc(l.url ?? '#')}" target="_blank" rel="noopener">
+  return `<a class="hero-card hero-launch" href="${esc(safeUrl(l.url))}" target="_blank" rel="noopener">
     <div class="hero-eyebrow"><span class="amber">LAUNCHING NOW</span></div>
     ${cover}
     <div class="hero-name hero-name-md">${esc(l.title)}</div>
@@ -111,7 +117,7 @@ function heroFilingCard(f) {
   if (!f) return '';
   const date = f.dateFiled && f.dateFiled.length >= 8
     ? `${f.dateFiled.slice(0, 4)}-${f.dateFiled.slice(4, 6)}-${f.dateFiled.slice(6, 8)}` : '';
-  return `<a class="hero-card hero-filing" href="${esc(f.url ?? '#')}" target="_blank" rel="noopener">
+  return `<a class="hero-card hero-filing" href="${esc(safeUrl(f.url))}" target="_blank" rel="noopener">
     <div class="hero-eyebrow"><span class="amber">JUST FILED</span></div>
     <div class="hero-badge">FORM ${esc(f.formType)}</div>
     <div class="hero-name hero-name-md">${esc(f.company)}</div>
@@ -156,7 +162,7 @@ function renderMrrBody() {
   $('#mrr-body').innerHTML = sorted.map((s) => `
     <tr data-search="${esc((s.name ?? '').toLowerCase())}">
       <td class="rank">${s.rank}</td>
-      <td>${s.url ? `<a class="mrr-name" href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>` : `<span class="mrr-name">${esc(s.name)}</span>`}</td>
+      <td>${s.url ? `<a class="mrr-name" href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener">${esc(s.name)}</a>` : `<span class="mrr-name">${esc(s.name)}</span>`}</td>
       <td class="num">${fmtMoney(s.mrr)}</td>
       <td class="num">${mrrDelta(s)}</td>
       <td>${sparkline(s.history)}</td>
@@ -188,13 +194,13 @@ function buildTicker(s) {
     .sort((a, b) => Math.abs(b.mrrDelta) - Math.abs(a.mrrDelta)).slice(0, 12)) {
     const cls = m.mrrDelta > 0 ? 'up' : 'down';
     const arrow = m.mrrDelta > 0 ? '▲' : '▼';
-    chips.push(`<a class="tick" href="${esc(m.url ?? '#')}" target="_blank" rel="noopener">${esc(m.name)} <b class="${cls}">${arrow} ${fmtMoney(Math.abs(m.mrrDelta))}</b></a>`);
+    chips.push(`<a class="tick" href="${esc(safeUrl(m.url))}" target="_blank" rel="noopener">${esc(m.name)} <b class="${cls}">${arrow} ${fmtMoney(Math.abs(m.mrrDelta))}</b></a>`);
   }
   for (const f of (s.formDFilings ?? []).slice(0, 8)) {
-    chips.push(`<a class="tick" href="${esc(f.url)}" target="_blank" rel="noopener"><b class="amber">FORM ${esc(f.formType)}</b> ${esc(f.company)}</a>`);
+    chips.push(`<a class="tick" href="${esc(safeUrl(f.url))}" target="_blank" rel="noopener"><b class="amber">FORM ${esc(f.formType)}</b> ${esc(f.company)}</a>`);
   }
   for (const r of (s.trendingRepos ?? []).slice(0, 5)) {
-    chips.push(`<a class="tick" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)} <b class="up">★ ${(r.points ?? 0).toLocaleString()}</b></a>`);
+    chips.push(`<a class="tick" href="${esc(safeUrl(r.url))}" target="_blank" rel="noopener">${esc(r.title)} <b class="up">★ ${(r.points ?? 0).toLocaleString()}</b></a>`);
   }
   if (!chips.length) return '';
   const seg = chips.join('<span class="tick-sep">·</span>') + '<span class="tick-sep">·</span>';
