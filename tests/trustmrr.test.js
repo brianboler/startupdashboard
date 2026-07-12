@@ -51,4 +51,10 @@ describe('parseTrustMrr (against live fixture)', () => {
   it('at least one startup has a parsed MRR value', () => {
     expect(startups.some((s) => typeof s.mrr === 'number' && s.mrr > 0)).toBe(true);
   });
+
+  it('extracts company logos as https URLs', () => {
+    const withLogo = startups.filter((s) => s.logo);
+    expect(withLogo.length).toBeGreaterThan(20);
+    expect(withLogo.every((s) => /^https:\/\//.test(s.logo))).toBe(true);
+  });
 });

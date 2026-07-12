@@ -358,5 +358,65 @@
   "https://www.techmeme.com/260711/p11#a260711p11": {
     "image": null,
     "fetchedAt": 1783857477578
+  },
+  "https://www.techmeme.com/260712/p7#a260712p7": {
+    "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-353532,resizemode-75,msid-132350610/tech/artificial-intelligence/anthropic-extends-fable-5-access-through-july-19.jpg",
+    "fetchedAt": 1783884343646
+  },
+  "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+    "fetchedAt": 1783884344082
+  },
+  "https://thenextweb.com/news/meta-stock-best-week-ai-cloud-compute": {
+    "image": "https://media.thenextweb.com/2026/07/meta-stock-best-week-ai-cloud-compute.avif",
+    "fetchedAt": 1783884344850
+  },
+  "https://sifted.eu/articles/yann-lecun-new-vc-firm/": {
+    "image": "https://images.sifted.eu/wp-content/uploads/2026/07/10101657/bellamy-2.jpg?w=1920&h=1080&q=75&fit=crop&auto=compress,format",
+    "fetchedAt": 1783884345883
+  },
+  "https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars": {
+    "image": null,
+    "fetchedAt": 1783884346350
+  },
+  "https://www.geekwire.com/2026/etzioni-on-ai-why-trust-in-ai-splits-by-country-gender-age-and-politics/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/ai-debate2.jpeg",
+    "fetchedAt": 1783884346793
+  },
+  "https://thenextweb.com/news/zhipu-tang-jie-frontier-ai-open-to-all": {
+    "image": "https://media.thenextweb.com/2026/06/china-ai-global-cooperation-vs-g7-export-controls.avif",
+    "fetchedAt": 1783884347271
+  },
+  "https://thenextweb.com/news/ai-race-shifts-bigger-models-to-cheaper-systems": {
+    "image": "https://media.thenextweb.com/2026/07/ai-race-shifts-bigger-models-to-cheaper-systems.avif",
+    "fetchedAt": 1783884347740
+  },
+  "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one": {
+    "image": null,
+    "fetchedAt": 1783884348128
+  },
+  "https://www.larp.website/": {
+    "image": null,
+    "fetchedAt": 1783884348634
+  },
+  "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains": {
+    "image": null,
+    "fetchedAt": 1783884349021
+  },
+  "https://thenextweb.com/news/ubisoft-black-flag-remake-nostalgia-business": {
+    "image": "https://media.thenextweb.com/2026/06/claude-guillemot-ubisoft-co-founder-dies-plane-crash-69.avif",
+    "fetchedAt": 1783884349493
+  },
+  "https://thenextweb.com/news/netflix-always-on-channels-bundles-cable": {
+    "image": "https://media.thenextweb.com/2026/07/netflix-always-on-channels-bundles-cable.avif",
+    "fetchedAt": 1783884349963
+  },
+  "https://thenextweb.com/news/ai-data-centres-gas-plants-clean-energy-fight": {
+    "image": "https://media.thenextweb.com/2026/07/ai-data-centres-gas-plants-clean-energy-fight.avif",
+    "fetchedAt": 1783884350436
+  },
+  "https://www.techmeme.com/260712/p6#a260712p6": {
+    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipgZEQYo1qNg/v6/1200x800.jpg",
+    "fetchedAt": 1783884351477
   }
 }

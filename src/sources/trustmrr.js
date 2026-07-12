@@ -80,7 +80,13 @@ function mapStartup(o) {
       ? o.tagline.trim()
       : null;
 
-  return { name, url, mrr, growthPct, description };
+  // Company logo (TrustMRR embeds an `icon` URL per company). https only.
+  let logo = null;
+  for (const k of ['icon', 'logo', 'image']) {
+    if (typeof o[k] === 'string' && /^https:\/\//.test(o[k])) { logo = o[k]; break; }
+  }
+
+  return { name, url, mrr, growthPct, description, logo };
 }
 
 // Given a string and the index of a `{`, return the substring for the complete,

@@ -7,7 +7,7 @@ import { fetchTodayLaunches } from './sources/producthunt.js';
 import { fetchRecentFormD } from './sources/edgar.js';
 import { fetchNewsHeadlines } from './sources/rss.js';
 import { fetchLobsters } from './sources/lobsters.js';
-import { buildSnapshot, attachMrrHistory } from './aggregate.js';
+import { buildSnapshot, attachMrrHistory, curateHeadlines } from './aggregate.js';
 import { enrichWithOgImages } from './lib/og.js';
 import { saveSnapshot, loadRecentSnapshots, computeMrrDeltas } from './lib/snapshot.js';
 
@@ -37,9 +37,14 @@ const [headlines, showHn, repos, mrrRaw, launches, filings, news, lobsters] = aw
 
 const community = [...lobsters].sort((a, b) => (b.points ?? 0) - (a.points ?? 0));
 
+// Curate the headline feed: startup-relevant only (RSS news + filtered HN),
+// dropping Show/Ask HN promo and random non-startup noise.
+const curatedHeadlines = curateHeadlines(headlines, news);
+console.log(`✓ curated headlines: ${curatedHeadlines.length} (from ${headlines.length} HN + ${news.length} RSS)`);
+
 // Discover og:images for the top headlines/news (cached, so each URL is fetched once ever).
 const OG_CACHE = join(DATA_DIR, 'og-cache.json');
-await settle('og enrich headlines', enrichWithOgImages(headlines.slice(0, 14), OG_CACHE, { limit: 10 }));
+await settle('og enrich headlines', enrichWithOgImages(curatedHeadlines.slice(0, 14), OG_CACHE, { limit: 10 }));
 await settle('og enrich news', enrichWithOgImages(news.slice(0, 10), OG_CACHE, { limit: 8 }));
 
 // Exclude today's own snapshot so a same-day re-run (e.g. manual
@@ -55,7 +60,7 @@ const mrrLeaderboard = attachMrrHistory(computeMrrDeltas(mrrSorted, previousMrr)
 
 const snapshot = buildSnapshot({
   date: today,
-  headlines, showHn, launches, repos, mrrLeaderboard, filings, news, community,
+  headlines: curatedHeadlines, showHn, launches, repos, mrrLeaderboard, filings, news, community,
   previousSnapshots,
 });
 

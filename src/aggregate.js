@@ -68,6 +68,51 @@ export function attachMrrHistory(mrrLeaderboard, previousSnapshots, { top = 60, 
   });
 }
 
+// Startup/business/tech relevance lexicon — used to keep genuinely relevant
+// headlines and drop random HN noise (science, hobby, dev trivia). Word-bounded
+// so short tokens like "ai" don't match "brain"/"straining".
+const RELEVANCE_TERMS = [
+  'ai', 'llm', 'llms', 'gpt', 'openai', 'anthropic', 'claude', 'gemini', 'agent', 'agents', 'model', 'models',
+  'nvidia', 'chip', 'chips', 'gpu', 'robot', 'robots', 'robotics', 'quantum',
+  'startup', 'startups', 'founder', 'founders', 'ceo', 'cofounder', 'yc', 'combinator',
+  'funding', 'fund', 'funds', 'raises', 'raised', 'seed', 'series', 'valuation', 'ipo',
+  'acquire', 'acquires', 'acquired', 'acquisition', 'merger', 'venture', 'vc', 'unicorn',
+  'revenue', 'arr', 'mrr', 'profit', 'profitable', 'billion', 'million', 'investor', 'investors', 'invests', 'backed',
+  'saas', 'fintech', 'payment', 'payments', 'crypto', 'blockchain', 'biotech',
+  'launch', 'launches', 'launched', 'layoff', 'layoffs', 'hiring', 'shuts', 'shutdown',
+  'google', 'microsoft', 'meta', 'apple', 'amazon', 'stripe', 'tesla', 'spacex', 'uber', 'airbnb', 'coinbase',
+];
+const RELEVANCE_RE = new RegExp('\\b(' + RELEVANCE_TERMS.join('|') + ')\\b', 'gi');
+const PROMO_RE = /^\s*(show|ask|tell|launch)\s+hn\b/i;
+
+export function scoreHeadlineRelevance(title) {
+  return ((title ?? '').match(RELEVANCE_RE) || []).length;
+}
+
+// Build a curated, startup-relevant headline feed: RSS startup/VC news (inherently
+// relevant, +1 base) blended with HN front-page items that clear the relevance bar,
+// with Show/Ask/Tell HN promo dropped. Ranked by relevance then points, deduped by url.
+export function curateHeadlines(hnItems, newsItems, { limit = 24 } = {}) {
+  const hn = (hnItems ?? [])
+    .filter((it) => it.title && !PROMO_RE.test(it.title))
+    .map((it) => ({ it, rel: scoreHeadlineRelevance(it.title) }))
+    .filter((x) => x.rel > 0);
+  const news = (newsItems ?? [])
+    .filter((it) => it.title)
+    .map((it) => ({ it, rel: scoreHeadlineRelevance(it.title) + 1 }));
+  const seen = new Set();
+  return [...news, ...hn]
+    .sort((a, b) => (b.rel - a.rel) || ((b.it.points ?? 0) - (a.it.points ?? 0)))
+    .filter(({ it }) => {
+      const k = normalizeUrl(it.url);
+      if (seen.has(k)) return false;
+      seen.add(k);
+      return true;
+    })
+    .slice(0, limit)
+    .map(({ it }) => it);
+}
+
 export function buildSnapshot({ date, headlines, showHn, launches, repos, mrrLeaderboard, filings, news, community = [], previousSnapshots }) {
   const mergedLaunches = [...launches, ...showHn].sort((a, b) => (b.points ?? 0) - (a.points ?? 0));
 

@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { extractTerms, scoreEmergingTopics, buildSnapshot, normalizeUrl, attachMrrHistory } from '../src/aggregate.js';
+import { extractTerms, scoreEmergingTopics, buildSnapshot, normalizeUrl, attachMrrHistory, scoreHeadlineRelevance, curateHeadlines } from '../src/aggregate.js';
 
 describe('extractTerms', () => {
   it('counts title words >= 4 chars, lowercased, stopwords removed', () => {
@@ -105,5 +105,39 @@ describe('buildSnapshot v2', () => {
     expect(snap.sections.headlines[0].domain).toBe('ex.com');
     expect(snap.stats.sources.community).toBe(1);
     expect(snap.stats.totalDelta).toBe(snap.stats.totalItems - 600);
+  });
+});
+
+describe('scoreHeadlineRelevance', () => {
+  it('scores startup/tech terms and ignores substrings (ai != brain)', () => {
+    expect(scoreHeadlineRelevance('Mesh LLM: distributed AI computing')).toBeGreaterThanOrEqual(2);
+    expect(scoreHeadlineRelevance('Startup raises $40M Series B')).toBeGreaterThanOrEqual(2);
+    expect(scoreHeadlineRelevance('Modern decor may be straining brains')).toBe(0);
+    expect(scoreHeadlineRelevance('Prefer strict tables in SQLite')).toBe(0);
+  });
+});
+
+describe('curateHeadlines', () => {
+  const hn = [
+    { id: 'hn-1', title: 'Show HN: my side project', url: 'https://x.com/show', source: 'hackernews', points: 300 },
+    { id: 'hn-2', title: 'The early history of SVD (1993) [pdf]', url: 'https://x.com/svd', source: 'hackernews', points: 250 },
+    { id: 'hn-3', title: 'Nvidia acquires AI startup for $2B', url: 'https://x.com/nv', source: 'hackernews', points: 200 },
+  ];
+  const news = [
+    { id: 'rss-1', title: 'Fintech startup raises Series A', url: 'https://tc.com/a', source: 'rss:techcrunch', points: null },
+  ];
+
+  it('drops Show HN promo and irrelevant HN, keeps relevant HN + all RSS', () => {
+    const out = curateHeadlines(hn, news);
+    const ids = out.map((h) => h.id);
+    expect(ids).not.toContain('hn-1'); // Show HN promo
+    expect(ids).not.toContain('hn-2'); // irrelevant (SVD paper)
+    expect(ids).toContain('hn-3');     // Nvidia/AI/startup/acquires — relevant
+    expect(ids).toContain('rss-1');    // RSS startup news
+  });
+
+  it('respects the limit', () => {
+    const many = Array.from({ length: 40 }, (_, i) => ({ id: `rss-${i}`, title: `Startup funding news ${i}`, url: `https://n.com/${i}`, source: 'rss:x', points: null }));
+    expect(curateHeadlines([], many, { limit: 10 })).toHaveLength(10);
   });
 });
