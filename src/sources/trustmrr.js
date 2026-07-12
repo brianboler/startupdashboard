@@ -294,6 +294,10 @@ export function mapApiStartup(s) {
     traffic: num(s.visitorsLast30Days) != null ? Math.round(s.visitorsLast30Days) : null,
     revPerVisitor: num(s.revenuePerVisitor),
     description: typeof s.description === 'string' && s.description.trim() ? s.description.trim() : null,
+    // Verified profile context (well-covered): category, country, payment provider.
+    category: typeof s.category === 'string' && s.category.trim() ? s.category.trim() : null,
+    country: typeof s.country === 'string' && s.country.trim() ? s.country.trim() : null,
+    provider: typeof s.paymentProvider === 'string' && s.paymentProvider.trim() ? s.paymentProvider.trim() : null,
   };
 }
 

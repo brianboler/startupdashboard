@@ -209,7 +209,10 @@ img { max-width: 100%; }
 
 /* Company logos + growth (TrustMRR-style leaderboard) */
 .mrr-table td.co { display: flex; align-items: center; gap: 9px; }
-.mrr-table td.co .mrr-name { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.co-body { display: flex; flex-direction: column; min-width: 0; gap: 1px; }
+.co-body .mrr-name { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.co-meta { font-family: var(--mono); font-size: 0.66rem; color: var(--dim); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.co-meta .prov { color: var(--up); }
 .mrr-logo-wrap, .hero-logo-wrap {
   position: relative; display: inline-flex; align-items: center; justify-content: center;
   background: var(--surface-2); border: 1px solid var(--hairline);

@@ -434,5 +434,9 @@
   "https://www.techmeme.com/260712/p8#a260712p8": {
     "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRhhNvTMkhNk/v1/1200x800.jpg",
     "fetchedAt": 1783893004063
+  },
+  "https://www.techmeme.com/260712/p9#a260712p9": {
+    "image": "https://tii.imgix.net/production/articles/17432/740fd779-e39b-4a60-b233-c70c84221bb9.png?fm=jpeg&auto=compress&w=610",
+    "fetchedAt": 1783898335692
   }
 }

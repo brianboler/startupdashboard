@@ -107,6 +107,15 @@ const fmtTraffic = (n) => {
   return `${n}`;
 };
 const perVisitorCell = (n) => (typeof n === 'number' && Number.isFinite(n) ? `$${n.toFixed(2)}` : DASH);
+// Verified profile context under a company name: category · country · ✓provider.
+function coMeta(s) {
+  const bits = [];
+  if (s.category) bits.push(esc(s.category));
+  if (s.country) bits.push(esc(s.country));
+  let line = bits.join(' · ');
+  if (s.provider) line += `${line ? ' · ' : ''}<span class="prov" title="Revenue verified via ${esc(s.provider)}">✓ ${esc(s.provider)}</span>`;
+  return line ? `<span class="co-meta">${line}</span>` : '';
+}
 
 /* ---- Hero "Today's Pulse" strip (built from real data, each card null-checked) ---- */
 function heroLeaderCard(m) {
@@ -179,7 +188,7 @@ function renderMrrBody() {
   $('#mrr-body').innerHTML = sorted.map((s) => `
     <tr data-search="${esc((s.name ?? '').toLowerCase())}">
       <td class="rank">${s.rank}</td>
-      <td class="co">${logoImg(s.logo, s.name)}${s.url ? `<a class="mrr-name" href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener">${esc(s.name)}</a>` : `<span class="mrr-name">${esc(s.name)}</span>`}</td>
+      <td class="co">${logoImg(s.logo, s.name)}<span class="co-body">${s.url ? `<a class="mrr-name" href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener">${esc(s.name)}</a>` : `<span class="mrr-name">${esc(s.name)}</span>`}${coMeta(s)}</span></td>
       <td class="num">${moneyCell(s.mrr)}</td>
       <td class="num">${moneyCell(s.mrrValue)}</td>
       <td class="num">${growthCell(s.growthPct)}</td>

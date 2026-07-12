@@ -9,6 +9,7 @@ describe('mapApiStartup', () => {
     revenue: { last30Days: 2844652, mrr: 3569654, total: 76627685 },
     growth30d: -7.602785, growthMRR30d: 0.42784,
     visitorsLast30Days: 120000, revenuePerVisitor: 1.66, description: '  Link in bio  ',
+    category: 'Creator Tools', country: 'US', paymentProvider: 'stripe',
   };
 
   it('maps an API record to the common shape (website as url, last30Days revenue primary)', () => {
@@ -17,6 +18,7 @@ describe('mapApiStartup', () => {
       name: 'Stan', url: 'https://stan.store', logo: 'https://cdn.example.com/stan.png',
       mrr: 2844652, mrrValue: 3569654, totalRevenue: 76627685,
       traffic: 120000, revPerVisitor: 1.66, description: 'Link in bio',
+      category: 'Creator Tools', country: 'US', provider: 'stripe',
     });
     expect(s.growthPct).toBeCloseTo(-7.6, 1);
   });
