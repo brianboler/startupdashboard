@@ -41,30 +41,30 @@ function mapStartup(o) {
   const name = typeof o.name === 'string' ? o.name.trim() : '';
   if (!name) return null;
 
-  // Revenue: prefer verified MRR, fall back to last-30-days revenue, then any
-  // string amount (e.g. a `revenue`/`mrr` string) via parseMoney.
-  let mrr = null;
-  if (typeof o.currentMrr === 'number' && o.currentMrr > 0) {
-    mrr = Math.round(o.currentMrr);
-  } else if (typeof o.currentLast30DaysRevenue === 'number' && o.currentLast30DaysRevenue > 0) {
-    mrr = Math.round(o.currentLast30DaysRevenue);
-  } else if (typeof o.mrr === 'number' && o.mrr > 0) {
-    mrr = Math.round(o.mrr);
-  } else {
-    mrr = parseMoney(String(o.mrr ?? o.revenue ?? ''));
-  }
+  // Full TrustMRR metric set. `mrr` holds last-30-day REVENUE (their primary ranked
+  // metric, ~100% populated) so ranking/delta/history stay meaningful; `mrrValue`
+  // is the subscription MRR. Traffic and $/visitor are public for ~45% of companies
+  // (the rest require TrustMRR's authenticated API).
+  const num = (v) => (typeof v === 'number' && Number.isFinite(v) ? v : null);
+  const pos = (v) => (num(v) != null && v > 0 ? v : null);
 
-  // Growth percentage from whichever cached/raw field is present.
+  let revenue = pos(o.currentLast30DaysRevenue) ?? pos(o.currentMrr);
+  if (revenue == null) revenue = parseMoney(String(o.mrr ?? o.revenue ?? ''));
+  const mrr = revenue == null ? null : Math.round(revenue);
+  const mrrValue = num(o.currentMrr) != null ? Math.round(o.currentMrr) : null;
+  const totalRevenue = num(o.currentTotalRevenue) != null ? Math.round(o.currentTotalRevenue) : null;
+  const traffic = num(o.trafficLast30Days) != null ? Math.round(o.trafficLast30Days) : null;
+  const revPerVisitor = num(o.revenuePerVisitorLast30Days);
+
+  // Revenue growth % (30d) and MRR growth % (30d).
   let growthPct = null;
-  for (const k of ['cachedGrowth30d', 'growth30d', 'cachedGrowthMRR30d', 'growth']) {
-    if (typeof o[k] === 'number') {
-      growthPct = roundPct(o[k]);
-      break;
-    }
-    if (typeof o[k] === 'string') {
-      growthPct = parsePct(o[k]);
-      if (growthPct !== null) break;
-    }
+  for (const k of ['cachedGrowth30d', 'growth30d']) {
+    if (typeof o[k] === 'number') { growthPct = roundPct(o[k]); break; }
+    if (typeof o[k] === 'string') { const p = parsePct(o[k]); if (p !== null) { growthPct = p; break; } }
+  }
+  let mrrGrowth = null;
+  for (const k of ['cachedGrowthMRR30d', 'growthMRR30d']) {
+    if (typeof o[k] === 'number') { mrrGrowth = roundPct(o[k]); break; }
   }
 
   // URL: use an explicit url/website if present, else build from the slug.
@@ -86,7 +86,7 @@ function mapStartup(o) {
     if (typeof o[k] === 'string' && /^https:\/\//.test(o[k])) { logo = o[k]; break; }
   }
 
-  return { name, url, mrr, growthPct, description, logo };
+  return { name, url, mrr, mrrValue, totalRevenue, growthPct, mrrGrowth, traffic, revPerVisitor, description, logo };
 }
 
 // Given a string and the index of a `{`, return the substring for the complete,

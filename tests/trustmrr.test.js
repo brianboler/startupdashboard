@@ -57,4 +57,12 @@ describe('parseTrustMrr (against live fixture)', () => {
     expect(withLogo.length).toBeGreaterThan(20);
     expect(withLogo.every((s) => /^https:\/\//.test(s.logo))).toBe(true);
   });
+
+  it('extracts the full metric set (mrr, total revenue, growth, traffic, $/visitor)', () => {
+    expect(startups.filter((s) => typeof s.mrrValue === 'number').length).toBeGreaterThan(50);
+    expect(startups.filter((s) => typeof s.totalRevenue === 'number').length).toBeGreaterThan(50);
+    expect(startups.filter((s) => typeof s.mrrGrowth === 'number').length).toBeGreaterThan(50);
+    expect(startups.filter((s) => typeof s.traffic === 'number').length).toBeGreaterThan(20);
+    expect(startups.filter((s) => typeof s.revPerVisitor === 'number').length).toBeGreaterThan(20);
+  });
 });

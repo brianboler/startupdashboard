@@ -418,5 +418,9 @@
   "https://www.techmeme.com/260712/p6#a260712p6": {
     "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipgZEQYo1qNg/v6/1200x800.jpg",
     "fetchedAt": 1783884351477
+  },
+  "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/soft-pink-truth.jpg?quality=90&strip=all&crop=0%2C5.1234106207928%2C100%2C89.753178758414&w=1200",
+    "fetchedAt": 1783885524090
   }
 }
