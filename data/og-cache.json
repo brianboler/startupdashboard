@@ -438,5 +438,61 @@
   "https://www.techmeme.com/260712/p9#a260712p9": {
     "image": "https://tii.imgix.net/production/articles/17432/740fd779-e39b-4a60-b233-c70c84221bb9.png?fm=jpeg&auto=compress&w=610",
     "fetchedAt": 1783898335692
+  },
+  "https://www.techmeme.com/260713/p22#a260713p22": {
+    "image": null,
+    "fetchedAt": 1783949345244
+  },
+  "https://www.techmeme.com/260713/p20#a260713p20": {
+    "image": null,
+    "fetchedAt": 1783949345604
+  },
+  "https://www.techmeme.com/260713/p19#a260713p19": {
+    "image": null,
+    "fetchedAt": 1783949345963
+  },
+  "https://sifted.eu/articles/anthropic-monzo-founder-tom-blomfield/": {
+    "image": "https://images.sifted.eu/wp-content/uploads/2023/03/03152359/Tom-Blomfield.png?w=469&h=469&q=75&fit=crop&auto=compress,format",
+    "fetchedAt": 1783949347079
+  },
+  "https://thenextweb.com/news/yann-lecun-extelligence-invest-fund-collapse": {
+    "image": "https://media.thenextweb.com/2026/07/yann-lecun-new-vc-firm.avif",
+    "fetchedAt": 1783949347585
+  },
+  "https://www.techmeme.com/260713/p17#a260713p17": {
+    "image": null,
+    "fetchedAt": 1783949347944
+  },
+  "https://news.crunchbase.com/venture/ai-ma-ipo-valuations-b2b-ranum-sapphire-ventures/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Generic-ai-funding.jpg",
+    "fetchedAt": 1783949348443
+  },
+  "https://www.geekwire.com/2026/augmodo-raises-21m-to-push-its-spatial-ai-beyond-just-retail-toward-the-broader-physical-workforce/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/augmodo.png",
+    "fetchedAt": 1783949348870
+  },
+  "https://sifted.eu/articles/helsing-funding-round-goldman-lightspeed-jp-morgan/": {
+    "image": "https://images.sifted.eu/wp-content/uploads/2026/07/13103734/b3ddef5c522a899728b7dd15193da7c9314438c4-3801x2172-1.jpg?w=1652&h=923&q=75&fit=crop&auto=compress,format",
+    "fetchedAt": 1783949349951
+  },
+  "https://thenextweb.com/news/raxio-tanzania-380m-africa-data-centre": {
+    "image": "https://media.thenextweb.com/2026/07/Raxio-Group.avif",
+    "fetchedAt": 1783949350440
+  },
+  "https://www.techmeme.com/260713/p21#a260713p21": {
+    "image": null,
+    "fetchedAt": 1783949350802
+  },
+  "https://thenextweb.com/news/ai-never-skilling-critical-thinking-research": {
+    "image": "https://media.thenextweb.com/2026/07/AI-developers-skills.avif",
+    "fetchedAt": 1783949351279
+  },
+  "https://www.techmeme.com/260713/p18#a260713p18": {
+    "image": null,
+    "fetchedAt": 1783949351637
+  },
+  "https://sifted.eu/articles/nscale-delays/": {
+    "image": "https://content.sifted.eu/wp-content/uploads/2025/11/04154251/nscale-pic-3-1024x336.png",
+    "fetchedAt": 1783949352417
   }
 }
