@@ -494,5 +494,73 @@
   "https://sifted.eu/articles/nscale-delays/": {
     "image": "https://content.sifted.eu/wp-content/uploads/2025/11/04154251/nscale-pic-3-1024x336.png",
     "fetchedAt": 1783949352417
+  },
+  "https://www.techmeme.com/260714/p4#a260714p4": {
+    "image": null,
+    "fetchedAt": 1784031186165
+  },
+  "https://www.techmeme.com/260714/p7#a260714p7": {
+    "image": null,
+    "fetchedAt": 1784031186530
+  },
+  "https://www.geekwire.com/2026/venture-funding-drops-in-seattle-region-as-ai-boom-reshapes-startup-world/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/vc-final-q2-26.png",
+    "fetchedAt": 1784031187003
+  },
+  "https://www.techmeme.com/260714/p6#a260714p6": {
+    "image": null,
+    "fetchedAt": 1784031187369
+  },
+  "https://thenextweb.com/news/openai-xai-legal-fees-apple-trade-secrets": {
+    "image": "https://media.thenextweb.com/2026/04/musk-altman-openai-trial-opening-arguments.avif",
+    "fetchedAt": 1784031187942
+  },
+  "https://sifted.eu/articles/skalar-seed-fundraise/": {
+    "image": "https://images.sifted.eu/wp-content/uploads/2026/07/13160400/Portrait-Bjoern-Goss-scaled.jpg?w=2048&h=1366&q=75&fit=crop&auto=compress,format",
+    "fetchedAt": 1784031189833
+  },
+  "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
+    "fetchedAt": 1784031190263
+  },
+  "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194484502.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1784031190707
+  },
+  "https://www.techmeme.com/260714/p12#a260714p12": {
+    "image": null,
+    "fetchedAt": 1784031191073
+  },
+  "https://news.crunchbase.com/cybersecurity/solid-startup-venture-funding-growth-h1-2026/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Money_Rocket.jpg",
+    "fetchedAt": 1784031191614
+  },
+  "https://www.techmeme.com/260714/p13#a260714p13": {
+    "image": null,
+    "fetchedAt": 1784031191980
+  },
+  "https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-115103.jpg?quality=90&strip=all&crop=0%2C3.2149577984386%2C100%2C93.570084403123&w=1200",
+    "fetchedAt": 1784031192360
+  },
+  "https://www.techmeme.com/260714/p11#a260714p11": {
+    "image": null,
+    "fetchedAt": 1784031192724
+  },
+  "https://www.theverge.com/report/962823/childrens-public-internet-child-safety-proposal": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332725/STK419_DEEPFAKE_CVIRGINIA_L.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1784031193120
+  },
+  "https://thenextweb.com/news/swiss-regulator-probe-google-android-choice-screen": {
+    "image": "https://media.thenextweb.com/2026/06/Google-mockup.avif",
+    "fetchedAt": 1784031193672
+  },
+  "https://www.techmeme.com/260714/p10#a260714p10": {
+    "image": null,
+    "fetchedAt": 1784031194037
+  },
+  "https://www.techmeme.com/260714/p9#a260714p9": {
+    "image": null,
+    "fetchedAt": 1784031194402
   }
 }
