@@ -562,5 +562,65 @@
   "https://www.techmeme.com/260714/p9#a260714p9": {
     "image": null,
     "fetchedAt": 1784031194402
+  },
+  "https://www.geekwire.com/2026/apptio-co-founders-reunite-to-launch-enterprise-ai-startup-thira-with-21m-in-funding-led-by-madrona/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2017/06/20170607_Cloud_Tech_Summit_159.jpg",
+    "fetchedAt": 1784117826120
+  },
+  "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/emergent-co-founders-madhav-jha-mukund-jha.jpg?resize=1200,800",
+    "fetchedAt": 1784117826572
+  },
+  "https://news.crunchbase.com/fintech/funding-rises-deals-slump-h1-2026/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg",
+    "fetchedAt": 1784117827256
+  },
+  "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Oak-cofounders-Tal-Marom-left-and-Shai-Morag.jpg?resize=1200,800",
+    "fetchedAt": 1784117827653
+  },
+  "https://www.techmeme.com/260715/p18#a260715p18": {
+    "image": null,
+    "fetchedAt": 1784117828052
+  },
+  "https://sifted.eu/articles/neko-health-raises-700m-interview/": {
+    "image": "https://content.sifted.eu/wp-content/uploads/2026/07/13083921/nilsonne-1022x1024.png",
+    "fetchedAt": 1784117829803
+  },
+  "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/meta-ai-1152x648-1784056210.jpg",
+    "fetchedAt": 1784117830572
+  },
+  "https://www.techmeme.com/260715/p20#a260715p20": {
+    "image": null,
+    "fetchedAt": 1784117830938
+  },
+  "https://www.techmeme.com/260715/p13#a260715p13": {
+    "image": null,
+    "fetchedAt": 1784117831304
+  },
+  "https://thenextweb.com/news/delaware-aic-ai-agent-legal-entity-sandbox": {
+    "image": "https://media.thenextweb.com/2026/07/Delaware.avif",
+    "fetchedAt": 1784117831880
+  },
+  "https://www.techmeme.com/260715/p21#a260715p21": {
+    "image": null,
+    "fetchedAt": 1784117832248
+  },
+  "https://www.theverge.com/tech/964051/home-depot-halloween-skelly-skeleton-12-foot-mobile-app-sounds": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/skelly1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+    "fetchedAt": 1784117832724
+  },
+  "https://www.techmeme.com/260715/p19#a260715p19": {
+    "image": null,
+    "fetchedAt": 1784117833092
+  },
+  "https://news.crunchbase.com/venture/corporate-vc-splitting-paypal-fidelity-brotman-alpha/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/money-kites.jpg",
+    "fetchedAt": 1784117833632
+  },
+  "https://arstechnica.com/space/2026/07/how-hard-is-it-to-build-orbital-data-centers-actually/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/space-datacenter-analysis-one-1152x648.jpg",
+    "fetchedAt": 1784117834072
   }
 }
