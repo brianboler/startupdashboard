@@ -690,5 +690,77 @@
   "https://www.techmeme.com/260716/p12#a260716p12": {
     "image": null,
     "fetchedAt": 1784204476231
+  },
+  "https://www.techmeme.com/260716/p68#a260716p68": {
+    "image": null,
+    "fetchedAt": 1784290145779
+  },
+  "https://www.techmeme.com/260717/p7#a260717p7": {
+    "image": null,
+    "fetchedAt": 1784290146136
+  },
+  "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials": {
+    "image": null,
+    "fetchedAt": 1784290146617
+  },
+  "https://www.geekwire.com/2026/whatnot-acquires-madrona-backed-ai-startup-shaped-to-boost-live-shopping-recommendations/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/whatnot-x-shaped.jpeg",
+    "fetchedAt": 1784290147081
+  },
+  "https://www.geekwire.com/2026/the-code-ai-forgot-logcat-ai-raises-2-55m-to-put-agents-to-work-on-device-operating-systems/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/logcat-founders-1260x709.png",
+    "fetchedAt": 1784290147493
+  },
+  "https://thenextweb.com/news/deepmind-isomorphic-ai-biosecurity-bioresilience": {
+    "image": "https://media.thenextweb.com/2026/05/deepmind-union-google-pentagon-ai-military.avif",
+    "fetchedAt": 1784290147977
+  },
+  "https://www.techmeme.com/260717/p5#a260717p5": {
+    "image": null,
+    "fetchedAt": 1784290148334
+  },
+  "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2276602257.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+    "fetchedAt": 1784290148858
+  },
+  "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1366159069.jpg?resize=1200,900",
+    "fetchedAt": 1784290149255
+  },
+  "https://www.geekwire.com/2026/aws-ec2-and-ai-leader-dave-brown-to-exit-replaced-by-amazon-exec-and-microsoft-vet-dave-treadwell/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2023/11/dave-brown.jpg",
+    "fetchedAt": 1784290149648
+  },
+  "https://sifted.eu/articles/europe-vc-jobs-startups-trend/": {
+    "image": "https://images.sifted.eu/wp-content/uploads/2026/01/02161735/Judith_Portrait_23433_final_final-2-scaled-e1767370760179.jpeg?w=1530&h=1110&q=75&fit=crop&auto=compress,format",
+    "fetchedAt": 1784290150854
+  },
+  "https://www.techmeme.com/260717/p8#a260717p8": {
+    "image": null,
+    "fetchedAt": 1784290151211
+  },
+  "https://thenextweb.com/news/oversight-board-ai-models-political-speech-censorship": {
+    "image": "https://media.thenextweb.com/2026/06/AI-meter-chatbot.avif",
+    "fetchedAt": 1784290151672
+  },
+  "https://thenextweb.com/news/fcc-know-your-customer-burner-phones-privacy": {
+    "image": "https://media.thenextweb.com/2026/07/mobile-phone-bench.avif",
+    "fetchedAt": 1784290152130
+  },
+  "https://news.crunchbase.com/venture/world-cup-finalists-argentina-spain-startup-funding-data/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/WorldCupHero.jpg",
+    "fetchedAt": 1784290152608
+  },
+  "https://www.theverge.com/science/966711/omb-grant-science-space-nasa-planetary-society": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2285515048.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1784290153040
+  },
+  "https://thenextweb.com/news/ai-godfathers-frontier-ai-regulation-converge": {
+    "image": "https://media.thenextweb.com/2026/06/g7-ai-summit-altman-amodei-hassabis.avif",
+    "fetchedAt": 1784290153501
+  },
+  "https://thenextweb.com/news/meta-ai-teen-suicide-self-harm-parent-alerts": {
+    "image": "https://media.thenextweb.com/2026/07/Meta-Keeping-parents-informed.avif",
+    "fetchedAt": 1784290153961
   }
 }
