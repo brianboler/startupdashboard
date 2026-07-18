@@ -762,5 +762,77 @@
   "https://thenextweb.com/news/meta-ai-teen-suicide-self-harm-parent-alerts": {
     "image": "https://media.thenextweb.com/2026/07/Meta-Keeping-parents-informed.avif",
     "fetchedAt": 1784290153961
+  },
+  "https://www.techmeme.com/260718/p2#a260718p2": {
+    "image": null,
+    "fetchedAt": 1784375644724
+  },
+  "https://www.techmeme.com/260718/p7#a260718p7": {
+    "image": null,
+    "fetchedAt": 1784375645090
+  },
+  "https://www.techmeme.com/260718/p1#a260718p1": {
+    "image": null,
+    "fetchedAt": 1784375645455
+  },
+  "https://thenextweb.com/news/tsmc-record-revenue-stock-falls-ai-capex-fears": {
+    "image": "https://media.thenextweb.com/2026/07/tsmc-record-revenue-stock-falls-ai-capex-fears.avif",
+    "fetchedAt": 1784375646504
+  },
+  "https://www.techmeme.com/260718/p4#a260718p4": {
+    "image": null,
+    "fetchedAt": 1784375646868
+  },
+  "https://www.techmeme.com/260718/p9#a260718p9": {
+    "image": null,
+    "fetchedAt": 1784375647234
+  },
+  "https://www.techmeme.com/260718/p5#a260718p5": {
+    "image": null,
+    "fetchedAt": 1784375647600
+  },
+  "https://www.techmeme.com/260718/p3#a260718p3": {
+    "image": null,
+    "fetchedAt": 1784375647961
+  },
+  "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/stripe-x-battlefield_eventImage-site-crop.jpg?resize=1200,900",
+    "fetchedAt": 1784375648530
+  },
+  "https://venturebeat.com/orchestration/intuit-scrapped-its-own-ai-agent-architecture-twice-in-four-months-at-vb-transform-2026-its-ai-vp-called-that-the-fast-path": {
+    "image": null,
+    "fetchedAt": 1784375648989
+  },
+  "https://www.techmeme.com/260718/p10#a260718p10": {
+    "image": null,
+    "fetchedAt": 1784375649354
+  },
+  "https://thenextweb.com/news/raidium-ai-radiology-moffitt-cancer-center-us-launch": {
+    "image": "https://media.thenextweb.com/2026/07/raidium-ai-radiology-moffitt-cancer-center-us-launch.avif",
+    "fetchedAt": 1784375649887
+  },
+  "https://thenextweb.com/news/world-cup-stolen-streaming-accounts-dark-web-220-million": {
+    "image": "https://media.thenextweb.com/2026/07/world-cup-stolen-streaming-accounts-dark-web-220-million.avif",
+    "fetchedAt": 1784375650426
+  },
+  "https://thenextweb.com/news/face-ai-video-face-swap-update-2026": {
+    "image": "https://media.thenextweb.com/2026/07/face-ai-video-face-swap-update-2026.avif",
+    "fetchedAt": 1784375650961
+  },
+  "https://thenextweb.com/news/jensen-huang-leather-jacket-960000-sothebys": {
+    "image": "https://media.thenextweb.com/2026/07/jensen-huang-leather-jacket-960000-sothebys.avif",
+    "fetchedAt": 1784375651496
+  },
+  "https://thenextweb.com/news/google-deepmind-pele-lost-goal-ai-reconstruction": {
+    "image": "https://media.thenextweb.com/2026/07/google-deepmind-pele-lost-goal-ai-reconstruction.avif",
+    "fetchedAt": 1784375652027
+  },
+  "https://thenextweb.com/news/xpeng-flying-car-land-aircraft-carrier-germany-7000-orders": {
+    "image": "https://media.thenextweb.com/2026/07/xpeng-flying-car-land-aircraft-carrier-germany-7000-orders.avif",
+    "fetchedAt": 1784375652556
+  },
+  "https://thenextweb.com/news/apple-iphone-17-price-increase-japan-yen": {
+    "image": "https://media.thenextweb.com/2026/07/apple-iphone-17-price-increase-japan-yen.avif",
+    "fetchedAt": 1784375653087
   }
 }
