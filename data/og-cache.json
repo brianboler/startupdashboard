@@ -834,5 +834,65 @@
   "https://thenextweb.com/news/apple-iphone-17-price-increase-japan-yen": {
     "image": "https://media.thenextweb.com/2026/07/apple-iphone-17-price-increase-japan-yen.avif",
     "fetchedAt": 1784375653087
+  },
+  "https://www.techmeme.com/260719/p4#a260719p4": {
+    "image": null,
+    "fetchedAt": 1784462286475
+  },
+  "https://www.techmeme.com/260719/p5#a260719p5": {
+    "image": null,
+    "fetchedAt": 1784462286838
+  },
+  "https://www.techmeme.com/260718/p18#a260718p18": {
+    "image": null,
+    "fetchedAt": 1784462287198
+  },
+  "https://thenextweb.com/news/nebius-775-million-gpu-backed-debt-financing": {
+    "image": "https://media.thenextweb.com/2026/07/nebius-775-million-gpu-backed-debt-financing.avif",
+    "fetchedAt": 1784462287794
+  },
+  "https://thenextweb.com/news/alibaba-t-head-sail-open-source-nvidia-cuda-alternative": {
+    "image": "https://media.thenextweb.com/2026/07/alibaba-t-head-sail-open-source-nvidia-cuda-alternative.avif",
+    "fetchedAt": 1784462288343
+  },
+  "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Operational-FireSat-satellites-1152x648.png",
+    "fetchedAt": 1784462289124
+  },
+  "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/Mockup-of-Valar-Atomics-site.jpg?resize=1200,514",
+    "fetchedAt": 1784462289669
+  },
+  "https://venturebeat.com/orchestration/brex-built-its-ai-agent-policy-by-watching-what-agents-actually-do-not-by-writing-rules-first": {
+    "image": null,
+    "fetchedAt": 1784462290106
+  },
+  "https://www.techmeme.com/260719/p6#a260719p6": {
+    "image": null,
+    "fetchedAt": 1784462290470
+  },
+  "https://thenextweb.com/news/moonshot-ai-ipo-six-months-30-billion-kimi-k3": {
+    "image": "https://media.thenextweb.com/2026/07/moonshot-ai-ipo-six-months-30-billion-kimi-k3.avif",
+    "fetchedAt": 1784462290999
+  },
+  "https://thenextweb.com/news/company-brain-future-go-to-market-strategy": {
+    "image": "https://media.thenextweb.com/2026/07/company-brain-future-go-to-market-strategy.avif",
+    "fetchedAt": 1784462291528
+  },
+  "https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/6day44.jpg?quality=90&strip=all&crop=0,10.782006784713,100,78.435986430574",
+    "fetchedAt": 1784462292038
+  },
+  "https://www.techmeme.com/260719/p3#a260719p3": {
+    "image": null,
+    "fetchedAt": 1784462292399
+  },
+  "https://www.techmeme.com/260719/p2#a260719p2": {
+    "image": null,
+    "fetchedAt": 1784462292758
+  },
+  "https://www.techmeme.com/260719/p1#a260719p1": {
+    "image": null,
+    "fetchedAt": 1784462293119
   }
 }
