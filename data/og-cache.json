@@ -958,5 +958,65 @@
   "https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products": {
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24814379/STK450_European_Union_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "fetchedAt": 1784552771994
+  },
+  "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Team-Photo.jpg?resize=1200,800",
+    "fetchedAt": 1784636706467
+  },
+  "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Jeremy-Nixon.jpg?resize=1200,900",
+    "fetchedAt": 1784636706878
+  },
+  "https://www.techmeme.com/260721/p13#a260721p13": {
+    "image": null,
+    "fetchedAt": 1784636707248
+  },
+  "https://www.techmeme.com/260721/p11#a260721p11": {
+    "image": null,
+    "fetchedAt": 1784636707606
+  },
+  "https://news.crunchbase.com/venture/seriesa-seed-gap-underrepresented-founders-ai-norman-green-black-ops/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Black_Founders.jpg",
+    "fetchedAt": 1784636708199
+  },
+  "https://sifted.eu/articles/european-fintech-h1-2026-funding/": {
+    "image": "https://images.sifted.eu/wp-content/uploads/2026/07/21094431/conny-schneider-xuTJZ7uD7PI-unsplash-scaled.jpg?w=2048&h=1087&q=75&fit=crop&auto=compress,format",
+    "fetchedAt": 1784636709648
+  },
+  "https://news.crunchbase.com/ai/saas-deep-tech-startup-qa-docter-dell-technologies-capital/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/increasing-money-rocket.jpg",
+    "fetchedAt": 1784636710120
+  },
+  "https://www.techmeme.com/260721/p8#a260721p8": {
+    "image": null,
+    "fetchedAt": 1784636710478
+  },
+  "https://thenextweb.com/news/ant-international-raises-1-2-billion-global-expansion": {
+    "image": "https://media.thenextweb.com/2026/07/Ant-International.avif",
+    "fetchedAt": 1784636711026
+  },
+  "https://thenextweb.com/news/samsung-robotics-division-rx": {
+    "image": "https://media.thenextweb.com/2026/07/Samsung-logo.avif",
+    "fetchedAt": 1784636711562
+  },
+  "https://www.techmeme.com/260721/p12#a260721p12": {
+    "image": null,
+    "fetchedAt": 1784636711921
+  },
+  "https://thenextweb.com/news/kanishka-narayan-uk-ai-minister": {
+    "image": "https://media.thenextweb.com/2026/07/Kanishka-Narayan.avif",
+    "fetchedAt": 1784636712448
+  },
+  "https://thenextweb.com/news/brazil-us-pix-trade-clash": {
+    "image": "https://media.thenextweb.com/2026/07/Brazil-Pix.avif",
+    "fetchedAt": 1784636712974
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&strip=all&crop=0%2C10.83178126478%2C100%2C78.336437470441&w=1200",
+    "fetchedAt": 1784636713399
+  },
+  "https://thenextweb.com/news/us-china-ai-talks-september": {
+    "image": "https://media.thenextweb.com/2026/06/US-China-AI.avif",
+    "fetchedAt": 1784636713930
   }
 }
