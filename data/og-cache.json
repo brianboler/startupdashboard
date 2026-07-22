@@ -1018,5 +1018,69 @@
   "https://thenextweb.com/news/us-china-ai-talks-september": {
     "image": "https://media.thenextweb.com/2026/06/US-China-AI.avif",
     "fetchedAt": 1784636713930
+  },
+  "https://www.techmeme.com/260722/p9#a260722p9": {
+    "image": null,
+    "fetchedAt": 1784723166624
+  },
+  "https://venturebeat.com/technology/googles-gemini-3-6-flash-model-cuts-ai-agent-token-costs-by-up-to-65-on-long-horizon-engineering-tasks-and-3-5-pro-is-on-the-way": {
+    "image": null,
+    "fetchedAt": 1784723167069
+  },
+  "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-7-1152x648.jpg",
+    "fetchedAt": 1784723167872
+  },
+  "https://www.techmeme.com/260722/p10#a260722p10": {
+    "image": null,
+    "fetchedAt": 1784723168236
+  },
+  "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Meta-Content-Seal-AI-detector.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1784723168741
+  },
+  "https://thenextweb.com/news/skypilot-20m-seed-ai-compute-stoica": {
+    "image": "https://media.thenextweb.com/2026/07/skypilot-the-company.avif",
+    "fetchedAt": 1784723169349
+  },
+  "https://thenextweb.com/news/google-and-ford-are-funding-a-push-into-the-trades-the-jobs-their-ai-cant-do": {
+    "image": "https://media.thenextweb.com/2026/07/blackrock-carhartt-ford-and-google-launch-new-alliance.avif",
+    "fetchedAt": 1784723169899
+  },
+  "https://www.geekwire.com/2026/seattles-clarify-acquires-s-f-startup-seam-ai-joining-forces-to-challenge-crm-stalwarts/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/clarify-seam-3-1260x504.png",
+    "fetchedAt": 1784723170392
+  },
+  "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git": {
+    "image": "https://runtimewire.com/og/jack-dorsey-block-buzz-team-chat-ai-agents-git.jpg",
+    "fetchedAt": 1784723171092
+  },
+  "https://thenextweb.com/news/computer-science-enrollment-falls-ai-first-time": {
+    "image": "https://media.thenextweb.com/2026/06/ai-cheating-tools-detectors-students-schools.avif",
+    "fetchedAt": 1784723171637
+  },
+  "https://www.techmeme.com/260722/p11#a260722p11": {
+    "image": null,
+    "fetchedAt": 1784723172001
+  },
+  "https://thenextweb.com/news/halliday-g2-camera-free-smart-glasses-meetings": {
+    "image": "https://media.thenextweb.com/2026/07/Halliday-G2-glasses.avif",
+    "fetchedAt": 1784723172540
+  },
+  "https://thenextweb.com/news/bessent-china-ai-sanctions-huang-defends": {
+    "image": "https://media.thenextweb.com/2026/07/jensen-huang-leather-jacket-960000-sothebys.avif",
+    "fetchedAt": 1784723173080
+  },
+  "https://news.crunchbase.com/venture/new-unicorn-board-startups-exits-ai-semiconductors-june-2026/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/unicornboard_hero-resized.jpg",
+    "fetchedAt": 1784723173638
+  },
+  "https://news.crunchbase.com/fintech/ai-wave-banking-innovation-morris-qed/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Quarterly-Blank.jpg",
+    "fetchedAt": 1784723174141
+  },
+  "https://www.theverge.com/transportation/968772/honda-prelude-hybrid-2026-review-specs-price": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/2026HondaPrelude_PeterNelson9.jpg?quality=90&strip=all&crop=0%2C9.2242827551337%2C100%2C81.551434489733&w=1200",
+    "fetchedAt": 1784723174580
   }
 }
