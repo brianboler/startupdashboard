@@ -1,100 +1,4 @@
 {
-  "https://18words.com/": {
-    "image": "https://18words.com/og-image.png",
-    "fetchedAt": 1783618964299
-  },
-  "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/": {
-    "image": "https://www.patrick-breyer.de/wp-content/uploads/2023/07/logo_regular_vertical.png",
-    "fetchedAt": 1783618965444
-  },
-  "https://openai.com/index/gpt-5-6/": {
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/3T0kxQLJk1VcXVxMwXF97J/4345df401f2b08ed6a1eef88c9588d2e/OAI_ChatGPTWork_ModelBlog_OpenGraph_16x9_1200x630.png?w=1600&h=900&fit=fill",
-    "fetchedAt": 1783618966343
-  },
-  "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming": {
-    "image": null,
-    "fetchedAt": 1783618967111
-  },
-  "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html": {
-    "image": "https://www.networkworld.com/wp-content/uploads/2026/07/4192827-0-97815400-1783093725-shutterstock_editorial_2066815178.jpg?quality=50&strip=all&w=1024",
-    "fetchedAt": 1783618967684
-  },
-  "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/": {
-    "image": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.2365-6/741906678_873652302465180_7764547737953411008_n.png?_nc_cat=1&ccb=1-7&_nc_sid=e280be&_nc_ohc=OlBvaYygvIUQ7kNvwGPq0Wt&_nc_oc=Adoa65FULoQeb4SlsdPMWU0CBwOFAyqoCXWmeC0KSjXbDeEwYAzGxkJyIge6oJVAYzk&_nc_zt=14&_nc_ht=scontent-lga3-2.xx&_nc_gid=uvvPdG_6aFmZpfKve-z-mw&_nc_ss=7f289&oh=00_AQA8iy0ukPdBLN4ghqi9m3Z7HFN2UmlUgz0GEyc5996Czg&oe=6A6A1EE6",
-    "fetchedAt": 1783618969030
-  },
-  "https://datacenter.iers.org/data/latestVersion/bulletinC.txt": {
-    "image": null,
-    "fetchedAt": 1783618972103
-  },
-  "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/": {
-    "image": "https://mwi.westpoint.edu/wp-content/uploads/2026/06/9522808.jpg?w=1080",
-    "fetchedAt": 1783618972662
-  },
-  "https://hy.tencent.com/research/hy3": {
-    "image": null,
-    "fetchedAt": 1783618973832
-  },
-  "https://www.pangram.com/blog/ai-in-your-feed": {
-    "image": "https://cdn.sanity.io/images/6vunltag/production/3c7bf7b542469d5572d664f321ec376ef719a9fe-1200x630.png",
-    "fetchedAt": 1783618974715
-  },
-  "https://www.techmeme.com/260709/p28#a260709p28": {
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/3T0kxQLJk1VcXVxMwXF97J/4345df401f2b08ed6a1eef88c9588d2e/OAI_ChatGPTWork_ModelBlog_OpenGraph_16x9_1200x630.png?w=1600&h=900&fit=fill",
-    "fetchedAt": 1783618975827
-  },
-  "https://www.theverge.com/gadgets/963475/google-nest-thermostat-deal-sale": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/dseifert_201115_4301_0005.0.webp?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-    "fetchedAt": 1783618976360
-  },
-  "https://www.techmeme.com/260709/p27#a260709p27": {
-    "image": "https://images.axios.com/hERRM0_Ks6QEME9yqNthu7hITNk=/0x0:1920x1080/1366x768/2025/10/21/1761087183108.jpeg",
-    "fetchedAt": 1783618977082
-  },
-  "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24038601/acastro_STK109_microsoft_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1783618977484
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
-    "fetchedAt": 1783618977879
-  },
-  "https://www.techmeme.com/260709/p26#a260709p26": {
-    "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2268973540-e1783531780643.jpg?resize=1200,600",
-    "fetchedAt": 1783618978678
-  },
-  "https://thenextweb.com/news/booster-robotics-robocup-2026-humanoid-football-sweep": {
-    "image": "https://media.thenextweb.com/2026/07/Booster-s-robots-RoboCup-2026.avif",
-    "fetchedAt": 1783618979290
-  },
-  "https://thenextweb.com/news/amd-papermaster-raise-agentic-ai-cpus-gpus": {
-    "image": "https://media.thenextweb.com/2026/07/Mark-Papermaster-CTO-AMD-Karim-Jalbout.avif",
-    "fetchedAt": 1783618979791
-  },
-  "https://www.damninteresting.com/a-possible-future/": {
-    "image": "https://damn-8791.kxcdn.com/wp-content/uploads/2026/06/cover.jpg",
-    "fetchedAt": 1783619115945
-  },
-  "https://openai.com/index/chatgpt-for-your-most-ambitious-work/": {
-    "image": "https://images.ctfassets.net/kftzwdyauwt9/6wfXqEBNT0QiATjSpde6f4/fabc58fe0784ec397ec34b9e570e1700/OAI_ChatGPTWork_ProductBlog_OpenGraph_16x9_1200x630.png?w=1600&h=900&fit=fill",
-    "fetchedAt": 1783619116578
-  },
-  "https://tuxnet.dev/posts/tls-for-internal-services/": {
-    "image": "https://tuxnet.dev/img/this-is-the-way.webp",
-    "fetchedAt": 1783619119560
-  },
-  "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/": {
-    "image": null,
-    "fetchedAt": 1783619120081
-  },
-  "https://www.geekwire.com/2026/echodyne-opens-40m-radar-factory-near-seattle-to-meet-booming-demand-for-drone-detection/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/Echodyne-Ribbon-Cutting-3-1260x840.jpg",
-    "fetchedAt": 1783619120560
-  },
-  "https://thenextweb.com/news/waymo-calls-police-teens-drinking-orbeez-san-mateo": {
-    "image": "https://media.thenextweb.com/2026/07/Waymo-ride.avif",
-    "fetchedAt": 1783619121143
-  },
   "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/": {
     "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
     "fetchedAt": 1783807780340
@@ -1042,5 +946,77 @@
   "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/": {
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/JT3A6491-1152x648-1784649433.jpg",
     "fetchedAt": 1784809512703
+  },
+  "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai": {
+    "image": null,
+    "fetchedAt": 1784895552429
+  },
+  "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?resize=1200,1200",
+    "fetchedAt": 1784895552898
+  },
+  "https://www.techmeme.com/260724/p3#a260724p3": {
+    "image": null,
+    "fetchedAt": 1784895553269
+  },
+  "https://venturebeat.com/resources/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials": {
+    "image": null,
+    "fetchedAt": 1784895553789
+  },
+  "https://www.techmeme.com/260724/p9#a260724p9": {
+    "image": null,
+    "fetchedAt": 1784895554149
+  },
+  "https://www.techmeme.com/260724/p4#a260724p4": {
+    "image": null,
+    "fetchedAt": 1784895554507
+  },
+  "https://sifted.eu/articles/the-great-vc-exodus-13-investors-who-joined-startups/": {
+    "image": "https://images.sifted.eu/wp-content/uploads/2019/02/25140415/sifted-on-pink.png?w=1200&h=628&q=75&fit=crop&auto=compress,format",
+    "fetchedAt": 1784895555447
+  },
+  "https://www.techmeme.com/260724/p1#a260724p1": {
+    "image": null,
+    "fetchedAt": 1784895555807
+  },
+  "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
+    "fetchedAt": 1784895556381
+  },
+  "https://venturebeat.com/security/openai-anthropic-google-and-xai-models-all-broke-under-multi-turn-attack-up-to-88-of-the-time": {
+    "image": null,
+    "fetchedAt": 1784895556808
+  },
+  "https://sifted.eu/articles/softbank-gravis-robotics/": {
+    "image": "https://images.sifted.eu/wp-content/uploads/2026/07/24124159/Screenshot-2026-07-24-at-12.41.53.png?w=1812&h=848&q=75&fit=crop&auto=compress,format",
+    "fetchedAt": 1784895557698
+  },
+  "https://www.theverge.com/report/969725/fcc-drone-ban-odyssey-robot-galiview-etak-randolph-howard-eason": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/FCC_Drone_Ban.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1784895558264
+  },
+  "https://www.techmeme.com/260724/p10#a260724p10": {
+    "image": null,
+    "fetchedAt": 1784895558622
+  },
+  "https://www.theverge.com/tech/970519/tiktok-eu-dsa-child-safety-age-account-privacy": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK051_VRG_Illo_N_Barclay_2_tiktok.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1784895559006
+  },
+  "https://www.techmeme.com/260724/p8#a260724p8": {
+    "image": null,
+    "fetchedAt": 1784895559364
+  },
+  "https://www.techmeme.com/260724/p7#a260724p7": {
+    "image": null,
+    "fetchedAt": 1784895559721
+  },
+  "https://news.crunchbase.com/venture/fintech-funder-general-catalyst-leads-deal-count-q2-2026/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Money_Clip.jpg",
+    "fetchedAt": 1784895560203
+  },
+  "https://news.crunchbase.com/ai/biggest-talent-challenge-resilience-vaidya-crafting/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/AI-cowork.jpg",
+    "fetchedAt": 1784895560642
   }
 }
