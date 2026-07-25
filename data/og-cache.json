@@ -1018,5 +1018,77 @@
   "https://news.crunchbase.com/ai/biggest-talent-challenge-resilience-vaidya-crafting/": {
     "image": "https://news.crunchbase.com/wp-content/uploads/AI-cowork.jpg",
     "fetchedAt": 1784895560642
+  },
+  "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows": {
+    "image": null,
+    "fetchedAt": 1784980985932
+  },
+  "https://www.techmeme.com/260725/p5#a260725p5": {
+    "image": null,
+    "fetchedAt": 1784980986312
+  },
+  "https://www.techmeme.com/260725/p8#a260725p8": {
+    "image": null,
+    "fetchedAt": 1784980986674
+  },
+  "https://www.techmeme.com/260725/p7#a260725p7": {
+    "image": null,
+    "fetchedAt": 1784980987032
+  },
+  "https://www.techmeme.com/260725/p4#a260725p4": {
+    "image": null,
+    "fetchedAt": 1784980987393
+  },
+  "https://www.techmeme.com/260725/p2#a260725p2": {
+    "image": null,
+    "fetchedAt": 1784980987755
+  },
+  "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html": {
+    "image": "https://image.cnbcfm.com/api/v1/image/108173882-1752844539526-gettyimages-2225696381-mms28707_1cm2uml7.jpeg?v=1752844582&w=1920&h=1080",
+    "fetchedAt": 1784980988786
+  },
+  "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-smart-money-stage.jpg?w=1200",
+    "fetchedAt": 1784980989241
+  },
+  "https://thenextweb.com/news/anthropic-claude-opus-5-launch-frontier-bench-coding": {
+    "image": "https://media.thenextweb.com/2026/07/anthropic-claude-opus-5-launch-frontier-bench-coding.avif",
+    "fetchedAt": 1784980989741
+  },
+  "https://www.geekwire.com/2026/amazon-confirms-its-closing-key-ai-site-in-san-francisco-but-says-work-on-its-top-models-continues/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2024/04/amazon-logo-sign-brick-1260x960.jpg",
+    "fetchedAt": 1784980990367
+  },
+  "https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_765cecb6ce4a937c4f17d94cc6729212ecb56fa8.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "fetchedAt": 1784980990920
+  },
+  "https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-137.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "fetchedAt": 1784980991345
+  },
+  "https://thenextweb.com/news/waymo-uber-exclusivity-ends-austin-atlanta-robotaxi": {
+    "image": "https://media.thenextweb.com/2026/07/waymo-uber-exclusivity-ends-austin-atlanta-robotaxi.avif",
+    "fetchedAt": 1784980991816
+  },
+  "https://www.techmeme.com/260725/p11#a260725p11": {
+    "image": null,
+    "fetchedAt": 1784980992209
+  },
+  "https://thenextweb.com/news/openai-outage-chatgpt-codex-api-july-2026": {
+    "image": "https://media.thenextweb.com/2026/07/openai-outage-chatgpt-codex-api-july-2026.avif",
+    "fetchedAt": 1784980992679
+  },
+  "https://www.techmeme.com/260725/p10#a260725p10": {
+    "image": null,
+    "fetchedAt": 1784980993039
+  },
+  "https://thenextweb.com/news/modi-instagram-reels-student-protests-india-record": {
+    "image": "https://media.thenextweb.com/2026/07/modi-instagram-reels-student-protests-india-record.avif",
+    "fetchedAt": 1784980993508
+  },
+  "https://www.techmeme.com/260725/p9#a260725p9": {
+    "image": null,
+    "fetchedAt": 1784980993866
   }
 }
