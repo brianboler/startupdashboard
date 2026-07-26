@@ -1,168 +1,4 @@
 {
-  "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/": {
-    "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-    "fetchedAt": 1783807780340
-  },
-  "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity": {
-    "image": "https://www.brown.edu/sites/default/files/styles/wide_lrg/public/2026-07/chemistry-stock.jpg?h=1d4b4ebd&itok=Iv8YhdkV",
-    "fetchedAt": 1783807780982
-  },
-  "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/": {
-    "image": null,
-    "fetchedAt": 1783807781755
-  },
-  "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey": {
-    "image": "https://i.guim.co.uk/img/media/76e6d41e9793d20f38e9c89b53fa8b8b1ba200bd/0_0_2626_2102/master/2626.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c2d6630b6b07d50764b7644f341e5e82",
-    "fetchedAt": 1783807782374
-  },
-  "https://evanhahn.com/prefer-strict-tables-in-sqlite/": {
-    "image": null,
-    "fetchedAt": 1783807782952
-  },
-  "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres": {
-    "image": "https://clickhouse.com/_next/image?url=%2Fuploads%2FScaling_Pgbouncer_in_Click_House_ed1f77793f.jpg&w=1200&h=630&q=75",
-    "fetchedAt": 1783807783594
-  },
-  "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html": {
-    "image": null,
-    "fetchedAt": 1783807784131
-  },
-  "https://antjs.org": {
-    "image": null,
-    "fetchedAt": 1783807784794
-  },
-  "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom": {
-    "image": "https://images.prismic.io/bethtechnology/aitsR6lQnVZVEPNy_Nvidia%2CCoreWeave%2CandNebius%E2%80%93InsidetheCircularFinancingoftheGPUBoom.png?auto=format,compress",
-    "fetchedAt": 1783807785378
-  },
-  "https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989": {
-    "image": "https://m.media-amazon.com/images/G/01/share-icons/previewdoh/amazon.png",
-    "fetchedAt": 1783807788001
-  },
-  "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/maxresdefault_503c4e.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-    "fetchedAt": 1783807788675
-  },
-  "https://www.techmeme.com/260711/p10#a260711p10": {
-    "image": "https://cdn.theatlantic.com/thumbor/090pmNuECc7Ke1PQBPumChuVzTQ=/0x43:2000x1085/1200x625/media/img/mt/2026/07/2026_06_25_Tiffany_phones_final2/original.jpg",
-    "fetchedAt": 1783807789861
-  },
-  "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB385_PARAMOUNT_D.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
-    "fetchedAt": 1783807790312
-  },
-  "https://www.techmeme.com/260711/p9#a260711p9": {
-    "image": "https://storage.ghost.io/c/af/ca/afcaa655-46e2-45b8-889a-2881de5cce69/content/images/size/w1200/2026/07/glenn-close-fatal-attraction-knife.jpg",
-    "fetchedAt": 1783807791105
-  },
-  "https://www.techmeme.com/260711/p8#a260711p8": {
-    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8L8Np2m40z0/v2/1200x800.jpg",
-    "fetchedAt": 1783807791830
-  },
-  "https://www.geekwire.com/2026/microsofts-reset-a-new-era-for-seattle-startups-and-how-ai-is-changing-everything-for-founders/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/deck.jpg",
-    "fetchedAt": 1783807792406
-  },
-  "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools": {
-    "image": null,
-    "fetchedAt": 1783807792983
-  },
-  "https://www.techmeme.com/260711/p7#a260711p7": {
-    "image": "https://torrentfreak.com/images/googledns.png",
-    "fetchedAt": 1783807793847
-  },
-  "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1783807939700
-  },
-  "https://shipthatcode.com": {
-    "image": "https://shipthatcode.com/opengraph-image?e5981ff808b13a14",
-    "fetchedAt": 1783807940294
-  },
-  "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf": {
-    "image": null,
-    "fetchedAt": 1783807941819
-  },
-  "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative": {
-    "image": null,
-    "fetchedAt": 1783807942522
-  },
-  "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_2887.jpeg?quality=90&strip=all&crop=0%2C24.763158265338%2C100%2C34.691184608181&w=1200",
-    "fetchedAt": 1783807942962
-  },
-  "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/SMBW_Talking_Flower_001_illu01_01_R_ad-0.png?quality=90&strip=all&crop=0%2C14.496596022281%2C100%2C71.006807955439&w=1200",
-    "fetchedAt": 1783807943435
-  },
-  "https://www.iroh.computer/blog/mesh-llm": {
-    "image": "https://www.iroh.computer/api/og?title=Blog&subtitle=Mesh%20LLM:%20distributed%20AI%20computing%20on%20iroh",
-    "fetchedAt": 1783857462306
-  },
-  "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/": {
-    "image": "https://studyfinds.com/wp-content/uploads/2026/07/Modern-office-scaled.jpeg",
-    "fetchedAt": 1783857463311
-  },
-  "https://timeseriesofindia.com/economy/reads/upi-architecture/": {
-    "image": "https://timeseriesofindia.com/og/reads/upi-architecture.png",
-    "fetchedAt": 1783857463733
-  },
-  "https://thebeach.dev/posts/lisp-agent/": {
-    "image": "https://thebeach.dev/images/lisp-agent.jpg",
-    "fetchedAt": 1783857464469
-  },
-  "https://github.com/Wren6991/RISCBoy": {
-    "image": "https://opengraph.githubassets.com/f486b9f11b2b20eb82677b99ecba63db4440d392466e9f71686f5844fea4bdd1/Wren6991/RISCBoy",
-    "fetchedAt": 1783857464899
-  },
-  "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2023/05/vint-cerf-GettyImages-454796419.jpg?resize=1200,723",
-    "fetchedAt": 1783857465295
-  },
-  "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans": {
-    "image": null,
-    "fetchedAt": 1783857473649
-  },
-  "https://arxiv.org/abs/2607.07267": {
-    "image": null,
-    "fetchedAt": 1783857474161
-  },
-  "https://fabiensanglard.net/tb4/index.html": {
-    "image": null,
-    "fetchedAt": 1783857474620
-  },
-  "https://www.techmeme.com/260712/p5#a260712p5": {
-    "image": null,
-    "fetchedAt": 1783857474998
-  },
-  "https://www.techmeme.com/260712/p4#a260712p4": {
-    "image": null,
-    "fetchedAt": 1783857475358
-  },
-  "https://www.techmeme.com/260712/p3#a260712p3": {
-    "image": null,
-    "fetchedAt": 1783857475721
-  },
-  "https://www.techmeme.com/260712/p2#a260712p2": {
-    "image": null,
-    "fetchedAt": 1783857476081
-  },
-  "https://www.techmeme.com/260712/p1#a260712p1": {
-    "image": null,
-    "fetchedAt": 1783857476444
-  },
-  "https://www.geekwire.com/2026/what-to-know-about-vinod-khosla-the-silicon-valley-legend-whose-family-is-buying-the-seahawks/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/IMG_3238-1260x840.jpg",
-    "fetchedAt": 1783857476850
-  },
-  "https://www.techmeme.com/260711/p12#a260711p12": {
-    "image": null,
-    "fetchedAt": 1783857477212
-  },
-  "https://www.techmeme.com/260711/p11#a260711p11": {
-    "image": null,
-    "fetchedAt": 1783857477578
-  },
   "https://www.techmeme.com/260712/p7#a260712p7": {
     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-353532,resizemode-75,msid-132350610/tech/artificial-intelligence/anthropic-extends-fable-5-access-through-july-19.jpg",
     "fetchedAt": 1783884343646
@@ -1090,5 +926,65 @@
   "https://www.techmeme.com/260725/p9#a260725p9": {
     "image": null,
     "fetchedAt": 1784980993866
+  },
+  "https://www.techmeme.com/260725/p13#a260725p13": {
+    "image": null,
+    "fetchedAt": 1785067386800
+  },
+  "https://www.techmeme.com/260725/p12#a260725p12": {
+    "image": null,
+    "fetchedAt": 1785067387164
+  },
+  "https://www.techmeme.com/260726/p4#a260726p4": {
+    "image": null,
+    "fetchedAt": 1785067387528
+  },
+  "https://www.techmeme.com/260726/p1#a260726p1": {
+    "image": null,
+    "fetchedAt": 1785067387892
+  },
+  "https://www.techmeme.com/260725/p14#a260725p14": {
+    "image": null,
+    "fetchedAt": 1785067388255
+  },
+  "https://thenextweb.com/news/nvidia-naver-sk-group-korea-ai-investment": {
+    "image": "https://media.thenextweb.com/2026/07/nvidia-naver-sk-group-korea-ai-investment.avif",
+    "fetchedAt": 1785067389681
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-physical-ai-fintech-defense-atoms/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+    "fetchedAt": 1785067390230
+  },
+  "https://thenextweb.com/news/deepseek-funding-pause-viral-posts-liang-wenfeng": {
+    "image": "https://media.thenextweb.com/2026/07/deepseek-funding-pause-viral-posts-liang-wenfeng.avif",
+    "fetchedAt": 1785067390954
+  },
+  "https://www.techmeme.com/260726/p2#a260726p2": {
+    "image": null,
+    "fetchedAt": 1785067391318
+  },
+  "https://www.techmeme.com/260725/p17#a260725p17": {
+    "image": null,
+    "fetchedAt": 1785067391682
+  },
+  "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284214134.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+    "fetchedAt": 1785067392138
+  },
+  "https://thenextweb.com/news/ai-chatbots-relationships-emotional-support-sycophancy": {
+    "image": "https://media.thenextweb.com/2026/07/ai-chatbots-relationships-emotional-support-sycophancy.avif",
+    "fetchedAt": 1785067392884
+  },
+  "https://thenextweb.com/news/jd-power-apeal-ev-owners-happier-ice-2026": {
+    "image": "https://media.thenextweb.com/2026/07/jd-power-apeal-ev-owners-happier-ice-2026.avif",
+    "fetchedAt": 1785067393797
+  },
+  "https://www.techmeme.com/260726/p3#a260726p3": {
+    "image": null,
+    "fetchedAt": 1785067394162
+  },
+  "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/blade3-1152x648.jpg",
+    "fetchedAt": 1785067394848
   }
 }
