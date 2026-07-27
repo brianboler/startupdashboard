@@ -1,140 +1,4 @@
 {
-  "https://www.techmeme.com/260712/p7#a260712p7": {
-    "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-353532,resizemode-75,msid-132350610/tech/artificial-intelligence/anthropic-extends-fable-5-access-through-july-19.jpg",
-    "fetchedAt": 1783884343646
-  },
-  "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-    "fetchedAt": 1783884344082
-  },
-  "https://thenextweb.com/news/meta-stock-best-week-ai-cloud-compute": {
-    "image": "https://media.thenextweb.com/2026/07/meta-stock-best-week-ai-cloud-compute.avif",
-    "fetchedAt": 1783884344850
-  },
-  "https://sifted.eu/articles/yann-lecun-new-vc-firm/": {
-    "image": "https://images.sifted.eu/wp-content/uploads/2026/07/10101657/bellamy-2.jpg?w=1920&h=1080&q=75&fit=crop&auto=compress,format",
-    "fetchedAt": 1783884345883
-  },
-  "https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars": {
-    "image": null,
-    "fetchedAt": 1783884346350
-  },
-  "https://www.geekwire.com/2026/etzioni-on-ai-why-trust-in-ai-splits-by-country-gender-age-and-politics/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/ai-debate2.jpeg",
-    "fetchedAt": 1783884346793
-  },
-  "https://thenextweb.com/news/zhipu-tang-jie-frontier-ai-open-to-all": {
-    "image": "https://media.thenextweb.com/2026/06/china-ai-global-cooperation-vs-g7-export-controls.avif",
-    "fetchedAt": 1783884347271
-  },
-  "https://thenextweb.com/news/ai-race-shifts-bigger-models-to-cheaper-systems": {
-    "image": "https://media.thenextweb.com/2026/07/ai-race-shifts-bigger-models-to-cheaper-systems.avif",
-    "fetchedAt": 1783884347740
-  },
-  "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one": {
-    "image": null,
-    "fetchedAt": 1783884348128
-  },
-  "https://www.larp.website/": {
-    "image": null,
-    "fetchedAt": 1783884348634
-  },
-  "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains": {
-    "image": null,
-    "fetchedAt": 1783884349021
-  },
-  "https://thenextweb.com/news/ubisoft-black-flag-remake-nostalgia-business": {
-    "image": "https://media.thenextweb.com/2026/06/claude-guillemot-ubisoft-co-founder-dies-plane-crash-69.avif",
-    "fetchedAt": 1783884349493
-  },
-  "https://thenextweb.com/news/netflix-always-on-channels-bundles-cable": {
-    "image": "https://media.thenextweb.com/2026/07/netflix-always-on-channels-bundles-cable.avif",
-    "fetchedAt": 1783884349963
-  },
-  "https://thenextweb.com/news/ai-data-centres-gas-plants-clean-energy-fight": {
-    "image": "https://media.thenextweb.com/2026/07/ai-data-centres-gas-plants-clean-energy-fight.avif",
-    "fetchedAt": 1783884350436
-  },
-  "https://www.techmeme.com/260712/p6#a260712p6": {
-    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipgZEQYo1qNg/v6/1200x800.jpg",
-    "fetchedAt": 1783884351477
-  },
-  "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/soft-pink-truth.jpg?quality=90&strip=all&crop=0%2C5.1234106207928%2C100%2C89.753178758414&w=1200",
-    "fetchedAt": 1783885524090
-  },
-  "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6": {
-    "image": "https://storage.googleapis.com/ployai/d21bf4ad-2458-43ee-9561-54c28ab0e85f/user/fcebce5c-colorful-hero-opus-vs-gpt.png",
-    "fetchedAt": 1783891228823
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279420244.jpg?quality=90&strip=all&crop=0%2C10.807256256556%2C100%2C78.385487486888&w=1200",
-    "fetchedAt": 1783891229324
-  },
-  "https://www.techmeme.com/260712/p8#a260712p8": {
-    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRhhNvTMkhNk/v1/1200x800.jpg",
-    "fetchedAt": 1783893004063
-  },
-  "https://www.techmeme.com/260712/p9#a260712p9": {
-    "image": "https://tii.imgix.net/production/articles/17432/740fd779-e39b-4a60-b233-c70c84221bb9.png?fm=jpeg&auto=compress&w=610",
-    "fetchedAt": 1783898335692
-  },
-  "https://www.techmeme.com/260713/p22#a260713p22": {
-    "image": null,
-    "fetchedAt": 1783949345244
-  },
-  "https://www.techmeme.com/260713/p20#a260713p20": {
-    "image": null,
-    "fetchedAt": 1783949345604
-  },
-  "https://www.techmeme.com/260713/p19#a260713p19": {
-    "image": null,
-    "fetchedAt": 1783949345963
-  },
-  "https://sifted.eu/articles/anthropic-monzo-founder-tom-blomfield/": {
-    "image": "https://images.sifted.eu/wp-content/uploads/2023/03/03152359/Tom-Blomfield.png?w=469&h=469&q=75&fit=crop&auto=compress,format",
-    "fetchedAt": 1783949347079
-  },
-  "https://thenextweb.com/news/yann-lecun-extelligence-invest-fund-collapse": {
-    "image": "https://media.thenextweb.com/2026/07/yann-lecun-new-vc-firm.avif",
-    "fetchedAt": 1783949347585
-  },
-  "https://www.techmeme.com/260713/p17#a260713p17": {
-    "image": null,
-    "fetchedAt": 1783949347944
-  },
-  "https://news.crunchbase.com/venture/ai-ma-ipo-valuations-b2b-ranum-sapphire-ventures/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/Generic-ai-funding.jpg",
-    "fetchedAt": 1783949348443
-  },
-  "https://www.geekwire.com/2026/augmodo-raises-21m-to-push-its-spatial-ai-beyond-just-retail-toward-the-broader-physical-workforce/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/augmodo.png",
-    "fetchedAt": 1783949348870
-  },
-  "https://sifted.eu/articles/helsing-funding-round-goldman-lightspeed-jp-morgan/": {
-    "image": "https://images.sifted.eu/wp-content/uploads/2026/07/13103734/b3ddef5c522a899728b7dd15193da7c9314438c4-3801x2172-1.jpg?w=1652&h=923&q=75&fit=crop&auto=compress,format",
-    "fetchedAt": 1783949349951
-  },
-  "https://thenextweb.com/news/raxio-tanzania-380m-africa-data-centre": {
-    "image": "https://media.thenextweb.com/2026/07/Raxio-Group.avif",
-    "fetchedAt": 1783949350440
-  },
-  "https://www.techmeme.com/260713/p21#a260713p21": {
-    "image": null,
-    "fetchedAt": 1783949350802
-  },
-  "https://thenextweb.com/news/ai-never-skilling-critical-thinking-research": {
-    "image": "https://media.thenextweb.com/2026/07/AI-developers-skills.avif",
-    "fetchedAt": 1783949351279
-  },
-  "https://www.techmeme.com/260713/p18#a260713p18": {
-    "image": null,
-    "fetchedAt": 1783949351637
-  },
-  "https://sifted.eu/articles/nscale-delays/": {
-    "image": "https://content.sifted.eu/wp-content/uploads/2025/11/04154251/nscale-pic-3-1024x336.png",
-    "fetchedAt": 1783949352417
-  },
   "https://www.techmeme.com/260714/p4#a260714p4": {
     "image": null,
     "fetchedAt": 1784031186165
@@ -986,5 +850,69 @@
   "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/": {
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/blade3-1152x648.jpg",
     "fetchedAt": 1785067394848
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1785159546801
+  },
+  "https://www.techmeme.com/260727/p5#a260727p5": {
+    "image": null,
+    "fetchedAt": 1785159547184
+  },
+  "https://www.techmeme.com/260727/p11#a260727p11": {
+    "image": null,
+    "fetchedAt": 1785159547547
+  },
+  "https://www.techmeme.com/260727/p10#a260727p10": {
+    "image": null,
+    "fetchedAt": 1785159547910
+  },
+  "https://www.techmeme.com/260727/p9#a260727p9": {
+    "image": null,
+    "fetchedAt": 1785159548273
+  },
+  "https://www.techmeme.com/260727/p3#a260727p3": {
+    "image": null,
+    "fetchedAt": 1785159548635
+  },
+  "https://www.techmeme.com/260727/p2#a260727p2": {
+    "image": null,
+    "fetchedAt": 1785159548999
+  },
+  "https://sifted.eu/articles/the-exploration-company-valuation-fundraise/": {
+    "image": "https://images.sifted.eu/wp-content/uploads/2023/01/31173945/Nyx-scaled.jpg?w=2048&h=1152&q=75&fit=crop&auto=compress,format",
+    "fetchedAt": 1785159550506
+  },
+  "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Enigma-Founders-Natasha-Zeriker-1.jpg?resize=1200,801",
+    "fetchedAt": 1785159551049
+  },
+  "https://news.crunchbase.com/venture/schneider-ai-robotics-energy-qa-chaturvedy-se-ventures/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/physical-ai.jpg",
+    "fetchedAt": 1785159551622
+  },
+  "https://www.geekwire.com/2026/dopl-raises-6-3m-to-bring-remote-robotic-ultrasounds-to-rural-patients-as-it-pursues-fda-clearance/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/Dopl-technologies-product-concept-rendering_July_2026-1-1.jpg",
+    "fetchedAt": 1785159552263
+  },
+  "https://thenextweb.com/news/discord-meta-jane-doe-lawsuit-section-230-design-defect": {
+    "image": "https://media.thenextweb.com/2026/05/discord-end-to-end-encrypted-voice-video-all-users.avif",
+    "fetchedAt": 1785159552820
+  },
+  "https://sifted.eu/articles/uk-pension-funds-scale-up-fund-invest-tech/": {
+    "image": "https://images.sifted.eu/wp-content/uploads/2018/10/24164958/london.jpg?w=1280&h=853&q=75&fit=crop&auto=compress,format",
+    "fetchedAt": 1785159553981
+  },
+  "https://thenextweb.com/news/ominimo-ebrd-series-b-1-4-billion-insurtech-unicorn": {
+    "image": "https://media.thenextweb.com/2026/07/dusan-komar.avif",
+    "fetchedAt": 1785159554519
+  },
+  "https://thenextweb.com/news/waymo-parking-fines-austin-tow-away-zones": {
+    "image": "https://media.thenextweb.com/2026/07/waymo-parking-fines-austin-tow-away-zones.avif",
+    "fetchedAt": 1785159555054
+  },
+  "https://thenextweb.com/news/cxmt-zhu-yiming-5-6-billion-employee-share-bonus": {
+    "image": "https://media.thenextweb.com/2026/07/CXMT-IC-China.avif",
+    "fetchedAt": 1785159556007
   }
 }
