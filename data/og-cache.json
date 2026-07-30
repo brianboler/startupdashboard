@@ -1,72 +1,4 @@
 {
-  "https://www.techmeme.com/260716/p19#a260716p19": {
-    "image": null,
-    "fetchedAt": 1784204466086
-  },
-  "https://www.techmeme.com/260716/p11#a260716p11": {
-    "image": null,
-    "fetchedAt": 1784204466446
-  },
-  "https://sifted.eu/articles/munich-robotics-startup-microagi-raises-55m-germanys-largest-ever-seed-round/": {
-    "image": "https://content.sifted.eu/wp-content/uploads/2026/07/16083515/Bercan-killic.webp",
-    "fetchedAt": 1784204467833
-  },
-  "https://sifted.eu/articles/monumental-robots-fundraise-raises-32m-backed-by-khosla-ventures/": {
-    "image": "https://images.sifted.eu/wp-content/uploads/2026/07/15164904/Office_Headshots_Salar-right-Sebas-left__1-scaled.jpg?w=2048&h=1365&q=75&fit=crop&auto=compress,format",
-    "fetchedAt": 1784204468737
-  },
-  "https://joinedanthropic.com": {
-    "image": null,
-    "fetchedAt": 1784204469287
-  },
-  "https://www.techmeme.com/260716/p17#a260716p17": {
-    "image": null,
-    "fetchedAt": 1784204469648
-  },
-  "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Apoorv-Shankar-Founder-Aina-color.jpeg?resize=1200,675",
-    "fetchedAt": 1784204470053
-  },
-  "https://news.crunchbase.com/venture/data-china-ai-lead-asia-startup-funding-peak-q2-2026/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/space-quarterly-asia.jpg",
-    "fetchedAt": 1784204470511
-  },
-  "https://thenextweb.com/news/japan-noetra-nvidia-rubin-ai-factory-frontia": {
-    "image": "https://media.thenextweb.com/2026/07/Japan-AI-infrastructure.avif",
-    "fetchedAt": 1784204471007
-  },
-  "https://sifted.eu/articles/eqt-syntetica-30m-lululemon/": {
-    "image": "https://content.sifted.eu/wp-content/uploads/2026/07/14141640/Screenshot-2026-07-14-at-14.16.32-1024x753.png",
-    "fetchedAt": 1784204473708
-  },
-  "https://www.techmeme.com/260716/p20#a260716p20": {
-    "image": null,
-    "fetchedAt": 1784204474079
-  },
-  "https://www.techmeme.com/260716/p18#a260716p18": {
-    "image": null,
-    "fetchedAt": 1784204474438
-  },
-  "https://www.techmeme.com/260716/p16#a260716p16": {
-    "image": null,
-    "fetchedAt": 1784204474797
-  },
-  "https://www.techmeme.com/260716/p15#a260716p15": {
-    "image": null,
-    "fetchedAt": 1784204475155
-  },
-  "https://www.techmeme.com/260716/p14#a260716p14": {
-    "image": null,
-    "fetchedAt": 1784204475514
-  },
-  "https://www.techmeme.com/260716/p13#a260716p13": {
-    "image": null,
-    "fetchedAt": 1784204475873
-  },
-  "https://www.techmeme.com/260716/p12#a260716p12": {
-    "image": null,
-    "fetchedAt": 1784204476231
-  },
   "https://www.techmeme.com/260716/p68#a260716p68": {
     "image": null,
     "fetchedAt": 1784290145779
@@ -918,5 +850,77 @@
   "https://thenextweb.com/news/hugging-face-nonconsensual-deepfakes-ai-forensics-report": {
     "image": "https://media.thenextweb.com/2026/07/Deepfake.avif",
     "fetchedAt": 1785330013485
+  },
+  "https://www.techmeme.com/260730/p18#a260730p18": {
+    "image": null,
+    "fetchedAt": 1785414607021
+  },
+  "https://thenextweb.com/news/onyx-security-113m-series-b-ai-agent-control-plane": {
+    "image": "https://media.thenextweb.com/2026/07/onyx-113m-series-b.avif",
+    "fetchedAt": 1785414608085
+  },
+  "https://www.techmeme.com/260730/p14#a260730p14": {
+    "image": null,
+    "fetchedAt": 1785414608447
+  },
+  "https://thenextweb.com/news/eliyan-145m-series-c-unicorn-ai-chip-interconnects": {
+    "image": "https://media.thenextweb.com/2026/07/Eliyan-Founders-SyrusZiai-RaminFarjadrad-CEOPatrickSoheili.avif",
+    "fetchedAt": 1785414609002
+  },
+  "https://www.techmeme.com/260730/p13#a260730p13": {
+    "image": null,
+    "fetchedAt": 1785414609366
+  },
+  "https://www.techmeme.com/260730/p11#a260730p11": {
+    "image": null,
+    "fetchedAt": 1785414609729
+  },
+  "https://www.geekwire.com/2026/microsoft-azure-tops-100b-in-annual-revenue-as-record-ai-spending-cuts-into-cash-flow/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/microsoft-sign.jpg",
+    "fetchedAt": 1785414610456
+  },
+  "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290359/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+    "fetchedAt": 1785414610926
+  },
+  "https://venturebeat.com/orchestration/enterprise-ai-agents-cant-talk-to-each-other-cant-be-trusted-with-permissions-and-cant-be-audited-5-startups-are-already-fixing-that": {
+    "image": null,
+    "fetchedAt": 1785414611330
+  },
+  "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Hint-Founding-team-Credit-Kathryn-Cooper.jpg?resize=1200,800",
+    "fetchedAt": 1785414611863
+  },
+  "https://www.techmeme.com/260730/p19#a260730p19": {
+    "image": null,
+    "fetchedAt": 1785414612226
+  },
+  "https://www.theverge.com/gadgets/972456/dji-osmo-pocket-4p-review": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/dji-osmo-pocket-4p-06.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+    "fetchedAt": 1785414612649
+  },
+  "https://thenextweb.com/news/gartner-ai-inference-privacy-incidents-2029": {
+    "image": "https://media.thenextweb.com/2026/02/Gartner-110M-sale-of-Digital-Markets-division-in-latest-SEC-filing.avif",
+    "fetchedAt": 1785414613213
+  },
+  "https://thenextweb.com/news/disney-damaro-streaming-super-app-netflix": {
+    "image": "https://media.thenextweb.com/2026/07/Josh-DAmaro.avif",
+    "fetchedAt": 1785414613753
+  },
+  "https://thenextweb.com/news/relation-morgan-cell-foundation-model-gsk-110-million": {
+    "image": "https://media.thenextweb.com/2026/07/Relation-Therapeutics-leadership.avif",
+    "fetchedAt": 1785414614289
+  },
+  "https://www.techmeme.com/260730/p17#a260730p17": {
+    "image": null,
+    "fetchedAt": 1785414614652
+  },
+  "https://thenextweb.com/news/procore-dronedeploy-845-million-construction-ai-jobsite": {
+    "image": "https://media.thenextweb.com/2026/07/procore-logo.avif",
+    "fetchedAt": 1785414615192
+  },
+  "https://www.techmeme.com/260730/p16#a260730p16": {
+    "image": null,
+    "fetchedAt": 1785414615554
   }
 }
