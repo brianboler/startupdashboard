@@ -1,76 +1,4 @@
 {
-  "https://www.techmeme.com/260718/p2#a260718p2": {
-    "image": null,
-    "fetchedAt": 1784375644724
-  },
-  "https://www.techmeme.com/260718/p7#a260718p7": {
-    "image": null,
-    "fetchedAt": 1784375645090
-  },
-  "https://www.techmeme.com/260718/p1#a260718p1": {
-    "image": null,
-    "fetchedAt": 1784375645455
-  },
-  "https://thenextweb.com/news/tsmc-record-revenue-stock-falls-ai-capex-fears": {
-    "image": "https://media.thenextweb.com/2026/07/tsmc-record-revenue-stock-falls-ai-capex-fears.avif",
-    "fetchedAt": 1784375646504
-  },
-  "https://www.techmeme.com/260718/p4#a260718p4": {
-    "image": null,
-    "fetchedAt": 1784375646868
-  },
-  "https://www.techmeme.com/260718/p9#a260718p9": {
-    "image": null,
-    "fetchedAt": 1784375647234
-  },
-  "https://www.techmeme.com/260718/p5#a260718p5": {
-    "image": null,
-    "fetchedAt": 1784375647600
-  },
-  "https://www.techmeme.com/260718/p3#a260718p3": {
-    "image": null,
-    "fetchedAt": 1784375647961
-  },
-  "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/stripe-x-battlefield_eventImage-site-crop.jpg?resize=1200,900",
-    "fetchedAt": 1784375648530
-  },
-  "https://venturebeat.com/orchestration/intuit-scrapped-its-own-ai-agent-architecture-twice-in-four-months-at-vb-transform-2026-its-ai-vp-called-that-the-fast-path": {
-    "image": null,
-    "fetchedAt": 1784375648989
-  },
-  "https://www.techmeme.com/260718/p10#a260718p10": {
-    "image": null,
-    "fetchedAt": 1784375649354
-  },
-  "https://thenextweb.com/news/raidium-ai-radiology-moffitt-cancer-center-us-launch": {
-    "image": "https://media.thenextweb.com/2026/07/raidium-ai-radiology-moffitt-cancer-center-us-launch.avif",
-    "fetchedAt": 1784375649887
-  },
-  "https://thenextweb.com/news/world-cup-stolen-streaming-accounts-dark-web-220-million": {
-    "image": "https://media.thenextweb.com/2026/07/world-cup-stolen-streaming-accounts-dark-web-220-million.avif",
-    "fetchedAt": 1784375650426
-  },
-  "https://thenextweb.com/news/face-ai-video-face-swap-update-2026": {
-    "image": "https://media.thenextweb.com/2026/07/face-ai-video-face-swap-update-2026.avif",
-    "fetchedAt": 1784375650961
-  },
-  "https://thenextweb.com/news/jensen-huang-leather-jacket-960000-sothebys": {
-    "image": "https://media.thenextweb.com/2026/07/jensen-huang-leather-jacket-960000-sothebys.avif",
-    "fetchedAt": 1784375651496
-  },
-  "https://thenextweb.com/news/google-deepmind-pele-lost-goal-ai-reconstruction": {
-    "image": "https://media.thenextweb.com/2026/07/google-deepmind-pele-lost-goal-ai-reconstruction.avif",
-    "fetchedAt": 1784375652027
-  },
-  "https://thenextweb.com/news/xpeng-flying-car-land-aircraft-carrier-germany-7000-orders": {
-    "image": "https://media.thenextweb.com/2026/07/xpeng-flying-car-land-aircraft-carrier-germany-7000-orders.avif",
-    "fetchedAt": 1784375652556
-  },
-  "https://thenextweb.com/news/apple-iphone-17-price-increase-japan-yen": {
-    "image": "https://media.thenextweb.com/2026/07/apple-iphone-17-price-increase-japan-yen.avif",
-    "fetchedAt": 1784375653087
-  },
   "https://www.techmeme.com/260719/p4#a260719p4": {
     "image": null,
     "fetchedAt": 1784462286475
@@ -922,5 +850,65 @@
   "https://thenextweb.com/news/eu-ai-act-labels-compulsory-synthetic-content": {
     "image": "https://media.thenextweb.com/2026/05/European-flag.avif",
     "fetchedAt": 1785502570445
+  },
+  "https://www.techmeme.com/260801/p1#a260801p1": {
+    "image": null,
+    "fetchedAt": 1785585725976
+  },
+  "https://www.techmeme.com/260801/p9#a260801p9": {
+    "image": null,
+    "fetchedAt": 1785585726333
+  },
+  "https://www.techmeme.com/260801/p6#a260801p6": {
+    "image": null,
+    "fetchedAt": 1785585726690
+  },
+  "https://www.techmeme.com/260801/p5#a260801p5": {
+    "image": null,
+    "fetchedAt": 1785585727048
+  },
+  "https://www.techmeme.com/260801/p4#a260801p4": {
+    "image": null,
+    "fetchedAt": 1785585727406
+  },
+  "https://www.techmeme.com/260801/p2#a260801p2": {
+    "image": null,
+    "fetchedAt": 1785585727763
+  },
+  "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1215016292.jpg?resize=1200,865",
+    "fetchedAt": 1785585728221
+  },
+  "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Smallest-AI-Founders.jpg?resize=1200,927",
+    "fetchedAt": 1785585728619
+  },
+  "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198164456.jpg?resize=1200,801",
+    "fetchedAt": 1785585729007
+  },
+  "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-138.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "fetchedAt": 1785585729523
+  },
+  "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/defconbadge-1152x648.jpg",
+    "fetchedAt": 1785585729997
+  },
+  "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-956238116-1152x648.jpg",
+    "fetchedAt": 1785585730390
+  },
+  "https://www.techmeme.com/260801/p8#a260801p8": {
+    "image": null,
+    "fetchedAt": 1785585730748
+  },
+  "https://www.techmeme.com/260801/p7#a260801p7": {
+    "image": null,
+    "fetchedAt": 1785585731104
+  },
+  "https://www.techmeme.com/260801/p3#a260801p3": {
+    "image": null,
+    "fetchedAt": 1785585731463
   }
 }
