@@ -1,64 +1,4 @@
 {
-  "https://www.techmeme.com/260719/p4#a260719p4": {
-    "image": null,
-    "fetchedAt": 1784462286475
-  },
-  "https://www.techmeme.com/260719/p5#a260719p5": {
-    "image": null,
-    "fetchedAt": 1784462286838
-  },
-  "https://www.techmeme.com/260718/p18#a260718p18": {
-    "image": null,
-    "fetchedAt": 1784462287198
-  },
-  "https://thenextweb.com/news/nebius-775-million-gpu-backed-debt-financing": {
-    "image": "https://media.thenextweb.com/2026/07/nebius-775-million-gpu-backed-debt-financing.avif",
-    "fetchedAt": 1784462287794
-  },
-  "https://thenextweb.com/news/alibaba-t-head-sail-open-source-nvidia-cuda-alternative": {
-    "image": "https://media.thenextweb.com/2026/07/alibaba-t-head-sail-open-source-nvidia-cuda-alternative.avif",
-    "fetchedAt": 1784462288343
-  },
-  "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Operational-FireSat-satellites-1152x648.png",
-    "fetchedAt": 1784462289124
-  },
-  "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/Mockup-of-Valar-Atomics-site.jpg?resize=1200,514",
-    "fetchedAt": 1784462289669
-  },
-  "https://venturebeat.com/orchestration/brex-built-its-ai-agent-policy-by-watching-what-agents-actually-do-not-by-writing-rules-first": {
-    "image": null,
-    "fetchedAt": 1784462290106
-  },
-  "https://www.techmeme.com/260719/p6#a260719p6": {
-    "image": null,
-    "fetchedAt": 1784462290470
-  },
-  "https://thenextweb.com/news/moonshot-ai-ipo-six-months-30-billion-kimi-k3": {
-    "image": "https://media.thenextweb.com/2026/07/moonshot-ai-ipo-six-months-30-billion-kimi-k3.avif",
-    "fetchedAt": 1784462290999
-  },
-  "https://thenextweb.com/news/company-brain-future-go-to-market-strategy": {
-    "image": "https://media.thenextweb.com/2026/07/company-brain-future-go-to-market-strategy.avif",
-    "fetchedAt": 1784462291528
-  },
-  "https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/6day44.jpg?quality=90&strip=all&crop=0,10.782006784713,100,78.435986430574",
-    "fetchedAt": 1784462292038
-  },
-  "https://www.techmeme.com/260719/p3#a260719p3": {
-    "image": null,
-    "fetchedAt": 1784462292399
-  },
-  "https://www.techmeme.com/260719/p2#a260719p2": {
-    "image": null,
-    "fetchedAt": 1784462292758
-  },
-  "https://www.techmeme.com/260719/p1#a260719p1": {
-    "image": null,
-    "fetchedAt": 1784462293119
-  },
   "https://www.techmeme.com/260720/p12#a260720p12": {
     "image": null,
     "fetchedAt": 1784552763794
@@ -910,5 +850,69 @@
   "https://www.techmeme.com/260801/p3#a260801p3": {
     "image": null,
     "fetchedAt": 1785585731463
+  },
+  "https://www.techmeme.com/260802/p4#a260802p4": {
+    "image": null,
+    "fetchedAt": 1785672126295
+  },
+  "https://www.techmeme.com/260802/p3#a260802p3": {
+    "image": null,
+    "fetchedAt": 1785672126655
+  },
+  "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/04/GettyImages-893877316-1152x648.jpg",
+    "fetchedAt": 1785672127249
+  },
+  "https://www.techmeme.com/260802/p5#a260802p5": {
+    "image": null,
+    "fetchedAt": 1785672127609
+  },
+  "https://www.techmeme.com/260802/p1#a260802p1": {
+    "image": null,
+    "fetchedAt": 1785672127971
+  },
+  "https://www.geekwire.com/2026/amazons-next-big-business-satya-nadellas-diy-app-and-a-vcs-rallying-cry-for-seattle-tech/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
+    "fetchedAt": 1785672128605
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-safe-superintelligence-commonwealth-fusion/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+    "fetchedAt": 1785672129071
+  },
+  "https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud": {
+    "image": null,
+    "fetchedAt": 1785672129566
+  },
+  "https://www.geekwire.com/2026/seattle-tech-week-takeaways-ai-startups-and-the-best-insights-and-quotes-we-heard/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/stw.png",
+    "fetchedAt": 1785672130117
+  },
+  "https://www.geekwire.com/2026/moving-faster-than-planned-ai-drug-developer-accipiter-bio-quietly-tops-up-seed-round-with-10-5m/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2025/11/AccipiterBio_3DHero_DualAgonist_Transp_v2041-1260x1153.png",
+    "fetchedAt": 1785672130660
+  },
+  "https://www.techmeme.com/260802/p6#a260802p6": {
+    "image": null,
+    "fetchedAt": 1785672131021
+  },
+  "https://www.techmeme.com/260802/p2#a260802p2": {
+    "image": null,
+    "fetchedAt": 1785672131385
+  },
+  "https://www.techmeme.com/260801/p17#a260801p17": {
+    "image": null,
+    "fetchedAt": 1785672131750
+  },
+  "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_16661.png?quality=90&strip=all&crop=0,3.4249563699826,100,93.150087260035",
+    "fetchedAt": 1785672132351
+  },
+  "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Angela-Nissel_Author-Headshot.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.542049180985&w=1200",
+    "fetchedAt": 1785672132755
+  },
+  "https://www.techmeme.com/260801/p16#a260801p16": {
+    "image": null,
+    "fetchedAt": 1785672133122
   }
 }
