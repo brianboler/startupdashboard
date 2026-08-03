@@ -1,68 +1,4 @@
 {
-  "https://www.techmeme.com/260720/p12#a260720p12": {
-    "image": null,
-    "fetchedAt": 1784552763794
-  },
-  "https://thenextweb.com/news/cuspai-ai-materials-foundry-coalition-450m": {
-    "image": "https://media.thenextweb.com/2026/06/CuspAI-team.avif",
-    "fetchedAt": 1784552764333
-  },
-  "https://www.techmeme.com/260720/p17#a260720p17": {
-    "image": null,
-    "fetchedAt": 1784552764692
-  },
-  "https://www.techmeme.com/260720/p15#a260720p15": {
-    "image": null,
-    "fetchedAt": 1784552765050
-  },
-  "https://www.techmeme.com/260720/p14#a260720p14": {
-    "image": null,
-    "fetchedAt": 1784552765408
-  },
-  "https://thenextweb.com/news/zhongji-innolight-8-billion-hong-kong-ipo": {
-    "image": "https://media.thenextweb.com/2026/07/InnoLight-office.avif",
-    "fetchedAt": 1784552765899
-  },
-  "https://www.techmeme.com/260720/p16#a260720p16": {
-    "image": null,
-    "fetchedAt": 1784552766257
-  },
-  "https://thenextweb.com/news/alibaba-qwen38-second-only-fable5-open-weight": {
-    "image": "https://media.thenextweb.com/2026/07/Qwen3-8-new-model.avif",
-    "fetchedAt": 1784552766735
-  },
-  "https://sifted.eu/articles/15-anti-fraud-startups-to-watch-in-2026-according-to-investors/": {
-    "image": "https://images.sifted.eu/wp-content/uploads/2026/07/17124303/growtika-3C0SWyusdS8-unsplash-scaled-e1784288700303.jpg?w=2048&h=894&q=75&fit=crop&auto=compress,format",
-    "fetchedAt": 1784552768519
-  },
-  "https://www.geekwire.com/2026/etzioni-on-ai-uncle-sam-wants-a-stake-in-leading-ai-companies-what-could-possibly-go-wrong/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/unclesam.png",
-    "fetchedAt": 1784552769102
-  },
-  "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/StrictlyVC-NYC-2024.jpg?resize=1200,800",
-    "fetchedAt": 1784552769589
-  },
-  "https://thenextweb.com/news/synthetic-insider-ai-deepfake-employees": {
-    "image": "https://media.thenextweb.com/2026/07/Blurred-business-people.avif",
-    "fetchedAt": 1784552770062
-  },
-  "https://www.techmeme.com/260720/p18#a260720p18": {
-    "image": null,
-    "fetchedAt": 1784552770436
-  },
-  "https://thenextweb.com/news/decart-lucy-2-5-live-video-effects-physical-ai": {
-    "image": "https://media.thenextweb.com/2026/07/decart-lucy-2-5-live-video-effects-physical-ai.avif",
-    "fetchedAt": 1784552770917
-  },
-  "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Vinay-Perneti-1152x648.jpg",
-    "fetchedAt": 1784552771494
-  },
-  "https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24814379/STK450_European_Union_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1784552771994
-  },
   "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/": {
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Team-Photo.jpg?resize=1200,800",
     "fetchedAt": 1784636706467
@@ -914,5 +850,57 @@
   "https://www.techmeme.com/260801/p16#a260801p16": {
     "image": null,
     "fetchedAt": 1785672133122
+  },
+  "https://www.techmeme.com/260803/p14#a260803p14": {
+    "image": null,
+    "fetchedAt": 1785764466716
+  },
+  "https://www.techmeme.com/260803/p19#a260803p19": {
+    "image": null,
+    "fetchedAt": 1785764467076
+  },
+  "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1197780051.jpg?resize=1200,800",
+    "fetchedAt": 1785764467669
+  },
+  "https://www.techmeme.com/260803/p16#a260803p16": {
+    "image": null,
+    "fetchedAt": 1785764468031
+  },
+  "https://www.techmeme.com/260803/p15#a260803p15": {
+    "image": null,
+    "fetchedAt": 1785764468391
+  },
+  "https://www.techmeme.com/260803/p20#a260803p20": {
+    "image": null,
+    "fetchedAt": 1785764468752
+  },
+  "https://www.techmeme.com/260803/p17#a260803p17": {
+    "image": null,
+    "fetchedAt": 1785764469113
+  },
+  "https://sifted.eu/articles/james-dacombes-olix-raises-at-3-3bn-valuation/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=2864,quality=75,fit=cover,format=auto/wp-content/uploads/2025/10/20154530/Screenshot-2025-10-20-at-15.38.58.png",
+    "fetchedAt": 1785764470880
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1259130896.jpg?quality=90&strip=all&crop=0%2C9.9724610532046%2C100%2C80.055077893591&w=1200",
+    "fetchedAt": 1785764471383
+  },
+  "https://news.crunchbase.com/workplace/tech-ceo-leadership-career-path-product-manager/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Going_Up.jpg",
+    "fetchedAt": 1785764471917
+  },
+  "https://www.theverge.com/tech/974377/lenovo-googlebook-google-image-leaks-laptops": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Lenovo-Googlebook-laptop-leak.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1785764472326
+  },
+  "https://www.theverge.com/games/973166/big-walk-review": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "fetchedAt": 1785764472709
+  },
+  "https://www.techmeme.com/260803/p18#a260803p18": {
+    "image": null,
+    "fetchedAt": 1785764473070
   }
 }
