@@ -1,64 +1,4 @@
 {
-  "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Team-Photo.jpg?resize=1200,800",
-    "fetchedAt": 1784636706467
-  },
-  "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Jeremy-Nixon.jpg?resize=1200,900",
-    "fetchedAt": 1784636706878
-  },
-  "https://www.techmeme.com/260721/p13#a260721p13": {
-    "image": null,
-    "fetchedAt": 1784636707248
-  },
-  "https://www.techmeme.com/260721/p11#a260721p11": {
-    "image": null,
-    "fetchedAt": 1784636707606
-  },
-  "https://news.crunchbase.com/venture/seriesa-seed-gap-underrepresented-founders-ai-norman-green-black-ops/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/Black_Founders.jpg",
-    "fetchedAt": 1784636708199
-  },
-  "https://sifted.eu/articles/european-fintech-h1-2026-funding/": {
-    "image": "https://images.sifted.eu/wp-content/uploads/2026/07/21094431/conny-schneider-xuTJZ7uD7PI-unsplash-scaled.jpg?w=2048&h=1087&q=75&fit=crop&auto=compress,format",
-    "fetchedAt": 1784636709648
-  },
-  "https://news.crunchbase.com/ai/saas-deep-tech-startup-qa-docter-dell-technologies-capital/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/increasing-money-rocket.jpg",
-    "fetchedAt": 1784636710120
-  },
-  "https://www.techmeme.com/260721/p8#a260721p8": {
-    "image": null,
-    "fetchedAt": 1784636710478
-  },
-  "https://thenextweb.com/news/ant-international-raises-1-2-billion-global-expansion": {
-    "image": "https://media.thenextweb.com/2026/07/Ant-International.avif",
-    "fetchedAt": 1784636711026
-  },
-  "https://thenextweb.com/news/samsung-robotics-division-rx": {
-    "image": "https://media.thenextweb.com/2026/07/Samsung-logo.avif",
-    "fetchedAt": 1784636711562
-  },
-  "https://www.techmeme.com/260721/p12#a260721p12": {
-    "image": null,
-    "fetchedAt": 1784636711921
-  },
-  "https://thenextweb.com/news/kanishka-narayan-uk-ai-minister": {
-    "image": "https://media.thenextweb.com/2026/07/Kanishka-Narayan.avif",
-    "fetchedAt": 1784636712448
-  },
-  "https://thenextweb.com/news/brazil-us-pix-trade-clash": {
-    "image": "https://media.thenextweb.com/2026/07/Brazil-Pix.avif",
-    "fetchedAt": 1784636712974
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&strip=all&crop=0%2C10.83178126478%2C100%2C78.336437470441&w=1200",
-    "fetchedAt": 1784636713399
-  },
-  "https://thenextweb.com/news/us-china-ai-talks-september": {
-    "image": "https://media.thenextweb.com/2026/06/US-China-AI.avif",
-    "fetchedAt": 1784636713930
-  },
   "https://www.techmeme.com/260722/p9#a260722p9": {
     "image": null,
     "fetchedAt": 1784723166624
@@ -902,5 +842,69 @@
   "https://www.techmeme.com/260803/p18#a260803p18": {
     "image": null,
     "fetchedAt": 1785764473070
+  },
+  "https://www.techmeme.com/260804/p18#a260804p18": {
+    "image": null,
+    "fetchedAt": 1785848526244
+  },
+  "https://www.techmeme.com/260804/p17#a260804p17": {
+    "image": null,
+    "fetchedAt": 1785848526614
+  },
+  "https://thenextweb.com/news/happyrobot-150m-series-c-enterprise-ai-agents": {
+    "image": "https://media.thenextweb.com/2026/08/HappyRobot-founders.jpg",
+    "fetchedAt": 1785848527490
+  },
+  "https://thenextweb.com/news/volta-ai-cloud-300m-nvidia-dell-2-4bn": {
+    "image": "https://media.thenextweb.com/2026/08/Ricard-Boada-CEO-Volta.jpg",
+    "fetchedAt": 1785848527992
+  },
+  "https://www.techmeme.com/260804/p13#a260804p13": {
+    "image": null,
+    "fetchedAt": 1785848528362
+  },
+  "https://www.techmeme.com/260804/p12#a260804p12": {
+    "image": null,
+    "fetchedAt": 1785848528732
+  },
+  "https://sifted.eu/articles/european-robotics-startups-raised-more-in-six-months-than-past-two-years-combined/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1200,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/03164213/Neura-humanoid.jpg",
+    "fetchedAt": 1785848529961
+  },
+  "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-12.31.35-PM.jpg?resize=1200,739",
+    "fetchedAt": 1785848530438
+  },
+  "https://www.geekwire.com/2026/amazon-tops-3-trillion-and-microsoft-surges-as-wall-street-sets-aside-ai-spending-fears-for-now/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/msft-amzn.png",
+    "fetchedAt": 1785848531146
+  },
+  "https://www.techmeme.com/260804/p19#a260804p19": {
+    "image": null,
+    "fetchedAt": 1785848531518
+  },
+  "https://sifted.eu/articles/a16z-happyrobot-1-2bn/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/04114652/HappyRobot_Founders80-scaled.jpg",
+    "fetchedAt": 1785848532587
+  },
+  "https://thenextweb.com/news/ai-generated-fake-cves-nvd-pipeline-jfrog-sqlite-llm-slop": {
+    "image": "https://media.thenextweb.com/2026/08/JFrog-logo.jpg",
+    "fetchedAt": 1785848533441
+  },
+  "https://sifted.eu/articles/scaleup-europe-fund-investing/": {
+    "image": "https://content.sifted.eu/wp-content/uploads/2026/06/02173610/eqt-1024x336.png",
+    "fetchedAt": 1785848534459
+  },
+  "https://thenextweb.com/news/openai-summer-camp-influencer-retreat-greenwashing-backlash": {
+    "image": "https://media.thenextweb.com/2026/07/openai-models-escaped-hacked-hugging-face.jpg",
+    "fetchedAt": 1785848534942
+  },
+  "https://thenextweb.com/news/apple-uk-icloud-backdoor-legal-challenge-technical-capability-notice": {
+    "image": "https://media.thenextweb.com/2026/05/apple-smart-glasses-eyewear-market-disruption-watch-playbook.jpg",
+    "fetchedAt": 1785848535424
+  },
+  "https://sifted.eu/articles/nscale-oxford-ucl-imperial-lab/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=955,quality=75,fit=cover,format=auto/wp-content/uploads/2026/01/14164014/Screenshot-2026-01-14-at-16.40.08.png",
+    "fetchedAt": 1785848536409
   }
 }
