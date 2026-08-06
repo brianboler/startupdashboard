@@ -1,64 +1,4 @@
 {
-  "https://www.techmeme.com/260723/p20#a260723p20": {
-    "image": null,
-    "fetchedAt": 1784809506516
-  },
-  "https://www.techmeme.com/260723/p17#a260723p17": {
-    "image": null,
-    "fetchedAt": 1784809506873
-  },
-  "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2274109678-1152x648.jpg",
-    "fetchedAt": 1784809507457
-  },
-  "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots": {
-    "image": null,
-    "fetchedAt": 1784809507916
-  },
-  "https://www.techmeme.com/260723/p21#a260723p21": {
-    "image": null,
-    "fetchedAt": 1784809508274
-  },
-  "https://www.techmeme.com/260723/p19#a260723p19": {
-    "image": null,
-    "fetchedAt": 1784809508633
-  },
-  "https://www.techmeme.com/260723/p18#a260723p18": {
-    "image": null,
-    "fetchedAt": 1784809508992
-  },
-  "https://www.techmeme.com/260723/p16#a260723p16": {
-    "image": null,
-    "fetchedAt": 1784809509350
-  },
-  "https://www.theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK452_Google_Antitrust_Kristen_Radtke.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1784809509832
-  },
-  "https://www.techmeme.com/260723/p15#a260723p15": {
-    "image": null,
-    "fetchedAt": 1784809510189
-  },
-  "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286058283.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1784809510597
-  },
-  "https://thenextweb.com/news/google-eu-fine-landmark-rules": {
-    "image": "https://media.thenextweb.com/2026/06/Google-mockup.avif",
-    "fetchedAt": 1784809511426
-  },
-  "https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2236959394-1152x648-1784766485.jpg",
-    "fetchedAt": 1784809511862
-  },
-  "https://news.crunchbase.com/venture/billion-dollar-plus-round-counts-rising-ai-fintech-healthcare-h1-2026/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/rise-of-massive-funding-blank-check.jpg",
-    "fetchedAt": 1784809512307
-  },
-  "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/JT3A6491-1152x648-1784649433.jpg",
-    "fetchedAt": 1784809512703
-  },
   "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai": {
     "image": null,
     "fetchedAt": 1784895552429
@@ -898,5 +838,69 @@
   "https://thenextweb.com/news/a-fed-official-is-asking-whether-ai-is-becoming-too-big-to-fail": {
     "image": "https://media.thenextweb.com/2026/08/Kansas-City-Fed-president-Jeff-Schmid.jpg",
     "fetchedAt": 1785934334839
+  },
+  "https://www.techmeme.com/260806/p16#a260806p16": {
+    "image": null,
+    "fetchedAt": 1786020965971
+  },
+  "https://www.techmeme.com/260806/p11#a260806p11": {
+    "image": null,
+    "fetchedAt": 1786020966329
+  },
+  "https://thenextweb.com/news/microsoft-ai-revenue-openai-70-percent-dependence": {
+    "image": "https://media.thenextweb.com/2024/12/microsoft-cloud-uk-fine.jpg",
+    "fetchedAt": 1786020966850
+  },
+  "https://www.techmeme.com/260806/p18#a260806p18": {
+    "image": null,
+    "fetchedAt": 1786020967208
+  },
+  "https://www.techmeme.com/260806/p17#a260806p17": {
+    "image": null,
+    "fetchedAt": 1786020967565
+  },
+  "https://www.techmeme.com/260806/p13#a260806p13": {
+    "image": null,
+    "fetchedAt": 1786020967922
+  },
+  "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents": {
+    "image": null,
+    "fetchedAt": 1786020968320
+  },
+  "https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff": {
+    "image": null,
+    "fetchedAt": 1786020968743
+  },
+  "https://www.techmeme.com/260806/p20#a260806p20": {
+    "image": null,
+    "fetchedAt": 1786020969101
+  },
+  "https://thenextweb.com/news/unitree-shanghai-ipo-valuation-50bn-yuan": {
+    "image": "https://media.thenextweb.com/2026/08/Unitree-Robotics.jpg",
+    "fetchedAt": 1786020969593
+  },
+  "https://thenextweb.com/news/sequoia-capital-is-putting-10bn-behind-ai-and-reindustrialization": {
+    "image": "https://media.thenextweb.com/2026/04/Sequoia.jpg",
+    "fetchedAt": 1786020970074
+  },
+  "https://thenextweb.com/news/china-cybersecurity-review-palo-alto-networks": {
+    "image": "https://media.thenextweb.com/2026/04/China-vs-USA.jpg",
+    "fetchedAt": 1786020970548
+  },
+  "https://www.techmeme.com/260806/p19#a260806p19": {
+    "image": null,
+    "fetchedAt": 1786020970907
+  },
+  "https://thenextweb.com/news/nikita-bier-steps-down-x-head-of-product": {
+    "image": "https://media.thenextweb.com/2026/08/Nikita-Bier.jpg",
+    "fetchedAt": 1786020971386
+  },
+  "https://thenextweb.com/news/windborne-37m-series-b-weather-ai-balloons": {
+    "image": "https://media.thenextweb.com/2026/08/windbornesystems-team.jpg",
+    "fetchedAt": 1786020971859
+  },
+  "https://www.theverge.com/entertainment/976073/gta-6-trailer-3-date-time-netflix-youtube": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Lucia_Caminos_02.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "fetchedAt": 1786020972335
   }
 }
