@@ -902,5 +902,69 @@
   "https://www.theverge.com/entertainment/976073/gta-6-trailer-3-date-time-netflix-youtube": {
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Lucia_Caminos_02.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
     "fetchedAt": 1786020972335
+  },
+  "https://www.techmeme.com/260807/p11#a260807p11": {
+    "image": null,
+    "fetchedAt": 1786103107436
+  },
+  "https://www.techmeme.com/260807/p3#a260807p3": {
+    "image": null,
+    "fetchedAt": 1786103107842
+  },
+  "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi": {
+    "image": null,
+    "fetchedAt": 1786103108376
+  },
+  "https://www.techmeme.com/260807/p10#a260807p10": {
+    "image": null,
+    "fetchedAt": 1786103108780
+  },
+  "https://www.techmeme.com/260807/p8#a260807p8": {
+    "image": null,
+    "fetchedAt": 1786103109185
+  },
+  "https://www.techmeme.com/260807/p6#a260807p6": {
+    "image": null,
+    "fetchedAt": 1786103109656
+  },
+  "https://www.techmeme.com/260807/p2#a260807p2": {
+    "image": null,
+    "fetchedAt": 1786103110124
+  },
+  "https://thenextweb.com/news/chatgpt-free-unlimited-text-chats-gpt-5-6-luna-default": {
+    "image": "https://media.thenextweb.com/2026/08/chatgpt-free-unlimited-text-chats-gpt-5-6-luna-default2.jpg",
+    "fetchedAt": 1786103110870
+  },
+  "https://thenextweb.com/news/openai-agent-plugins-open-standard-skills-mcp": {
+    "image": "https://media.thenextweb.com/2026/07/bots-outnumber-humans-internet-ai-agents-traffic.jpg",
+    "fetchedAt": 1786103113294
+  },
+  "https://www.geekwire.com/2026/this-startup-just-raised-6m-for-an-ai-tutor-that-helps-kids-figure-it-out-themselves/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/wild-zebra-composite-originals.png",
+    "fetchedAt": 1786103114211
+  },
+  "https://news.crunchbase.com/venture/active-startup-investors-july-2026-khosla-yc-coatue-nvda/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Top_Investors_july.jpg",
+    "fetchedAt": 1786103116276
+  },
+  "https://www.theverge.com/tech/976405/apple-telegram-ban-x-app-store-violations": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23382328/VRG_Illo_STK022_K_Radtke_Musk_Twitter_Shrug.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1786103116792
+  },
+  "https://sifted.eu/articles/top-junior-vcs-to-watch-europe/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1300,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/06140259/manal2.jpg",
+    "fetchedAt": 1786103118408
+  },
+  "https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/image-7.png?quality=90&strip=all&crop=0%2C10.76363770124%2C100%2C78.472724597521&w=1200",
+    "fetchedAt": 1786103118821
+  },
+  "https://www.techmeme.com/260807/p9#a260807p9": {
+    "image": null,
+    "fetchedAt": 1786103119335
+  },
+  "https://www.techmeme.com/260807/p7#a260807p7": {
+    "image": null,
+    "fetchedAt": 1786103119846
   }
 }
