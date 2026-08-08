@@ -1,76 +1,4 @@
 {
-  "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai": {
-    "image": null,
-    "fetchedAt": 1784895552429
-  },
-  "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?resize=1200,1200",
-    "fetchedAt": 1784895552898
-  },
-  "https://www.techmeme.com/260724/p3#a260724p3": {
-    "image": null,
-    "fetchedAt": 1784895553269
-  },
-  "https://venturebeat.com/resources/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials": {
-    "image": null,
-    "fetchedAt": 1784895553789
-  },
-  "https://www.techmeme.com/260724/p9#a260724p9": {
-    "image": null,
-    "fetchedAt": 1784895554149
-  },
-  "https://www.techmeme.com/260724/p4#a260724p4": {
-    "image": null,
-    "fetchedAt": 1784895554507
-  },
-  "https://sifted.eu/articles/the-great-vc-exodus-13-investors-who-joined-startups/": {
-    "image": "https://images.sifted.eu/wp-content/uploads/2019/02/25140415/sifted-on-pink.png?w=1200&h=628&q=75&fit=crop&auto=compress,format",
-    "fetchedAt": 1784895555447
-  },
-  "https://www.techmeme.com/260724/p1#a260724p1": {
-    "image": null,
-    "fetchedAt": 1784895555807
-  },
-  "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
-    "fetchedAt": 1784895556381
-  },
-  "https://venturebeat.com/security/openai-anthropic-google-and-xai-models-all-broke-under-multi-turn-attack-up-to-88-of-the-time": {
-    "image": null,
-    "fetchedAt": 1784895556808
-  },
-  "https://sifted.eu/articles/softbank-gravis-robotics/": {
-    "image": "https://images.sifted.eu/wp-content/uploads/2026/07/24124159/Screenshot-2026-07-24-at-12.41.53.png?w=1812&h=848&q=75&fit=crop&auto=compress,format",
-    "fetchedAt": 1784895557698
-  },
-  "https://www.theverge.com/report/969725/fcc-drone-ban-odyssey-robot-galiview-etak-randolph-howard-eason": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/FCC_Drone_Ban.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1784895558264
-  },
-  "https://www.techmeme.com/260724/p10#a260724p10": {
-    "image": null,
-    "fetchedAt": 1784895558622
-  },
-  "https://www.theverge.com/tech/970519/tiktok-eu-dsa-child-safety-age-account-privacy": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK051_VRG_Illo_N_Barclay_2_tiktok.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1784895559006
-  },
-  "https://www.techmeme.com/260724/p8#a260724p8": {
-    "image": null,
-    "fetchedAt": 1784895559364
-  },
-  "https://www.techmeme.com/260724/p7#a260724p7": {
-    "image": null,
-    "fetchedAt": 1784895559721
-  },
-  "https://news.crunchbase.com/venture/fintech-funder-general-catalyst-leads-deal-count-q2-2026/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/Money_Clip.jpg",
-    "fetchedAt": 1784895560203
-  },
-  "https://news.crunchbase.com/ai/biggest-talent-challenge-resilience-vaidya-crafting/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/AI-cowork.jpg",
-    "fetchedAt": 1784895560642
-  },
   "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows": {
     "image": null,
     "fetchedAt": 1784980985932
@@ -966,5 +894,69 @@
   "https://www.techmeme.com/260807/p7#a260807p7": {
     "image": null,
     "fetchedAt": 1786103119846
+  },
+  "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks": {
+    "image": null,
+    "fetchedAt": 1786188427543
+  },
+  "https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck": {
+    "image": null,
+    "fetchedAt": 1786188428041
+  },
+  "https://www.techmeme.com/260808/p2#a260808p2": {
+    "image": null,
+    "fetchedAt": 1786188428764
+  },
+  "https://www.techmeme.com/260808/p1#a260808p1": {
+    "image": null,
+    "fetchedAt": 1786188429239
+  },
+  "https://www.techmeme.com/260807/p35#a260807p35": {
+    "image": null,
+    "fetchedAt": 1786188429714
+  },
+  "https://www.techmeme.com/260807/p34#a260807p34": {
+    "image": null,
+    "fetchedAt": 1786188430188
+  },
+  "https://thenextweb.com/news/cloudflare-kitesurf-browser-ai-agents-workers": {
+    "image": "https://media.thenextweb.com/2026/08/cloudflare-kitesurf-browser-ai-agents-workers.jpg",
+    "fetchedAt": 1786188431485
+  },
+  "https://www.geekwire.com/2026/seattle-ai-film-festival-returns-with-200-films-that-try-to-change-your-mind-about-ai-cinema/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/Screenshot-2026-08-07-at-1.31.40-PM-1260x638.png",
+    "fetchedAt": 1786188432367
+  },
+  "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/boy-with-phone-1152x648-1760722441.jpg",
+    "fetchedAt": 1786188433030
+  },
+  "https://thenextweb.com/news/navvis-73-7m-series-d-spatial-twin-industrial-ai": {
+    "image": "https://media.thenextweb.com/2026/08/navvis-73-7m-series-d-spatial-twin-industrial-ai.jpg",
+    "fetchedAt": 1786188433660
+  },
+  "https://www.techmeme.com/260808/p5#a260808p5": {
+    "image": null,
+    "fetchedAt": 1786188434135
+  },
+  "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_3219.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+    "fetchedAt": 1786188434683
+  },
+  "https://www.techmeme.com/260808/p4#a260808p4": {
+    "image": null,
+    "fetchedAt": 1786188435157
+  },
+  "https://www.techmeme.com/260808/p3#a260808p3": {
+    "image": null,
+    "fetchedAt": 1786188435632
+  },
+  "https://www.techmeme.com/260807/p36#a260807p36": {
+    "image": null,
+    "fetchedAt": 1786188436105
+  },
+  "https://www.techmeme.com/260807/p33#a260807p33": {
+    "image": null,
+    "fetchedAt": 1786188436579
   }
 }
