@@ -1,64 +1,4 @@
 {
-  "https://www.techmeme.com/260725/p13#a260725p13": {
-    "image": null,
-    "fetchedAt": 1785067386800
-  },
-  "https://www.techmeme.com/260725/p12#a260725p12": {
-    "image": null,
-    "fetchedAt": 1785067387164
-  },
-  "https://www.techmeme.com/260726/p4#a260726p4": {
-    "image": null,
-    "fetchedAt": 1785067387528
-  },
-  "https://www.techmeme.com/260726/p1#a260726p1": {
-    "image": null,
-    "fetchedAt": 1785067387892
-  },
-  "https://www.techmeme.com/260725/p14#a260725p14": {
-    "image": null,
-    "fetchedAt": 1785067388255
-  },
-  "https://thenextweb.com/news/nvidia-naver-sk-group-korea-ai-investment": {
-    "image": "https://media.thenextweb.com/2026/07/nvidia-naver-sk-group-korea-ai-investment.avif",
-    "fetchedAt": 1785067389681
-  },
-  "https://news.crunchbase.com/venture/biggest-funding-rounds-physical-ai-fintech-defense-atoms/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
-    "fetchedAt": 1785067390230
-  },
-  "https://thenextweb.com/news/deepseek-funding-pause-viral-posts-liang-wenfeng": {
-    "image": "https://media.thenextweb.com/2026/07/deepseek-funding-pause-viral-posts-liang-wenfeng.avif",
-    "fetchedAt": 1785067390954
-  },
-  "https://www.techmeme.com/260726/p2#a260726p2": {
-    "image": null,
-    "fetchedAt": 1785067391318
-  },
-  "https://www.techmeme.com/260725/p17#a260725p17": {
-    "image": null,
-    "fetchedAt": 1785067391682
-  },
-  "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284214134.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-    "fetchedAt": 1785067392138
-  },
-  "https://thenextweb.com/news/ai-chatbots-relationships-emotional-support-sycophancy": {
-    "image": "https://media.thenextweb.com/2026/07/ai-chatbots-relationships-emotional-support-sycophancy.avif",
-    "fetchedAt": 1785067392884
-  },
-  "https://thenextweb.com/news/jd-power-apeal-ev-owners-happier-ice-2026": {
-    "image": "https://media.thenextweb.com/2026/07/jd-power-apeal-ev-owners-happier-ice-2026.avif",
-    "fetchedAt": 1785067393797
-  },
-  "https://www.techmeme.com/260726/p3#a260726p3": {
-    "image": null,
-    "fetchedAt": 1785067394162
-  },
-  "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/blade3-1152x648.jpg",
-    "fetchedAt": 1785067394848
-  },
   "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity": {
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "fetchedAt": 1785159546801
@@ -942,5 +882,73 @@
   "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant": {
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "fetchedAt": 1786274888302
+  },
+  "https://www.techmeme.com/260810/p19#a260810p19": {
+    "image": null,
+    "fetchedAt": 1786362366211
+  },
+  "https://www.techmeme.com/260810/p17#a260810p17": {
+    "image": null,
+    "fetchedAt": 1786362366570
+  },
+  "https://www.techmeme.com/260810/p13#a260810p13": {
+    "image": null,
+    "fetchedAt": 1786362366928
+  },
+  "https://news.crunchbase.com/public/ai-ipo-results-lp-liquidity-gershfeld-flint/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg",
+    "fetchedAt": 1786362367493
+  },
+  "https://www.techmeme.com/260810/p12#a260810p12": {
+    "image": null,
+    "fetchedAt": 1786362367852
+  },
+  "https://www.techmeme.com/260810/p11#a260810p11": {
+    "image": null,
+    "fetchedAt": 1786362368210
+  },
+  "https://www.techmeme.com/260810/p10#a260810p10": {
+    "image": null,
+    "fetchedAt": 1786362368568
+  },
+  "https://sifted.eu/articles/cambridge-aerospace-fundraise-valuation/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=2000,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/10090917/Skyhammer-scaled-e1786349385988.jpg",
+    "fetchedAt": 1786362370216
+  },
+  "https://sifted.eu/articles/brian-manning-ceo-nabla/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=800,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/07131157/6a59011ac66547847a0ffca3_brian-blog.png",
+    "fetchedAt": 1786362372221
+  },
+  "https://thenextweb.com/news/microsoft-india-hyderabad-fourth-cloud-region-17-5-billion": {
+    "image": "https://media.thenextweb.com/2026/08/microsoft-india-hyderabad-fourth-cloud-region-17-5-billion.jpg",
+    "fetchedAt": 1786362372776
+  },
+  "https://sifted.eu/articles/revolut-french-banking-licence/": {
+    "image": "https://content.sifted.eu/wp-content/uploads/2026/05/01151433/PR-lib-office-exterior-1-1-1024x537.png",
+    "fetchedAt": 1786362373964
+  },
+  "https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/aptoide-games-google-play-store-us.jpg?quality=90&strip=all&crop=0%2C10.725958525488%2C100%2C78.548082949024&w=1200",
+    "fetchedAt": 1786362374454
+  },
+  "https://www.techmeme.com/260810/p18#a260810p18": {
+    "image": null,
+    "fetchedAt": 1786362374826
+  },
+  "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/peer-review-difficulties-1152x648.jpg",
+    "fetchedAt": 1786362375590
+  },
+  "https://news.crunchbase.com/venture/global-unicorn-counts-rise-ai-robotics-chips-h1-2026/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Rise-of-Unicorns.jpg",
+    "fetchedAt": 1786362376113
+  },
+  "https://www.techmeme.com/260810/p16#a260810p16": {
+    "image": null,
+    "fetchedAt": 1786362376469
+  },
+  "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988518/acastro_STK056_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1786362376856
   }
 }
