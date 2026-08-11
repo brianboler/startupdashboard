@@ -1,68 +1,4 @@
 {
-  "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1785159546801
-  },
-  "https://www.techmeme.com/260727/p5#a260727p5": {
-    "image": null,
-    "fetchedAt": 1785159547184
-  },
-  "https://www.techmeme.com/260727/p11#a260727p11": {
-    "image": null,
-    "fetchedAt": 1785159547547
-  },
-  "https://www.techmeme.com/260727/p10#a260727p10": {
-    "image": null,
-    "fetchedAt": 1785159547910
-  },
-  "https://www.techmeme.com/260727/p9#a260727p9": {
-    "image": null,
-    "fetchedAt": 1785159548273
-  },
-  "https://www.techmeme.com/260727/p3#a260727p3": {
-    "image": null,
-    "fetchedAt": 1785159548635
-  },
-  "https://www.techmeme.com/260727/p2#a260727p2": {
-    "image": null,
-    "fetchedAt": 1785159548999
-  },
-  "https://sifted.eu/articles/the-exploration-company-valuation-fundraise/": {
-    "image": "https://images.sifted.eu/wp-content/uploads/2023/01/31173945/Nyx-scaled.jpg?w=2048&h=1152&q=75&fit=crop&auto=compress,format",
-    "fetchedAt": 1785159550506
-  },
-  "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Enigma-Founders-Natasha-Zeriker-1.jpg?resize=1200,801",
-    "fetchedAt": 1785159551049
-  },
-  "https://news.crunchbase.com/venture/schneider-ai-robotics-energy-qa-chaturvedy-se-ventures/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/physical-ai.jpg",
-    "fetchedAt": 1785159551622
-  },
-  "https://www.geekwire.com/2026/dopl-raises-6-3m-to-bring-remote-robotic-ultrasounds-to-rural-patients-as-it-pursues-fda-clearance/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/Dopl-technologies-product-concept-rendering_July_2026-1-1.jpg",
-    "fetchedAt": 1785159552263
-  },
-  "https://thenextweb.com/news/discord-meta-jane-doe-lawsuit-section-230-design-defect": {
-    "image": "https://media.thenextweb.com/2026/05/discord-end-to-end-encrypted-voice-video-all-users.avif",
-    "fetchedAt": 1785159552820
-  },
-  "https://sifted.eu/articles/uk-pension-funds-scale-up-fund-invest-tech/": {
-    "image": "https://images.sifted.eu/wp-content/uploads/2018/10/24164958/london.jpg?w=1280&h=853&q=75&fit=crop&auto=compress,format",
-    "fetchedAt": 1785159553981
-  },
-  "https://thenextweb.com/news/ominimo-ebrd-series-b-1-4-billion-insurtech-unicorn": {
-    "image": "https://media.thenextweb.com/2026/07/dusan-komar.avif",
-    "fetchedAt": 1785159554519
-  },
-  "https://thenextweb.com/news/waymo-parking-fines-austin-tow-away-zones": {
-    "image": "https://media.thenextweb.com/2026/07/waymo-parking-fines-austin-tow-away-zones.avif",
-    "fetchedAt": 1785159555054
-  },
-  "https://thenextweb.com/news/cxmt-zhu-yiming-5-6-billion-employee-share-bonus": {
-    "image": "https://media.thenextweb.com/2026/07/CXMT-IC-China.avif",
-    "fetchedAt": 1785159556007
-  },
   "https://www.techmeme.com/260728/p13#a260728p13": {
     "image": null,
     "fetchedAt": 1785243241262
@@ -950,5 +886,77 @@
   "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app": {
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988518/acastro_STK056_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "fetchedAt": 1786362376856
+  },
+  "https://www.techmeme.com/260811/p11#a260811p11": {
+    "image": null,
+    "fetchedAt": 1786448591883
+  },
+  "https://thenextweb.com/news/house-democrats-press-anthropic-openai-rogue-agents": {
+    "image": "https://media.thenextweb.com/2026/08/Anthropic-and-OpenAI.jpg",
+    "fetchedAt": 1786448592418
+  },
+  "https://venturebeat.com/security/aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-in-major-ai-security-push": {
+    "image": null,
+    "fetchedAt": 1786448592967
+  },
+  "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now": {
+    "image": null,
+    "fetchedAt": 1786448593400
+  },
+  "https://news.crunchbase.com/ai/native-not-sprinkle-business-growth-change-morse-strattam/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/AI_Brain.jpg",
+    "fetchedAt": 1786448593863
+  },
+  "https://www.techmeme.com/260811/p7#a260811p7": {
+    "image": null,
+    "fetchedAt": 1786448594222
+  },
+  "https://thenextweb.com/news/nvidia-500bn-compute-financing-platforms": {
+    "image": "https://media.thenextweb.com/2026/02/Nvidias-Q4-results-could-make-or-break-confidence-in-the-AI-hardware-market.jpg",
+    "fetchedAt": 1786448594700
+  },
+  "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks": {
+    "image": null,
+    "fetchedAt": 1786448595145
+  },
+  "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2162539176-1024x648.jpg",
+    "fetchedAt": 1786448595689
+  },
+  "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878": {
+    "image": null,
+    "fetchedAt": 1786448596204
+  },
+  "https://www.techmeme.com/260811/p12#a260811p12": {
+    "image": null,
+    "fetchedAt": 1786448596561
+  },
+  "https://thenextweb.com/news/nick-blair-pyra-defence-tech-funding": {
+    "image": "https://media.thenextweb.com/2026/08/Nick-Blair.jpg",
+    "fetchedAt": 1786448597037
+  },
+  "https://news.crunchbase.com/venture/latam-startup-vc-silicon-valley-expansion-qa-quinzanos-monashees/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/2021/02/California_.jpg",
+    "fetchedAt": 1786448597449
+  },
+  "https://thenextweb.com/news/model-ml-hsbc-asset-management-investment": {
+    "image": "https://media.thenextweb.com/2026/08/Model-ML-founders.jpg",
+    "fetchedAt": 1786448597922
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268684_OpenAI_claims_to_revolutionize_maths_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1786448598386
+  },
+  "https://www.techmeme.com/260811/p10#a260811p10": {
+    "image": null,
+    "fetchedAt": 1786448598743
+  },
+  "https://thenextweb.com/news/amkor-china-unit-stake-sale": {
+    "image": "https://media.thenextweb.com/2026/07/chip-amkor.jpg",
+    "fetchedAt": 1786448599216
+  },
+  "https://thenextweb.com/news/vinspace-spacex-vietnam-satellite-launch": {
+    "image": "https://media.thenextweb.com/2026/05/spacex-cursor-acquisition-ipo-60-billion-ai-coding.jpg",
+    "fetchedAt": 1786448599685
   }
 }
