@@ -1,72 +1,4 @@
 {
-  "https://www.techmeme.com/260728/p13#a260728p13": {
-    "image": null,
-    "fetchedAt": 1785243241262
-  },
-  "https://sifted.eu/articles/dwelly-ai-property-rollup-funding-round-elevenlabs-legora/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/06/03162236/Dwelly-Founders-2F-1-scaled.jpg",
-    "fetchedAt": 1785243242221
-  },
-  "https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs": {
-    "image": null,
-    "fetchedAt": 1785243242664
-  },
-  "https://www.techmeme.com/260728/p15#a260728p15": {
-    "image": null,
-    "fetchedAt": 1785243243026
-  },
-  "https://news.crunchbase.com/cybersecurity/seed-trends-ai-security-startup-funding-2026/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/Seed_newspaper.jpg",
-    "fetchedAt": 1785243243535
-  },
-  "https://www.techmeme.com/260728/p10#a260728p10": {
-    "image": null,
-    "fetchedAt": 1785243243896
-  },
-  "https://www.techmeme.com/260728/p9#a260728p9": {
-    "image": null,
-    "fetchedAt": 1785243244258
-  },
-  "https://www.geekwire.com/2026/seattle-startup-replify-acquired-by-abc-fitness-to-bring-agentic-ai-to-more-gyms-and-wellness-centers/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/abcfitness.png",
-    "fetchedAt": 1785243244822
-  },
-  "https://www.geekwire.com/2026/microsoft-escalates-the-ai-cybersecurity-race-with-project-perception-and-a-new-in-house-model/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/gallot.png",
-    "fetchedAt": 1785243245347
-  },
-  "https://www.techmeme.com/260728/p16#a260728p16": {
-    "image": null,
-    "fetchedAt": 1785243245709
-  },
-  "https://sifted.eu/articles/visionaries-cuts-investment-team-next-fund/": {
-    "image": "https://images.sifted.eu/wp-content/uploads/2024/12/19172643/Visionaries-Club-Robert-Lacher-scaled-e1734629233447.jpg?w=1464&h=1174&q=75&fit=crop&auto=compress,format",
-    "fetchedAt": 1785243246675
-  },
-  "https://www.theverge.com/games/971651/logitech-handheld-business-g-cloud-robin-piispanen-interview": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24079609/226331_Logitech_G_Cloud_Gaming_Handheld_CFaulkner_0016.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1785243247242
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1785243247637
-  },
-  "https://www.theverge.com/tech/971220/apple-upgrade-program-iphone-mac-ipad-lease-launch": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Apple-Upgrade-hero.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-    "fetchedAt": 1785243248045
-  },
-  "https://venturebeat.com/infrastructure/mcp-just-got-its-biggest-update-ever-heres-what-changes-for-ai-agents": {
-    "image": null,
-    "fetchedAt": 1785243248447
-  },
-  "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/RING.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1785243248838
-  },
-  "https://www.techmeme.com/260728/p14#a260728p14": {
-    "image": null,
-    "fetchedAt": 1785243249199
-  },
   "https://www.techmeme.com/260729/p14#a260729p14": {
     "image": null,
     "fetchedAt": 1785330006490
@@ -958,5 +890,65 @@
   "https://thenextweb.com/news/vinspace-spacex-vietnam-satellite-launch": {
     "image": "https://media.thenextweb.com/2026/05/spacex-cursor-acquisition-ipo-60-billion-ai-coding.jpg",
     "fetchedAt": 1786448599685
+  },
+  "https://www.techmeme.com/260812/p14#a260812p14": {
+    "image": null,
+    "fetchedAt": 1786535106292
+  },
+  "https://www.techmeme.com/260812/p8#a260812p8": {
+    "image": null,
+    "fetchedAt": 1786535106650
+  },
+  "https://www.techmeme.com/260812/p7#a260812p7": {
+    "image": null,
+    "fetchedAt": 1786535107008
+  },
+  "https://www.geekwire.com/2026/ex-meta-ai-research-director-raises-10-25m-from-trilogy-and-madrona-for-stealth-physical-ai-startup/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/1573620114628.jpg",
+    "fetchedAt": 1786535107517
+  },
+  "https://news.crunchbase.com/health-wellness-biotech/fitness-startup-funding-rebounding-ai-data-h1-2026/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/AI-generated.jpg",
+    "fetchedAt": 1786535108053
+  },
+  "https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai": {
+    "image": null,
+    "fetchedAt": 1786535108432
+  },
+  "https://www.techmeme.com/260812/p11#a260812p11": {
+    "image": null,
+    "fetchedAt": 1786535108790
+  },
+  "https://sifted.eu/articles/lovable-raises-e400m-series-c/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=2000,quality=75,fit=cover,format=auto/wp-content/uploads/2025/12/10071919/picnew.jpg",
+    "fetchedAt": 1786535110315
+  },
+  "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/blacksmith-logo.jpg?resize=1200,800",
+    "fetchedAt": 1786535110756
+  },
+  "https://www.techmeme.com/260812/p12#a260812p12": {
+    "image": null,
+    "fetchedAt": 1786535111115
+  },
+  "https://www.techmeme.com/260812/p16#a260812p16": {
+    "image": null,
+    "fetchedAt": 1786535111473
+  },
+  "https://www.techmeme.com/260812/p15#a260812p15": {
+    "image": null,
+    "fetchedAt": 1786535111832
+  },
+  "https://sifted.eu/articles/uforce-fundraise-defence-tech-valuation/": {
+    "image": "https://content.sifted.eu/wp-content/uploads/2026/08/11124151/Screenshot-2026-08-11-at-12.40.38-1024x505.png",
+    "fetchedAt": 1786535112984
+  },
+  "https://thenextweb.com/news/foxconn-q2-2026-ai-servers-half-revenue-hon-hai": {
+    "image": "https://media.thenextweb.com/2026/08/2020-IEEE-GLOBECOM-x-Hon-Hai-FOXCONN.jpg",
+    "fetchedAt": 1786535113523
+  },
+  "https://thenextweb.com/news/lovable-400m-series-c-13-3bn-scaleup-europe-fund": {
+    "image": "https://media.thenextweb.com/2026/06/lovable-ceo-europe-ai-confidence-problem-talent-silicon-valley.jpg",
+    "fetchedAt": 1786535114046
   }
 }
