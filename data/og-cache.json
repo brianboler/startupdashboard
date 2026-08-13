@@ -1,68 +1,4 @@
 {
-  "https://www.techmeme.com/260729/p14#a260729p14": {
-    "image": null,
-    "fetchedAt": 1785330006490
-  },
-  "https://www.techmeme.com/260729/p10#a260729p10": {
-    "image": null,
-    "fetchedAt": 1785330006859
-  },
-  "https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs": {
-    "image": null,
-    "fetchedAt": 1785330007339
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/akrales_220309_4977_0232.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1785330007907
-  },
-  "https://www.techmeme.com/260729/p15#a260729p15": {
-    "image": null,
-    "fetchedAt": 1785330008276
-  },
-  "https://thenextweb.com/news/modus-10m-seed-insight-partners-context-warehouse-enterprise-ai": {
-    "image": "https://media.thenextweb.com/2026/07/modus-10m-seed-insight-partners-context-warehouse-enterprise-ai.avif",
-    "fetchedAt": 1785330009144
-  },
-  "https://www.techmeme.com/260729/p12#a260729p12": {
-    "image": null,
-    "fetchedAt": 1785330009513
-  },
-  "https://www.techmeme.com/260729/p9#a260729p9": {
-    "image": null,
-    "fetchedAt": 1785330009883
-  },
-  "https://www.techmeme.com/260729/p8#a260729p8": {
-    "image": null,
-    "fetchedAt": 1785330010253
-  },
-  "https://www.geekwire.com/2026/less-amazon-more-profit-ups-raises-forecast-after-cutting-millions-of-lower-yield-deliveries/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/ups2.jpeg",
-    "fetchedAt": 1785330010892
-  },
-  "https://www.techmeme.com/260729/p16#a260729p16": {
-    "image": null,
-    "fetchedAt": 1785330011263
-  },
-  "https://www.theverge.com/tech/972254/nothing-ear-3a-earbuds-review": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268654_Nothing_Ear_3A_JHiggins_0014.jpg?quality=90&strip=all&crop=0%2C14.488902354413%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1785330011679
-  },
-  "https://www.theverge.com/tech/972387/samsung-galaxy-z-fold-8-review": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268671_Samsung_Galaxy_Z_Fold_8_DPreston_0034.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1785330012101
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268669_The_artists_suing_AI_companies_AParkin.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1785330012500
-  },
-  "https://thenextweb.com/news/russia-fsb-durov-terrorism-wanted-list": {
-    "image": "https://media.thenextweb.com/2024/08/Untitled-design-7.avif",
-    "fetchedAt": 1785330012996
-  },
-  "https://thenextweb.com/news/hugging-face-nonconsensual-deepfakes-ai-forensics-report": {
-    "image": "https://media.thenextweb.com/2026/07/Deepfake.avif",
-    "fetchedAt": 1785330013485
-  },
   "https://www.techmeme.com/260730/p18#a260730p18": {
     "image": null,
     "fetchedAt": 1785414607021
@@ -950,5 +886,73 @@
   "https://thenextweb.com/news/lovable-400m-series-c-13-3bn-scaleup-europe-fund": {
     "image": "https://media.thenextweb.com/2026/06/lovable-ceo-europe-ai-confidence-problem-talent-silicon-valley.jpg",
     "fetchedAt": 1786535114046
+  },
+  "https://www.techmeme.com/260813/p18#a260813p18": {
+    "image": null,
+    "fetchedAt": 1786621505904
+  },
+  "https://news.crunchbase.com/venture/carpenter-founder-ai-construction-startup-trunk-tools-buchner/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/non-tech-startups.jpg",
+    "fetchedAt": 1786621506423
+  },
+  "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?resize=1200,1004",
+    "fetchedAt": 1786621506855
+  },
+  "https://www.techmeme.com/260813/p22#a260813p22": {
+    "image": null,
+    "fetchedAt": 1786621507212
+  },
+  "https://thenextweb.com/news/oracle-august-2026-layoffs-ai-capex": {
+    "image": "https://media.thenextweb.com/2026/06/Oracle.jpg",
+    "fetchedAt": 1786621507704
+  },
+  "https://www.techmeme.com/260813/p17#a260813p17": {
+    "image": null,
+    "fetchedAt": 1786621508060
+  },
+  "https://www.techmeme.com/260813/p16#a260813p16": {
+    "image": null,
+    "fetchedAt": 1786621508417
+  },
+  "https://thenextweb.com/news/taiwan-ai-driven-hacking-campaign-open-claw": {
+    "image": "https://media.thenextweb.com/2026/05/Taiwan-flag.jpg",
+    "fetchedAt": 1786621508888
+  },
+  "https://sifted.eu/articles/multiverse-computing-europe-ai-champion/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/07/25105229/MultiverseComputing-SeriesC-scaled-e1786548071991.jpg",
+    "fetchedAt": 1786621510316
+  },
+  "https://www.techmeme.com/260813/p24#a260813p24": {
+    "image": null,
+    "fetchedAt": 1786621510674
+  },
+  "https://thenextweb.com/news/navi-sachin-bansal-315m-ipo": {
+    "image": "https://media.thenextweb.com/2026/08/Sachin-Bansal.jpg",
+    "fetchedAt": 1786621511148
+  },
+  "https://www.techmeme.com/260813/p23#a260813p23": {
+    "image": null,
+    "fetchedAt": 1786621511506
+  },
+  "https://thenextweb.com/news/putting-number-on-founders-voice-input-global": {
+    "image": "https://media.thenextweb.com/2026/08/putting-number-on-founders-voice-input-global.jpg",
+    "fetchedAt": 1786621511975
+  },
+  "https://www.techmeme.com/260813/p21#a260813p21": {
+    "image": null,
+    "fetchedAt": 1786621512332
+  },
+  "https://thenextweb.com/news/legora-legal-ai-10bn-valuation-raise": {
+    "image": "https://media.thenextweb.com/2026/08/Legora-founders.jpg",
+    "fetchedAt": 1786621512796
+  },
+  "https://www.techmeme.com/260813/p20#a260813p20": {
+    "image": null,
+    "fetchedAt": 1786621513153
+  },
+  "https://thenextweb.com/news/revolut-airport-lounges-copenhagen-2027": {
+    "image": "https://media.thenextweb.com/2026/08/Revolut-Lounge.jpg",
+    "fetchedAt": 1786621513620
   }
 }
