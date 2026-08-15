@@ -1,76 +1,4 @@
 {
-  "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Ryan-Williams.jpg?resize=1200,616",
-    "fetchedAt": 1785502562715
-  },
-  "https://www.techmeme.com/260731/p17#a260731p17": {
-    "image": null,
-    "fetchedAt": 1785502563091
-  },
-  "https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost": {
-    "image": null,
-    "fetchedAt": 1785502563532
-  },
-  "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Joon-Sung-Park.-Credit-Simile.jpg?resize=1200,835",
-    "fetchedAt": 1785502563929
-  },
-  "https://www.techmeme.com/260731/p15#a260731p15": {
-    "image": null,
-    "fetchedAt": 1785502564290
-  },
-  "https://thenextweb.com/news/tesla-china-business-spacex-merger": {
-    "image": "https://media.thenextweb.com/2026/07/tesla-q2-earnings-high-bar-rivian-r2-valuation.avif",
-    "fetchedAt": 1785502564777
-  },
-  "https://thenextweb.com/news/anthropic-claude-breached-three-companies-tests": {
-    "image": "https://media.thenextweb.com/2026/07/Anthropic-logo.avif",
-    "fetchedAt": 1785502565253
-  },
-  "https://sifted.eu/articles/tines-interview/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=546,quality=75,fit=cover,format=auto/wp-content/uploads/2026/07/30160924/Screenshot-2026-07-30-at-17.09.09.png",
-    "fetchedAt": 1785502566447
-  },
-  "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations": {
-    "image": null,
-    "fetchedAt": 1785502566825
-  },
-  "https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread": {
-    "image": null,
-    "fetchedAt": 1785502567210
-  },
-  "https://www.techmeme.com/260731/p19#a260731p19": {
-    "image": null,
-    "fetchedAt": 1785502567569
-  },
-  "https://www.theverge.com/games/973652/dnd-dungeons-dragons-world-of-warcraft-star-wars-universes-beyond": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/cover-art-dungeons-and-dragons-world-of-warcraft.jpg?quality=90&strip=all&crop=0,10.084355062967,100,79.831289874066",
-    "fetchedAt": 1785502567994
-  },
-  "https://www.techmeme.com/260731/p18#a260731p18": {
-    "image": null,
-    "fetchedAt": 1785502568353
-  },
-  "https://www.theverge.com/tech/972466/cipherx-permanent-pain-free-tattoo-microdot-patches": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/CipherX-Microdot-tattoo-hed.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1785502568762
-  },
-  "https://www.theverge.com/entertainment/973530/apple-tv-cape-fear-finale-technology": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Cape_Fear_Photo_010709.jpg?quality=90&strip=all&crop=9.7358072916667%2C0%2C80.528385416667%2C100&w=1200",
-    "fetchedAt": 1785502569135
-  },
-  "https://thenextweb.com/news/amazon-q2-2026-aws-growth-ai-spending": {
-    "image": "https://media.thenextweb.com/2026/04/Amazon.avif",
-    "fetchedAt": 1785502569618
-  },
-  "https://www.techmeme.com/260731/p16#a260731p16": {
-    "image": null,
-    "fetchedAt": 1785502569980
-  },
-  "https://thenextweb.com/news/eu-ai-act-labels-compulsory-synthetic-content": {
-    "image": "https://media.thenextweb.com/2026/05/European-flag.avif",
-    "fetchedAt": 1785502570445
-  },
   "https://www.techmeme.com/260801/p1#a260801p1": {
     "image": null,
     "fetchedAt": 1785585725976
@@ -954,5 +882,61 @@
   "https://www.techmeme.com/260814/p9#a260814p9": {
     "image": null,
     "fetchedAt": 1786707856800
+  },
+  "https://www.techmeme.com/260815/p5#a260815p5": {
+    "image": null,
+    "fetchedAt": 1786792746213
+  },
+  "https://www.techmeme.com/260815/p4#a260815p4": {
+    "image": null,
+    "fetchedAt": 1786792746574
+  },
+  "https://www.techmeme.com/260814/p34#a260814p34": {
+    "image": null,
+    "fetchedAt": 1786792746935
+  },
+  "https://www.techmeme.com/260815/p7#a260815p7": {
+    "image": null,
+    "fetchedAt": 1786792747296
+  },
+  "https://www.techmeme.com/260815/p2#a260815p2": {
+    "image": null,
+    "fetchedAt": 1786792747659
+  },
+  "https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+    "fetchedAt": 1786792748175
+  },
+  "https://www.techmeme.com/260815/p6#a260815p6": {
+    "image": null,
+    "fetchedAt": 1786792748537
+  },
+  "https://www.techmeme.com/260815/p1#a260815p1": {
+    "image": null,
+    "fetchedAt": 1786792748899
+  },
+  "https://www.geekwire.com/2026/amazons-twitch-is-using-livestreams-to-train-its-generative-ai-and-nobodys-happy-with-it/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2016/09/20160903_PAX_West_147.jpg",
+    "fetchedAt": 1786792749533
+  },
+  "https://thenextweb.com/news/openai-enterprise-revenue-overtakes-consumer-friar": {
+    "image": "https://media.thenextweb.com/2026/08/openai-enterprise-revenue-overtakes-consumer-friar.jpg",
+    "fetchedAt": 1786792750072
+  },
+  "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee": {
+    "image": "https://media.thenextweb.com/2026/08/andon-market-storefront.jpg",
+    "fetchedAt": 1786792750573
+  },
+  "https://www.techmeme.com/260815/p8#a260815p8": {
+    "image": null,
+    "fetchedAt": 1786792750935
+  },
+  "https://www.techmeme.com/260815/p3#a260815p3": {
+    "image": null,
+    "fetchedAt": 1786792751298
+  },
+  "https://www.techmeme.com/260814/p35#a260814p35": {
+    "image": null,
+    "fetchedAt": 1786792751659
   }
 }
