@@ -1,64 +1,4 @@
 {
-  "https://www.techmeme.com/260801/p1#a260801p1": {
-    "image": null,
-    "fetchedAt": 1785585725976
-  },
-  "https://www.techmeme.com/260801/p9#a260801p9": {
-    "image": null,
-    "fetchedAt": 1785585726333
-  },
-  "https://www.techmeme.com/260801/p6#a260801p6": {
-    "image": null,
-    "fetchedAt": 1785585726690
-  },
-  "https://www.techmeme.com/260801/p5#a260801p5": {
-    "image": null,
-    "fetchedAt": 1785585727048
-  },
-  "https://www.techmeme.com/260801/p4#a260801p4": {
-    "image": null,
-    "fetchedAt": 1785585727406
-  },
-  "https://www.techmeme.com/260801/p2#a260801p2": {
-    "image": null,
-    "fetchedAt": 1785585727763
-  },
-  "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1215016292.jpg?resize=1200,865",
-    "fetchedAt": 1785585728221
-  },
-  "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Smallest-AI-Founders.jpg?resize=1200,927",
-    "fetchedAt": 1785585728619
-  },
-  "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198164456.jpg?resize=1200,801",
-    "fetchedAt": 1785585729007
-  },
-  "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-138.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-    "fetchedAt": 1785585729523
-  },
-  "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/defconbadge-1152x648.jpg",
-    "fetchedAt": 1785585729997
-  },
-  "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-956238116-1152x648.jpg",
-    "fetchedAt": 1785585730390
-  },
-  "https://www.techmeme.com/260801/p8#a260801p8": {
-    "image": null,
-    "fetchedAt": 1785585730748
-  },
-  "https://www.techmeme.com/260801/p7#a260801p7": {
-    "image": null,
-    "fetchedAt": 1785585731104
-  },
-  "https://www.techmeme.com/260801/p3#a260801p3": {
-    "image": null,
-    "fetchedAt": 1785585731463
-  },
   "https://www.techmeme.com/260802/p4#a260802p4": {
     "image": null,
     "fetchedAt": 1785672126295
@@ -938,5 +878,73 @@
   "https://www.techmeme.com/260814/p35#a260814p35": {
     "image": null,
     "fetchedAt": 1786792751659
+  },
+  "https://www.techmeme.com/260816/p1#a260816p1": {
+    "image": null,
+    "fetchedAt": 1786879206135
+  },
+  "https://www.geekwire.com/2026/bezos-and-liverpool-fc-a-meta-vets-ai-startup-augers-dallas-move-and-the-demise-of-microsofts-ai-blob/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
+    "fetchedAt": 1786879206878
+  },
+  "https://www.techmeme.com/260815/p14#a260815p14": {
+    "image": null,
+    "fetchedAt": 1786879207243
+  },
+  "https://thenextweb.com/news/nvidia-openai-backstop-halved-13f-spacex-intel": {
+    "image": "https://media.thenextweb.com/2026/07/nvidia-naver-sk-group-korea-ai-investment.jpg",
+    "fetchedAt": 1786879207783
+  },
+  "https://www.techmeme.com/260816/p3#a260816p3": {
+    "image": null,
+    "fetchedAt": 1786879208145
+  },
+  "https://www.techmeme.com/260815/p18#a260815p18": {
+    "image": null,
+    "fetchedAt": 1786879208507
+  },
+  "https://www.techmeme.com/260815/p15#a260815p15": {
+    "image": null,
+    "fetchedAt": 1786879208868
+  },
+  "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong": {
+    "image": null,
+    "fetchedAt": 1786879209291
+  },
+  "https://thenextweb.com/news/anthropic-q2-2026-revenue-11-5-billion-operating-income": {
+    "image": "https://media.thenextweb.com/2026/06/anthropic-mythos-5-us-clearance-trusted-partners-fable-restricted.jpg",
+    "fetchedAt": 1786879209788
+  },
+  "https://thenextweb.com/news/lg-nvidia-humanoid-robot-2027-isaac-groot": {
+    "image": "https://media.thenextweb.com/2026/05/lg-electronics-stock-surge-google-android-automotive.jpg",
+    "fetchedAt": 1786879210289
+  },
+  "https://www.techmeme.com/260816/p5#a260816p5": {
+    "image": null,
+    "fetchedAt": 1786879210653
+  },
+  "https://thenextweb.com/news/mastercard-australia-outage-scheduled-update-cash": {
+    "image": "https://media.thenextweb.com/2026/08/mastercard-australia-outage-scheduled-update-cash.jpg",
+    "fetchedAt": 1786879211151
+  },
+  "https://thenextweb.com/news/alibaba-qwen-downloads-hugging-face-open-models": {
+    "image": "https://media.thenextweb.com/2026/07/alibaba-qwen-apple-intelligence-china-approved.jpg",
+    "fetchedAt": 1786879211646
+  },
+  "https://www.techmeme.com/260816/p4#a260816p4": {
+    "image": null,
+    "fetchedAt": 1786879212013
+  },
+  "https://www.techmeme.com/260816/p2#a260816p2": {
+    "image": null,
+    "fetchedAt": 1786879212377
+  },
+  "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Polaroid-Go-Generation-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1786879212871
+  },
+  "https://www.techmeme.com/260815/p17#a260815p17": {
+    "image": null,
+    "fetchedAt": 1786879213235
   }
 }
