@@ -1,68 +1,4 @@
 {
-  "https://www.techmeme.com/260802/p4#a260802p4": {
-    "image": null,
-    "fetchedAt": 1785672126295
-  },
-  "https://www.techmeme.com/260802/p3#a260802p3": {
-    "image": null,
-    "fetchedAt": 1785672126655
-  },
-  "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/04/GettyImages-893877316-1152x648.jpg",
-    "fetchedAt": 1785672127249
-  },
-  "https://www.techmeme.com/260802/p5#a260802p5": {
-    "image": null,
-    "fetchedAt": 1785672127609
-  },
-  "https://www.techmeme.com/260802/p1#a260802p1": {
-    "image": null,
-    "fetchedAt": 1785672127971
-  },
-  "https://www.geekwire.com/2026/amazons-next-big-business-satya-nadellas-diy-app-and-a-vcs-rallying-cry-for-seattle-tech/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
-    "fetchedAt": 1785672128605
-  },
-  "https://news.crunchbase.com/venture/biggest-funding-rounds-safe-superintelligence-commonwealth-fusion/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
-    "fetchedAt": 1785672129071
-  },
-  "https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud": {
-    "image": null,
-    "fetchedAt": 1785672129566
-  },
-  "https://www.geekwire.com/2026/seattle-tech-week-takeaways-ai-startups-and-the-best-insights-and-quotes-we-heard/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/07/stw.png",
-    "fetchedAt": 1785672130117
-  },
-  "https://www.geekwire.com/2026/moving-faster-than-planned-ai-drug-developer-accipiter-bio-quietly-tops-up-seed-round-with-10-5m/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2025/11/AccipiterBio_3DHero_DualAgonist_Transp_v2041-1260x1153.png",
-    "fetchedAt": 1785672130660
-  },
-  "https://www.techmeme.com/260802/p6#a260802p6": {
-    "image": null,
-    "fetchedAt": 1785672131021
-  },
-  "https://www.techmeme.com/260802/p2#a260802p2": {
-    "image": null,
-    "fetchedAt": 1785672131385
-  },
-  "https://www.techmeme.com/260801/p17#a260801p17": {
-    "image": null,
-    "fetchedAt": 1785672131750
-  },
-  "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_16661.png?quality=90&strip=all&crop=0,3.4249563699826,100,93.150087260035",
-    "fetchedAt": 1785672132351
-  },
-  "https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Angela-Nissel_Author-Headshot.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.542049180985&w=1200",
-    "fetchedAt": 1785672132755
-  },
-  "https://www.techmeme.com/260801/p16#a260801p16": {
-    "image": null,
-    "fetchedAt": 1785672133122
-  },
   "https://www.techmeme.com/260803/p14#a260803p14": {
     "image": null,
     "fetchedAt": 1785764466716
@@ -946,5 +882,73 @@
   "https://www.techmeme.com/260815/p17#a260815p17": {
     "image": null,
     "fetchedAt": 1786879213235
+  },
+  "https://www.techmeme.com/260817/p6#a260817p6": {
+    "image": null,
+    "fetchedAt": 1786965846069
+  },
+  "https://thenextweb.com/news/stripe-openrouter-7bn-acquisition": {
+    "image": "https://media.thenextweb.com/2026/08/Stripe-logo.jpg",
+    "fetchedAt": 1786965846880
+  },
+  "https://www.techmeme.com/260817/p3#a260817p3": {
+    "image": null,
+    "fetchedAt": 1786965847236
+  },
+  "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2024/04/Stripe-resized.webp?resize=1200,674",
+    "fetchedAt": 1786965847657
+  },
+  "https://www.techmeme.com/260817/p8#a260817p8": {
+    "image": null,
+    "fetchedAt": 1786965848014
+  },
+  "https://thenextweb.com/news/anthropic-ipo-190-200bn-2028-revenue-forecast": {
+    "image": "https://media.thenextweb.com/2026/07/Anthropic-logo.jpg",
+    "fetchedAt": 1786965848485
+  },
+  "https://thenextweb.com/news/told-to-book-a-gym-class-an-ai-agent-hacked-the-website-instead-in-australias-first-known-autonomous-cyberattack": {
+    "image": "https://media.thenextweb.com/2026/08/AI-agent.jpg",
+    "fetchedAt": 1786965848953
+  },
+  "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_LITTER_ROBOT.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1786965849468
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1786965849851
+  },
+  "https://www.techmeme.com/260817/p7#a260817p7": {
+    "image": null,
+    "fetchedAt": 1786965850208
+  },
+  "https://news.crunchbase.com/venture/semiconductor-giants-nvda-intc-backing-ai-robotics-starups-2026/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Computer_chip_02.jpg",
+    "fetchedAt": 1786965850728
+  },
+  "https://www.theverge.com/tech/970021/how-to-take-better-pet-photos": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PHOTOS.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1786965851127
+  },
+  "https://www.techmeme.com/260817/p11#a260817p11": {
+    "image": null,
+    "fetchedAt": 1786965851484
+  },
+  "https://thenextweb.com/news/beijing-agi-bar-deepseek-free-tokens": {
+    "image": "https://media.thenextweb.com/2026/08/AGI-Bar.jpg",
+    "fetchedAt": 1786965851949
+  },
+  "https://www.techmeme.com/260817/p10#a260817p10": {
+    "image": null,
+    "fetchedAt": 1786965852310
+  },
+  "https://thenextweb.com/news/helsing-rakuten-japan-military-drones": {
+    "image": "https://media.thenextweb.com/2026/08/Helsing-founders-photo-group.jpg",
+    "fetchedAt": 1786965852772
+  },
+  "https://www.techmeme.com/260817/p9#a260817p9": {
+    "image": null,
+    "fetchedAt": 1786965853128
   }
 }
