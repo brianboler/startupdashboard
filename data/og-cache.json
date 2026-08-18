@@ -1,56 +1,4 @@
 {
-  "https://www.techmeme.com/260803/p14#a260803p14": {
-    "image": null,
-    "fetchedAt": 1785764466716
-  },
-  "https://www.techmeme.com/260803/p19#a260803p19": {
-    "image": null,
-    "fetchedAt": 1785764467076
-  },
-  "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1197780051.jpg?resize=1200,800",
-    "fetchedAt": 1785764467669
-  },
-  "https://www.techmeme.com/260803/p16#a260803p16": {
-    "image": null,
-    "fetchedAt": 1785764468031
-  },
-  "https://www.techmeme.com/260803/p15#a260803p15": {
-    "image": null,
-    "fetchedAt": 1785764468391
-  },
-  "https://www.techmeme.com/260803/p20#a260803p20": {
-    "image": null,
-    "fetchedAt": 1785764468752
-  },
-  "https://www.techmeme.com/260803/p17#a260803p17": {
-    "image": null,
-    "fetchedAt": 1785764469113
-  },
-  "https://sifted.eu/articles/james-dacombes-olix-raises-at-3-3bn-valuation/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=2864,quality=75,fit=cover,format=auto/wp-content/uploads/2025/10/20154530/Screenshot-2025-10-20-at-15.38.58.png",
-    "fetchedAt": 1785764470880
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1259130896.jpg?quality=90&strip=all&crop=0%2C9.9724610532046%2C100%2C80.055077893591&w=1200",
-    "fetchedAt": 1785764471383
-  },
-  "https://news.crunchbase.com/workplace/tech-ceo-leadership-career-path-product-manager/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/Going_Up.jpg",
-    "fetchedAt": 1785764471917
-  },
-  "https://www.theverge.com/tech/974377/lenovo-googlebook-google-image-leaks-laptops": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Lenovo-Googlebook-laptop-leak.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1785764472326
-  },
-  "https://www.theverge.com/games/973166/big-walk-review": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-    "fetchedAt": 1785764472709
-  },
-  "https://www.techmeme.com/260803/p18#a260803p18": {
-    "image": null,
-    "fetchedAt": 1785764473070
-  },
   "https://www.techmeme.com/260804/p18#a260804p18": {
     "image": null,
     "fetchedAt": 1785848526244
@@ -950,5 +898,73 @@
   "https://www.techmeme.com/260817/p9#a260817p9": {
     "image": null,
     "fetchedAt": 1786965853128
+  },
+  "https://www.techmeme.com/260818/p8#a260818p8": {
+    "image": null,
+    "fetchedAt": 1787052246340
+  },
+  "https://www.geekwire.com/2026/adaptive-biotech-co-founder-raises-15m-for-new-startup-to-rethink-how-ai-trains-on-science/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/Harlan-Robins.jpeg",
+    "fetchedAt": 1787052246951
+  },
+  "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Reach-capital.jpg?resize=1200,800",
+    "fetchedAt": 1787052247396
+  },
+  "https://www.techmeme.com/260818/p9#a260818p9": {
+    "image": null,
+    "fetchedAt": 1787052247764
+  },
+  "https://www.techmeme.com/260818/p6#a260818p6": {
+    "image": null,
+    "fetchedAt": 1787052248131
+  },
+  "https://thenextweb.com/news/family-offices-ai-investment": {
+    "image": "https://media.thenextweb.com/2026/08/Venture-Capital.jpg",
+    "fetchedAt": 1787052248954
+  },
+  "https://thenextweb.com/news/smack-technologies-pentagon-ai-funding-round": {
+    "image": "https://media.thenextweb.com/2026/08/Smack-Technologies-co-founders-group-photo.jpg",
+    "fetchedAt": 1787052249437
+  },
+  "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2259021916.jpg?w=1024",
+    "fetchedAt": 1787052249825
+  },
+  "https://www.geekwire.com/2026/protesters-dressed-as-rogue-ai-agents-target-openai-in-bellevue-with-balloons-and-hot-pink-vests/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/protest.png",
+    "fetchedAt": 1787052250347
+  },
+  "https://blog.roboflow.com/openai-gpt-5-6/": {
+    "image": "https://storage.ghost.io/c/2c/8d/2c8d8c0d-1c15-4b6d-825e-02b78d61d40a/content/images/2026/07/img-blog-gpt-5-6-sol-best-vision-model-to-date.jpg",
+    "fetchedAt": 1787052250942
+  },
+  "https://www.techmeme.com/260818/p13#a260818p13": {
+    "image": null,
+    "fetchedAt": 1787052251309
+  },
+  "https://www.techmeme.com/260818/p12#a260818p12": {
+    "image": null,
+    "fetchedAt": 1787052251675
+  },
+  "https://www.techmeme.com/260818/p11#a260818p11": {
+    "image": null,
+    "fetchedAt": 1787052252043
+  },
+  "https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/physical-ai.jpg",
+    "fetchedAt": 1787052252554
+  },
+  "https://www.techmeme.com/260818/p10#a260818p10": {
+    "image": null,
+    "fetchedAt": 1787052252921
+  },
+  "https://thenextweb.com/news/us-data-centres-co2-24-million-cars": {
+    "image": "https://media.thenextweb.com/2026/07/Meta-el-paso-data-center.jpg",
+    "fetchedAt": 1787052253402
+  },
+  "https://www.techmeme.com/260818/p7#a260818p7": {
+    "image": null,
+    "fetchedAt": 1787052253769
   }
 }
