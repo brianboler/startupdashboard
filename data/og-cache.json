@@ -1,68 +1,4 @@
 {
-  "https://www.techmeme.com/260804/p18#a260804p18": {
-    "image": null,
-    "fetchedAt": 1785848526244
-  },
-  "https://www.techmeme.com/260804/p17#a260804p17": {
-    "image": null,
-    "fetchedAt": 1785848526614
-  },
-  "https://thenextweb.com/news/happyrobot-150m-series-c-enterprise-ai-agents": {
-    "image": "https://media.thenextweb.com/2026/08/HappyRobot-founders.jpg",
-    "fetchedAt": 1785848527490
-  },
-  "https://thenextweb.com/news/volta-ai-cloud-300m-nvidia-dell-2-4bn": {
-    "image": "https://media.thenextweb.com/2026/08/Ricard-Boada-CEO-Volta.jpg",
-    "fetchedAt": 1785848527992
-  },
-  "https://www.techmeme.com/260804/p13#a260804p13": {
-    "image": null,
-    "fetchedAt": 1785848528362
-  },
-  "https://www.techmeme.com/260804/p12#a260804p12": {
-    "image": null,
-    "fetchedAt": 1785848528732
-  },
-  "https://sifted.eu/articles/european-robotics-startups-raised-more-in-six-months-than-past-two-years-combined/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1200,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/03164213/Neura-humanoid.jpg",
-    "fetchedAt": 1785848529961
-  },
-  "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-12.31.35-PM.jpg?resize=1200,739",
-    "fetchedAt": 1785848530438
-  },
-  "https://www.geekwire.com/2026/amazon-tops-3-trillion-and-microsoft-surges-as-wall-street-sets-aside-ai-spending-fears-for-now/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/msft-amzn.png",
-    "fetchedAt": 1785848531146
-  },
-  "https://www.techmeme.com/260804/p19#a260804p19": {
-    "image": null,
-    "fetchedAt": 1785848531518
-  },
-  "https://sifted.eu/articles/a16z-happyrobot-1-2bn/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/04114652/HappyRobot_Founders80-scaled.jpg",
-    "fetchedAt": 1785848532587
-  },
-  "https://thenextweb.com/news/ai-generated-fake-cves-nvd-pipeline-jfrog-sqlite-llm-slop": {
-    "image": "https://media.thenextweb.com/2026/08/JFrog-logo.jpg",
-    "fetchedAt": 1785848533441
-  },
-  "https://sifted.eu/articles/scaleup-europe-fund-investing/": {
-    "image": "https://content.sifted.eu/wp-content/uploads/2026/06/02173610/eqt-1024x336.png",
-    "fetchedAt": 1785848534459
-  },
-  "https://thenextweb.com/news/openai-summer-camp-influencer-retreat-greenwashing-backlash": {
-    "image": "https://media.thenextweb.com/2026/07/openai-models-escaped-hacked-hugging-face.jpg",
-    "fetchedAt": 1785848534942
-  },
-  "https://thenextweb.com/news/apple-uk-icloud-backdoor-legal-challenge-technical-capability-notice": {
-    "image": "https://media.thenextweb.com/2026/05/apple-smart-glasses-eyewear-market-disruption-watch-playbook.jpg",
-    "fetchedAt": 1785848535424
-  },
-  "https://sifted.eu/articles/nscale-oxford-ucl-imperial-lab/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=955,quality=75,fit=cover,format=auto/wp-content/uploads/2026/01/14164014/Screenshot-2026-01-14-at-16.40.08.png",
-    "fetchedAt": 1785848536409
-  },
   "https://www.techmeme.com/260805/p18#a260805p18": {
     "image": null,
     "fetchedAt": 1785934327020
@@ -966,5 +902,57 @@
   "https://www.techmeme.com/260818/p7#a260818p7": {
     "image": null,
     "fetchedAt": 1787052253769
+  },
+  "https://www.techmeme.com/260819/p11#a260819p11": {
+    "image": null,
+    "fetchedAt": 1787138647075
+  },
+  "https://www.techmeme.com/260819/p6#a260819p6": {
+    "image": null,
+    "fetchedAt": 1787138647432
+  },
+  "https://sifted.eu/articles/openai-clarifies-acquisition-offer/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2023/09/14101035/SamAltmanTechCrunch2019-scaled.jpeg",
+    "fetchedAt": 1787138649226
+  },
+  "https://thenextweb.com/news/medly-ai-8m-seed-felix-capital-gcse-tutoring": {
+    "image": "https://media.thenextweb.com/2026/08/Medly-AI-cofounders.jpg",
+    "fetchedAt": 1787138649790
+  },
+  "https://www.techmeme.com/260819/p14#a260819p14": {
+    "image": null,
+    "fetchedAt": 1787138650147
+  },
+  "https://news.crunchbase.com/venture/unicorn-investors-ai-robotics-2026-sequoia-khosla/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Unicorn_Money_v3.jpg",
+    "fetchedAt": 1787138650672
+  },
+  "https://sifted.eu/articles/startups-ai-slop-internal-communications/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1536,quality=75,fit=cover,format=auto/wp-content/uploads/2026/06/19155002/ChatGPT-Image-Jun-19-2026-03_49_46-PM-e1781880722984.png",
+    "fetchedAt": 1787138651829
+  },
+  "https://www.techmeme.com/260819/p13#a260819p13": {
+    "image": null,
+    "fetchedAt": 1787138652191
+  },
+  "https://thenextweb.com/news/alphabet-australian-dollar-bond-record-kangaroo": {
+    "image": "https://media.thenextweb.com/2026/08/Alphabet-company.jpg",
+    "fetchedAt": 1787138652712
+  },
+  "https://www.techmeme.com/260819/p12#a260819p12": {
+    "image": null,
+    "fetchedAt": 1787138653068
+  },
+  "https://www.techmeme.com/260819/p15#a260819p15": {
+    "image": null,
+    "fetchedAt": 1787138653425
+  },
+  "https://news.crunchbase.com/ma/company-board-selling-considerations-sagie/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/money-kites.jpg",
+    "fetchedAt": 1787138653910
+  },
+  "https://sifted.eu/articles/chasing-invoices-getting-paid/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=800,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/16160351/1725897439986.jpg",
+    "fetchedAt": 1787138655112
   }
 }
