@@ -1,60 +1,4 @@
 {
-  "https://www.techmeme.com/260805/p18#a260805p18": {
-    "image": null,
-    "fetchedAt": 1785934327020
-  },
-  "https://sifted.eu/articles/moss-unicorn-series-c/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1280,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/04154127/TobiasKoenig_Moss23481_full.jpeg",
-    "fetchedAt": 1785934328813
-  },
-  "https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1331294668-e1717675852775.jpg?resize=1200,676",
-    "fetchedAt": 1785934329319
-  },
-  "https://www.techmeme.com/260805/p15#a260805p15": {
-    "image": null,
-    "fetchedAt": 1785934329693
-  },
-  "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286629860.jpg?quality=90&strip=all&crop=0%2C10.754013220586%2C100%2C78.491973558828&w=1200",
-    "fetchedAt": 1785934330214
-  },
-  "https://www.techmeme.com/260805/p17#a260805p17": {
-    "image": null,
-    "fetchedAt": 1785934330589
-  },
-  "https://sifted.eu/articles/wordsmith-14m-series-b-extension/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/05102504/WhatsApp-Image-2026-07-31-at-10.25.08-scaled.jpeg",
-    "fetchedAt": 1785934331759
-  },
-  "https://www.techmeme.com/260805/p14#a260805p14": {
-    "image": null,
-    "fetchedAt": 1785934332133
-  },
-  "https://www.techmeme.com/260805/p13#a260805p13": {
-    "image": null,
-    "fetchedAt": 1785934332506
-  },
-  "https://www.techmeme.com/260805/p12#a260805p12": {
-    "image": null,
-    "fetchedAt": 1785934332883
-  },
-  "https://thenextweb.com/news/texas-data-centre-audit-grid-connections-abbott": {
-    "image": "https://media.thenextweb.com/2016/03/Google-Data-Center.jpg",
-    "fetchedAt": 1785934333463
-  },
-  "https://www.techmeme.com/260805/p16#a260805p16": {
-    "image": null,
-    "fetchedAt": 1785934333836
-  },
-  "https://www.theverge.com/streaming/975520/disney-tiktok-partnership-verts-streaming": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/TOYSTORY5-ONLINE-USE_t110.jpg?quality=90&strip=all&crop=0%2C1.3454279800317%2C100%2C97.309144039937&w=1200",
-    "fetchedAt": 1785934334317
-  },
-  "https://thenextweb.com/news/a-fed-official-is-asking-whether-ai-is-becoming-too-big-to-fail": {
-    "image": "https://media.thenextweb.com/2026/08/Kansas-City-Fed-president-Jeff-Schmid.jpg",
-    "fetchedAt": 1785934334839
-  },
   "https://www.techmeme.com/260806/p16#a260806p16": {
     "image": null,
     "fetchedAt": 1786020965971
@@ -954,5 +898,73 @@
   "https://sifted.eu/articles/chasing-invoices-getting-paid/": {
     "image": "https://images.sifted.eu/cdn-cgi/image/width=800,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/16160351/1725897439986.jpg",
     "fetchedAt": 1787138655112
+  },
+  "https://www.techmeme.com/260820/p7#a260820p7": {
+    "image": null,
+    "fetchedAt": 1787225225748
+  },
+  "https://www.techmeme.com/260820/p10#a260820p10": {
+    "image": null,
+    "fetchedAt": 1787225226105
+  },
+  "https://www.techmeme.com/260820/p13#a260820p13": {
+    "image": null,
+    "fetchedAt": 1787225226462
+  },
+  "https://www.techmeme.com/260820/p12#a260820p12": {
+    "image": null,
+    "fetchedAt": 1787225226820
+  },
+  "https://www.techmeme.com/260820/p8#a260820p8": {
+    "image": null,
+    "fetchedAt": 1787225227178
+  },
+  "https://sifted.eu/articles/exclusive-ai-infrastructure-velatir-raises-e5m/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=2040,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/19152357/Picture-1-Front-scaled-e1787207586662.jpg",
+    "fetchedAt": 1787225228403
+  },
+  "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents": {
+    "image": null,
+    "fetchedAt": 1787225228902
+  },
+  "https://news.crunchbase.com/venture/ai-fintech-startup-tabs-founder-hussain/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/non-tech-startups.jpg",
+    "fetchedAt": 1787225229506
+  },
+  "https://sifted.eu/articles/domyn-raises-over-1bn/": {
+    "image": "https://content.sifted.eu/wp-content/uploads/2025/10/02171759/Uljan_Sharka_image_10-1024x683.png",
+    "fetchedAt": 1787225230418
+  },
+  "https://sifted.eu/articles/callosum-raise-atomico-plural-uk-sovereign-ai/": {
+    "image": "https://content.sifted.eu/wp-content/uploads/2026/08/20095540/Screenshot-2026-08-20-at-09.53.38-1024x663.png",
+    "fetchedAt": 1787225231256
+  },
+  "https://www.techmeme.com/260820/p15#a260820p15": {
+    "image": null,
+    "fetchedAt": 1787225231628
+  },
+  "https://thenextweb.com/news/relativity-networks-22m-hollow-core-fiber-ai": {
+    "image": "https://media.thenextweb.com/2026/08/relativity-networks-founders.jpg",
+    "fetchedAt": 1787225232131
+  },
+  "https://www.techmeme.com/260820/p14#a260820p14": {
+    "image": null,
+    "fetchedAt": 1787225232490
+  },
+  "https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_LLOPATTO_JEEVES.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1787225233027
+  },
+  "https://www.theverge.com/transportation/982464/audi-s6-sportback-etron-sedan-ev-review": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/2027AudiS6SportbacketronPeterNelson22.jpg?quality=90&strip=all&crop=0%2C6.8908843619528%2C100%2C86.218231276094&w=1200",
+    "fetchedAt": 1787225233421
+  },
+  "https://thenextweb.com/news/big-tech-data-center-backlash-charm-offensive": {
+    "image": "https://media.thenextweb.com/2026/06/data-centre.jpg",
+    "fetchedAt": 1787225233897
+  },
+  "https://thenextweb.com/news/xai-minnesota-nudify-ban-doj-injunction-hearing": {
+    "image": "https://media.thenextweb.com/2026/08/grok-imagine-image-2-editing-arena-ranking-spacexai.jpg",
+    "fetchedAt": 1787225234370
   }
 }
