@@ -1,68 +1,4 @@
 {
-  "https://www.techmeme.com/260806/p16#a260806p16": {
-    "image": null,
-    "fetchedAt": 1786020965971
-  },
-  "https://www.techmeme.com/260806/p11#a260806p11": {
-    "image": null,
-    "fetchedAt": 1786020966329
-  },
-  "https://thenextweb.com/news/microsoft-ai-revenue-openai-70-percent-dependence": {
-    "image": "https://media.thenextweb.com/2024/12/microsoft-cloud-uk-fine.jpg",
-    "fetchedAt": 1786020966850
-  },
-  "https://www.techmeme.com/260806/p18#a260806p18": {
-    "image": null,
-    "fetchedAt": 1786020967208
-  },
-  "https://www.techmeme.com/260806/p17#a260806p17": {
-    "image": null,
-    "fetchedAt": 1786020967565
-  },
-  "https://www.techmeme.com/260806/p13#a260806p13": {
-    "image": null,
-    "fetchedAt": 1786020967922
-  },
-  "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents": {
-    "image": null,
-    "fetchedAt": 1786020968320
-  },
-  "https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff": {
-    "image": null,
-    "fetchedAt": 1786020968743
-  },
-  "https://www.techmeme.com/260806/p20#a260806p20": {
-    "image": null,
-    "fetchedAt": 1786020969101
-  },
-  "https://thenextweb.com/news/unitree-shanghai-ipo-valuation-50bn-yuan": {
-    "image": "https://media.thenextweb.com/2026/08/Unitree-Robotics.jpg",
-    "fetchedAt": 1786020969593
-  },
-  "https://thenextweb.com/news/sequoia-capital-is-putting-10bn-behind-ai-and-reindustrialization": {
-    "image": "https://media.thenextweb.com/2026/04/Sequoia.jpg",
-    "fetchedAt": 1786020970074
-  },
-  "https://thenextweb.com/news/china-cybersecurity-review-palo-alto-networks": {
-    "image": "https://media.thenextweb.com/2026/04/China-vs-USA.jpg",
-    "fetchedAt": 1786020970548
-  },
-  "https://www.techmeme.com/260806/p19#a260806p19": {
-    "image": null,
-    "fetchedAt": 1786020970907
-  },
-  "https://thenextweb.com/news/nikita-bier-steps-down-x-head-of-product": {
-    "image": "https://media.thenextweb.com/2026/08/Nikita-Bier.jpg",
-    "fetchedAt": 1786020971386
-  },
-  "https://thenextweb.com/news/windborne-37m-series-b-weather-ai-balloons": {
-    "image": "https://media.thenextweb.com/2026/08/windbornesystems-team.jpg",
-    "fetchedAt": 1786020971859
-  },
-  "https://www.theverge.com/entertainment/976073/gta-6-trailer-3-date-time-netflix-youtube": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Lucia_Caminos_02.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-    "fetchedAt": 1786020972335
-  },
   "https://www.techmeme.com/260807/p11#a260807p11": {
     "image": null,
     "fetchedAt": 1786103107436
@@ -966,5 +902,73 @@
   "https://thenextweb.com/news/xai-minnesota-nudify-ban-doj-injunction-hearing": {
     "image": "https://media.thenextweb.com/2026/08/grok-imagine-image-2-editing-arena-ranking-spacexai.jpg",
     "fetchedAt": 1787225234370
+  },
+  "https://www.techmeme.com/260821/p4#a260821p4": {
+    "image": null,
+    "fetchedAt": 1787311622325
+  },
+  "https://www.techmeme.com/260820/p45#a260820p45": {
+    "image": null,
+    "fetchedAt": 1787311622681
+  },
+  "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/IMG_2686.jpeg?resize=1200,957",
+    "fetchedAt": 1787311623170
+  },
+  "https://sifted.eu/articles/uk-chip-startup-fractile-in-talks-to-raise-at-6-5bn-valuation-reports-say/": {
+    "image": "https://content.sifted.eu/wp-content/uploads/2026/01/15162656/Fractiles-Walter-Goodwin-855x1024.png",
+    "fetchedAt": 1787311624843
+  },
+  "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/Nicolas-Kopp-Founder-and-CEO-3.jpg?resize=1200,800",
+    "fetchedAt": 1787311625232
+  },
+  "https://news.crunchbase.com/ai/interesting-startup-deals-ai-recycling-robotics-healthcare-data/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/5_Most_Interesting.jpeg",
+    "fetchedAt": 1787311625815
+  },
+  "https://sifted.eu/articles/legal-dispute-monaco-bank/": {
+    "image": "https://content.sifted.eu/wp-content/uploads/2026/08/21102210/havilland-1024x336.png",
+    "fetchedAt": 1787311627057
+  },
+  "https://thenextweb.com/news/teen-drops-bellwether-case-meta-google-snap": {
+    "image": "https://media.thenextweb.com/2026/04/Meta.jpg",
+    "fetchedAt": 1787311627607
+  },
+  "https://www.techmeme.com/260821/p1#a260821p1": {
+    "image": null,
+    "fetchedAt": 1787311627978
+  },
+  "https://thenextweb.com/news/samsung-shareholder-return-110-trillion-won-record": {
+    "image": "https://media.thenextweb.com/2026/08/Samsung-Corporate-CES-2026.jpg",
+    "fetchedAt": 1787311628531
+  },
+  "https://www.techmeme.com/260821/p6#a260821p6": {
+    "image": null,
+    "fetchedAt": 1787311628888
+  },
+  "https://www.theverge.com/tech/983156/patreon-update-roadmap-algorithm-changes": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Patreon-2026-update-roadmap-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1787311629311
+  },
+  "https://www.theverge.com/gadgets/981738/my-big-fat-technophobic-cat": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268664_Pablo_pet_tech_AKrales_0032.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1787311629695
+  },
+  "https://thenextweb.com/news/youtube-premium-price-rise-europe-opt-in": {
+    "image": "https://media.thenextweb.com/2026/07/youtube-picture-in-picture-broken-android-ios.jpg",
+    "fetchedAt": 1787311630225
+  },
+  "https://sifted.eu/articles/who-are-europes-top-vcs-claude-and-chatgpt-have-some-quirky-picks/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1002,quality=75,fit=cover,format=auto/wp-content/uploads/2026/03/19163449/Screenshot-2026-03-19-at-16.34.44.png",
+    "fetchedAt": 1787311631654
+  },
+  "https://www.techmeme.com/260821/p5#a260821p5": {
+    "image": null,
+    "fetchedAt": 1787311632010
+  },
+  "https://thenextweb.com/news/castelion-1bn-series-c-13bn-hypersonic-blackbeard": {
+    "image": "https://media.thenextweb.com/2026/08/Castelion.jpg",
+    "fetchedAt": 1787311632542
   }
 }
