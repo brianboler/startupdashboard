@@ -1,60 +1,4 @@
 {
-  "https://www.techmeme.com/260809/p4#a260809p4": {
-    "image": null,
-    "fetchedAt": 1786274883223
-  },
-  "https://www.techmeme.com/260809/p2#a260809p2": {
-    "image": null,
-    "fetchedAt": 1786274883581
-  },
-  "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686",
-    "fetchedAt": 1786274884028
-  },
-  "https://www.techmeme.com/260809/p5#a260809p5": {
-    "image": null,
-    "fetchedAt": 1786274884386
-  },
-  "https://www.techmeme.com/260808/p10#a260808p10": {
-    "image": null,
-    "fetchedAt": 1786274884743
-  },
-  "https://www.techmeme.com/260808/p9#a260808p9": {
-    "image": null,
-    "fetchedAt": 1786274885100
-  },
-  "https://www.techmeme.com/260808/p8#a260808p8": {
-    "image": null,
-    "fetchedAt": 1786274885457
-  },
-  "https://www.techmeme.com/260808/p7#a260808p7": {
-    "image": null,
-    "fetchedAt": 1786274885814
-  },
-  "https://www.techmeme.com/260808/p6#a260808p6": {
-    "image": null,
-    "fetchedAt": 1786274886169
-  },
-  "https://thenextweb.com/news/x-original-content-rewards-program-revenue-sharing-ends": {
-    "image": "https://media.thenextweb.com/2026/08/x-original-content-rewards-program-revenue-sharing-ends.jpg",
-    "fetchedAt": 1786274886685
-  },
-  "https://www.techmeme.com/260809/p3#a260809p3": {
-    "image": null,
-    "fetchedAt": 1786274887047
-  },
-  "https://www.techmeme.com/260809/p1#a260809p1": {
-    "image": null,
-    "fetchedAt": 1786274887405
-  },
-  "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER__B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1786274887905
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1786274888302
-  },
   "https://www.techmeme.com/260810/p19#a260810p19": {
     "image": null,
     "fetchedAt": 1786362366211
@@ -982,5 +926,61 @@
   "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/": {
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/flipkart-minutes.jpg?resize=1200,800",
     "fetchedAt": 1787484132743
+  },
+  "https://news.crunchbase.com/ma/startup-unicorns-acquisitions-ai-fintech-biotech/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/mergers_and_acquisitions.jpg",
+    "fetchedAt": 1787570945505
+  },
+  "https://www.techmeme.com/260824/p11#a260824p11": {
+    "image": null,
+    "fetchedAt": 1787570945890
+  },
+  "https://www.techmeme.com/260824/p9#a260824p9": {
+    "image": null,
+    "fetchedAt": 1787570946251
+  },
+  "https://www.techmeme.com/260824/p13#a260824p13": {
+    "image": null,
+    "fetchedAt": 1787570946613
+  },
+  "https://www.techmeme.com/260824/p12#a260824p12": {
+    "image": null,
+    "fetchedAt": 1787570946974
+  },
+  "https://thenextweb.com/news/xpeng-robotics-900m-funding-round": {
+    "image": "https://media.thenextweb.com/2026/08/XPENG-AI-Robot-–-IRON.jpg",
+    "fetchedAt": 1787570947489
+  },
+  "https://www.techmeme.com/260824/p7#a260824p7": {
+    "image": null,
+    "fetchedAt": 1787570947851
+  },
+  "https://sifted.eu/articles/founders-ai-ip-strategy-brnd/": {
+    "image": "https://content.sifted.eu/wp-content/uploads/2026/08/19143531/Lightbringer2451-2-1-e1787146591540-1024x495.png",
+    "fetchedAt": 1787570948957
+  },
+  "https://thenextweb.com/news/phonak-eon-hearing-aid-hypersonic-chip": {
+    "image": "https://media.thenextweb.com/2026/08/EON-hearing-aids.jpg",
+    "fetchedAt": 1787570949438
+  },
+  "https://thenextweb.com/news/alibaba-wan3-video-model-after-share-sale": {
+    "image": "https://media.thenextweb.com/2026/08/Alibaba-launches-Wan3.0.jpg",
+    "fetchedAt": 1787570949916
+  },
+  "https://venturebeat.com/infrastructure/ibms-next-gen-mainframe-chip-is-the-first-to-run-arm-and-z-workloads-on-the-same-cores": {
+    "image": null,
+    "fetchedAt": 1787570950312
+  },
+  "https://www.techmeme.com/260824/p10#a260824p10": {
+    "image": null,
+    "fetchedAt": 1787570950674
+  },
+  "https://thenextweb.com/news/gowish-200m-valuation-funding-round": {
+    "image": "https://media.thenextweb.com/2026/08/GoWish-logo.jpg",
+    "fetchedAt": 1787570951146
+  },
+  "https://sifted.eu/articles/hugging-face-in-talks-for-13bn-sale-reports-say/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=800,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/24101839/Hugging-Face-team.png",
+    "fetchedAt": 1787570952036
   }
 }
