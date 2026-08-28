@@ -1,76 +1,4 @@
 {
-  "https://www.techmeme.com/260814/p5#a260814p5": {
-    "image": null,
-    "fetchedAt": 1786707846591
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK071_APPLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1786707847137
-  },
-  "https://thenextweb.com/news/goldman-nvidia-500bn-financing-role": {
-    "image": "https://media.thenextweb.com/2026/06/go-inc-japan-taxi-app-ipo-tokyo-stock-exchange-goldman-sachs.jpg",
-    "fetchedAt": 1786707848206
-  },
-  "https://thenextweb.com/news/apple-china-ai-model-alibaba-qwen": {
-    "image": "https://media.thenextweb.com/2026/07/apple-upgrade-klarna-device-leasing-program.jpg",
-    "fetchedAt": 1786707848756
-  },
-  "https://thenextweb.com/news/openais-new-ultrafast-mode-runs-gpt-5-6-sol-14-times-faster-on-cerebras-chips": {
-    "image": "https://media.thenextweb.com/2026/07/openai-models-escaped-hacked-hugging-face.jpg",
-    "fetchedAt": 1786707849301
-  },
-  "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut": {
-    "image": null,
-    "fetchedAt": 1786707849732
-  },
-  "https://www.geekwire.com/2026/lev-the-psl-spinout-building-an-ai-co-founder-for-startups-names-tech-vet-jay-bartot-as-cto/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/jay-ta-1260x945.jpeg",
-    "fetchedAt": 1786707850328
-  },
-  "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models": {
-    "image": null,
-    "fetchedAt": 1786707850823
-  },
-  "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges": {
-    "image": null,
-    "fetchedAt": 1786707851279
-  },
-  "https://www.techmeme.com/260814/p12#a260814p12": {
-    "image": null,
-    "fetchedAt": 1786707851660
-  },
-  "https://sifted.eu/articles/podcast-european-fintech-culture/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1280,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/14121049/Dami-pod-website.png",
-    "fetchedAt": 1786707853221
-  },
-  "https://www.techmeme.com/260814/p11#a260814p11": {
-    "image": null,
-    "fetchedAt": 1786707853581
-  },
-  "https://thenextweb.com/news/australia-social-media-ban-meta-age-signal-app-store": {
-    "image": "https://media.thenextweb.com/2026/04/australia-social-media-child-ban-compliance.jpg",
-    "fetchedAt": 1786707854628
-  },
-  "https://news.crunchbase.com/venture/unicorn-board-grows-40-companies-fintech-robotics-ai-july-2026/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/unicornboard_hero-resized.jpg",
-    "fetchedAt": 1786707855223
-  },
-  "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-msi-claw-ex-sean-hollister-1-8.jpg?quality=90&strip=all&crop=0%2C11.782791030077%2C100%2C78.534450752859&w=1200",
-    "fetchedAt": 1786707855695
-  },
-  "https://www.theverge.com/tech/979576/hoto-i-a06-cordless-soldering-iron-snapbloq-rechargeable": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/hotosolder1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-    "fetchedAt": 1786707856078
-  },
-  "https://www.techmeme.com/260814/p10#a260814p10": {
-    "image": null,
-    "fetchedAt": 1786707856440
-  },
-  "https://www.techmeme.com/260814/p9#a260814p9": {
-    "image": null,
-    "fetchedAt": 1786707856800
-  },
   "https://www.techmeme.com/260815/p5#a260815p5": {
     "image": null,
     "fetchedAt": 1786792746213
@@ -910,5 +838,69 @@
   "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books": {
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Expert-Intelligence-Hero.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
     "fetchedAt": 1787864289665
+  },
+  "https://www.techmeme.com/260828/p19#a260828p19": {
+    "image": null,
+    "fetchedAt": 1787952125755
+  },
+  "https://www.techmeme.com/260828/p18#a260828p18": {
+    "image": null,
+    "fetchedAt": 1787952126125
+  },
+  "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag": {
+    "image": null,
+    "fetchedAt": 1787952126564
+  },
+  "https://www.techmeme.com/260828/p13#a260828p13": {
+    "image": null,
+    "fetchedAt": 1787952126932
+  },
+  "https://www.geekwire.com/2026/pro-com-co-founders-reunite-to-launch-ontrade-an-ai-startup-for-the-wealth-management-industry/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/ontrade.png",
+    "fetchedAt": 1787952127701
+  },
+  "https://thenextweb.com/news/tim-draper-island-sale-ecb-european-venture-capital-gap": {
+    "image": "https://media.thenextweb.com/2026/08/tim-draper-island-sale-ecb-european-venture-capital-gap.jpg",
+    "fetchedAt": 1787952128260
+  },
+  "https://www.geekwire.com/2026/tech-moves-former-xbox-exec-named-dolby-ceo-microsoft-ai-exits-new-fred-hutch-leaders/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/696783-Marc-Whitten_Media-Kit-5b64e9-original-1787796002-1260x840.jpg",
+    "fetchedAt": 1787952128807
+  },
+  "https://www.techmeme.com/260828/p16#a260828p16": {
+    "image": null,
+    "fetchedAt": 1787952129176
+  },
+  "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mhsdemo-1152x648.png",
+    "fetchedAt": 1787952129759
+  },
+  "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents": {
+    "image": null,
+    "fetchedAt": 1787952130431
+  },
+  "https://www.techmeme.com/260828/p21#a260828p21": {
+    "image": null,
+    "fetchedAt": 1787952130801
+  },
+  "https://thenextweb.com/news/brands-give-up-influencers-ugc-creator-economy": {
+    "image": "https://media.thenextweb.com/2026/08/brands-give-up-influencers-ugc-creator-economy.jpg",
+    "fetchedAt": 1787952131297
+  },
+  "https://www.techmeme.com/260828/p20#a260828p20": {
+    "image": null,
+    "fetchedAt": 1787952131665
+  },
+  "https://www.geekwire.com/2026/game-over-new-routine-laid-off-xbox-manager-built-her-korean-skincare-startup-before-cuts-hit/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/viajiin.png",
+    "fetchedAt": 1787952132200
+  },
+  "https://thenextweb.com/news/lucid-air-recall-efuse-software-fire-risk-eu-software-update-rules": {
+    "image": "https://media.thenextweb.com/2026/08/lucid-air-recall-efuse-software-fire-risk-eu-software-update-rules.jpg",
+    "fetchedAt": 1787952132690
+  },
+  "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
+    "fetchedAt": 1787952133104
   }
 }
