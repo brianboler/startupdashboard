@@ -1,60 +1,4 @@
 {
-  "https://www.techmeme.com/260815/p5#a260815p5": {
-    "image": null,
-    "fetchedAt": 1786792746213
-  },
-  "https://www.techmeme.com/260815/p4#a260815p4": {
-    "image": null,
-    "fetchedAt": 1786792746574
-  },
-  "https://www.techmeme.com/260814/p34#a260814p34": {
-    "image": null,
-    "fetchedAt": 1786792746935
-  },
-  "https://www.techmeme.com/260815/p7#a260815p7": {
-    "image": null,
-    "fetchedAt": 1786792747296
-  },
-  "https://www.techmeme.com/260815/p2#a260815p2": {
-    "image": null,
-    "fetchedAt": 1786792747659
-  },
-  "https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
-    "fetchedAt": 1786792748175
-  },
-  "https://www.techmeme.com/260815/p6#a260815p6": {
-    "image": null,
-    "fetchedAt": 1786792748537
-  },
-  "https://www.techmeme.com/260815/p1#a260815p1": {
-    "image": null,
-    "fetchedAt": 1786792748899
-  },
-  "https://www.geekwire.com/2026/amazons-twitch-is-using-livestreams-to-train-its-generative-ai-and-nobodys-happy-with-it/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2016/09/20160903_PAX_West_147.jpg",
-    "fetchedAt": 1786792749533
-  },
-  "https://thenextweb.com/news/openai-enterprise-revenue-overtakes-consumer-friar": {
-    "image": "https://media.thenextweb.com/2026/08/openai-enterprise-revenue-overtakes-consumer-friar.jpg",
-    "fetchedAt": 1786792750072
-  },
-  "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee": {
-    "image": "https://media.thenextweb.com/2026/08/andon-market-storefront.jpg",
-    "fetchedAt": 1786792750573
-  },
-  "https://www.techmeme.com/260815/p8#a260815p8": {
-    "image": null,
-    "fetchedAt": 1786792750935
-  },
-  "https://www.techmeme.com/260815/p3#a260815p3": {
-    "image": null,
-    "fetchedAt": 1786792751298
-  },
-  "https://www.techmeme.com/260814/p35#a260814p35": {
-    "image": null,
-    "fetchedAt": 1786792751659
-  },
   "https://www.techmeme.com/260816/p1#a260816p1": {
     "image": null,
     "fetchedAt": 1786879206135
@@ -902,5 +846,69 @@
   "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/": {
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
     "fetchedAt": 1787952133104
+  },
+  "https://thenextweb.com/news/openai-ends-cursor-contract-spacex-acquisition-eu-switching-rules": {
+    "image": "https://media.thenextweb.com/2026/07/altman-white-house-openai-model-preview-agents.jpg",
+    "fetchedAt": 1788017525545
+  },
+  "https://www.techmeme.com/260829/p1#a260829p1": {
+    "image": null,
+    "fetchedAt": 1788017525915
+  },
+  "https://www.techmeme.com/260829/p10#a260829p10": {
+    "image": null,
+    "fetchedAt": 1788017526273
+  },
+  "https://www.techmeme.com/260829/p9#a260829p9": {
+    "image": null,
+    "fetchedAt": 1788017526630
+  },
+  "https://www.techmeme.com/260829/p6#a260829p6": {
+    "image": null,
+    "fetchedAt": 1788017526988
+  },
+  "https://www.techmeme.com/260829/p2#a260829p2": {
+    "image": null,
+    "fetchedAt": 1788017527344
+  },
+  "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1788017527906
+  },
+  "https://thenextweb.com/news/ai-agents-clearer-limits-authorization": {
+    "image": "https://media.thenextweb.com/2026/08/georgia-power-demolishing-homes-ai-data-centres-zuckerberg-agents.jpg",
+    "fetchedAt": 1788017528376
+  },
+  "https://thenextweb.com/news/lambda-1bn-private-debt-microsoft-lease-nebius-european-neocloud": {
+    "image": "https://media.thenextweb.com/2026/08/lambda-1bn-private-debt-microsoft-lease-nebius-european-neocloud.jpg",
+    "fetchedAt": 1788017529102
+  },
+  "https://www.geekwire.com/2026/bill-gates-in-his-own-words-how-hes-using-ai-and-why-hes-worried-about-the-future/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/20250404_Microsoft_205.jpg",
+    "fetchedAt": 1788017529693
+  },
+  "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/unnamed.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1788017530091
+  },
+  "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/samsung-galaxy-z-flip-8-review-13.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1788017530506
+  },
+  "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&strip=all&crop=0%2C11.150136769481%2C85.33125%2C67.014037093516&w=1200",
+    "fetchedAt": 1788017530912
+  },
+  "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/personaldata-1024x648.jpg",
+    "fetchedAt": 1788017531398
+  },
+  "https://thenextweb.com/news/china-auto-quality-campaign-physical-controls-ota-euro-ncap": {
+    "image": "https://media.thenextweb.com/2026/08/china-auto-quality-campaign-physical-controls-ota-euro-nca.jpg",
+    "fetchedAt": 1788017531864
+  },
+  "https://thenextweb.com/news/pure-lithium-graphite-free-lithium-metal-battery-eu-critical-raw-materials": {
+    "image": "https://media.thenextweb.com/2026/08/pure-lithium-graphite-free-lithium-metal-battery-eu-critical-raw-materials.jpg",
+    "fetchedAt": 1788017532334
   }
 }
