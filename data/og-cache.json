@@ -1,72 +1,4 @@
 {
-  "https://www.techmeme.com/260816/p1#a260816p1": {
-    "image": null,
-    "fetchedAt": 1786879206135
-  },
-  "https://www.geekwire.com/2026/bezos-and-liverpool-fc-a-meta-vets-ai-startup-augers-dallas-move-and-the-demise-of-microsofts-ai-blob/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
-    "fetchedAt": 1786879206878
-  },
-  "https://www.techmeme.com/260815/p14#a260815p14": {
-    "image": null,
-    "fetchedAt": 1786879207243
-  },
-  "https://thenextweb.com/news/nvidia-openai-backstop-halved-13f-spacex-intel": {
-    "image": "https://media.thenextweb.com/2026/07/nvidia-naver-sk-group-korea-ai-investment.jpg",
-    "fetchedAt": 1786879207783
-  },
-  "https://www.techmeme.com/260816/p3#a260816p3": {
-    "image": null,
-    "fetchedAt": 1786879208145
-  },
-  "https://www.techmeme.com/260815/p18#a260815p18": {
-    "image": null,
-    "fetchedAt": 1786879208507
-  },
-  "https://www.techmeme.com/260815/p15#a260815p15": {
-    "image": null,
-    "fetchedAt": 1786879208868
-  },
-  "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong": {
-    "image": null,
-    "fetchedAt": 1786879209291
-  },
-  "https://thenextweb.com/news/anthropic-q2-2026-revenue-11-5-billion-operating-income": {
-    "image": "https://media.thenextweb.com/2026/06/anthropic-mythos-5-us-clearance-trusted-partners-fable-restricted.jpg",
-    "fetchedAt": 1786879209788
-  },
-  "https://thenextweb.com/news/lg-nvidia-humanoid-robot-2027-isaac-groot": {
-    "image": "https://media.thenextweb.com/2026/05/lg-electronics-stock-surge-google-android-automotive.jpg",
-    "fetchedAt": 1786879210289
-  },
-  "https://www.techmeme.com/260816/p5#a260816p5": {
-    "image": null,
-    "fetchedAt": 1786879210653
-  },
-  "https://thenextweb.com/news/mastercard-australia-outage-scheduled-update-cash": {
-    "image": "https://media.thenextweb.com/2026/08/mastercard-australia-outage-scheduled-update-cash.jpg",
-    "fetchedAt": 1786879211151
-  },
-  "https://thenextweb.com/news/alibaba-qwen-downloads-hugging-face-open-models": {
-    "image": "https://media.thenextweb.com/2026/07/alibaba-qwen-apple-intelligence-china-approved.jpg",
-    "fetchedAt": 1786879211646
-  },
-  "https://www.techmeme.com/260816/p4#a260816p4": {
-    "image": null,
-    "fetchedAt": 1786879212013
-  },
-  "https://www.techmeme.com/260816/p2#a260816p2": {
-    "image": null,
-    "fetchedAt": 1786879212377
-  },
-  "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Polaroid-Go-Generation-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1786879212871
-  },
-  "https://www.techmeme.com/260815/p17#a260815p17": {
-    "image": null,
-    "fetchedAt": 1786879213235
-  },
   "https://www.techmeme.com/260817/p6#a260817p6": {
     "image": null,
     "fetchedAt": 1786965846069
@@ -910,5 +842,73 @@
   "https://thenextweb.com/news/pure-lithium-graphite-free-lithium-metal-battery-eu-critical-raw-materials": {
     "image": "https://media.thenextweb.com/2026/08/pure-lithium-graphite-free-lithium-metal-battery-eu-critical-raw-materials.jpg",
     "fetchedAt": 1788017532334
+  },
+  "https://www.techmeme.com/260830/p3#a260830p3": {
+    "image": null,
+    "fetchedAt": 1788102785459
+  },
+  "https://www.techmeme.com/260830/p2#a260830p2": {
+    "image": null,
+    "fetchedAt": 1788102785816
+  },
+  "https://www.techmeme.com/260830/p5#a260830p5": {
+    "image": null,
+    "fetchedAt": 1788102786174
+  },
+  "https://www.techmeme.com/260830/p4#a260830p4": {
+    "image": null,
+    "fetchedAt": 1788102786532
+  },
+  "https://www.techmeme.com/260830/p7#a260830p7": {
+    "image": null,
+    "fetchedAt": 1788102786890
+  },
+  "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
+    "fetchedAt": 1788102787392
+  },
+  "https://thenextweb.com/news/sony-warner-chappell-anthropic-lyrics-lawsuit-gema-munich-tdm": {
+    "image": "https://media.thenextweb.com/2026/06/anthropic-mythos-eu-enisa-cybersecurity-access.jpg",
+    "fetchedAt": 1788102787891
+  },
+  "https://www.techmeme.com/260829/p17#a260829p17": {
+    "image": null,
+    "fetchedAt": 1788102788249
+  },
+  "https://thenextweb.com/news/hugging-face-nvidia-acquisition-thomas-wolf-interview": {
+    "image": "https://media.thenextweb.com/2026/08/hugging-face-nvidia-acquisition-thomas-wolf-interview.jpg",
+    "fetchedAt": 1788102788722
+  },
+  "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/silo-1152x648.jpg",
+    "fetchedAt": 1788102789114
+  },
+  "https://thenextweb.com/news/google-maps-lake-ontario-lake-america-dsa-vlop-inspire": {
+    "image": "https://media.thenextweb.com/2026/08/google-maps-ask-maps-agentic-food-ordering-hotel-booking.jpg",
+    "fetchedAt": 1788102789580
+  },
+  "https://www.techmeme.com/260830/p6#a260830p6": {
+    "image": null,
+    "fetchedAt": 1788102789937
+  },
+  "https://www.theverge.com/games/986302/chess-poker-expansion-gambit": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/chess-com-gambit-launch-bot-match.png?quality=90&strip=all&crop=0%2C1.4388257843755%2C100%2C97.122348431249&w=1200",
+    "fetchedAt": 1788102790428
+  },
+  "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2292163504.jpg?quality=90&strip=all&crop=0%2C10.729590721704%2C100%2C78.540818556592&w=1200",
+    "fetchedAt": 1788102790823
+  },
+  "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/installer_c1a629.jpg?quality=90&strip=all&crop=0%2C3.428851907255%2C100%2C93.14229618549&w=1200",
+    "fetchedAt": 1788102791219
+  },
+  "https://thenextweb.com/news/uk-mobile-networks-ai-planning-reform-eu-gigabit-infrastructure-act": {
+    "image": "https://media.thenextweb.com/2026/07/aeredium-patent-stablecoin-audits-ai-continuous-verification.jpg",
+    "fetchedAt": 1788102791686
+  },
+  "https://thenextweb.com/news/bill-gates-robot-tax-again-european-parliament-2017-vote": {
+    "image": "https://media.thenextweb.com/2026/08/bill-gates-robot-tax-again-european-parliament-2017-vote.jpg",
+    "fetchedAt": 1788102792149
   }
 }
