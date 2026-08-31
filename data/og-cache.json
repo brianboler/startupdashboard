@@ -1,72 +1,4 @@
 {
-  "https://www.techmeme.com/260817/p6#a260817p6": {
-    "image": null,
-    "fetchedAt": 1786965846069
-  },
-  "https://thenextweb.com/news/stripe-openrouter-7bn-acquisition": {
-    "image": "https://media.thenextweb.com/2026/08/Stripe-logo.jpg",
-    "fetchedAt": 1786965846880
-  },
-  "https://www.techmeme.com/260817/p3#a260817p3": {
-    "image": null,
-    "fetchedAt": 1786965847236
-  },
-  "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2024/04/Stripe-resized.webp?resize=1200,674",
-    "fetchedAt": 1786965847657
-  },
-  "https://www.techmeme.com/260817/p8#a260817p8": {
-    "image": null,
-    "fetchedAt": 1786965848014
-  },
-  "https://thenextweb.com/news/anthropic-ipo-190-200bn-2028-revenue-forecast": {
-    "image": "https://media.thenextweb.com/2026/07/Anthropic-logo.jpg",
-    "fetchedAt": 1786965848485
-  },
-  "https://thenextweb.com/news/told-to-book-a-gym-class-an-ai-agent-hacked-the-website-instead-in-australias-first-known-autonomous-cyberattack": {
-    "image": "https://media.thenextweb.com/2026/08/AI-agent.jpg",
-    "fetchedAt": 1786965848953
-  },
-  "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_LITTER_ROBOT.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1786965849468
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1786965849851
-  },
-  "https://www.techmeme.com/260817/p7#a260817p7": {
-    "image": null,
-    "fetchedAt": 1786965850208
-  },
-  "https://news.crunchbase.com/venture/semiconductor-giants-nvda-intc-backing-ai-robotics-starups-2026/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/Computer_chip_02.jpg",
-    "fetchedAt": 1786965850728
-  },
-  "https://www.theverge.com/tech/970021/how-to-take-better-pet-photos": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PHOTOS.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1786965851127
-  },
-  "https://www.techmeme.com/260817/p11#a260817p11": {
-    "image": null,
-    "fetchedAt": 1786965851484
-  },
-  "https://thenextweb.com/news/beijing-agi-bar-deepseek-free-tokens": {
-    "image": "https://media.thenextweb.com/2026/08/AGI-Bar.jpg",
-    "fetchedAt": 1786965851949
-  },
-  "https://www.techmeme.com/260817/p10#a260817p10": {
-    "image": null,
-    "fetchedAt": 1786965852310
-  },
-  "https://thenextweb.com/news/helsing-rakuten-japan-military-drones": {
-    "image": "https://media.thenextweb.com/2026/08/Helsing-founders-photo-group.jpg",
-    "fetchedAt": 1786965852772
-  },
-  "https://www.techmeme.com/260817/p9#a260817p9": {
-    "image": null,
-    "fetchedAt": 1786965853128
-  },
   "https://www.techmeme.com/260818/p8#a260818p8": {
     "image": null,
     "fetchedAt": 1787052246340
@@ -910,5 +842,77 @@
   "https://thenextweb.com/news/bill-gates-robot-tax-again-european-parliament-2017-vote": {
     "image": "https://media.thenextweb.com/2026/08/bill-gates-robot-tax-again-european-parliament-2017-vote.jpg",
     "fetchedAt": 1788102792149
+  },
+  "https://www.techmeme.com/260831/p30#a260831p30": {
+    "image": null,
+    "fetchedAt": 1788198905488
+  },
+  "https://news.crunchbase.com/health-wellness-biotech/startup-investment-exits-steady-ai-2026/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Biotech_Privacy.jpg",
+    "fetchedAt": 1788198906013
+  },
+  "https://www.techmeme.com/260831/p24#a260831p24": {
+    "image": null,
+    "fetchedAt": 1788198906378
+  },
+  "https://www.geekwire.com/2026/redfin-fills-ceo-role-with-former-meta-vp-alessio-sanfilippo-after-acquisition-by-rocket/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/AlessioSanfilippo-full-scaled1.jpg",
+    "fetchedAt": 1788198906815
+  },
+  "https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-08-at-1.01.41PM.png?quality=90&strip=all&crop=0%2C2.7453349442878%2C100%2C94.509330111424&w=1200",
+    "fetchedAt": 1788198907276
+  },
+  "https://www.techmeme.com/260831/p21#a260831p21": {
+    "image": null,
+    "fetchedAt": 1788198907646
+  },
+  "https://venturebeat.com/security/identity-and-permissions-arent-enough-to-govern-ai-agent-behavior": {
+    "image": null,
+    "fetchedAt": 1788198908054
+  },
+  "https://thenextweb.com/news/meta-project-ot-ai-native-layoffs-cancelled": {
+    "image": "https://media.thenextweb.com/2026/07/meta-stock-best-week-ai-cloud-compute.jpg",
+    "fetchedAt": 1788198908562
+  },
+  "https://sifted.eu/articles/defence-startups-lean-on-the-danish-model-to-support-ukraine/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/31110106/dropla-CEO-scaled.jpg",
+    "fetchedAt": 1788198909866
+  },
+  "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/": {
+    "image": null,
+    "fetchedAt": 1788198910387
+  },
+  "https://thenextweb.com/news/phil-schiller-steps-down-app-store-events-dma-europe": {
+    "image": "https://media.thenextweb.com/2026/08/phil-schiller-steps-down-app-store-events-dma-europe.jpg",
+    "fetchedAt": 1788198910852
+  },
+  "https://www.techmeme.com/260831/p29#a260831p29": {
+    "image": null,
+    "fetchedAt": 1788198911217
+  },
+  "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/ryan-breslow-bolt.jpg?resize=1200,800",
+    "fetchedAt": 1788198911630
+  },
+  "https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/2027MercedesBenzCLA3505.jpg?quality=90&strip=all&crop=0%2C5.724295186124%2C100%2C88.551409627752&w=1200",
+    "fetchedAt": 1788198912035
+  },
+  "https://www.techmeme.com/260831/p28#a260831p28": {
+    "image": null,
+    "fetchedAt": 1788198912400
+  },
+  "https://thenextweb.com/news/digital-legacy-eternal-memory-people-behind-memories": {
+    "image": "https://media.thenextweb.com/2026/08/digital-legacy-eternal-memory-people-behind-memories.jpg",
+    "fetchedAt": 1788198912872
+  },
+  "https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1173663853.jpg?quality=90&strip=all&crop=0%2C13.753523962948%2C100%2C72.492952074104&w=1200",
+    "fetchedAt": 1788198913252
+  },
+  "https://www.techmeme.com/260831/p27#a260831p27": {
+    "image": null,
+    "fetchedAt": 1788198913619
   }
 }
