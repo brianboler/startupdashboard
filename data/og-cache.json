@@ -1,56 +1,4 @@
 {
-  "https://www.techmeme.com/260819/p11#a260819p11": {
-    "image": null,
-    "fetchedAt": 1787138647075
-  },
-  "https://www.techmeme.com/260819/p6#a260819p6": {
-    "image": null,
-    "fetchedAt": 1787138647432
-  },
-  "https://sifted.eu/articles/openai-clarifies-acquisition-offer/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2023/09/14101035/SamAltmanTechCrunch2019-scaled.jpeg",
-    "fetchedAt": 1787138649226
-  },
-  "https://thenextweb.com/news/medly-ai-8m-seed-felix-capital-gcse-tutoring": {
-    "image": "https://media.thenextweb.com/2026/08/Medly-AI-cofounders.jpg",
-    "fetchedAt": 1787138649790
-  },
-  "https://www.techmeme.com/260819/p14#a260819p14": {
-    "image": null,
-    "fetchedAt": 1787138650147
-  },
-  "https://news.crunchbase.com/venture/unicorn-investors-ai-robotics-2026-sequoia-khosla/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/Unicorn_Money_v3.jpg",
-    "fetchedAt": 1787138650672
-  },
-  "https://sifted.eu/articles/startups-ai-slop-internal-communications/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1536,quality=75,fit=cover,format=auto/wp-content/uploads/2026/06/19155002/ChatGPT-Image-Jun-19-2026-03_49_46-PM-e1781880722984.png",
-    "fetchedAt": 1787138651829
-  },
-  "https://www.techmeme.com/260819/p13#a260819p13": {
-    "image": null,
-    "fetchedAt": 1787138652191
-  },
-  "https://thenextweb.com/news/alphabet-australian-dollar-bond-record-kangaroo": {
-    "image": "https://media.thenextweb.com/2026/08/Alphabet-company.jpg",
-    "fetchedAt": 1787138652712
-  },
-  "https://www.techmeme.com/260819/p12#a260819p12": {
-    "image": null,
-    "fetchedAt": 1787138653068
-  },
-  "https://www.techmeme.com/260819/p15#a260819p15": {
-    "image": null,
-    "fetchedAt": 1787138653425
-  },
-  "https://news.crunchbase.com/ma/company-board-selling-considerations-sagie/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/money-kites.jpg",
-    "fetchedAt": 1787138653910
-  },
-  "https://sifted.eu/articles/chasing-invoices-getting-paid/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=800,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/16160351/1725897439986.jpg",
-    "fetchedAt": 1787138655112
-  },
   "https://www.techmeme.com/260820/p7#a260820p7": {
     "image": null,
     "fetchedAt": 1787225225748
@@ -910,5 +858,57 @@
   "https://thenextweb.com/news/dyson-camerajet-toothbrush-camera-jet": {
     "image": "https://media.thenextweb.com/2026/09/Dyson-CameraJet-Brush.jpg",
     "fetchedAt": 1788276431675
+  },
+  "https://www.techmeme.com/260902/p21#a260902p21": {
+    "image": null,
+    "fetchedAt": 1788361265472
+  },
+  "https://www.techmeme.com/260902/p22#a260902p22": {
+    "image": null,
+    "fetchedAt": 1788361265839
+  },
+  "https://thenextweb.com/news/walnut-launches-enterprise-ai-agent-platform": {
+    "image": "https://media.thenextweb.com/2026/09/Walnut.jpg",
+    "fetchedAt": 1788361266454
+  },
+  "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Yair-Saban-and-Niv-Hoffman.-Credit-Netanel-Tobias.jpeg?resize=1200,798",
+    "fetchedAt": 1788361266891
+  },
+  "https://sifted.eu/articles/mistral-series-d-samsung-nvidia-asml/": {
+    "image": "https://content.sifted.eu/wp-content/uploads/2026/05/28111139/mistral-infra-1024x336.png",
+    "fetchedAt": 1788361268166
+  },
+  "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?resize=1200,800",
+    "fetchedAt": 1788361268552
+  },
+  "https://www.geekwire.com/2026/newdays-brings-its-ai-driven-dementia-care-platform-to-nevada-expands-seed-round-to-16m/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/NewDays-founders1.jpg",
+    "fetchedAt": 1788361268974
+  },
+  "https://thenextweb.com/news/huskeys-raises-27m-series-a-led-by-blackstone": {
+    "image": "https://media.thenextweb.com/2026/09/Huskeys-founders.jpg",
+    "fetchedAt": 1788361269482
+  },
+  "https://www.techmeme.com/260902/p18#a260902p18": {
+    "image": null,
+    "fetchedAt": 1788361269847
+  },
+  "https://news.crunchbase.com/public/startups-to-watch-ipo-ai-chips-fintech-2026/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/IPO-on-horizon.jpg",
+    "fetchedAt": 1788361270359
+  },
+  "https://www.techmeme.com/260902/p23#a260902p23": {
+    "image": null,
+    "fetchedAt": 1788361270726
+  },
+  "https://venturebeat.com/orchestration/forward-deployed-engineering-is-how-enterprise-ai-learns": {
+    "image": null,
+    "fetchedAt": 1788361271182
+  },
+  "https://www.techmeme.com/260902/p20#a260902p20": {
+    "image": null,
+    "fetchedAt": 1788361271550
   }
 }
