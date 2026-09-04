@@ -1,72 +1,4 @@
 {
-  "https://www.techmeme.com/260821/p4#a260821p4": {
-    "image": null,
-    "fetchedAt": 1787311622325
-  },
-  "https://www.techmeme.com/260820/p45#a260820p45": {
-    "image": null,
-    "fetchedAt": 1787311622681
-  },
-  "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/IMG_2686.jpeg?resize=1200,957",
-    "fetchedAt": 1787311623170
-  },
-  "https://sifted.eu/articles/uk-chip-startup-fractile-in-talks-to-raise-at-6-5bn-valuation-reports-say/": {
-    "image": "https://content.sifted.eu/wp-content/uploads/2026/01/15162656/Fractiles-Walter-Goodwin-855x1024.png",
-    "fetchedAt": 1787311624843
-  },
-  "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/Nicolas-Kopp-Founder-and-CEO-3.jpg?resize=1200,800",
-    "fetchedAt": 1787311625232
-  },
-  "https://news.crunchbase.com/ai/interesting-startup-deals-ai-recycling-robotics-healthcare-data/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/5_Most_Interesting.jpeg",
-    "fetchedAt": 1787311625815
-  },
-  "https://sifted.eu/articles/legal-dispute-monaco-bank/": {
-    "image": "https://content.sifted.eu/wp-content/uploads/2026/08/21102210/havilland-1024x336.png",
-    "fetchedAt": 1787311627057
-  },
-  "https://thenextweb.com/news/teen-drops-bellwether-case-meta-google-snap": {
-    "image": "https://media.thenextweb.com/2026/04/Meta.jpg",
-    "fetchedAt": 1787311627607
-  },
-  "https://www.techmeme.com/260821/p1#a260821p1": {
-    "image": null,
-    "fetchedAt": 1787311627978
-  },
-  "https://thenextweb.com/news/samsung-shareholder-return-110-trillion-won-record": {
-    "image": "https://media.thenextweb.com/2026/08/Samsung-Corporate-CES-2026.jpg",
-    "fetchedAt": 1787311628531
-  },
-  "https://www.techmeme.com/260821/p6#a260821p6": {
-    "image": null,
-    "fetchedAt": 1787311628888
-  },
-  "https://www.theverge.com/tech/983156/patreon-update-roadmap-algorithm-changes": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Patreon-2026-update-roadmap-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1787311629311
-  },
-  "https://www.theverge.com/gadgets/981738/my-big-fat-technophobic-cat": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268664_Pablo_pet_tech_AKrales_0032.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1787311629695
-  },
-  "https://thenextweb.com/news/youtube-premium-price-rise-europe-opt-in": {
-    "image": "https://media.thenextweb.com/2026/07/youtube-picture-in-picture-broken-android-ios.jpg",
-    "fetchedAt": 1787311630225
-  },
-  "https://sifted.eu/articles/who-are-europes-top-vcs-claude-and-chatgpt-have-some-quirky-picks/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1002,quality=75,fit=cover,format=auto/wp-content/uploads/2026/03/19163449/Screenshot-2026-03-19-at-16.34.44.png",
-    "fetchedAt": 1787311631654
-  },
-  "https://www.techmeme.com/260821/p5#a260821p5": {
-    "image": null,
-    "fetchedAt": 1787311632010
-  },
-  "https://thenextweb.com/news/castelion-1bn-series-c-13bn-hypersonic-blackbeard": {
-    "image": "https://media.thenextweb.com/2026/08/Castelion.jpg",
-    "fetchedAt": 1787311632542
-  },
   "https://www.techmeme.com/260821/p30#a260821p30": {
     "image": null,
     "fetchedAt": 1787397725524
@@ -914,5 +846,65 @@
   "https://www.theverge.com/tech/989246/switchbot-lock-ultra-max-retrofit-smartlock-ifa-launch": {
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/SwitchBot-Lock-Ultra-Max-combo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "fetchedAt": 1788447314975
+  },
+  "https://thenextweb.com/news/coefficient-giving-ai-safety-funding-ipo-correlation": {
+    "image": "https://media.thenextweb.com/2026/09/coefficient-giving-ai-safety-funding-ipo-correlation.jpg",
+    "fetchedAt": 1788533407397
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+    "fetchedAt": 1788533407877
+  },
+  "https://www.techmeme.com/260904/p15#a260904p15": {
+    "image": null,
+    "fetchedAt": 1788533408248
+  },
+  "https://sifted.eu/articles/bessemer-creandum-gridfield/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1920,quality=75,fit=cover,format=auto/wp-content/uploads/2019/07/25132008/artificial-intelligence-artwork-brain-1166602.jpg",
+    "fetchedAt": 1788533410054
+  },
+  "https://www.techmeme.com/260904/p9#a260904p9": {
+    "image": null,
+    "fetchedAt": 1788533410411
+  },
+  "https://www.techmeme.com/260904/p17#a260904p17": {
+    "image": null,
+    "fetchedAt": 1788533410769
+  },
+  "https://sifted.eu/articles/exclusive-h-cofounder-laurent-sifre-joins-microsoft/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1008,quality=75,fit=cover,format=auto/wp-content/uploads/2026/05/13145331/SLUSH2025_11.18_HERACHOI_Impact-Stage_Laurent-Sifre-Beatrice-Nolan-9921_1008x672.jpg",
+    "fetchedAt": 1788533412212
+  },
+  "https://www.techmeme.com/260904/p16#a260904p16": {
+    "image": null,
+    "fetchedAt": 1788533412570
+  },
+  "https://www.techmeme.com/260904/p13#a260904p13": {
+    "image": null,
+    "fetchedAt": 1788533412926
+  },
+  "https://www.techmeme.com/260904/p12#a260904p12": {
+    "image": null,
+    "fetchedAt": 1788533413284
+  },
+  "https://thenextweb.com/news/volkswagen-future-plan-2030-50000-more-job-cuts-vw-law-lower-saxony-blocking-minority-unanimous": {
+    "image": "https://media.thenextweb.com/2026/07/volkswagen-engineers-insider-trading-rivian-joint-venture.jpg",
+    "fetchedAt": 1788533413851
+  },
+  "https://www.theverge.com/games/990207/nintendo-direct-zelda-40th": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/HRYKxliWIAISSmH.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "fetchedAt": 1788533414272
+  },
+  "https://thenextweb.com/news/uk-electric-cars-best-selling-powertrain-august-2026-zev-mandate-vs-eu-2035-90-percent-revision": {
+    "image": "https://media.thenextweb.com/2026/08/tesla-exhausts-california-myfirstev-rebate-five-days.jpg",
+    "fetchedAt": 1788533414808
+  },
+  "https://www.geekwire.com/2026/etzioni-on-ai-what-kids-tell-chatbots-but-not-you/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/phone-teens-ai-1-768x432.png",
+    "fetchedAt": 1788533415230
+  },
+  "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2023/06/After-Hours-_-group.png?resize=1200,675",
+    "fetchedAt": 1788533415661
   }
 }
