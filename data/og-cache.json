@@ -1,72 +1,4 @@
 {
-  "https://www.techmeme.com/260821/p30#a260821p30": {
-    "image": null,
-    "fetchedAt": 1787397725524
-  },
-  "https://www.techmeme.com/260821/p29#a260821p29": {
-    "image": null,
-    "fetchedAt": 1787397725886
-  },
-  "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Rillet.jpg?resize=1200,799",
-    "fetchedAt": 1787397726416
-  },
-  "https://www.techmeme.com/260822/p4#a260822p4": {
-    "image": null,
-    "fetchedAt": 1787397726778
-  },
-  "https://www.techmeme.com/260822/p3#a260822p3": {
-    "image": null,
-    "fetchedAt": 1787397727139
-  },
-  "https://www.techmeme.com/260821/p32#a260821p32": {
-    "image": null,
-    "fetchedAt": 1787397727506
-  },
-  "https://thenextweb.com/news/anthropic-mythos-5-defenders-open-source-fund": {
-    "image": "https://media.thenextweb.com/2026/08/anthropic-mythos-5-defenders-open-source-fund.jpg",
-    "fetchedAt": 1787397728041
-  },
-  "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs": {
-    "image": null,
-    "fetchedAt": 1787397728516
-  },
-  "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Starcloud-Founders-2026.jpg?w=810",
-    "fetchedAt": 1787397728929
-  },
-  "https://www.techmeme.com/260822/p5#a260822p5": {
-    "image": null,
-    "fetchedAt": 1787397729293
-  },
-  "https://thenextweb.com/news/letara-hybrid-rocket-engines-funding-japan": {
-    "image": "https://media.thenextweb.com/2026/08/letara-hybrid-rocket-engines-funding-japan.jpg",
-    "fetchedAt": 1787397729783
-  },
-  "https://thenextweb.com/news/researchers-found-768-leaked-aws-keys-that-still-work-and-the-containment-policy-leaves-plenty-possible": {
-    "image": "https://media.thenextweb.com/2026/07/aws-billing-bug-billion-dollar-estimates.jpg",
-    "fetchedAt": 1787397730270
-  },
-  "https://thenextweb.com/news/tiktok-400m-doj-children-privacy-settlement": {
-    "image": "https://media.thenextweb.com/2026/06/tiktok-super-app-shop-travel-fintech-world-cup.jpg",
-    "fetchedAt": 1787397730758
-  },
-  "https://thenextweb.com/news/anthropic-ipo-100-billion-two-trillion-valuation": {
-    "image": "https://media.thenextweb.com/2026/08/anthropic-names-first-chief-global-affairs-officer.jpg",
-    "fetchedAt": 1787397731242
-  },
-  "https://thenextweb.com/news/ormat-geothermal-data-centres-google-europe": {
-    "image": "https://media.thenextweb.com/2026/08/eu-ai-act-enforcement-powers-inspect-fine-models.jpg",
-    "fetchedAt": 1787397731725
-  },
-  "https://www.techmeme.com/260822/p2#a260822p2": {
-    "image": null,
-    "fetchedAt": 1787397732086
-  },
-  "https://www.techmeme.com/260822/p1#a260822p1": {
-    "image": null,
-    "fetchedAt": 1787397732448
-  },
   "https://www.techmeme.com/260822/p13#a260822p13": {
     "image": null,
     "fetchedAt": 1787484125592
@@ -906,5 +838,73 @@
   "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/": {
     "image": "https://techcrunch.com/wp-content/uploads/2023/06/After-Hours-_-group.png?resize=1200,675",
     "fetchedAt": 1788533415661
+  },
+  "https://www.techmeme.com/260905/p6#a260905p6": {
+    "image": null,
+    "fetchedAt": 1788615786147
+  },
+  "https://www.techmeme.com/260905/p2#a260905p2": {
+    "image": null,
+    "fetchedAt": 1788615786519
+  },
+  "https://www.techmeme.com/260905/p1#a260905p1": {
+    "image": null,
+    "fetchedAt": 1788615786890
+  },
+  "https://www.geekwire.com/2026/seattle-times-sues-microsoft-and-openai-alleging-they-trained-their-ai-on-its-journalism/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/49348632791_628d4b4b21_o-1260x840.jpg",
+    "fetchedAt": 1788615787361
+  },
+  "https://www.geekwire.com/2026/wsu-president-betsy-cantwell-builds-custom-ai-agents-but-wont-ask-them-to-predict-the-apple-cup/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/PXL_20260904_1650069211.jpg",
+    "fetchedAt": 1788615787773
+  },
+  "https://thenextweb.com/news/micro1-12-5m-counterbid-spirit-airlines-records-google-deidentification-cjeu-srb-edpb-opinion-28-2024": {
+    "image": "https://media.thenextweb.com/2026/07/ai-chatbots-bioweapon-guardrails-bypass-cisco-five-turns.jpg",
+    "fetchedAt": 1788615788302
+  },
+  "https://thenextweb.com/news/nscale-3-5-billion-pre-ipo-financing-nvidia-third-point-103bn-contracts-narvik-norway-new-york-listing": {
+    "image": "https://media.thenextweb.com/2026/09/nscale-3-5-billion-pre-ipo-financing-nvidia-third-point-103bn-contracts-narvik-norway-new-york-listing.jpg",
+    "fetchedAt": 1788615788796
+  },
+  "https://thenextweb.com/news/microsoft-copilot-fair-use-brief-gpt-6-astra-foundry-eu-ai-act-article-55-systemic-risk-data-zone": {
+    "image": "https://media.thenextweb.com/2026/07/microsoft-valuelicensing-supreme-court-pre-owned-software.jpg",
+    "fetchedAt": 1788615789293
+  },
+  "https://thenextweb.com/news/japan-550-billion-us-investment-pact-ai-chips-third-tranche-eu-turnberry-600-billion-40-billion-us-ai-chips-gigafactories": {
+    "image": "https://media.thenextweb.com/2026/07/big-tech-2-trillion-ai-spending-commitments-bloomberg.jpg",
+    "fetchedAt": 1788615789785
+  },
+  "https://www.techmeme.com/260905/p7#a260905p7": {
+    "image": null,
+    "fetchedAt": 1788615790156
+  },
+  "https://thenextweb.com/news/sam-altman-apple-fanboy-egregious-quote-openai-trade-secrets-lawsuit-california-non-compete-void-germany-50-percent": {
+    "image": "https://media.thenextweb.com/2026/04/Sam-altman-open-ai.jpg",
+    "fetchedAt": 1788615790650
+  },
+  "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/canjam-socal-2026-show-floor.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1788615791210
+  },
+  "https://www.techmeme.com/260905/p8#a260905p8": {
+    "image": null,
+    "fetchedAt": 1788615791582
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+    "fetchedAt": 1788615791992
+  },
+  "https://thenextweb.com/news/hon-hai-foxconn-august-sales-up-52-percent-ai-servers-bull-partnership-angers-pardubice-eu-ai-gigafactories": {
+    "image": "https://media.thenextweb.com/2026/07/nvidia-naver-sk-group-korea-ai-investment.jpg",
+    "fetchedAt": 1788615792484
+  },
+  "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKS518_WAYMO_TAXI_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1788615792885
+  },
+  "https://thenextweb.com/news/china-25-7-percent-earnings-growth-csi-300-falls-ai-capex-priced-as-cost-alibaba-tencent-europe-ai-gigafactories": {
+    "image": "https://media.thenextweb.com/2026/09/china-25-7-percent-earnings-growth-csi-300-falls-ai-capex-priced-as-cost-alibaba-tencent-europe-ai-gigafactories.jpg",
+    "fetchedAt": 1788615793376
   }
 }
