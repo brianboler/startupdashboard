@@ -1,60 +1,4 @@
 {
-  "https://news.crunchbase.com/ma/startup-unicorns-acquisitions-ai-fintech-biotech/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/mergers_and_acquisitions.jpg",
-    "fetchedAt": 1787570945505
-  },
-  "https://www.techmeme.com/260824/p11#a260824p11": {
-    "image": null,
-    "fetchedAt": 1787570945890
-  },
-  "https://www.techmeme.com/260824/p9#a260824p9": {
-    "image": null,
-    "fetchedAt": 1787570946251
-  },
-  "https://www.techmeme.com/260824/p13#a260824p13": {
-    "image": null,
-    "fetchedAt": 1787570946613
-  },
-  "https://www.techmeme.com/260824/p12#a260824p12": {
-    "image": null,
-    "fetchedAt": 1787570946974
-  },
-  "https://thenextweb.com/news/xpeng-robotics-900m-funding-round": {
-    "image": "https://media.thenextweb.com/2026/08/XPENG-AI-Robot-–-IRON.jpg",
-    "fetchedAt": 1787570947489
-  },
-  "https://www.techmeme.com/260824/p7#a260824p7": {
-    "image": null,
-    "fetchedAt": 1787570947851
-  },
-  "https://sifted.eu/articles/founders-ai-ip-strategy-brnd/": {
-    "image": "https://content.sifted.eu/wp-content/uploads/2026/08/19143531/Lightbringer2451-2-1-e1787146591540-1024x495.png",
-    "fetchedAt": 1787570948957
-  },
-  "https://thenextweb.com/news/phonak-eon-hearing-aid-hypersonic-chip": {
-    "image": "https://media.thenextweb.com/2026/08/EON-hearing-aids.jpg",
-    "fetchedAt": 1787570949438
-  },
-  "https://thenextweb.com/news/alibaba-wan3-video-model-after-share-sale": {
-    "image": "https://media.thenextweb.com/2026/08/Alibaba-launches-Wan3.0.jpg",
-    "fetchedAt": 1787570949916
-  },
-  "https://venturebeat.com/infrastructure/ibms-next-gen-mainframe-chip-is-the-first-to-run-arm-and-z-workloads-on-the-same-cores": {
-    "image": null,
-    "fetchedAt": 1787570950312
-  },
-  "https://www.techmeme.com/260824/p10#a260824p10": {
-    "image": null,
-    "fetchedAt": 1787570950674
-  },
-  "https://thenextweb.com/news/gowish-200m-valuation-funding-round": {
-    "image": "https://media.thenextweb.com/2026/08/GoWish-logo.jpg",
-    "fetchedAt": 1787570951146
-  },
-  "https://sifted.eu/articles/hugging-face-in-talks-for-13bn-sale-reports-say/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=800,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/24101839/Hugging-Face-team.png",
-    "fetchedAt": 1787570952036
-  },
   "https://www.techmeme.com/260825/p2#a260825p2": {
     "image": null,
     "fetchedAt": 1787657285563
@@ -906,5 +850,77 @@
   "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/": {
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Spectrum_mission_Onwards_and_upwards_liftoff_pillars-1152x648.jpg",
     "fetchedAt": 1788703153739
+  },
+  "https://www.techmeme.com/260907/p11#a260907p11": {
+    "image": null,
+    "fetchedAt": 1788798006219
+  },
+  "https://www.techmeme.com/260907/p10#a260907p10": {
+    "image": null,
+    "fetchedAt": 1788798006580
+  },
+  "https://sifted.eu/articles/claret-capital-venture-debt-ai-fund/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=516,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/03142530/David-Bateman-Claret-Capital-Partners-e1788454439505.jpg",
+    "fetchedAt": 1788798008173
+  },
+  "https://sifted.eu/articles/uk-launches-150m-north-of-england-scaleup-fund/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1600,quality=75,fit=cover,format=auto/wp-content/uploads/2025/05/13145222/liverpool-gritstone.jpg",
+    "fetchedAt": 1788798009396
+  },
+  "https://www.techmeme.com/260907/p9#a260907p9": {
+    "image": null,
+    "fetchedAt": 1788798009758
+  },
+  "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-1152x648.png",
+    "fetchedAt": 1788798010550
+  },
+  "https://www.techmeme.com/260907/p5#a260907p5": {
+    "image": null,
+    "fetchedAt": 1788798010911
+  },
+  "https://sifted.eu/articles/thore-graepel-deepmind-reason/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1993,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/06190428/IMG-03338-1-e1788717930315.jpg",
+    "fetchedAt": 1788798012136
+  },
+  "https://sifted.eu/articles/17-startup-hotspots-in-stockholm/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=2045,quality=75,fit=cover,format=auto/wp-content/uploads/2021/01/13191452/Inside-Norrsken-House-scaled-e1788702088465.jpg",
+    "fetchedAt": 1788798013351
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&strip=all&crop=0%2C10.654918655606%2C100%2C78.690162688789&w=1200",
+    "fetchedAt": 1788798013907
+  },
+  "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sony-wh-1000xm4c-headphones-comparison.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1788798014299
+  },
+  "https://thenextweb.com/news/us-hybrids-europe-2035-rules": {
+    "image": "https://media.thenextweb.com/2026/08/bmw-two-million-electric-cars-europe-seven-in-ten.jpg",
+    "fetchedAt": 1788798014887
+  },
+  "https://thenextweb.com/news/us-china-ai-talks-cyberattacks-trump-xi-summit-september": {
+    "image": "https://media.thenextweb.com/2026/09/us-china-flags-bilateral-meeting.jpg",
+    "fetchedAt": 1788798015427
+  },
+  "https://www.techmeme.com/260907/p14#a260907p14": {
+    "image": null,
+    "fetchedAt": 1788798015810
+  },
+  "https://www.techmeme.com/260907/p13#a260907p13": {
+    "image": null,
+    "fetchedAt": 1788798016170
+  },
+  "https://thenextweb.com/news/ubs-ai-skills-junior-bankers-2027-graduate-hiring": {
+    "image": "https://media.thenextweb.com/2026/09/ubs-headquarters-bahnhofstrasse-zurich.jpg",
+    "fetchedAt": 1788798016712
+  },
+  "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IFA_R4_0.3kWh_Outdoor.jpg?quality=90&strip=all&crop=0%2C3.0977312390925%2C100%2C93.804537521815&w=1200",
+    "fetchedAt": 1788798017127
+  },
+  "https://thenextweb.com/news/germany-france-palantir-rival-arcadia-dependency-eu-funding": {
+    "image": "https://media.thenextweb.com/2026/09/palantir-logo-exhibition-stand.jpg",
+    "fetchedAt": 1788798017664
   }
 }
