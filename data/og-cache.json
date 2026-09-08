@@ -1,76 +1,4 @@
 {
-  "https://www.techmeme.com/260825/p2#a260825p2": {
-    "image": null,
-    "fetchedAt": 1787657285563
-  },
-  "https://www.techmeme.com/260825/p6#a260825p6": {
-    "image": null,
-    "fetchedAt": 1787657285923
-  },
-  "https://sifted.eu/articles/e8m-pre-seed-ai-native-audit-startup-repodo/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/24153431/Founders-standing-in-gate-scaled.jpg",
-    "fetchedAt": 1787657286869
-  },
-  "https://sifted.eu/articles/revolut-ai-research-unit/": {
-    "image": "https://content.sifted.eu/wp-content/uploads/2026/05/01151433/PR-lib-office-exterior-1-1-1024x537.png",
-    "fetchedAt": 1787657287740
-  },
-  "https://www.geekwire.com/2026/homebuilding-ai-startup-digs-raises-25-3m-and-partners-with-building-products-giant/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/Founders-Mission--1260x1036.jpg",
-    "fetchedAt": 1787657288463
-  },
-  "https://sifted.eu/articles/the-10-robotics-startups-that-raised-the-biggest-rounds-in-h1-2026/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1400,quality=75,fit=cover,format=auto/wp-content/uploads/2026/02/04172906/RobCo_Modularer-Roboter-2.jpeg",
-    "fetchedAt": 1787657289320
-  },
-  "https://www.techmeme.com/260824/p42#a260824p42": {
-    "image": null,
-    "fetchedAt": 1787657289680
-  },
-  "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted": {
-    "image": null,
-    "fetchedAt": 1787657290211
-  },
-  "https://news.crunchbase.com/liquidity/ai-ipo-ma-secondaries-haslett-equityzen/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg",
-    "fetchedAt": 1787657290698
-  },
-  "https://thenextweb.com/news/luke-metz-meta-superintelligence-labs-openai": {
-    "image": "https://media.thenextweb.com/2026/07/threads-meta-ai-dm-global-rollout.jpg",
-    "fetchedAt": 1787657291202
-  },
-  "https://thenextweb.com/news/eharmony-australia-court-subscription-ruling": {
-    "image": "https://media.thenextweb.com/2026/08/eHarmony.jpg",
-    "fetchedAt": 1787657291676
-  },
-  "https://www.techmeme.com/260825/p9#a260825p9": {
-    "image": null,
-    "fetchedAt": 1787657292038
-  },
-  "https://thenextweb.com/news/southeast-asia-data-centre-investment-malaysia-johor-2031": {
-    "image": "https://media.thenextweb.com/2026/08/johor-bahru-malaysia.jpg",
-    "fetchedAt": 1787657292510
-  },
-  "https://news.crunchbase.com/startups/bootstrapped-self-funded-business-ai-relevancy-desilva-lateral/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/Bootstrap-1.jpg",
-    "fetchedAt": 1787657292952
-  },
-  "https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/2026-Greenworks-MaximusZ-003-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1787657293475
-  },
-  "https://www.techmeme.com/260825/p8#a260825p8": {
-    "image": null,
-    "fetchedAt": 1787657293839
-  },
-  "https://thenextweb.com/news/neura-robotics-acquires-adlatus-cleaning-robots": {
-    "image": "https://media.thenextweb.com/2026/08/neura-robotics-acquires-adlatus-robotics-executives.jpg",
-    "fetchedAt": 1787657294319
-  },
-  "https://thenextweb.com/news/oura-ipo-3bn-raise-16bn-valuation": {
-    "image": "https://media.thenextweb.com/2026/08/Oura-ring.jpg",
-    "fetchedAt": 1787657294792
-  },
   "https://www.techmeme.com/260826/p17#a260826p17": {
     "image": null,
     "fetchedAt": 1787743805643
@@ -922,5 +850,65 @@
   "https://thenextweb.com/news/germany-france-palantir-rival-arcadia-dependency-eu-funding": {
     "image": "https://media.thenextweb.com/2026/09/palantir-logo-exhibition-stand.jpg",
     "fetchedAt": 1788798017664
+  },
+  "https://www.techmeme.com/260908/p22#a260908p22": {
+    "image": null,
+    "fetchedAt": 1788879365919
+  },
+  "https://www.techmeme.com/260908/p21#a260908p21": {
+    "image": null,
+    "fetchedAt": 1788879366289
+  },
+  "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Kofi-Asante.jpg?resize=1200,800",
+    "fetchedAt": 1788879366768
+  },
+  "https://www.techmeme.com/260908/p14#a260908p14": {
+    "image": null,
+    "fetchedAt": 1788879367139
+  },
+  "https://www.techmeme.com/260908/p20#a260908p20": {
+    "image": null,
+    "fetchedAt": 1788879367513
+  },
+  "https://www.techmeme.com/260908/p19#a260908p19": {
+    "image": null,
+    "fetchedAt": 1788879367884
+  },
+  "https://www.techmeme.com/260908/p16#a260908p16": {
+    "image": null,
+    "fetchedAt": 1788879368255
+  },
+  "https://sifted.eu/articles/am-i-a-fake-founder-what-its-like-joining-a-startup-as-a-cofounder-a-year-late/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1200,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/07144921/gabriella-sahlmann.jpg",
+    "fetchedAt": 1788879369880
+  },
+  "https://www.techmeme.com/260908/p23#a260908p23": {
+    "image": null,
+    "fetchedAt": 1788879370250
+  },
+  "https://thenextweb.com/news/iqe-indium-phosphide-china-export-controls-supply-risk": {
+    "image": "https://media.thenextweb.com/2026/07/india-20-billion-semiconductor-smartphone-chip-fund-modi.jpg",
+    "fetchedAt": 1788879370797
+  },
+  "https://thenextweb.com/news/huawei-china-duv-lithography-yuliangsheng-zeiss-lenses": {
+    "image": "https://media.thenextweb.com/2026/09/huawei-logo-store-signage.jpg",
+    "fetchedAt": 1788879371278
+  },
+  "https://www.theverge.com/games/991218/zelda-ocarina-of-time-remake-release-date-trailer": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/NS2_TheLegendofZeldaOcarinaofTime_scrn_16.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "fetchedAt": 1788879371741
+  },
+  "https://thenextweb.com/news/us-uk-media-green-paper-news-prominence-withdraw": {
+    "image": "https://media.thenextweb.com/2026/09/palace-of-westminster-elizabeth-tower-sunset.jpg",
+    "fetchedAt": 1788879372221
+  },
+  "https://www.theverge.com/tech/990849/crossbody-phone-strap-style": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/mobile-crossbodymultistrap-ocean-159A1490.webp?quality=90&strip=all&crop=0%2C10.319647285754%2C100%2C79.360705428493&w=1200",
+    "fetchedAt": 1788879372615
+  },
+  "https://www.theverge.com/games/990263/steelseries-aeon-pro-xbox-pc-controller-price-features": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/aeonpro3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1788879372997
   }
 }
