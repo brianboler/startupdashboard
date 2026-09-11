@@ -1,72 +1,4 @@
 {
-  "https://www.techmeme.com/260827/p44#a260827p44": {
-    "image": null,
-    "fetchedAt": 1787864281735
-  },
-  "https://www.techmeme.com/260827/p49#a260827p49": {
-    "image": null,
-    "fetchedAt": 1787864282112
-  },
-  "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg",
-    "fetchedAt": 1787864282795
-  },
-  "https://thenextweb.com/news/openai-anthropic-cyber-defence-open-letter-cra-nis2-europe": {
-    "image": "https://media.thenextweb.com/2026/08/openai-anthropic-cyber-defence-open-letter-cra-nis2-europe.jpg",
-    "fetchedAt": 1787864283782
-  },
-  "https://www.techmeme.com/260827/p41#a260827p41": {
-    "image": null,
-    "fetchedAt": 1787864284158
-  },
-  "https://news.crunchbase.com/venture/socure-raises-acquires-agentic-ai-startup-fravity/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/Giant_Funding.jpg",
-    "fetchedAt": 1787864284719
-  },
-  "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795",
-    "fetchedAt": 1787864285165
-  },
-  "https://www.techmeme.com/260827/p48#a260827p48": {
-    "image": null,
-    "fetchedAt": 1787864285543
-  },
-  "https://www.techmeme.com/260827/p43#a260827p43": {
-    "image": null,
-    "fetchedAt": 1787864285920
-  },
-  "https://www.techmeme.com/260827/p40#a260827p40": {
-    "image": null,
-    "fetchedAt": 1787864286298
-  },
-  "https://www.techmeme.com/260827/p47#a260827p47": {
-    "image": null,
-    "fetchedAt": 1787864286675
-  },
-  "https://thenextweb.com/news/anthropic-model-hardware-standard-mhs-eu-machinery-regulation-2027": {
-    "image": "https://media.thenextweb.com/2026/07/claude-cowork-sandbox-escape-mac-files-sharedroot.jpg",
-    "fetchedAt": 1787864287194
-  },
-  "https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/gop-logo-1152x648-1787858821.jpg",
-    "fetchedAt": 1787864287824
-  },
-  "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VINTAGE_VICE_CITY_PACK_02.jpg?quality=90&strip=all&crop=18.6%2C0%2C78.2%2C72.786503781268&w=1200",
-    "fetchedAt": 1787864288344
-  },
-  "https://thenextweb.com/news/ai-agents-wallets-web3-machine-economy-varun-datta": {
-    "image": "https://media.thenextweb.com/2026/08/ai-agents-wallets-web3-machine-economy-varun-datta.jpg",
-    "fetchedAt": 1787864288871
-  },
-  "https://www.theverge.com/games/983941/grand-theft-auto-vi-gta-netflix-extended-look": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-3.26.13-PM.png?quality=90&strip=all&crop=0%2C3.3311465073976%2C100%2C93.337706985205&w=1200",
-    "fetchedAt": 1787864289273
-  },
-  "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Expert-Intelligence-Hero.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-    "fetchedAt": 1787864289665
-  },
   "https://www.techmeme.com/260828/p19#a260828p19": {
     "image": null,
     "fetchedAt": 1787952125755
@@ -986,5 +918,73 @@
   "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers": {
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_Mailbag.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "fetchedAt": 1789051932799
+  },
+  "https://www.techmeme.com/260911/p14#a260911p14": {
+    "image": null,
+    "fetchedAt": 1789138386341
+  },
+  "https://www.techmeme.com/260911/p11#a260911p11": {
+    "image": null,
+    "fetchedAt": 1789138386702
+  },
+  "https://www.techmeme.com/260911/p9#a260911p9": {
+    "image": null,
+    "fetchedAt": 1789138387062
+  },
+  "https://www.geekwire.com/2026/amazon-expands-its-quick-ai-assistant-on-mobile-in-challenge-to-microsoft-and-google/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/quick.png",
+    "fetchedAt": 1789138387556
+  },
+  "https://thenextweb.com/news/joyin-openai-copying-claim-aether-alien-mind": {
+    "image": "https://media.thenextweb.com/2026/09/OpenAI-Astra.jpg",
+    "fetchedAt": 1789138388459
+  },
+  "https://cognition.com/blog/swe-2": {
+    "image": "https://cognition.com/images/swe-2/cover.jpg",
+    "fetchedAt": 1789138388987
+  },
+  "https://www.techmeme.com/260911/p18#a260911p18": {
+    "image": null,
+    "fetchedAt": 1789138389349
+  },
+  "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta-invasive-qs.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
+    "fetchedAt": 1789138389823
+  },
+  "https://www.techmeme.com/260911/p17#a260911p17": {
+    "image": null,
+    "fetchedAt": 1789138390184
+  },
+  "https://www.techmeme.com/260911/p16#a260911p16": {
+    "image": null,
+    "fetchedAt": 1789138390545
+  },
+  "https://www.theverge.com/gadgets/993929/soundcore-liberty-5-pro-earbuds-control-resonant-ring-doorbell-deal-sale": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/soundcoreliberty5prodeal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1789138390962
+  },
+  "https://thenextweb.com/news/uae-germany-40bn-investment-data-centres-bavaria": {
+    "image": "https://media.thenextweb.com/2026/09/merz-mohamed-bin-zayed-chancellery-berlin.jpg",
+    "fetchedAt": 1789138391795
+  },
+  "https://www.theverge.com/entertainment/993875/tiff-2026-the-only-living-pickpocket-in-new-york": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/TOLPINY-STILL-Courtesy-of-Sony-Pictures-Classics.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1789138392192
+  },
+  "https://www.theverge.com/tech/993892/apples-next-computer-smart-home-hub-airport-router": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24732441/236707_Mac_Studio_AKrales_0064.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1789138392582
+  },
+  "https://thenextweb.com/news/texas-judge-tiktok-liable-restricted-mode-child-safety": {
+    "image": "https://media.thenextweb.com/2026/06/tiktok-settles-addiction-lawsuit-rkc-florida-teen.jpg",
+    "fetchedAt": 1789138393264
+  },
+  "https://www.theverge.com/tech/993928/samsung-tim-cook-galaxy-z-fold-8": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/tim-cook-samsung-nz-ad.jpg?quality=90&strip=all&crop=0,4.4575916230366,100,41.884816753927",
+    "fetchedAt": 1789138393664
+  },
+  "https://thenextweb.com/news/enflame-shanghai-ipo-debut-tencent-ai-chips": {
+    "image": "https://media.thenextweb.com/2026/09/tencent-headquarters-building-sign.jpg",
+    "fetchedAt": 1789138394346
   }
 }
