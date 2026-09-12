@@ -1,68 +1,4 @@
 {
-  "https://www.techmeme.com/260828/p19#a260828p19": {
-    "image": null,
-    "fetchedAt": 1787952125755
-  },
-  "https://www.techmeme.com/260828/p18#a260828p18": {
-    "image": null,
-    "fetchedAt": 1787952126125
-  },
-  "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag": {
-    "image": null,
-    "fetchedAt": 1787952126564
-  },
-  "https://www.techmeme.com/260828/p13#a260828p13": {
-    "image": null,
-    "fetchedAt": 1787952126932
-  },
-  "https://www.geekwire.com/2026/pro-com-co-founders-reunite-to-launch-ontrade-an-ai-startup-for-the-wealth-management-industry/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/ontrade.png",
-    "fetchedAt": 1787952127701
-  },
-  "https://thenextweb.com/news/tim-draper-island-sale-ecb-european-venture-capital-gap": {
-    "image": "https://media.thenextweb.com/2026/08/tim-draper-island-sale-ecb-european-venture-capital-gap.jpg",
-    "fetchedAt": 1787952128260
-  },
-  "https://www.geekwire.com/2026/tech-moves-former-xbox-exec-named-dolby-ceo-microsoft-ai-exits-new-fred-hutch-leaders/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/696783-Marc-Whitten_Media-Kit-5b64e9-original-1787796002-1260x840.jpg",
-    "fetchedAt": 1787952128807
-  },
-  "https://www.techmeme.com/260828/p16#a260828p16": {
-    "image": null,
-    "fetchedAt": 1787952129176
-  },
-  "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mhsdemo-1152x648.png",
-    "fetchedAt": 1787952129759
-  },
-  "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents": {
-    "image": null,
-    "fetchedAt": 1787952130431
-  },
-  "https://www.techmeme.com/260828/p21#a260828p21": {
-    "image": null,
-    "fetchedAt": 1787952130801
-  },
-  "https://thenextweb.com/news/brands-give-up-influencers-ugc-creator-economy": {
-    "image": "https://media.thenextweb.com/2026/08/brands-give-up-influencers-ugc-creator-economy.jpg",
-    "fetchedAt": 1787952131297
-  },
-  "https://www.techmeme.com/260828/p20#a260828p20": {
-    "image": null,
-    "fetchedAt": 1787952131665
-  },
-  "https://www.geekwire.com/2026/game-over-new-routine-laid-off-xbox-manager-built-her-korean-skincare-startup-before-cuts-hit/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/viajiin.png",
-    "fetchedAt": 1787952132200
-  },
-  "https://thenextweb.com/news/lucid-air-recall-efuse-software-fire-risk-eu-software-update-rules": {
-    "image": "https://media.thenextweb.com/2026/08/lucid-air-recall-efuse-software-fire-risk-eu-software-update-rules.jpg",
-    "fetchedAt": 1787952132690
-  },
-  "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
-    "fetchedAt": 1787952133104
-  },
   "https://thenextweb.com/news/openai-ends-cursor-contract-spacex-acquisition-eu-switching-rules": {
     "image": "https://media.thenextweb.com/2026/07/altman-white-house-openai-model-preview-agents.jpg",
     "fetchedAt": 1788017525545
@@ -986,5 +922,73 @@
   "https://thenextweb.com/news/enflame-shanghai-ipo-debut-tencent-ai-chips": {
     "image": "https://media.thenextweb.com/2026/09/tencent-headquarters-building-sign.jpg",
     "fetchedAt": 1789138394346
+  },
+  "https://www.techmeme.com/260911/p34#a260911p34": {
+    "image": null,
+    "fetchedAt": 1789221365846
+  },
+  "https://thenextweb.com/news/nvidia-anthropic-ipo-mistral-scale": {
+    "image": "https://media.thenextweb.com/2026/07/nvidia-vera-rubin-full-production-customers.jpg",
+    "fetchedAt": 1789221366406
+  },
+  "https://www.techmeme.com/260911/p32#a260911p32": {
+    "image": null,
+    "fetchedAt": 1789221366766
+  },
+  "https://thenextweb.com/news/china-agents-inference-eu-compute": {
+    "image": "https://media.thenextweb.com/2026/07/big-tech-2-trillion-ai-spending-commitments-bloomberg.jpg",
+    "fetchedAt": 1789221367285
+  },
+  "https://www.techmeme.com/260912/p1#a260912p1": {
+    "image": null,
+    "fetchedAt": 1789221367645
+  },
+  "https://www.techmeme.com/260911/p33#a260911p33": {
+    "image": null,
+    "fetchedAt": 1789221368008
+  },
+  "https://www.techmeme.com/260912/p5#a260912p5": {
+    "image": null,
+    "fetchedAt": 1789221368370
+  },
+  "https://www.techmeme.com/260912/p2#a260912p2": {
+    "image": null,
+    "fetchedAt": 1789221368731
+  },
+  "https://www.techmeme.com/260911/p36#a260911p36": {
+    "image": null,
+    "fetchedAt": 1789221369092
+  },
+  "https://www.techmeme.com/260911/p35#a260911p35": {
+    "image": null,
+    "fetchedAt": 1789221369457
+  },
+  "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/img-260ce3af-8e70-4401-9a35-9eb971697f7b.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "fetchedAt": 1789221369966
+  },
+  "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_NPatel_0012.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1789221370371
+  },
+  "https://thenextweb.com/news/oracle-layoffs-700m-eu-consultation": {
+    "image": "https://media.thenextweb.com/2026/09/oracle-sign-lit-at-night-bucharest.jpg",
+    "fetchedAt": 1789221370868
+  },
+  "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/80276b2c-6940-443f-adf2-2aabe4d1e838_2048x1365-1152x648.jpg",
+    "fetchedAt": 1789221371445
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268745_OpenAI_just_wants_to_win-_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1789221371851
+  },
+  "https://thenextweb.com/news/li-auto-europe-erev-tariff": {
+    "image": "https://media.thenextweb.com/2026/09/li-6-electric-suv-golf-course.jpg",
+    "fetchedAt": 1789221372341
+  },
+  "https://thenextweb.com/news/tesla-fsd-sleeping-eu-approval": {
+    "image": "https://media.thenextweb.com/2026/09/white-tesla-showroom-frunk-open.jpg",
+    "fetchedAt": 1789221372821
   }
 }
