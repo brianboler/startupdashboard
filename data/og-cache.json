@@ -1,68 +1,4 @@
 {
-  "https://thenextweb.com/news/openai-ends-cursor-contract-spacex-acquisition-eu-switching-rules": {
-    "image": "https://media.thenextweb.com/2026/07/altman-white-house-openai-model-preview-agents.jpg",
-    "fetchedAt": 1788017525545
-  },
-  "https://www.techmeme.com/260829/p1#a260829p1": {
-    "image": null,
-    "fetchedAt": 1788017525915
-  },
-  "https://www.techmeme.com/260829/p10#a260829p10": {
-    "image": null,
-    "fetchedAt": 1788017526273
-  },
-  "https://www.techmeme.com/260829/p9#a260829p9": {
-    "image": null,
-    "fetchedAt": 1788017526630
-  },
-  "https://www.techmeme.com/260829/p6#a260829p6": {
-    "image": null,
-    "fetchedAt": 1788017526988
-  },
-  "https://www.techmeme.com/260829/p2#a260829p2": {
-    "image": null,
-    "fetchedAt": 1788017527344
-  },
-  "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1788017527906
-  },
-  "https://thenextweb.com/news/ai-agents-clearer-limits-authorization": {
-    "image": "https://media.thenextweb.com/2026/08/georgia-power-demolishing-homes-ai-data-centres-zuckerberg-agents.jpg",
-    "fetchedAt": 1788017528376
-  },
-  "https://thenextweb.com/news/lambda-1bn-private-debt-microsoft-lease-nebius-european-neocloud": {
-    "image": "https://media.thenextweb.com/2026/08/lambda-1bn-private-debt-microsoft-lease-nebius-european-neocloud.jpg",
-    "fetchedAt": 1788017529102
-  },
-  "https://www.geekwire.com/2026/bill-gates-in-his-own-words-how-hes-using-ai-and-why-hes-worried-about-the-future/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/20250404_Microsoft_205.jpg",
-    "fetchedAt": 1788017529693
-  },
-  "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/unnamed.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1788017530091
-  },
-  "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/samsung-galaxy-z-flip-8-review-13.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1788017530506
-  },
-  "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&strip=all&crop=0%2C11.150136769481%2C85.33125%2C67.014037093516&w=1200",
-    "fetchedAt": 1788017530912
-  },
-  "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/personaldata-1024x648.jpg",
-    "fetchedAt": 1788017531398
-  },
-  "https://thenextweb.com/news/china-auto-quality-campaign-physical-controls-ota-euro-ncap": {
-    "image": "https://media.thenextweb.com/2026/08/china-auto-quality-campaign-physical-controls-ota-euro-nca.jpg",
-    "fetchedAt": 1788017531864
-  },
-  "https://thenextweb.com/news/pure-lithium-graphite-free-lithium-metal-battery-eu-critical-raw-materials": {
-    "image": "https://media.thenextweb.com/2026/08/pure-lithium-graphite-free-lithium-metal-battery-eu-critical-raw-materials.jpg",
-    "fetchedAt": 1788017532334
-  },
   "https://www.techmeme.com/260830/p3#a260830p3": {
     "image": null,
     "fetchedAt": 1788102785459
@@ -990,5 +926,73 @@
   "https://thenextweb.com/news/tesla-fsd-sleeping-eu-approval": {
     "image": "https://media.thenextweb.com/2026/09/white-tesla-showroom-frunk-open.jpg",
     "fetchedAt": 1789221372821
+  },
+  "https://www.techmeme.com/260912/p19#a260912p19": {
+    "image": null,
+    "fetchedAt": 1789311066238
+  },
+  "https://www.techmeme.com/260913/p4#a260913p4": {
+    "image": null,
+    "fetchedAt": 1789311066604
+  },
+  "https://www.techmeme.com/260913/p2#a260913p2": {
+    "image": null,
+    "fetchedAt": 1789311066969
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1789311067503
+  },
+  "https://www.techmeme.com/260913/p5#a260913p5": {
+    "image": null,
+    "fetchedAt": 1789311067868
+  },
+  "https://thenextweb.com/news/xi-brics-open-source-ai-eu": {
+    "image": "https://media.thenextweb.com/2026/09/xi-jinping-chengdu-2023.jpg",
+    "fetchedAt": 1789311069127
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1789311069540
+  },
+  "https://thenextweb.com/news/amodei-pacing-frontier-eu-rules": {
+    "image": "https://media.thenextweb.com/2026/07/anthropic-dario-amodei-open-weights-position-not-ban.jpg",
+    "fetchedAt": 1789311070113
+  },
+  "https://www.geekwire.com/2026/study-warns-seattle-over-relies-on-big-tech-seattle-times-v-microsoft-apples-iphone-duo-echoes-the-past/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
+    "fetchedAt": 1789311070559
+  },
+  "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai": {
+    "image": null,
+    "fetchedAt": 1789311071019
+  },
+  "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286668940.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1789311071428
+  },
+  "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/YMX3_03452_R_rgb.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1789311071823
+  },
+  "https://www.theverge.com/column/994172/your-car-is-selling-your-data": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-144097019.jpg?quality=90&strip=all&crop=0%2C10.678370919471%2C100%2C78.643258161058&w=1200",
+    "fetchedAt": 1789311072222
+  },
+  "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer-1.jpg?quality=90&strip=all&crop=0%2C3.428851907255%2C100%2C93.14229618549&w=1200",
+    "fetchedAt": 1789311072612
+  },
+  "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/John-Deere-5ML-Tractor-1152x648.jpg",
+    "fetchedAt": 1789311073345
+  },
+  "https://thenextweb.com/news/china-embodied-ai-data-eu-gap": {
+    "image": "https://media.thenextweb.com/2026/09/virkkunen-us-guardrails-inevitable.jpg",
+    "fetchedAt": 1789311073904
+  },
+  "https://thenextweb.com/news/tesla-roadster-reveal-europe-deposits": {
+    "image": "https://media.thenextweb.com/2026/09/tesla-roadster-prototype-2017.jpg",
+    "fetchedAt": 1789311074492
   }
 }
