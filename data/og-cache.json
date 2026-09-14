@@ -1,72 +1,4 @@
 {
-  "https://www.techmeme.com/260830/p3#a260830p3": {
-    "image": null,
-    "fetchedAt": 1788102785459
-  },
-  "https://www.techmeme.com/260830/p2#a260830p2": {
-    "image": null,
-    "fetchedAt": 1788102785816
-  },
-  "https://www.techmeme.com/260830/p5#a260830p5": {
-    "image": null,
-    "fetchedAt": 1788102786174
-  },
-  "https://www.techmeme.com/260830/p4#a260830p4": {
-    "image": null,
-    "fetchedAt": 1788102786532
-  },
-  "https://www.techmeme.com/260830/p7#a260830p7": {
-    "image": null,
-    "fetchedAt": 1788102786890
-  },
-  "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
-    "fetchedAt": 1788102787392
-  },
-  "https://thenextweb.com/news/sony-warner-chappell-anthropic-lyrics-lawsuit-gema-munich-tdm": {
-    "image": "https://media.thenextweb.com/2026/06/anthropic-mythos-eu-enisa-cybersecurity-access.jpg",
-    "fetchedAt": 1788102787891
-  },
-  "https://www.techmeme.com/260829/p17#a260829p17": {
-    "image": null,
-    "fetchedAt": 1788102788249
-  },
-  "https://thenextweb.com/news/hugging-face-nvidia-acquisition-thomas-wolf-interview": {
-    "image": "https://media.thenextweb.com/2026/08/hugging-face-nvidia-acquisition-thomas-wolf-interview.jpg",
-    "fetchedAt": 1788102788722
-  },
-  "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/silo-1152x648.jpg",
-    "fetchedAt": 1788102789114
-  },
-  "https://thenextweb.com/news/google-maps-lake-ontario-lake-america-dsa-vlop-inspire": {
-    "image": "https://media.thenextweb.com/2026/08/google-maps-ask-maps-agentic-food-ordering-hotel-booking.jpg",
-    "fetchedAt": 1788102789580
-  },
-  "https://www.techmeme.com/260830/p6#a260830p6": {
-    "image": null,
-    "fetchedAt": 1788102789937
-  },
-  "https://www.theverge.com/games/986302/chess-poker-expansion-gambit": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/chess-com-gambit-launch-bot-match.png?quality=90&strip=all&crop=0%2C1.4388257843755%2C100%2C97.122348431249&w=1200",
-    "fetchedAt": 1788102790428
-  },
-  "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2292163504.jpg?quality=90&strip=all&crop=0%2C10.729590721704%2C100%2C78.540818556592&w=1200",
-    "fetchedAt": 1788102790823
-  },
-  "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/installer_c1a629.jpg?quality=90&strip=all&crop=0%2C3.428851907255%2C100%2C93.14229618549&w=1200",
-    "fetchedAt": 1788102791219
-  },
-  "https://thenextweb.com/news/uk-mobile-networks-ai-planning-reform-eu-gigabit-infrastructure-act": {
-    "image": "https://media.thenextweb.com/2026/07/aeredium-patent-stablecoin-audits-ai-continuous-verification.jpg",
-    "fetchedAt": 1788102791686
-  },
-  "https://thenextweb.com/news/bill-gates-robot-tax-again-european-parliament-2017-vote": {
-    "image": "https://media.thenextweb.com/2026/08/bill-gates-robot-tax-again-european-parliament-2017-vote.jpg",
-    "fetchedAt": 1788102792149
-  },
   "https://www.techmeme.com/260831/p30#a260831p30": {
     "image": null,
     "fetchedAt": 1788198905488
@@ -994,5 +926,73 @@
   "https://thenextweb.com/news/tesla-roadster-reveal-europe-deposits": {
     "image": "https://media.thenextweb.com/2026/09/tesla-roadster-prototype-2017.jpg",
     "fetchedAt": 1789311074492
+  },
+  "https://www.techmeme.com/260914/p20#a260914p20": {
+    "image": null,
+    "fetchedAt": 1789404546578
+  },
+  "https://news.crunchbase.com/venture/y-combinator-busiest-startup-investor-nvda-ramps-up-august-2026/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Top_Investors_aug.jpg",
+    "fetchedAt": 1789404547359
+  },
+  "https://www.techmeme.com/260914/p26#a260914p26": {
+    "image": null,
+    "fetchedAt": 1789404547733
+  },
+  "https://www.techmeme.com/260914/p25#a260914p25": {
+    "image": null,
+    "fetchedAt": 1789404548107
+  },
+  "https://www.techmeme.com/260914/p23#a260914p23": {
+    "image": null,
+    "fetchedAt": 1789404548483
+  },
+  "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/fathom_product-graphic_my-calls.jpeg?resize=1200,675",
+    "fetchedAt": 1789404548979
+  },
+  "https://www.geekwire.com/2026/microsoft-floats-rules-for-its-own-ai-models-as-industry-debates-a-slowdown/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2025/04/satya-1.jpg",
+    "fetchedAt": 1789404549447
+  },
+  "https://thenextweb.com/news/microsoft-says-its-ai-models-will-never-resist-being-shut-down": {
+    "image": "https://media.thenextweb.com/2026/08/Microsoft-logo.jpg",
+    "fetchedAt": 1789404550071
+  },
+  "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/": {
+    "image": "https://images.macrumors.com/t/HAbY2RBLL5aLJL0IJd9M8FyRpRE=/2500x/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg",
+    "fetchedAt": 1789404550597
+  },
+  "https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13/": {
+    "image": null,
+    "fetchedAt": 1789404551161
+  },
+  "https://thenextweb.com/news/xai-apple-dismissal-dma-assistants": {
+    "image": "https://media.thenextweb.com/2026/09/xai-logo.jpg",
+    "fetchedAt": 1789404552052
+  },
+  "https://www.techmeme.com/260914/p24#a260914p24": {
+    "image": null,
+    "fetchedAt": 1789404552428
+  },
+  "https://thenextweb.com/news/vw-mission-efficiency-eu-rules": {
+    "image": "https://media.thenextweb.com/2026/09/vw-mission-efficiency-concept.jpg",
+    "fetchedAt": 1789404552988
+  },
+  "https://sifted.eu/articles/eth-zurich-students-humanoid-xalun/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=510,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/14152525/Screenshot-2026-09-14-at-16.25.06.png",
+    "fetchedAt": 1789404556254
+  },
+  "https://www.techmeme.com/260914/p22#a260914p22": {
+    "image": null,
+    "fetchedAt": 1789404556679
+  },
+  "https://thenextweb.com/news/microsoft-ai-code-of-conduct-model-welfare-anthropic": {
+    "image": "https://media.thenextweb.com/2026/08/Microsoft-logo.jpg",
+    "fetchedAt": 1789404557275
+  },
+  "https://thenextweb.com/news/oracle-told-staff-on-monday-that-monday-was-their-last-working-day": {
+    "image": "https://media.thenextweb.com/2026/06/Oracle.jpg",
+    "fetchedAt": 1789404557814
   }
 }
