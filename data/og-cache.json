@@ -1,56 +1,4 @@
 {
-  "https://www.techmeme.com/260902/p21#a260902p21": {
-    "image": null,
-    "fetchedAt": 1788361265472
-  },
-  "https://www.techmeme.com/260902/p22#a260902p22": {
-    "image": null,
-    "fetchedAt": 1788361265839
-  },
-  "https://thenextweb.com/news/walnut-launches-enterprise-ai-agent-platform": {
-    "image": "https://media.thenextweb.com/2026/09/Walnut.jpg",
-    "fetchedAt": 1788361266454
-  },
-  "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Yair-Saban-and-Niv-Hoffman.-Credit-Netanel-Tobias.jpeg?resize=1200,798",
-    "fetchedAt": 1788361266891
-  },
-  "https://sifted.eu/articles/mistral-series-d-samsung-nvidia-asml/": {
-    "image": "https://content.sifted.eu/wp-content/uploads/2026/05/28111139/mistral-infra-1024x336.png",
-    "fetchedAt": 1788361268166
-  },
-  "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?resize=1200,800",
-    "fetchedAt": 1788361268552
-  },
-  "https://www.geekwire.com/2026/newdays-brings-its-ai-driven-dementia-care-platform-to-nevada-expands-seed-round-to-16m/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/NewDays-founders1.jpg",
-    "fetchedAt": 1788361268974
-  },
-  "https://thenextweb.com/news/huskeys-raises-27m-series-a-led-by-blackstone": {
-    "image": "https://media.thenextweb.com/2026/09/Huskeys-founders.jpg",
-    "fetchedAt": 1788361269482
-  },
-  "https://www.techmeme.com/260902/p18#a260902p18": {
-    "image": null,
-    "fetchedAt": 1788361269847
-  },
-  "https://news.crunchbase.com/public/startups-to-watch-ipo-ai-chips-fintech-2026/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/IPO-on-horizon.jpg",
-    "fetchedAt": 1788361270359
-  },
-  "https://www.techmeme.com/260902/p23#a260902p23": {
-    "image": null,
-    "fetchedAt": 1788361270726
-  },
-  "https://venturebeat.com/orchestration/forward-deployed-engineering-is-how-enterprise-ai-learns": {
-    "image": null,
-    "fetchedAt": 1788361271182
-  },
-  "https://www.techmeme.com/260902/p20#a260902p20": {
-    "image": null,
-    "fetchedAt": 1788361271550
-  },
   "https://news.crunchbase.com/venture/robotics-ai-startup-lyte-seriesc-raise-maverick/": {
     "image": "https://news.crunchbase.com/wp-content/uploads/AI-manufacturing.jpg",
     "fetchedAt": 1788447306635
@@ -930,5 +878,65 @@
   "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai": {
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Meta-One-Bundle-plans-for-individuals.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.063453493324&w=1200",
     "fetchedAt": 1789486221511
+  },
+  "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Profound-founders.jpg?resize=1200,798",
+    "fetchedAt": 1789572186650
+  },
+  "https://thenextweb.com/news/suleyman-anthropic-claude-consciousness-sleepwalk": {
+    "image": "https://media.thenextweb.com/2026/06/microsoft-suleyman-anthropic-expensive-models.jpg",
+    "fetchedAt": 1789572187886
+  },
+  "https://www.techmeme.com/260916/p31#a260916p31": {
+    "image": null,
+    "fetchedAt": 1789572188348
+  },
+  "https://www.techmeme.com/260916/p26#a260916p26": {
+    "image": null,
+    "fetchedAt": 1789572188738
+  },
+  "https://www.techmeme.com/260916/p32#a260916p32": {
+    "image": null,
+    "fetchedAt": 1789572189138
+  },
+  "https://www.techmeme.com/260916/p30#a260916p30": {
+    "image": null,
+    "fetchedAt": 1789572189531
+  },
+  "https://thenextweb.com/news/ai-energy-management-alliance-google-nvidia-emerald-flexible-data-centres": {
+    "image": "https://media.thenextweb.com/2026/09/electricity-pylons-power-lines-twilight-window-view.jpg",
+    "fetchedAt": 1789572190131
+  },
+  "https://thenextweb.com/news/veridion-20m-series-a-642-million-companies-credit-models": {
+    "image": "https://media.thenextweb.com/2026/09/stefan-gergely-veridion-portrait.jpg",
+    "fetchedAt": 1789572190700
+  },
+  "https://www.techmeme.com/260916/p25#a260916p25": {
+    "image": null,
+    "fetchedAt": 1789572191093
+  },
+  "https://www.geekwire.com/2026/helion-funding-round-grows-to-500m-amid-uncertainty-over-fusion-startups-microsoft-timeline/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/06/Orion-aerial-1260x709.jpg",
+    "fetchedAt": 1789572191590
+  },
+  "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
+    "fetchedAt": 1789572192147
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268744_Inside_romance_AI_scam_apps_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1789572192700
+  },
+  "https://www.theverge.com/gadgets/996216/xreal-video-glasses-beats-pill-sonos-ace-deal-sale": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xrealdeal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1789572193139
+  },
+  "https://www.techmeme.com/260916/p29#a260916p29": {
+    "image": null,
+    "fetchedAt": 1789572193529
+  },
+  "https://thenextweb.com/news/reach-cuts-220-editorial-jobs": {
+    "image": "https://media.thenextweb.com/2026/09/Hands-holding-an-open-newspaper.jpg",
+    "fetchedAt": 1789572194134
   }
 }
