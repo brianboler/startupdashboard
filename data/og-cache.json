@@ -1,76 +1,4 @@
 {
-  "https://news.crunchbase.com/venture/robotics-ai-startup-lyte-seriesc-raise-maverick/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/AI-manufacturing.jpg",
-    "fetchedAt": 1788447306635
-  },
-  "https://www.techmeme.com/260903/p23#a260903p23": {
-    "image": null,
-    "fetchedAt": 1788447307039
-  },
-  "https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed": {
-    "image": null,
-    "fetchedAt": 1788447307443
-  },
-  "https://www.techmeme.com/260903/p21#a260903p21": {
-    "image": null,
-    "fetchedAt": 1788447307812
-  },
-  "https://www.geekwire.com/2026/seismic-ceo-on-the-highspot-merger-revenue-job-cuts-seattle-ai-and-the-salesforce-question/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/rob.jpg",
-    "fetchedAt": 1788447308243
-  },
-  "https://www.techmeme.com/260903/p16#a260903p16": {
-    "image": null,
-    "fetchedAt": 1788447308612
-  },
-  "https://news.crunchbase.com/venture/global-funding-billion-dollar-deals-august-2026/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/jul-aug.jpg",
-    "fetchedAt": 1788447309113
-  },
-  "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities": {
-    "image": null,
-    "fetchedAt": 1788447309490
-  },
-  "https://www.geekwire.com/2026/mcgraw-hill-acquires-teachally-an-ai-startup-for-teachers-led-by-seattle-tech-vet-daniel-bernstein/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/1767998788811.jpg",
-    "fetchedAt": 1788447309888
-  },
-  "https://venturebeat.com/data/enterprises-put-non-nvidia-chips-14-points-ahead-of-nvidias-next-gen-gpus-on-their-evaluation-lists": {
-    "image": null,
-    "fetchedAt": 1788447310370
-  },
-  "https://www.techmeme.com/260903/p24#a260903p24": {
-    "image": null,
-    "fetchedAt": 1788447310737
-  },
-  "https://sifted.eu/articles/nordic-fintech-growth-decline/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/03140808/Gemini_Generated_Image_flrx0kflrx0kflrx-scaled.jpeg",
-    "fetchedAt": 1788447312265
-  },
-  "https://thenextweb.com/news/indonesia-local-currency-stablecoins-asia-corridor": {
-    "image": "https://media.thenextweb.com/2026/09/jakarta-skyline-sunrise-stablecoin-corridor.jpg",
-    "fetchedAt": 1788447312947
-  },
-  "https://www.techmeme.com/260903/p22#a260903p22": {
-    "image": null,
-    "fetchedAt": 1788447313314
-  },
-  "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers": {
-    "image": null,
-    "fetchedAt": 1788447313689
-  },
-  "https://www.theverge.com/tech/987776/hohems-tiny-steadicam-has-a-removable-action-cam": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/hohem1.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
-    "fetchedAt": 1788447314173
-  },
-  "https://www.theverge.com/podcast/988368/sonos-ceo-tom-conrad-ai-smart-home-fabric-app-redesign": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_Conrad_Sonos.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1788447314597
-  },
-  "https://www.theverge.com/tech/989246/switchbot-lock-ultra-max-retrofit-smartlock-ifa-launch": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/SwitchBot-Lock-Ultra-Max-combo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1788447314975
-  },
   "https://thenextweb.com/news/coefficient-giving-ai-safety-funding-ipo-correlation": {
     "image": "https://media.thenextweb.com/2026/09/coefficient-giving-ai-safety-funding-ipo-correlation.jpg",
     "fetchedAt": 1788533407397
@@ -938,5 +866,77 @@
   "https://thenextweb.com/news/reach-cuts-220-editorial-jobs": {
     "image": "https://media.thenextweb.com/2026/09/Hands-holding-an-open-newspaper.jpg",
     "fetchedAt": 1789572194134
+  },
+  "https://news.crunchbase.com/venture/fintech-alternative-funding-customer-acquisition-skalar/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/money-kites.jpg",
+    "fetchedAt": 1789658945805
+  },
+  "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD-Mustafa-Suleyman.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+    "fetchedAt": 1789658946347
+  },
+  "https://www.techmeme.com/260917/p26#a260917p26": {
+    "image": null,
+    "fetchedAt": 1789658946729
+  },
+  "https://thenextweb.com/news/factory-200m-5bn-valuation-ai-coding-agents": {
+    "image": "https://media.thenextweb.com/2026/09/factory-logo-sign-san-francisco-office-engineers.jpg",
+    "fetchedAt": 1789658947279
+  },
+  "https://www.techmeme.com/260917/p23#a260917p23": {
+    "image": null,
+    "fetchedAt": 1789658947640
+  },
+  "https://www.geekwire.com/2026/portland-startup-antfly-raises-2m-to-streamline-data-infrastructure-for-ai-agents/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/antfly.png",
+    "fetchedAt": 1789658948061
+  },
+  "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/John-Ternus-Surprise-and-Shine-2560x1440.jpg",
+    "fetchedAt": 1789658948640
+  },
+  "https://www.techmeme.com/260917/p28#a260917p28": {
+    "image": null,
+    "fetchedAt": 1789658949002
+  },
+  "https://news.crunchbase.com/venture/interesting-startup-deals-nuclear-power-robotics-ai-agtech-proptech/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/5_Most_Interesting.jpeg",
+    "fetchedAt": 1789658949451
+  },
+  "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
+    "fetchedAt": 1789658949847
+  },
+  "https://sifted.eu/articles/elevenlabs-funding-round-scaleup-europe-fund/": {
+    "image": "https://content.sifted.eu/wp-content/uploads/2026/03/30170822/Eleven-Labs-scaled-e1774886998162.webp",
+    "fetchedAt": 1789658952191
+  },
+  "https://sifted.eu/articles/revolut-dual-listing-2/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=2000,quality=75,fit=cover,format=auto/wp-content/uploads/2026/04/20103840/PR-headshot-landscape-nik-1-1.png",
+    "fetchedAt": 1789658953656
+  },
+  "https://thenextweb.com/news/emil-michael-pentagon-ai-stakes-regulation-cnbc": {
+    "image": "https://media.thenextweb.com/2026/09/emil-michael-pentagon-courtyard-autonomous-systems-display.jpg",
+    "fetchedAt": 1789658954153
+  },
+  "https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TechCrunch-Disrupt-Volunteers.jpg?resize=1200,800",
+    "fetchedAt": 1789658954535
+  },
+  "https://www.techmeme.com/260917/p29#a260917p29": {
+    "image": null,
+    "fetchedAt": 1789658954925
+  },
+  "https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/campsnap2.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+    "fetchedAt": 1789658955433
+  },
+  "https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268756_Robotaxis_are_cops_now_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1789658955844
+  },
+  "https://www.geekwire.com/2026/startup-spotlight-local-crew-uses-video-and-ai-to-cut-out-in-person-home-repair-estimates/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/saadnadeem.jpeg",
+    "fetchedAt": 1789658956267
   }
 }
