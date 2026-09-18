@@ -1,24 +1,4 @@
 {
-  "https://thenextweb.com/news/coefficient-giving-ai-safety-funding-ipo-correlation": {
-    "image": "https://media.thenextweb.com/2026/09/coefficient-giving-ai-safety-funding-ipo-correlation.jpg",
-    "fetchedAt": 1788533407397
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-    "fetchedAt": 1788533407877
-  },
-  "https://www.techmeme.com/260904/p15#a260904p15": {
-    "image": null,
-    "fetchedAt": 1788533408248
-  },
-  "https://sifted.eu/articles/bessemer-creandum-gridfield/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1920,quality=75,fit=cover,format=auto/wp-content/uploads/2019/07/25132008/artificial-intelligence-artwork-brain-1166602.jpg",
-    "fetchedAt": 1788533410054
-  },
-  "https://www.techmeme.com/260904/p9#a260904p9": {
-    "image": null,
-    "fetchedAt": 1788533410411
-  },
   "https://www.techmeme.com/260904/p17#a260904p17": {
     "image": null,
     "fetchedAt": 1788533410769
@@ -938,5 +918,65 @@
   "https://www.geekwire.com/2026/startup-spotlight-local-crew-uses-video-and-ai-to-cut-out-in-person-home-repair-estimates/": {
     "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/saadnadeem.jpeg",
     "fetchedAt": 1789658956267
+  },
+  "https://www.geekwire.com/2026/temporal-12-55b-valuation-ai-agents/": {
+    "image": "https://www.geekwire.com/wp-content/uploads/2026/09/temporal-founders.jpg",
+    "fetchedAt": 1789743006267
+  },
+  "https://www.techmeme.com/260918/p15#a260918p15": {
+    "image": null,
+    "fetchedAt": 1789743006680
+  },
+  "https://thenextweb.com/news/openai-robotics-engineer-salaries-500000": {
+    "image": "https://media.thenextweb.com/2026/07/openai-models-escaped-hacked-hugging-face.jpg",
+    "fetchedAt": 1789743007244
+  },
+  "https://news.crunchbase.com/seed/startup-funding-rules-ai-gtm-golbin-lvlup/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/seed-funding-plants.jpg",
+    "fetchedAt": 1789743007817
+  },
+  "https://www.techmeme.com/260918/p9#a260918p9": {
+    "image": null,
+    "fetchedAt": 1789743008189
+  },
+  "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Google-CC-1152x648.png",
+    "fetchedAt": 1789743008772
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_18541.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "fetchedAt": 1789743009226
+  },
+  "https://thenextweb.com/news/apple-italy-store-strike-iphone-18-pro": {
+    "image": "https://media.thenextweb.com/2026/09/Florence-Apple-Store.jpg",
+    "fetchedAt": 1789743009743
+  },
+  "https://www.techmeme.com/260918/p13#a260918p13": {
+    "image": null,
+    "fetchedAt": 1789743010115
+  },
+  "https://thenextweb.com/news/tom-watson-palantir-senior-vice-president": {
+    "image": "https://media.thenextweb.com/2026/09/tom-watson-official-portrait.jpg",
+    "fetchedAt": 1789743010607
+  },
+  "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/29395589440_9fda12ac24_k.jpg?resize=1200,800",
+    "fetchedAt": 1789743011004
+  },
+  "https://thenextweb.com/news/angle-health-600m-vitruvian-partners-2-7bn-valuation": {
+    "image": "https://media.thenextweb.com/2026/09/angle-health-app-care-navigation-interface.jpg",
+    "fetchedAt": 1789743011498
+  },
+  "https://thenextweb.com/news/anthropic-biology-wet-lab-drug-program": {
+    "image": "https://media.thenextweb.com/2026/07/anthropic-meta-10-billion-compute-deal-talks.jpg",
+    "fetchedAt": 1789743011989
+  },
+  "https://www.techmeme.com/260918/p14#a260918p14": {
+    "image": null,
+    "fetchedAt": 1789743012361
+  },
+  "https://thenextweb.com/news/huawei-intelligent-world-2035-report-tokens-agents-forecast": {
+    "image": "https://media.thenextweb.com/2026/09/huawei-logo-mwc24-barcelona.jpg",
+    "fetchedAt": 1789743012865
   }
 }
