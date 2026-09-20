@@ -1,76 +1,4 @@
 {
-  "https://www.techmeme.com/260905/p13#a260905p13": {
-    "image": null,
-    "fetchedAt": 1788703145912
-  },
-  "https://www.techmeme.com/260906/p1#a260906p1": {
-    "image": null,
-    "fetchedAt": 1788703146268
-  },
-  "https://thenextweb.com/news/openai-astra-arc-agi-3-harness-62-7-vs-99-9-benchmark-revisions": {
-    "image": "https://media.thenextweb.com/2026/09/OpenAI-Astra.jpg",
-    "fetchedAt": 1788703146793
-  },
-  "https://www.techmeme.com/260906/p3#a260906p3": {
-    "image": null,
-    "fetchedAt": 1788703147151
-  },
-  "https://thenextweb.com/news/seattle-times-newsday-sue-openai-microsoft-copyright-paywall-bypass-gpai-code-of-practice-copyright-chapter-measure-1-2": {
-    "image": "https://media.thenextweb.com/2026/06/microsoft-xbox-spinoff-subsidiary-asha-sharma.jpg",
-    "fetchedAt": 1788703147637
-  },
-  "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800",
-    "fetchedAt": 1788703148072
-  },
-  "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
-    "fetchedAt": 1788703148567
-  },
-  "https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
-    "fetchedAt": 1788703149117
-  },
-  "https://www.geekwire.com/2026/startup-spotlight-food-photographer-uses-25-year-archive-to-build-an-ai-tool-that-eliminates-costly-reshoots/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/pallatburger-1.png",
-    "fetchedAt": 1788703149526
-  },
-  "https://collusion.wiki/": {
-    "image": "https://collusion.wiki/img/social.png?v=5ce9724f",
-    "fetchedAt": 1788703150097
-  },
-  "https://thenextweb.com/news/anthropic-claude-fermat-last-theorem-lean-buzzard": {
-    "image": "https://media.thenextweb.com/2026/09/anthropic-claude-fermat-lean-formalisation.jpg",
-    "fetchedAt": 1788703150605
-  },
-  "https://thenextweb.com/news/berlin-rhysida-ransomware-data-published-refused-ransom": {
-    "image": "https://media.thenextweb.com/2026/09/berlin-rotes-rathaus.jpg",
-    "fetchedAt": 1788703151069
-  },
-  "https://www.theverge.com/tech/990436/fairphone-6-plus-review": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268725_Fairphone_6_Plus_review_AJohnson_0001.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-    "fetchedAt": 1788703151586
-  },
-  "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4405_91ad42.jpg?quality=90&strip=all&crop=0%2C3.6786993662166%2C100%2C92.642601267567&w=1200",
-    "fetchedAt": 1788703151985
-  },
-  "https://thenextweb.com/news/atoms-kalanick-levandowski-robotaxi-uber-100m": {
-    "image": "https://media.thenextweb.com/2026/09/travis-kalanick.jpg",
-    "fetchedAt": 1788703152458
-  },
-  "https://www.techmeme.com/260906/p4#a260906p4": {
-    "image": null,
-    "fetchedAt": 1788703152831
-  },
-  "https://www.theverge.com/column/990183/diy-plug-in-solar-us": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/banner.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-    "fetchedAt": 1788703153222
-  },
-  "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Spectrum_mission_Onwards_and_upwards_liftoff_pillars-1152x648.jpg",
-    "fetchedAt": 1788703153739
-  },
   "https://www.techmeme.com/260907/p11#a260907p11": {
     "image": null,
     "fetchedAt": 1788798006219
@@ -942,5 +870,73 @@
   "https://thenextweb.com/news/bosworth-bad-actors-defence-luna-camera-free-sticker": {
     "image": "https://media.thenextweb.com/2026/07/Andrew-Bosworth.jpg",
     "fetchedAt": 1789827193135
+  },
+  "https://www.techmeme.com/260920/p7#a260920p7": {
+    "image": null,
+    "fetchedAt": 1789914726494
+  },
+  "https://www.techmeme.com/260919/p11#a260919p11": {
+    "image": null,
+    "fetchedAt": 1789914726862
+  },
+  "https://sifted.eu/articles/uk-sovereign-ai-fund-in-talks-to-back-500m-raise-for-drug-discovery-startup/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1340,quality=75,fit=cover,format=auto/wp-content/uploads/2026/02/24164525/LTH-2-scaled-e1789746379316.jpg",
+    "fetchedAt": 1789914730884
+  },
+  "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Sykes-Khalil-16x9-Dark.png?resize=1200,675",
+    "fetchedAt": 1789914731347
+  },
+  "https://www.techmeme.com/260919/p12#a260919p12": {
+    "image": null,
+    "fetchedAt": 1789914731761
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+    "fetchedAt": 1789914732366
+  },
+  "https://thenextweb.com/news/openai-856bn-compute-vs-600bn-reset-burn-improved": {
+    "image": "https://media.thenextweb.com/2026/06/gary-marcus-openai-ipo-ai-stocks-risk.jpg",
+    "fetchedAt": 1789914733112
+  },
+  "https://thenextweb.com/news/xi-white-house-dinner-ai-ceos-guardrails-chips-not-moving": {
+    "image": "https://media.thenextweb.com/2026/09/trump-xi-handshake-beijing.jpg",
+    "fetchedAt": 1789914733619
+  },
+  "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
+    "fetchedAt": 1789914734010
+  },
+  "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/ac_crowd.png?resize=1200,675",
+    "fetchedAt": 1789914734401
+  },
+  "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/A24-SCP-2.jpg?quality=90&strip=all&crop=0,1.4120260193559,100,97.175947961288",
+    "fetchedAt": 1789914734789
+  },
+  "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "fetchedAt": 1789914735180
+  },
+  "https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRH_TI84_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1789914735569
+  },
+  "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1789914735973
+  },
+  "https://www.theverge.com/column/997843/streamers-cable-fast-channels": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2193473385.jpg?quality=90&strip=all&crop=0%2C10.736030373072%2C100%2C78.527939253857&w=1200",
+    "fetchedAt": 1789914736371
+  },
+  "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-2560x1440.jpg",
+    "fetchedAt": 1789914736964
+  },
+  "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026-Ferrari-Purosangue-1-of-15-1152x648-1789751602.jpg",
+    "fetchedAt": 1789914737370
   }
 }
