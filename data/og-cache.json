@@ -1,76 +1,4 @@
 {
-  "https://www.techmeme.com/260907/p11#a260907p11": {
-    "image": null,
-    "fetchedAt": 1788798006219
-  },
-  "https://www.techmeme.com/260907/p10#a260907p10": {
-    "image": null,
-    "fetchedAt": 1788798006580
-  },
-  "https://sifted.eu/articles/claret-capital-venture-debt-ai-fund/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=516,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/03142530/David-Bateman-Claret-Capital-Partners-e1788454439505.jpg",
-    "fetchedAt": 1788798008173
-  },
-  "https://sifted.eu/articles/uk-launches-150m-north-of-england-scaleup-fund/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1600,quality=75,fit=cover,format=auto/wp-content/uploads/2025/05/13145222/liverpool-gritstone.jpg",
-    "fetchedAt": 1788798009396
-  },
-  "https://www.techmeme.com/260907/p9#a260907p9": {
-    "image": null,
-    "fetchedAt": 1788798009758
-  },
-  "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-1152x648.png",
-    "fetchedAt": 1788798010550
-  },
-  "https://www.techmeme.com/260907/p5#a260907p5": {
-    "image": null,
-    "fetchedAt": 1788798010911
-  },
-  "https://sifted.eu/articles/thore-graepel-deepmind-reason/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1993,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/06190428/IMG-03338-1-e1788717930315.jpg",
-    "fetchedAt": 1788798012136
-  },
-  "https://sifted.eu/articles/17-startup-hotspots-in-stockholm/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=2045,quality=75,fit=cover,format=auto/wp-content/uploads/2021/01/13191452/Inside-Norrsken-House-scaled-e1788702088465.jpg",
-    "fetchedAt": 1788798013351
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292926705.jpg?quality=90&strip=all&crop=0%2C10.654918655606%2C100%2C78.690162688789&w=1200",
-    "fetchedAt": 1788798013907
-  },
-  "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sony-wh-1000xm4c-headphones-comparison.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1788798014299
-  },
-  "https://thenextweb.com/news/us-hybrids-europe-2035-rules": {
-    "image": "https://media.thenextweb.com/2026/08/bmw-two-million-electric-cars-europe-seven-in-ten.jpg",
-    "fetchedAt": 1788798014887
-  },
-  "https://thenextweb.com/news/us-china-ai-talks-cyberattacks-trump-xi-summit-september": {
-    "image": "https://media.thenextweb.com/2026/09/us-china-flags-bilateral-meeting.jpg",
-    "fetchedAt": 1788798015427
-  },
-  "https://www.techmeme.com/260907/p14#a260907p14": {
-    "image": null,
-    "fetchedAt": 1788798015810
-  },
-  "https://www.techmeme.com/260907/p13#a260907p13": {
-    "image": null,
-    "fetchedAt": 1788798016170
-  },
-  "https://thenextweb.com/news/ubs-ai-skills-junior-bankers-2027-graduate-hiring": {
-    "image": "https://media.thenextweb.com/2026/09/ubs-headquarters-bahnhofstrasse-zurich.jpg",
-    "fetchedAt": 1788798016712
-  },
-  "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IFA_R4_0.3kWh_Outdoor.jpg?quality=90&strip=all&crop=0%2C3.0977312390925%2C100%2C93.804537521815&w=1200",
-    "fetchedAt": 1788798017127
-  },
-  "https://thenextweb.com/news/germany-france-palantir-rival-arcadia-dependency-eu-funding": {
-    "image": "https://media.thenextweb.com/2026/09/palantir-logo-exhibition-stand.jpg",
-    "fetchedAt": 1788798017664
-  },
   "https://www.techmeme.com/260908/p22#a260908p22": {
     "image": null,
     "fetchedAt": 1788879365919
@@ -938,5 +866,77 @@
   "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/": {
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026-Ferrari-Purosangue-1-of-15-1152x648-1789751602.jpg",
     "fetchedAt": 1789914737370
+  },
+  "https://www.techmeme.com/260921/p38#a260921p38": {
+    "image": null,
+    "fetchedAt": 1790009465547
+  },
+  "https://www.techmeme.com/260921/p36#a260921p36": {
+    "image": null,
+    "fetchedAt": 1790009465903
+  },
+  "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/trump-august-2025-1152x648-1756146125.jpg",
+    "fetchedAt": 1790009466702
+  },
+  "https://www.geekwire.com/2026/plug-and-play-seattle-picks-11-startups-for-4th-cohort-from-space-robotics-to-biotech/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/plugandplaysept2026-1260x841.jpg",
+    "fetchedAt": 1790009467138
+  },
+  "https://www.techmeme.com/260921/p35#a260921p35": {
+    "image": null,
+    "fetchedAt": 1790009467495
+  },
+  "https://www.techmeme.com/260921/p34#a260921p34": {
+    "image": null,
+    "fetchedAt": 1790009467852
+  },
+  "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC08433.webp?quality=90&strip=all&crop=0%2C11.097693417406%2C100%2C77.804613165189&w=1200",
+    "fetchedAt": 1790009468312
+  },
+  "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/muse-stroller.png",
+    "fetchedAt": 1790009468705
+  },
+  "https://sifted.eu/articles/new-solo-gp-firm-backing-early-stage-ai-and-deeptech-startups-hits-first-close-of-maiden-fund/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1400,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/18160553/Shahryar-project-ventures.jpeg",
+    "fetchedAt": 1790009471764
+  },
+  "https://thenextweb.com/news/amazon-blocks-muse-perplexity-amended-complaint": {
+    "image": "https://media.thenextweb.com/2026/04/Amazon.jpg",
+    "fetchedAt": 1790009472334
+  },
+  "https://thenextweb.com/news/corridor-25m-seed-bain-capital-ventures-ai-benefits-brokerage": {
+    "image": "https://media.thenextweb.com/2026/09/corridor-co-founders-team-photo.jpg",
+    "fetchedAt": 1790009472875
+  },
+  "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ghaul_08cropped.jpg?quality=90&strip=all&crop=10.059114583333%2C0%2C79.881770833333%2C100&w=1200",
+    "fetchedAt": 1790009473272
+  },
+  "https://www.techmeme.com/260921/p42#a260921p42": {
+    "image": null,
+    "fetchedAt": 1790009473643
+  },
+  "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-warner-bros-1152x648.jpg",
+    "fetchedAt": 1790009474381
+  },
+  "https://www.techmeme.com/260921/p41#a260921p41": {
+    "image": null,
+    "fetchedAt": 1790009474739
+  },
+  "https://thenextweb.com/news/state-of-the-american-advertiser-perion-rob-desalvo": {
+    "image": "https://media.thenextweb.com/2026/09/rob-desalvo-perion-managing-director-americas.jpg",
+    "fetchedAt": 1790009475276
+  },
+  "https://www.techmeme.com/260921/p40#a260921p40": {
+    "image": null,
+    "fetchedAt": 1790009475633
+  },
+  "https://thenextweb.com/news/volvo-zellmer-ceo-skoda-margin": {
+    "image": "https://media.thenextweb.com/2026/09/volvo-dealership-forecourt-cars.jpg",
+    "fetchedAt": 1790009476180
   }
 }
