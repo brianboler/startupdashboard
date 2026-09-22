@@ -1,64 +1,4 @@
 {
-  "https://www.techmeme.com/260908/p22#a260908p22": {
-    "image": null,
-    "fetchedAt": 1788879365919
-  },
-  "https://www.techmeme.com/260908/p21#a260908p21": {
-    "image": null,
-    "fetchedAt": 1788879366289
-  },
-  "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Kofi-Asante.jpg?resize=1200,800",
-    "fetchedAt": 1788879366768
-  },
-  "https://www.techmeme.com/260908/p14#a260908p14": {
-    "image": null,
-    "fetchedAt": 1788879367139
-  },
-  "https://www.techmeme.com/260908/p20#a260908p20": {
-    "image": null,
-    "fetchedAt": 1788879367513
-  },
-  "https://www.techmeme.com/260908/p19#a260908p19": {
-    "image": null,
-    "fetchedAt": 1788879367884
-  },
-  "https://www.techmeme.com/260908/p16#a260908p16": {
-    "image": null,
-    "fetchedAt": 1788879368255
-  },
-  "https://sifted.eu/articles/am-i-a-fake-founder-what-its-like-joining-a-startup-as-a-cofounder-a-year-late/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1200,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/07144921/gabriella-sahlmann.jpg",
-    "fetchedAt": 1788879369880
-  },
-  "https://www.techmeme.com/260908/p23#a260908p23": {
-    "image": null,
-    "fetchedAt": 1788879370250
-  },
-  "https://thenextweb.com/news/iqe-indium-phosphide-china-export-controls-supply-risk": {
-    "image": "https://media.thenextweb.com/2026/07/india-20-billion-semiconductor-smartphone-chip-fund-modi.jpg",
-    "fetchedAt": 1788879370797
-  },
-  "https://thenextweb.com/news/huawei-china-duv-lithography-yuliangsheng-zeiss-lenses": {
-    "image": "https://media.thenextweb.com/2026/09/huawei-logo-store-signage.jpg",
-    "fetchedAt": 1788879371278
-  },
-  "https://www.theverge.com/games/991218/zelda-ocarina-of-time-remake-release-date-trailer": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/NS2_TheLegendofZeldaOcarinaofTime_scrn_16.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-    "fetchedAt": 1788879371741
-  },
-  "https://thenextweb.com/news/us-uk-media-green-paper-news-prominence-withdraw": {
-    "image": "https://media.thenextweb.com/2026/09/palace-of-westminster-elizabeth-tower-sunset.jpg",
-    "fetchedAt": 1788879372221
-  },
-  "https://www.theverge.com/tech/990849/crossbody-phone-strap-style": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/mobile-crossbodymultistrap-ocean-159A1490.webp?quality=90&strip=all&crop=0%2C10.319647285754%2C100%2C79.360705428493&w=1200",
-    "fetchedAt": 1788879372615
-  },
-  "https://www.theverge.com/games/990263/steelseries-aeon-pro-xbox-pc-controller-price-features": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/aeonpro3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1788879372997
-  },
   "https://www.techmeme.com/260909/p17#a260909p17": {
     "image": null,
     "fetchedAt": 1788966246499
@@ -938,5 +878,65 @@
   "https://thenextweb.com/news/volvo-zellmer-ceo-skoda-margin": {
     "image": "https://media.thenextweb.com/2026/09/volvo-dealership-forecourt-cars.jpg",
     "fetchedAt": 1790009476180
+  },
+  "https://www.techmeme.com/260922/p32#a260922p32": {
+    "image": null,
+    "fetchedAt": 1790090885869
+  },
+  "https://thenextweb.com/news/palo-alto-networks-unit-42": {
+    "image": "https://media.thenextweb.com/2026/09/Palo-Alto-Network.jpg",
+    "fetchedAt": 1790090886474
+  },
+  "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/": {
+    "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/09/prompts-wh2Artboard-5-copy-2.jpg",
+    "fetchedAt": 1790090886923
+  },
+  "https://sifted.eu/articles/verda-datacrunch-funding-round-emergence-ventures/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/04/23163735/Verda_Ruben_Bryon_2026-3-1-scaled-e1776958720935.jpg",
+    "fetchedAt": 1790090889483
+  },
+  "https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Quarterly-agenticAI.jpg",
+    "fetchedAt": 1790090890008
+  },
+  "https://thenextweb.com/news/anthropic-openai-australia-ai-training-copyright": {
+    "image": "https://media.thenextweb.com/2026/08/Anthropic-and-OpenAI.jpg",
+    "fetchedAt": 1790090890523
+  },
+  "https://www.geekwire.com/2026/ex-zillow-vps-startup-truelist-acquired-by-mainstay-in-18m-expansion-of-real-estate-ai/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/armstrong.jpeg",
+    "fetchedAt": 1790090890950
+  },
+  "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
+    "fetchedAt": 1790090891490
+  },
+  "https://www.geekwire.com/2026/solo-founder-uses-ai-as-backing-band-to-build-a-music-licensing-platform-for-small-businesses/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/musicforbusiness.png",
+    "fetchedAt": 1790090891890
+  },
+  "https://sifted.eu/articles/exclusive-mistral-pimento-acquisition/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1920,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/22144229/solen-feyissa-zQvPAtGxQh0-unsplash.jpg",
+    "fetchedAt": 1790090893641
+  },
+  "https://www.techmeme.com/260922/p33#a260922p33": {
+    "image": null,
+    "fetchedAt": 1790090894098
+  },
+  "https://thenextweb.com/news/tiktok-us-joins-lantern-child-safety-ncmec": {
+    "image": "https://media.thenextweb.com/2026/09/tiktok-logo-phone-in-hand.jpg",
+    "fetchedAt": 1790090894601
+  },
+  "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
+    "fetchedAt": 1790090895020
+  },
+  "https://thenextweb.com/news/adobe-premieres-free-mobile-video-editor-arrives-on-android": {
+    "image": "https://media.thenextweb.com/2026/09/adobe-premiere-mobile-promo-woman-timeline.jpg",
+    "fetchedAt": 1790090895522
+  },
+  "https://www.theverge.com/games/998758/xbox-activision-blizzard": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012264/vpavic_4275_20201030_0082.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1790090896005
   }
 }
