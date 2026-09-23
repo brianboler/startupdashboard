@@ -1,72 +1,4 @@
 {
-  "https://www.techmeme.com/260909/p17#a260909p17": {
-    "image": null,
-    "fetchedAt": 1788966246499
-  },
-  "https://www.techmeme.com/260909/p10#a260909p10": {
-    "image": null,
-    "fetchedAt": 1788966246875
-  },
-  "https://www.techmeme.com/260909/p13#a260909p13": {
-    "image": null,
-    "fetchedAt": 1788966247253
-  },
-  "https://www.techmeme.com/260909/p19#a260909p19": {
-    "image": null,
-    "fetchedAt": 1788966247630
-  },
-  "https://www.techmeme.com/260909/p11#a260909p11": {
-    "image": null,
-    "fetchedAt": 1788966248004
-  },
-  "https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/AI_Brain.jpg",
-    "fetchedAt": 1788966248637
-  },
-  "https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/uber-black-india.jpg?resize=1200,800",
-    "fetchedAt": 1788966249083
-  },
-  "https://www.techmeme.com/260909/p14#a260909p14": {
-    "image": null,
-    "fetchedAt": 1788966249457
-  },
-  "https://sifted.eu/articles/limetax-pre-seed-fundraise/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1365,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/04155353/Pauline-Bossdorf-111-1-scaled.jpg",
-    "fetchedAt": 1788966252093
-  },
-  "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024",
-    "fetchedAt": 1788966252488
-  },
-  "https://sifted.eu/articles/loft-orbital-billion-dollar-deal-marlan-space/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/09151306/Loft-Orbital-Satellite-Constellation-Render-scaled.jpg",
-    "fetchedAt": 1788966253827
-  },
-  "https://www.theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-09-at-7.44.37-AM.png?quality=90&strip=all&crop=0%2C2.8499270178814%2C100%2C94.300145964237&w=1200",
-    "fetchedAt": 1788966254247
-  },
-  "https://www.theverge.com/transportation/992014/tesla-cybercab-hands-on-test-robotaxi-austin": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25670862/Robotaxi_89.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1788966254630
-  },
-  "https://www.techmeme.com/260909/p18#a260909p18": {
-    "image": null,
-    "fetchedAt": 1788966255224
-  },
-  "https://thenextweb.com/news/waymo-lyft-nashville-robotaxi-launch": {
-    "image": "https://media.thenextweb.com/2026/09/waymo-lyft-nashville-lead-image.jpg",
-    "fetchedAt": 1788966255920
-  },
-  "https://thenextweb.com/news/pentagon-ai-chief-allies-resources-scale": {
-    "image": "https://media.thenextweb.com/2026/09/pentagon-cameron-stanley.jpg",
-    "fetchedAt": 1788966256468
-  },
-  "https://thenextweb.com/news/amazon-first-sterling-bond-ai-capex": {
-    "image": "https://media.thenextweb.com/2026/07/amazon-layoffs-burnout-saturated-job-market.jpg",
-    "fetchedAt": 1788966257010
-  },
   "https://www.techmeme.com/260910/p20#a260910p20": {
     "image": null,
     "fetchedAt": 1789051926637
@@ -938,5 +870,77 @@
   "https://www.theverge.com/games/998758/xbox-activision-blizzard": {
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012264/vpavic_4275_20201030_0082.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "fetchedAt": 1790090896005
+  },
+  "https://www.techmeme.com/260923/p23#a260923p23": {
+    "image": null,
+    "fetchedAt": 1790176806049
+  },
+  "https://www.geekwire.com/2026/amazon-opens-its-seller-tools-to-outside-ai-agents-starting-with-anthropics-claude/": {
+    "image": "https://www.geekwire.com/wp-content/uploads/2026/09/amazon-claude.jpg",
+    "fetchedAt": 1790176806528
+  },
+  "https://www.techmeme.com/260923/p20#a260923p20": {
+    "image": null,
+    "fetchedAt": 1790176806897
+  },
+  "https://www.techmeme.com/260923/p29#a260923p29": {
+    "image": null,
+    "fetchedAt": 1790176807270
+  },
+  "https://www.techmeme.com/260923/p25#a260923p25": {
+    "image": null,
+    "fetchedAt": 1790176807639
+  },
+  "https://sifted.eu/articles/magic-ai-fitness-mirror-funding-round/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=461,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/23150032/magic-ai-ceo-e1790172075574.jpg",
+    "fetchedAt": 1790176809628
+  },
+  "https://thenextweb.com/news/numeral-100m-series-c-insight-partners-ai-sales-tax": {
+    "image": "https://media.thenextweb.com/2026/09/numeral-cofounders-sam-ross-matt-duvall.jpg",
+    "fetchedAt": 1790176810198
+  },
+  "https://www.geekwire.com/2026/former-amazon-and-opendoor-leaders-raise-3m-to-give-every-key-business-metric-its-own-ai-agent/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/photo-2026-09-21-augmeta-founders-L-to-R-arslan-salman-nitin.png",
+    "fetchedAt": 1790176810610
+  },
+  "https://sifted.eu/articles/connect-ventures-55-million-fund-deeptech-founders/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=2000,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/22153240/Connect-scaled-e1790087582347.jpeg",
+    "fetchedAt": 1790176812020
+  },
+  "https://sifted.eu/articles/tink-founders-launch-freda/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1365,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/22150818/Freda-team--scaled.jpg",
+    "fetchedAt": 1790176813571
+  },
+  "https://www.theverge.com/gadgets/999329/metroid-prime-remastered-nintendo-flow-usbc-apple-deal-sale": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/thevergedealsautomaticfeeder.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1790176814018
+  },
+  "https://www.theverge.com/gadgets/999380/una-watch-sports-gps-modular": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/UNA-takes-on-Apple-and-Garmin-.jpg?quality=90&strip=all&crop=0%2C32.361767334951%2C100%2C35.276465330098&w=1200",
+    "fetchedAt": 1790176814417
+  },
+  "https://thenextweb.com/news/openai-maths-advisory-group-100-open-problems": {
+    "image": "https://media.thenextweb.com/2026/09/OpenAI-logo-with-the-OpenAI-emblem.jpg",
+    "fetchedAt": 1790176814941
+  },
+  "https://thenextweb.com/news/youtube-custom-feeds-ai-creator-tools-netflix": {
+    "image": "https://media.thenextweb.com/2026/08/YouTube.jpg",
+    "fetchedAt": 1790176815425
+  },
+  "https://www.techmeme.com/260923/p28#a260923p28": {
+    "image": null,
+    "fetchedAt": 1790176815847
+  },
+  "https://thenextweb.com/news/openai-daybreak-ukraine-cyber-defence": {
+    "image": "https://media.thenextweb.com/2026/09/openai-about-page-laptop-screen-close-up.jpg",
+    "fetchedAt": 1790176816327
+  },
+  "https://www.techmeme.com/260923/p27#a260923p27": {
+    "image": null,
+    "fetchedAt": 1790176816703
+  },
+  "https://www.techmeme.com/260923/p26#a260923p26": {
+    "image": null,
+    "fetchedAt": 1790176817077
   }
 }
