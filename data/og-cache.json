@@ -1,68 +1,4 @@
 {
-  "https://www.techmeme.com/260910/p20#a260910p20": {
-    "image": null,
-    "fetchedAt": 1789051926637
-  },
-  "https://www.techmeme.com/260910/p15#a260910p15": {
-    "image": null,
-    "fetchedAt": 1789051927006
-  },
-  "https://www.geekwire.com/2026/general-robotics-led-by-microsoft-vets-says-its-ai-has-cut-robot-setup-from-a-month-to-hours/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/General-Robotics_Photo3-1260x709.jpg",
-    "fetchedAt": 1789051927474
-  },
-  "https://www.techmeme.com/260910/p22#a260910p22": {
-    "image": null,
-    "fetchedAt": 1789051927842
-  },
-  "https://www.techmeme.com/260910/p21#a260910p21": {
-    "image": null,
-    "fetchedAt": 1789051928209
-  },
-  "https://www.techmeme.com/260910/p19#a260910p19": {
-    "image": null,
-    "fetchedAt": 1789051928577
-  },
-  "https://www.techmeme.com/260910/p17#a260910p17": {
-    "image": null,
-    "fetchedAt": 1789051928945
-  },
-  "https://www.geekwire.com/2026/amazons-new-board-member-is-a-cybersecurity-founder-who-sold-his-last-company-to-google-for-5-4b/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/mandia-Image-1.jpeg",
-    "fetchedAt": 1789051929356
-  },
-  "https://www.techmeme.com/260910/p23#a260910p23": {
-    "image": null,
-    "fetchedAt": 1789051929724
-  },
-  "https://thenextweb.com/news/antioch-32m-series-a-greylock-physical-ai-simulation": {
-    "image": "https://media.thenextweb.com/2026/09/antioch-co-founders-headshots-grid.jpg",
-    "fetchedAt": 1789051930239
-  },
-  "https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2277879774.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
-    "fetchedAt": 1789051930683
-  },
-  "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Miro_Header-2400x1260-copy-1536x806-1.png?resize=1200,630",
-    "fetchedAt": 1789051931085
-  },
-  "https://www.theverge.com/tech/993300/iphone-duo-hardware-software-android-samsung-oppo": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1789051931520
-  },
-  "https://thenextweb.com/news/bubeck-navier-stokes-account-apology-altman": {
-    "image": "https://media.thenextweb.com/2026/09/sebastien-bubeck-openai-great-chatbot-debate-2025.jpg",
-    "fetchedAt": 1789051931991
-  },
-  "https://www.theverge.com/gadgets/988542/iphone-duo-foldable-samsung-google-spec-comparison": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0004.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1789051932390
-  },
-  "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_Mailbag.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1789051932799
-  },
   "https://www.techmeme.com/260911/p14#a260911p14": {
     "image": null,
     "fetchedAt": 1789138386341
@@ -942,5 +878,77 @@
   "https://www.techmeme.com/260923/p26#a260923p26": {
     "image": null,
     "fetchedAt": 1790176817077
+  },
+  "https://www.techmeme.com/260924/p26#a260924p26": {
+    "image": null,
+    "fetchedAt": 1790264766470
+  },
+  "https://thenextweb.com/news/google-project-suncatcher-first-tpu-launch": {
+    "image": "https://media.thenextweb.com/2026/06/Google-mockup.jpg",
+    "fetchedAt": 1790264767125
+  },
+  "https://news.crunchbase.com/venture/dextr-ai-hospitality-agents-raises-seed-funding/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/generative-ai-v1.jpg",
+    "fetchedAt": 1790264767640
+  },
+  "https://sifted.eu/articles/dtcp-first-close-defence-fund-invest-europe-growth/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1333,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/23163715/Thomas-Preus_DTCP-Capital-scaled-e1790177896849.jpeg",
+    "fetchedAt": 1790264770463
+  },
+  "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/": {
+    "image": null,
+    "fetchedAt": 1790264770900
+  },
+  "https://www.geekwire.com/2026/seattle-startup-row-zero-acquired-by-databricks-to-bring-enterprise-spreadsheets-to-ai-platform/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/databricksrowzero.jpeg",
+    "fetchedAt": 1790264771348
+  },
+  "https://thenextweb.com/news/aws-swami-sivasubramanian-ai-agents-production-kiro-humanx": {
+    "image": "https://media.thenextweb.com/2026/09/swami-sivasubramanian-aws-humanx-amsterdam-stage.jpg",
+    "fetchedAt": 1790264771901
+  },
+  "https://www.techmeme.com/260924/p28#a260924p28": {
+    "image": null,
+    "fetchedAt": 1790264772329
+  },
+  "https://www.techmeme.com/260924/p27#a260924p27": {
+    "image": null,
+    "fetchedAt": 1790264772705
+  },
+  "https://www.geekwire.com/2026/hubble-network-raises-200m-to-reach-1-6b-valuation-as-startup-expands-satellite-bluetooth-network/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2025/07/250715-hubblenet5.jpg",
+    "fetchedAt": 1790264773102
+  },
+  "https://thenextweb.com/news/nick-clegg-ai-labs-marking-own-homework-eu-ai-act-humanx": {
+    "image": "https://media.thenextweb.com/2026/09/nick-clegg-hiro-capital-humanx-amsterdam.jpg",
+    "fetchedAt": 1790264773599
+  },
+  "https://www.techmeme.com/260924/p32#a260924p32": {
+    "image": null,
+    "fetchedAt": 1790264773976
+  },
+  "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Urtasun-Michael-Taylor_16x9-Dark.png?resize=1200,675",
+    "fetchedAt": 1790264774408
+  },
+  "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2292466102-1024x648.jpg",
+    "fetchedAt": 1790264775111
+  },
+  "https://www.techmeme.com/260924/p31#a260924p31": {
+    "image": null,
+    "fetchedAt": 1790264775489
+  },
+  "https://www.theverge.com/tech/1000037/nikon-z5-iic-full-frame-digital-camera-ibis-mechanical-shutter": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/nikon1.jpg?quality=90&strip=all&crop=0%2C10.747707583672%2C100%2C78.504584832655&w=1200",
+    "fetchedAt": 1790264775983
+  },
+  "https://thenextweb.com/news/booking-com-diageo-ai-at-scale-regrettable-work-humanx": {
+    "image": "https://media.thenextweb.com/2026/09/james-waters-booking-susan-jones-diageo-humanx-amsterdam.jpg",
+    "fetchedAt": 1790264776490
+  },
+  "https://sifted.eu/articles/browse-sifteds-company-coverage/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2025/10/10165112/sifted2.jpg",
+    "fetchedAt": 1790264779080
   }
 }
