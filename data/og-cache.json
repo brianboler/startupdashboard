@@ -1,72 +1,4 @@
 {
-  "https://www.techmeme.com/260911/p14#a260911p14": {
-    "image": null,
-    "fetchedAt": 1789138386341
-  },
-  "https://www.techmeme.com/260911/p11#a260911p11": {
-    "image": null,
-    "fetchedAt": 1789138386702
-  },
-  "https://www.techmeme.com/260911/p9#a260911p9": {
-    "image": null,
-    "fetchedAt": 1789138387062
-  },
-  "https://www.geekwire.com/2026/amazon-expands-its-quick-ai-assistant-on-mobile-in-challenge-to-microsoft-and-google/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/quick.png",
-    "fetchedAt": 1789138387556
-  },
-  "https://thenextweb.com/news/joyin-openai-copying-claim-aether-alien-mind": {
-    "image": "https://media.thenextweb.com/2026/09/OpenAI-Astra.jpg",
-    "fetchedAt": 1789138388459
-  },
-  "https://cognition.com/blog/swe-2": {
-    "image": "https://cognition.com/images/swe-2/cover.jpg",
-    "fetchedAt": 1789138388987
-  },
-  "https://www.techmeme.com/260911/p18#a260911p18": {
-    "image": null,
-    "fetchedAt": 1789138389349
-  },
-  "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/insta-invasive-qs.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
-    "fetchedAt": 1789138389823
-  },
-  "https://www.techmeme.com/260911/p17#a260911p17": {
-    "image": null,
-    "fetchedAt": 1789138390184
-  },
-  "https://www.techmeme.com/260911/p16#a260911p16": {
-    "image": null,
-    "fetchedAt": 1789138390545
-  },
-  "https://www.theverge.com/gadgets/993929/soundcore-liberty-5-pro-earbuds-control-resonant-ring-doorbell-deal-sale": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/soundcoreliberty5prodeal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1789138390962
-  },
-  "https://thenextweb.com/news/uae-germany-40bn-investment-data-centres-bavaria": {
-    "image": "https://media.thenextweb.com/2026/09/merz-mohamed-bin-zayed-chancellery-berlin.jpg",
-    "fetchedAt": 1789138391795
-  },
-  "https://www.theverge.com/entertainment/993875/tiff-2026-the-only-living-pickpocket-in-new-york": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/TOLPINY-STILL-Courtesy-of-Sony-Pictures-Classics.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1789138392192
-  },
-  "https://www.theverge.com/tech/993892/apples-next-computer-smart-home-hub-airport-router": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24732441/236707_Mac_Studio_AKrales_0064.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1789138392582
-  },
-  "https://thenextweb.com/news/texas-judge-tiktok-liable-restricted-mode-child-safety": {
-    "image": "https://media.thenextweb.com/2026/06/tiktok-settles-addiction-lawsuit-rkc-florida-teen.jpg",
-    "fetchedAt": 1789138393264
-  },
-  "https://www.theverge.com/tech/993928/samsung-tim-cook-galaxy-z-fold-8": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/tim-cook-samsung-nz-ad.jpg?quality=90&strip=all&crop=0,4.4575916230366,100,41.884816753927",
-    "fetchedAt": 1789138393664
-  },
-  "https://thenextweb.com/news/enflame-shanghai-ipo-debut-tencent-ai-chips": {
-    "image": "https://media.thenextweb.com/2026/09/tencent-headquarters-building-sign.jpg",
-    "fetchedAt": 1789138394346
-  },
   "https://www.techmeme.com/260911/p34#a260911p34": {
     "image": null,
     "fetchedAt": 1789221365846
@@ -950,5 +882,77 @@
   "https://sifted.eu/articles/browse-sifteds-company-coverage/": {
     "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2025/10/10165112/sifted2.jpg",
     "fetchedAt": 1790264779080
+  },
+  "https://www.techmeme.com/260925/p8#a260925p8": {
+    "image": null,
+    "fetchedAt": 1790351225908
+  },
+  "https://www.geekwire.com/2026/tech-moves-microsoft-ai-exec-joins-niantic-spatial-allen-fund-names-first-investment-chief-zillow-ai-leader-heads-to-stripe/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/PortraitCitron-1.png",
+    "fetchedAt": 1790351226368
+  },
+  "https://www.techmeme.com/260925/p2#a260925p2": {
+    "image": null,
+    "fetchedAt": 1790351226727
+  },
+  "https://www.techmeme.com/260924/p56#a260924p56": {
+    "image": null,
+    "fetchedAt": 1790351227086
+  },
+  "https://thenextweb.com/news/white-house-openai-anthropic-uk-ai-security-institute-models": {
+    "image": "https://media.thenextweb.com/2026/09/trump-burnham-bilateral-un-headquarters.jpg",
+    "fetchedAt": 1790351227676
+  },
+  "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5897.jpeg?quality=90&strip=all&crop=0%2C10.728628551019%2C100%2C78.542742897962&w=1200",
+    "fetchedAt": 1790351228133
+  },
+  "https://www.techmeme.com/260925/p5#a260925p5": {
+    "image": null,
+    "fetchedAt": 1790351228494
+  },
+  "https://www.geekwire.com/2026/microsoft-unveils-all-in-one-copilot-app-taking-on-anthropic-and-openai-in-new-push-to-boost-adoption/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/Jacob-Andreou-introducing-new-Copilot-Home-Code-and-Autopilot-1260x840.png",
+    "fetchedAt": 1790351228886
+  },
+  "https://www.techmeme.com/260925/p1#a260925p1": {
+    "image": null,
+    "fetchedAt": 1790351229245
+  },
+  "https://www.techmeme.com/260925/p9#a260925p9": {
+    "image": null,
+    "fetchedAt": 1790351229605
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+    "fetchedAt": 1790351230010
+  },
+  "https://www.geekwire.com/2026/tech-vet-takes-a-fresh-swing-at-the-country-club-with-a-golf-and-social-hub-in-old-seattle-industrial-space/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/eastwest1-1260x945.jpeg",
+    "fetchedAt": 1790351230401
+  },
+  "https://sifted.eu/articles/meet-msisv-2026-emea-cohort-brnd/": {
+    "image": "https://ad.doubleclick.net/ddm/trackimp/N84001.4052531SIFTED/B36754832.458070243;dc_trk_aid=652223476;dc_trk_cid=265022251;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?",
+    "fetchedAt": 1790351233720
+  },
+  "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Ricursive-Intelligence-founders.png?resize=1200,943",
+    "fetchedAt": 1790351234188
+  },
+  "https://thenextweb.com/news/pope-leo-unesco-speech-ai-human-dignity": {
+    "image": "https://media.thenextweb.com/2026/09/Pope-Leo.jpg",
+    "fetchedAt": 1790351234787
+  },
+  "https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/cricut1.jpg?quality=90&strip=all&crop=0%2C10.72083108499%2C100%2C78.55833783002&w=1200",
+    "fetchedAt": 1790351235202
+  },
+  "https://thenextweb.com/news/nikesh-arora-palo-alto-ai-slowdown-unrealistic": {
+    "image": "https://media.thenextweb.com/2026/09/nikesh-arora-palo-alto-networks-humanx-amsterdam-stage.jpg",
+    "fetchedAt": 1790351235750
+  },
+  "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600.png?w=1200",
+    "fetchedAt": 1790351236153
   }
 }
