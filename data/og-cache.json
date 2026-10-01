@@ -1,76 +1,4 @@
 {
-  "https://news.crunchbase.com/venture/fintech-alternative-funding-customer-acquisition-skalar/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/money-kites.jpg",
-    "fetchedAt": 1789658945805
-  },
-  "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD-Mustafa-Suleyman.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-    "fetchedAt": 1789658946347
-  },
-  "https://www.techmeme.com/260917/p26#a260917p26": {
-    "image": null,
-    "fetchedAt": 1789658946729
-  },
-  "https://thenextweb.com/news/factory-200m-5bn-valuation-ai-coding-agents": {
-    "image": "https://media.thenextweb.com/2026/09/factory-logo-sign-san-francisco-office-engineers.jpg",
-    "fetchedAt": 1789658947279
-  },
-  "https://www.techmeme.com/260917/p23#a260917p23": {
-    "image": null,
-    "fetchedAt": 1789658947640
-  },
-  "https://www.geekwire.com/2026/portland-startup-antfly-raises-2m-to-streamline-data-infrastructure-for-ai-agents/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/antfly.png",
-    "fetchedAt": 1789658948061
-  },
-  "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/John-Ternus-Surprise-and-Shine-2560x1440.jpg",
-    "fetchedAt": 1789658948640
-  },
-  "https://www.techmeme.com/260917/p28#a260917p28": {
-    "image": null,
-    "fetchedAt": 1789658949002
-  },
-  "https://news.crunchbase.com/venture/interesting-startup-deals-nuclear-power-robotics-ai-agtech-proptech/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/5_Most_Interesting.jpeg",
-    "fetchedAt": 1789658949451
-  },
-  "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
-    "fetchedAt": 1789658949847
-  },
-  "https://sifted.eu/articles/elevenlabs-funding-round-scaleup-europe-fund/": {
-    "image": "https://content.sifted.eu/wp-content/uploads/2026/03/30170822/Eleven-Labs-scaled-e1774886998162.webp",
-    "fetchedAt": 1789658952191
-  },
-  "https://sifted.eu/articles/revolut-dual-listing-2/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=2000,quality=75,fit=cover,format=auto/wp-content/uploads/2026/04/20103840/PR-headshot-landscape-nik-1-1.png",
-    "fetchedAt": 1789658953656
-  },
-  "https://thenextweb.com/news/emil-michael-pentagon-ai-stakes-regulation-cnbc": {
-    "image": "https://media.thenextweb.com/2026/09/emil-michael-pentagon-courtyard-autonomous-systems-display.jpg",
-    "fetchedAt": 1789658954153
-  },
-  "https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TechCrunch-Disrupt-Volunteers.jpg?resize=1200,800",
-    "fetchedAt": 1789658954535
-  },
-  "https://www.techmeme.com/260917/p29#a260917p29": {
-    "image": null,
-    "fetchedAt": 1789658954925
-  },
-  "https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/campsnap2.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-    "fetchedAt": 1789658955433
-  },
-  "https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268756_Robotaxis_are_cops_now_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1789658955844
-  },
-  "https://www.geekwire.com/2026/startup-spotlight-local-crew-uses-video-and-ai-to-cut-out-in-person-home-repair-estimates/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/08/saadnadeem.jpeg",
-    "fetchedAt": 1789658956267
-  },
   "https://www.geekwire.com/2026/temporal-12-55b-valuation-ai-agents/": {
     "image": "https://www.geekwire.com/wp-content/uploads/2026/09/temporal-founders.jpg",
     "fetchedAt": 1789743006267
@@ -962,5 +890,77 @@
   "https://thenextweb.com/news/amazon-fire-tv-sideloading-dma-gap": {
     "image": "https://media.thenextweb.com/2026/09/fire-tv-stick-4k-and-remote.jpg",
     "fetchedAt": 1790786542579
+  },
+  "https://thenextweb.com/news/metaview-60m-series-c-insight-partners-ai-recruiting": {
+    "image": "https://media.thenextweb.com/2026/10/metaview-60m-series-c-insight-partners-ai-recruiting1.jpg",
+    "fetchedAt": 1790875145805
+  },
+  "https://www.techmeme.com/261001/p23#a261001p23": {
+    "image": null,
+    "fetchedAt": 1790875146177
+  },
+  "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1-1152x648.jpg",
+    "fetchedAt": 1790875146912
+  },
+  "https://www.techmeme.com/261001/p25#a261001p25": {
+    "image": null,
+    "fetchedAt": 1790875147272
+  },
+  "https://thenextweb.com/news/restate-20m-series-a-singular-durable-execution-ai-agents": {
+    "image": "https://media.thenextweb.com/2026/10/restate-cofounders-ewen-rohrmann-shilman-farghal-portraits.jpg",
+    "fetchedAt": 1790875147821
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297767958.jpg?quality=90&strip=all&crop=0%2C10.754010807628%2C100%2C78.491978384743&w=1200",
+    "fetchedAt": 1790875148265
+  },
+  "https://www.techmeme.com/261001/p21#a261001p21": {
+    "image": null,
+    "fetchedAt": 1790875148623
+  },
+  "https://sifted.eu/articles/dig-ventures-fund-europe-ai-infrastructure/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1632,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/30161522/The-DIG-Ventures-GPs-L-R-Rytis-Vitkauskas-Melissa-Klinger-Ross-Mason-1-scaled-e1790781352161.jpg",
+    "fetchedAt": 1790875152111
+  },
+  "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
+    "fetchedAt": 1790875152527
+  },
+  "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
+    "fetchedAt": 1790875152903
+  },
+  "https://www.techmeme.com/261001/p30#a261001p30": {
+    "image": null,
+    "fetchedAt": 1790875153279
+  },
+  "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1790875153677
+  },
+  "https://thenextweb.com/news/roslansky-to-leave-microsoft": {
+    "image": "https://media.thenextweb.com/2026/10/ryan-roslansky-talent-connect-2022.jpg",
+    "fetchedAt": 1790875154240
+  },
+  "https://www.techmeme.com/261001/p29#a261001p29": {
+    "image": null,
+    "fetchedAt": 1790875154599
+  },
+  "https://thenextweb.com/news/ford-farley-europe-too-late-geely": {
+    "image": "https://media.thenextweb.com/2026/08/ford-farley-chinese-evs-us-market-five-years.jpg",
+    "fetchedAt": 1790875155439
+  },
+  "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072873/110923_new_Playstation_5_Slim_ADiBenedetto_0010.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1790875155836
+  },
+  "https://www.techmeme.com/261001/p28#a261001p28": {
+    "image": null,
+    "fetchedAt": 1790875156194
+  },
+  "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1864707238-1152x648.jpg",
+    "fetchedAt": 1790875156877
   }
 }
