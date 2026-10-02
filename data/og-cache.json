@@ -1,64 +1,4 @@
 {
-  "https://www.geekwire.com/2026/temporal-12-55b-valuation-ai-agents/": {
-    "image": "https://www.geekwire.com/wp-content/uploads/2026/09/temporal-founders.jpg",
-    "fetchedAt": 1789743006267
-  },
-  "https://www.techmeme.com/260918/p15#a260918p15": {
-    "image": null,
-    "fetchedAt": 1789743006680
-  },
-  "https://thenextweb.com/news/openai-robotics-engineer-salaries-500000": {
-    "image": "https://media.thenextweb.com/2026/07/openai-models-escaped-hacked-hugging-face.jpg",
-    "fetchedAt": 1789743007244
-  },
-  "https://news.crunchbase.com/seed/startup-funding-rules-ai-gtm-golbin-lvlup/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/seed-funding-plants.jpg",
-    "fetchedAt": 1789743007817
-  },
-  "https://www.techmeme.com/260918/p9#a260918p9": {
-    "image": null,
-    "fetchedAt": 1789743008189
-  },
-  "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Google-CC-1152x648.png",
-    "fetchedAt": 1789743008772
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/videoframe_18541.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-    "fetchedAt": 1789743009226
-  },
-  "https://thenextweb.com/news/apple-italy-store-strike-iphone-18-pro": {
-    "image": "https://media.thenextweb.com/2026/09/Florence-Apple-Store.jpg",
-    "fetchedAt": 1789743009743
-  },
-  "https://www.techmeme.com/260918/p13#a260918p13": {
-    "image": null,
-    "fetchedAt": 1789743010115
-  },
-  "https://thenextweb.com/news/tom-watson-palantir-senior-vice-president": {
-    "image": "https://media.thenextweb.com/2026/09/tom-watson-official-portrait.jpg",
-    "fetchedAt": 1789743010607
-  },
-  "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/29395589440_9fda12ac24_k.jpg?resize=1200,800",
-    "fetchedAt": 1789743011004
-  },
-  "https://thenextweb.com/news/angle-health-600m-vitruvian-partners-2-7bn-valuation": {
-    "image": "https://media.thenextweb.com/2026/09/angle-health-app-care-navigation-interface.jpg",
-    "fetchedAt": 1789743011498
-  },
-  "https://thenextweb.com/news/anthropic-biology-wet-lab-drug-program": {
-    "image": "https://media.thenextweb.com/2026/07/anthropic-meta-10-billion-compute-deal-talks.jpg",
-    "fetchedAt": 1789743011989
-  },
-  "https://www.techmeme.com/260918/p14#a260918p14": {
-    "image": null,
-    "fetchedAt": 1789743012361
-  },
-  "https://thenextweb.com/news/huawei-intelligent-world-2035-report-tokens-agents-forecast": {
-    "image": "https://media.thenextweb.com/2026/09/huawei-logo-mwc24-barcelona.jpg",
-    "fetchedAt": 1789743012865
-  },
   "https://www.techmeme.com/260918/p39#a260918p39": {
     "image": null,
     "fetchedAt": 1789827185832
@@ -962,5 +902,77 @@
   "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/": {
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1864707238-1152x648.jpg",
     "fetchedAt": 1790875156877
+  },
+  "https://www.techmeme.com/261002/p13#a261002p13": {
+    "image": null,
+    "fetchedAt": 1790958725665
+  },
+  "https://www.techmeme.com/261002/p6#a261002p6": {
+    "image": null,
+    "fetchedAt": 1790958726023
+  },
+  "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+    "fetchedAt": 1790958726479
+  },
+  "https://thenextweb.com/news/anthropic-ipo-prospectus-government-risk-customers": {
+    "image": "https://media.thenextweb.com/2026/08/anthropic-names-first-chief-global-affairs-officer.jpg",
+    "fetchedAt": 1790958727053
+  },
+  "https://news.crunchbase.com/venture/startups-choosing-right-investors-dean-black-operator/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Startup_Meeting.jpg",
+    "fetchedAt": 1790958727598
+  },
+  "https://www.techmeme.com/261002/p9#a261002p9": {
+    "image": null,
+    "fetchedAt": 1790958727955
+  },
+  "https://thenextweb.com/news/volantis-photonic-memory-europe-inp": {
+    "image": "https://media.thenextweb.com/2026/07/big-tech-2-trillion-ai-spending-commitments-bloomberg.jpg",
+    "fetchedAt": 1790958728496
+  },
+  "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Shield-10-yrs-1-1152x648.jpg",
+    "fetchedAt": 1790958729189
+  },
+  "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon9_falconheavy-1152x648-1790915768.jpg",
+    "fetchedAt": 1790958729623
+  },
+  "https://thenextweb.com/news/meta-muse-3-million-weekly-users-information": {
+    "image": "https://media.thenextweb.com/2026/09/Meta-Muse.jpg",
+    "fetchedAt": 1790958730171
+  },
+  "https://sifted.eu/articles/sifted-250-2026-podcast/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1280,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/02155500/Freya-Jt-stripe-long.png",
+    "fetchedAt": 1790958733649
+  },
+  "https://www.techmeme.com/261002/p15#a261002p15": {
+    "image": null,
+    "fetchedAt": 1790958734019
+  },
+  "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_100227_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1790958734443
+  },
+  "https://thenextweb.com/news/tesla-q3-deliveries-europe-recovery": {
+    "image": "https://media.thenextweb.com/2026/09/tesla-logo-fremont-factory-building.jpg",
+    "fetchedAt": 1790958735626
+  },
+  "https://www.geekwire.com/2026/seattle-space-week-problems-prospects/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/261001-varda-8288-1260x823.jpg",
+    "fetchedAt": 1790958736059
+  },
+  "https://thenextweb.com/news/alibaba-solaria-spain-data-centre": {
+    "image": "https://media.thenextweb.com/2026/06/alibaba-tencent-lobbyists-drop-pentagon-1260h-rule.jpg",
+    "fetchedAt": 1790958736758
+  },
+  "https://www.techmeme.com/261002/p14#a261002p14": {
+    "image": null,
+    "fetchedAt": 1790958737116
+  },
+  "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
+    "fetchedAt": 1790958737528
   }
 }
