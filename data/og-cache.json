@@ -1,76 +1,4 @@
 {
-  "https://www.techmeme.com/260918/p39#a260918p39": {
-    "image": null,
-    "fetchedAt": 1789827185832
-  },
-  "https://www.techmeme.com/260919/p7#a260919p7": {
-    "image": null,
-    "fetchedAt": 1789827186190
-  },
-  "https://www.techmeme.com/260919/p5#a260919p5": {
-    "image": null,
-    "fetchedAt": 1789827186548
-  },
-  "https://www.techmeme.com/260919/p2#a260919p2": {
-    "image": null,
-    "fetchedAt": 1789827186906
-  },
-  "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781",
-    "fetchedAt": 1789827187464
-  },
-  "https://thenextweb.com/news/irregular-four-labs-one-issue-disclosure-timeline-gemini": {
-    "image": "https://media.thenextweb.com/2023/11/49424155377_d34f63ee90_k.jpg",
-    "fetchedAt": 1789827187985
-  },
-  "https://thenextweb.com/news/hacktron-claude-openai-bug-bounty-6500-guardrails-paper": {
-    "image": "https://media.thenextweb.com/2026/09/claude-chatgpt-app-icons-iphone.jpg",
-    "fetchedAt": 1789827188487
-  },
-  "https://www.techmeme.com/260919/p3#a260919p3": {
-    "image": null,
-    "fetchedAt": 1789827188845
-  },
-  "https://www.techmeme.com/260918/p40#a260918p40": {
-    "image": null,
-    "fetchedAt": 1789827189203
-  },
-  "https://www.geekwire.com/2026/twin-tech-founders-who-left-seattle-for-alaska-bet-on-an-ai-agent-named-walter-to-cover-local-news/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/geekswoods.png",
-    "fetchedAt": 1789827189609
-  },
-  "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-19_Kanter.jpg?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-    "fetchedAt": 1789827190101
-  },
-  "https://www.theverge.com/tech/997682/every-tv-company-is-spying": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258078_LG_G5_OLED_TV_JHiggins_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1789827190490
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1789827190900
-  },
-  "https://www.techmeme.com/260919/p6#a260919p6": {
-    "image": null,
-    "fetchedAt": 1789827191259
-  },
-  "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2181891613-1152x648.jpg",
-    "fetchedAt": 1789827191745
-  },
-  "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-1-1152x648.png",
-    "fetchedAt": 1789827192128
-  },
-  "https://thenextweb.com/news/weve-spent-billions-defending-software-its-time-to-protect-execution": {
-    "image": "https://media.thenextweb.com/2026/09/developer-at-screen-code-reflection.jpg",
-    "fetchedAt": 1789827192643
-  },
-  "https://thenextweb.com/news/bosworth-bad-actors-defence-luna-camera-free-sticker": {
-    "image": "https://media.thenextweb.com/2026/07/Andrew-Bosworth.jpg",
-    "fetchedAt": 1789827193135
-  },
   "https://www.techmeme.com/260920/p7#a260920p7": {
     "image": null,
     "fetchedAt": 1789914726494
@@ -974,5 +902,69 @@
   "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/": {
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
     "fetchedAt": 1790958737528
+  },
+  "https://www.techmeme.com/261003/p2#a261003p2": {
+    "image": null,
+    "fetchedAt": 1791039966080
+  },
+  "https://www.techmeme.com/261002/p30#a261002p30": {
+    "image": null,
+    "fetchedAt": 1791039966441
+  },
+  "https://www.techmeme.com/261003/p4#a261003p4": {
+    "image": null,
+    "fetchedAt": 1791039966801
+  },
+  "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+    "fetchedAt": 1791039967499
+  },
+  "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1791039968008
+  },
+  "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1258977050-2-1024x648.jpg",
+    "fetchedAt": 1791039968425
+  },
+  "https://thenextweb.com/news/fieldai-10b-europe-robot-brains": {
+    "image": "https://media.thenextweb.com/2026/10/robot-hand-touching-ai-chip-graphic.jpg",
+    "fetchedAt": 1791039968940
+  },
+  "https://www.geekwire.com/2026/seattle-voice-ai-startup-ultravox-formerly-known-as-fixie-acquired-by-inworld/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2023/03/fixie.ai-0362-print-web_Original.jpg",
+    "fetchedAt": 1791039969398
+  },
+  "https://www.techmeme.com/261003/p7#a261003p7": {
+    "image": null,
+    "fetchedAt": 1791039969761
+  },
+  "https://www.techmeme.com/261003/p6#a261003p6": {
+    "image": null,
+    "fetchedAt": 1791039970121
+  },
+  "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Marylebone-3.jpg?resize=1200,900",
+    "fetchedAt": 1791039970540
+  },
+  "https://www.techmeme.com/261003/p8#a261003p8": {
+    "image": null,
+    "fetchedAt": 1791039970900
+  },
+  "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268631_Xreal_A01_Plus_CFaulkner_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1791039971310
+  },
+  "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2261904940-2560x1440.jpg",
+    "fetchedAt": 1791039971720
+  },
+  "https://www.techmeme.com/261003/p5#a261003p5": {
+    "image": null,
+    "fetchedAt": 1791039972080
+  },
+  "https://www.techmeme.com/261003/p3#a261003p3": {
+    "image": null,
+    "fetchedAt": 1791039972442
   }
 }
