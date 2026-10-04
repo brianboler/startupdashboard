@@ -1,72 +1,4 @@
 {
-  "https://www.techmeme.com/260920/p7#a260920p7": {
-    "image": null,
-    "fetchedAt": 1789914726494
-  },
-  "https://www.techmeme.com/260919/p11#a260919p11": {
-    "image": null,
-    "fetchedAt": 1789914726862
-  },
-  "https://sifted.eu/articles/uk-sovereign-ai-fund-in-talks-to-back-500m-raise-for-drug-discovery-startup/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1340,quality=75,fit=cover,format=auto/wp-content/uploads/2026/02/24164525/LTH-2-scaled-e1789746379316.jpg",
-    "fetchedAt": 1789914730884
-  },
-  "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Sykes-Khalil-16x9-Dark.png?resize=1200,675",
-    "fetchedAt": 1789914731347
-  },
-  "https://www.techmeme.com/260919/p12#a260919p12": {
-    "image": null,
-    "fetchedAt": 1789914731761
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-    "fetchedAt": 1789914732366
-  },
-  "https://thenextweb.com/news/openai-856bn-compute-vs-600bn-reset-burn-improved": {
-    "image": "https://media.thenextweb.com/2026/06/gary-marcus-openai-ipo-ai-stocks-risk.jpg",
-    "fetchedAt": 1789914733112
-  },
-  "https://thenextweb.com/news/xi-white-house-dinner-ai-ceos-guardrails-chips-not-moving": {
-    "image": "https://media.thenextweb.com/2026/09/trump-xi-handshake-beijing.jpg",
-    "fetchedAt": 1789914733619
-  },
-  "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
-    "fetchedAt": 1789914734010
-  },
-  "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2023/05/ac_crowd.png?resize=1200,675",
-    "fetchedAt": 1789914734401
-  },
-  "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/A24-SCP-2.jpg?quality=90&strip=all&crop=0,1.4120260193559,100,97.175947961288",
-    "fetchedAt": 1789914734789
-  },
-  "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-    "fetchedAt": 1789914735180
-  },
-  "https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRH_TI84_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1789914735569
-  },
-  "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1789914735973
-  },
-  "https://www.theverge.com/column/997843/streamers-cable-fast-channels": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2193473385.jpg?quality=90&strip=all&crop=0%2C10.736030373072%2C100%2C78.527939253857&w=1200",
-    "fetchedAt": 1789914736371
-  },
-  "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-2560x1440.jpg",
-    "fetchedAt": 1789914736964
-  },
-  "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026-Ferrari-Purosangue-1-of-15-1152x648-1789751602.jpg",
-    "fetchedAt": 1789914737370
-  },
   "https://www.techmeme.com/260921/p38#a260921p38": {
     "image": null,
     "fetchedAt": 1790009465547
@@ -966,5 +898,77 @@
   "https://www.techmeme.com/261003/p3#a261003p3": {
     "image": null,
     "fetchedAt": 1791039972442
+  },
+  "https://www.techmeme.com/261004/p9#a261004p9": {
+    "image": null,
+    "fetchedAt": 1791128585660
+  },
+  "https://www.geekwire.com/2026/washington-climate-tech-founders-score-funding-as-ai-boom-drains-investor-cash/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/Copy-of-IMG_05351.jpg",
+    "fetchedAt": 1791128586117
+  },
+  "https://www.techmeme.com/261004/p4#a261004p4": {
+    "image": null,
+    "fetchedAt": 1791128586473
+  },
+  "https://www.techmeme.com/261004/p10#a261004p10": {
+    "image": null,
+    "fetchedAt": 1791128586830
+  },
+  "https://www.techmeme.com/261004/p7#a261004p7": {
+    "image": null,
+    "fetchedAt": 1791128587187
+  },
+  "https://www.techmeme.com/261004/p5#a261004p5": {
+    "image": null,
+    "fetchedAt": 1791128587545
+  },
+  "https://thenextweb.com/news/openai-david-robinson-quits-nuclear-safeguards": {
+    "image": "https://media.thenextweb.com/2026/09/openai-logo-smartphone-laptop-zac-wolff-unsplash.jpg",
+    "fetchedAt": 1791128588125
+  },
+  "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1791128588583
+  },
+  "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-cyber-real-estate-instinct/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+    "fetchedAt": 1791128589093
+  },
+  "https://www.techmeme.com/261004/p12#a261004p12": {
+    "image": null,
+    "fetchedAt": 1791128589450
+  },
+  "https://www.geekwire.com/2026/geekwire-weekly-roundup-2026-09-27/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2015/11/geekwire-week-in-review1.png",
+    "fetchedAt": 1791128589835
+  },
+  "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ohsnap-wallet-2-01.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "fetchedAt": 1791128590238
+  },
+  "https://www.techmeme.com/261004/p11#a261004p11": {
+    "image": null,
+    "fetchedAt": 1791128590594
+  },
+  "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0108.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1791128590982
+  },
+  "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1791128591362
+  },
+  "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25691621/iPad_Mini_1.jpg?quality=90&strip=all&crop=0%2C10.806933475316%2C100%2C78.386133049368&w=1200",
+    "fetchedAt": 1791128591736
+  },
+  "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VRH_Chromebook_Site.jpg?quality=90&strip=all&crop=0%2C10.44211751018%2C100%2C79.115764979639&w=1200",
+    "fetchedAt": 1791128592118
+  },
+  "https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10187187/jbareham_180208_2298_0023_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1791128592512
   }
 }
