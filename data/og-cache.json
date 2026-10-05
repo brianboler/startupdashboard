@@ -1,76 +1,4 @@
 {
-  "https://www.techmeme.com/260921/p38#a260921p38": {
-    "image": null,
-    "fetchedAt": 1790009465547
-  },
-  "https://www.techmeme.com/260921/p36#a260921p36": {
-    "image": null,
-    "fetchedAt": 1790009465903
-  },
-  "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/trump-august-2025-1152x648-1756146125.jpg",
-    "fetchedAt": 1790009466702
-  },
-  "https://www.geekwire.com/2026/plug-and-play-seattle-picks-11-startups-for-4th-cohort-from-space-robotics-to-biotech/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/plugandplaysept2026-1260x841.jpg",
-    "fetchedAt": 1790009467138
-  },
-  "https://www.techmeme.com/260921/p35#a260921p35": {
-    "image": null,
-    "fetchedAt": 1790009467495
-  },
-  "https://www.techmeme.com/260921/p34#a260921p34": {
-    "image": null,
-    "fetchedAt": 1790009467852
-  },
-  "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC08433.webp?quality=90&strip=all&crop=0%2C11.097693417406%2C100%2C77.804613165189&w=1200",
-    "fetchedAt": 1790009468312
-  },
-  "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/muse-stroller.png",
-    "fetchedAt": 1790009468705
-  },
-  "https://sifted.eu/articles/new-solo-gp-firm-backing-early-stage-ai-and-deeptech-startups-hits-first-close-of-maiden-fund/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1400,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/18160553/Shahryar-project-ventures.jpeg",
-    "fetchedAt": 1790009471764
-  },
-  "https://thenextweb.com/news/amazon-blocks-muse-perplexity-amended-complaint": {
-    "image": "https://media.thenextweb.com/2026/04/Amazon.jpg",
-    "fetchedAt": 1790009472334
-  },
-  "https://thenextweb.com/news/corridor-25m-seed-bain-capital-ventures-ai-benefits-brokerage": {
-    "image": "https://media.thenextweb.com/2026/09/corridor-co-founders-team-photo.jpg",
-    "fetchedAt": 1790009472875
-  },
-  "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ghaul_08cropped.jpg?quality=90&strip=all&crop=10.059114583333%2C0%2C79.881770833333%2C100&w=1200",
-    "fetchedAt": 1790009473272
-  },
-  "https://www.techmeme.com/260921/p42#a260921p42": {
-    "image": null,
-    "fetchedAt": 1790009473643
-  },
-  "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-warner-bros-1152x648.jpg",
-    "fetchedAt": 1790009474381
-  },
-  "https://www.techmeme.com/260921/p41#a260921p41": {
-    "image": null,
-    "fetchedAt": 1790009474739
-  },
-  "https://thenextweb.com/news/state-of-the-american-advertiser-perion-rob-desalvo": {
-    "image": "https://media.thenextweb.com/2026/09/rob-desalvo-perion-managing-director-americas.jpg",
-    "fetchedAt": 1790009475276
-  },
-  "https://www.techmeme.com/260921/p40#a260921p40": {
-    "image": null,
-    "fetchedAt": 1790009475633
-  },
-  "https://thenextweb.com/news/volvo-zellmer-ceo-skoda-margin": {
-    "image": "https://media.thenextweb.com/2026/09/volvo-dealership-forecourt-cars.jpg",
-    "fetchedAt": 1790009476180
-  },
   "https://www.techmeme.com/260922/p32#a260922p32": {
     "image": null,
     "fetchedAt": 1790090885869
@@ -970,5 +898,65 @@
   "https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player": {
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10187187/jbareham_180208_2298_0023_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "fetchedAt": 1791128592512
+  },
+  "https://www.techmeme.com/261005/p27#a261005p27": {
+    "image": null,
+    "fetchedAt": 1791228846051
+  },
+  "https://www.techmeme.com/261005/p29#a261005p29": {
+    "image": null,
+    "fetchedAt": 1791228846412
+  },
+  "https://www.techmeme.com/261005/p28#a261005p28": {
+    "image": null,
+    "fetchedAt": 1791228846772
+  },
+  "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ghost-team.png?resize=1200,803",
+    "fetchedAt": 1791228847372
+  },
+  "https://www.geekwire.com/2026/amazon-hires-a-microsoft-ai-leader-to-help-build-its-tools-for-coding-and-work/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/Pedram-headshot.png",
+    "fetchedAt": 1791228847812
+  },
+  "https://www.techmeme.com/261005/p24#a261005p24": {
+    "image": null,
+    "fetchedAt": 1791228848187
+  },
+  "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2248111953.jpg?resize=1200,600",
+    "fetchedAt": 1791228848633
+  },
+  "https://www.techmeme.com/261005/p21#a261005p21": {
+    "image": null,
+    "fetchedAt": 1791228848998
+  },
+  "https://thenextweb.com/news/openai-jalapeno-chip-richard-ho-ai-design": {
+    "image": "https://media.thenextweb.com/2026/10/openai-jalapeno-chip-test-board-socket.jpg",
+    "fetchedAt": 1791228849590
+  },
+  "https://thenextweb.com/news/apple-full-disk-access-ai-agents-mac": {
+    "image": "https://media.thenextweb.com/2026/10/mac-studio-mac-mini-studio-display-wooden-desk.jpg",
+    "fetchedAt": 1791228850148
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268684_OpenAI_claims_to_revolutionize_maths_CVirginia2-1.webp?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+    "fetchedAt": 1791228850611
+  },
+  "https://www.techmeme.com/261005/p30#a261005p30": {
+    "image": null,
+    "fetchedAt": 1791228850977
+  },
+  "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+    "fetchedAt": 1791228851368
+  },
+  "https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_6769.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+    "fetchedAt": 1791228851765
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1791228852150
   }
 }
