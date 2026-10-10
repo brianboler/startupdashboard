@@ -1,72 +1,4 @@
 {
-  "https://www.techmeme.com/260926/p6#a260926p6": {
-    "image": null,
-    "fetchedAt": 1790434565751
-  },
-  "https://www.techmeme.com/260926/p3#a260926p3": {
-    "image": null,
-    "fetchedAt": 1790434566113
-  },
-  "https://www.techmeme.com/260926/p1#a260926p1": {
-    "image": null,
-    "fetchedAt": 1790434566473
-  },
-  "https://www.geekwire.com/2026/seattles-answer-to-yc-demo-day-25-startups-pitch-investors-from-across-the-country-at-ai-house/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/DDR59721.jpg",
-    "fetchedAt": 1790434566940
-  },
-  "https://www.techmeme.com/260926/p5#a260926p5": {
-    "image": null,
-    "fetchedAt": 1790434567301
-  },
-  "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior": {
-    "image": "https://cdn.prod.website-files.com/677e57d57f0aaef07252db12/6aab8f3234c02c13abcd8f76_The%20Impact%20of%20%20LLM%20Watermarking%20%20on%20Agent%20Security%20%26%20Safety%20-%20744.png",
-    "fetchedAt": 1790434567799
-  },
-  "https://www.techmeme.com/260926/p9#a260926p9": {
-    "image": null,
-    "fetchedAt": 1790434568161
-  },
-  "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_2026-09-26_Prince.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1790434568674
-  },
-  "https://www.techmeme.com/260926/p8#a260926p8": {
-    "image": null,
-    "fetchedAt": 1790434569035
-  },
-  "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
-    "fetchedAt": 1790434569690
-  },
-  "https://thenextweb.com/news/hollywood-film-schools-ai-talent-runway": {
-    "image": "https://media.thenextweb.com/2026/07/hollywood.jpg",
-    "fetchedAt": 1790434570201
-  },
-  "https://thenextweb.com/news/xi-washington-visit-trade-truce-ai-talks": {
-    "image": "https://media.thenextweb.com/2026/09/trump-xi-handshake-temple-of-heaven.jpg",
-    "fetchedAt": 1790434570708
-  },
-  "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Digital-dom.png?resize=1200,667",
-    "fetchedAt": 1790434571115
-  },
-  "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/CTRL_R_Story_04.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-    "fetchedAt": 1790434571527
-  },
-  "https://sifted.eu/articles/monzo-nubank-sale/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/05/19100612/Monzo-FY26-Annual-Report-scaled.jpg",
-    "fetchedAt": 1790434573617
-  },
-  "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268781_Pokemon_PARKIN_v3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1790434574024
-  },
-  "https://www.techmeme.com/260926/p7#a260926p7": {
-    "image": null,
-    "fetchedAt": 1790434574407
-  },
   "https://www.techmeme.com/260926/p18#a260926p18": {
     "image": null,
     "fetchedAt": 1790523245834
@@ -962,5 +894,65 @@
   "https://www.techmeme.com/261009/p18#a261009p18": {
     "image": null,
     "fetchedAt": 1791566539320
+  },
+  "https://www.techmeme.com/261010/p8#a261010p8": {
+    "image": null,
+    "fetchedAt": 1791648546394
+  },
+  "https://www.geekwire.com/2026/satellite-radar-tech-startup-kapta-space-raises-24m-including-cash-from-bill-gates-backed-fund/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/Kapta.jpg",
+    "fetchedAt": 1791648546857
+  },
+  "https://www.techmeme.com/261010/p12#a261010p12": {
+    "image": null,
+    "fetchedAt": 1791648547238
+  },
+  "https://www.techmeme.com/261010/p6#a261010p6": {
+    "image": null,
+    "fetchedAt": 1791648547605
+  },
+  "https://www.techmeme.com/261010/p5#a261010p5": {
+    "image": null,
+    "fetchedAt": 1791648547971
+  },
+  "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
+    "fetchedAt": 1791648548446
+  },
+  "https://thenextweb.com/news/trump-ai-liability-rogue-agents-blame": {
+    "image": "https://media.thenextweb.com/2026/09/trump-super-intelligence-luncheon-east-room.jpg",
+    "fetchedAt": 1791648549036
+  },
+  "https://www.techmeme.com/261010/p13#a261010p13": {
+    "image": null,
+    "fetchedAt": 1791648549412
+  },
+  "https://thenextweb.com/news/alan-turing-institute-williamson-sovereign-ai-uk": {
+    "image": "https://media.thenextweb.com/2026/07/uk-cloud-dependency-billion-pound-risk.jpg",
+    "fetchedAt": 1791648549979
+  },
+  "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/Startup-Battlefield-2023-2.jpg?resize=1200,800",
+    "fetchedAt": 1791648550389
+  },
+  "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Photo-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1791648550866
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1791648551253
+  },
+  "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_0319.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1791648551675
+  },
+  "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268807_LG_MRGB95B_RGB_LED_TV_review_JHIGGINS_3.jpg?quality=90&strip=all&crop=0%2C9.7825788181082%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1791648552059
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+    "fetchedAt": 1791648552443
   }
 }
