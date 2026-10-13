@@ -1,68 +1,4 @@
 {
-  "https://thenextweb.com/news/nvidia-insurers-ai-chip-loans-neoclouds-ft": {
-    "image": "https://media.thenextweb.com/2026/08/Nvidia.jpg",
-    "fetchedAt": 1790700666644
-  },
-  "https://www.techmeme.com/260929/p26#a260929p26": {
-    "image": null,
-    "fetchedAt": 1790700667152
-  },
-  "https://www.techmeme.com/260929/p25#a260929p25": {
-    "image": null,
-    "fetchedAt": 1790700667553
-  },
-  "https://www.techmeme.com/260929/p23#a260929p23": {
-    "image": null,
-    "fetchedAt": 1790700667955
-  },
-  "https://www.techmeme.com/260929/p22#a260929p22": {
-    "image": null,
-    "fetchedAt": 1790700668355
-  },
-  "https://www.techmeme.com/260929/p27#a260929p27": {
-    "image": null,
-    "fetchedAt": 1790700668757
-  },
-  "https://www.techmeme.com/260929/p20#a260929p20": {
-    "image": null,
-    "fetchedAt": 1790700669158
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1790700669729
-  },
-  "https://www.techmeme.com/260929/p18#a260929p18": {
-    "image": null,
-    "fetchedAt": 1790700670133
-  },
-  "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
-    "fetchedAt": 1790700670750
-  },
-  "https://thenextweb.com/news/nasa-boeing-starliner-359m-two-more-flights-2028": {
-    "image": "https://media.thenextweb.com/2026/09/boeing-starliner-spacecraft-orbit-above-earth-nasa.jpg",
-    "fetchedAt": 1790700671470
-  },
-  "https://thenextweb.com/news/bain-ai-6-trillion-revenue-2031-data-centres": {
-    "image": "https://media.thenextweb.com/2026/09/server-room-corridor-orange-lights.jpg",
-    "fetchedAt": 1790700672077
-  },
-  "https://www.geekwire.com/2026/losing-a-piece-of-my-life-as-amazons-mechanical-turk-shuts-down-gig-workers-recall-the-hits/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/09/mturk-gig-workers-illustration-v2.png",
-    "fetchedAt": 1790700672539
-  },
-  "https://thenextweb.com/news/byd-solid-state-2027-europe": {
-    "image": "https://media.thenextweb.com/2026/07/byd-xiaomi-june-deliveries-stock-surge-china-ev.jpg",
-    "fetchedAt": 1790700673125
-  },
-  "https://thenextweb.com/news/bill-gates-ezra-klein-ai-bio-cyber-thresholds": {
-    "image": "https://media.thenextweb.com/2026/09/bill-gates-hand-raised-european-parliament-eu-flag-1.jpg",
-    "fetchedAt": 1790700673721
-  },
-  "https://www.techmeme.com/260929/p24#a260929p24": {
-    "image": null,
-    "fetchedAt": 1790700674123
-  },
   "https://www.techmeme.com/260930/p33#a260930p33": {
     "image": null,
     "fetchedAt": 1790786526247
@@ -950,5 +886,73 @@
   "https://www.techmeme.com/261012/p34#a261012p34": {
     "image": null,
     "fetchedAt": 1791835814095
+  },
+  "https://www.techmeme.com/261013/p30#a261013p30": {
+    "image": null,
+    "fetchedAt": 1791914345982
+  },
+  "https://www.techmeme.com/261013/p28#a261013p28": {
+    "image": null,
+    "fetchedAt": 1791914346384
+  },
+  "https://www.techmeme.com/261013/p35#a261013p35": {
+    "image": null,
+    "fetchedAt": 1791914346795
+  },
+  "https://www.techmeme.com/261013/p33#a261013p33": {
+    "image": null,
+    "fetchedAt": 1791914347203
+  },
+  "https://www.techmeme.com/261013/p31#a261013p31": {
+    "image": null,
+    "fetchedAt": 1791914347619
+  },
+  "https://www.techmeme.com/261013/p29#a261013p29": {
+    "image": null,
+    "fetchedAt": 1791914348020
+  },
+  "https://sifted.eu/articles/energy-unicorn-1komma5-raises-e70m-as-ipo-plans-remain-on-ice/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1153,quality=75,fit=cover,format=auto/wp-content/uploads/2023/12/07113443/1KOMMA5grad_Philipp_Schroder-scaled-e1767357305673.jpg",
+    "fetchedAt": 1791914351178
+  },
+  "https://www.techmeme.com/261013/p34#a261013p34": {
+    "image": null,
+    "fetchedAt": 1791914351580
+  },
+  "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1791914352104
+  },
+  "https://thenextweb.com/news/apple-homeview-not-sold-eu": {
+    "image": "https://media.thenextweb.com/2026/10/apple-homeview-five-displays-lineup.jpg",
+    "fetchedAt": 1791914352722
+  },
+  "https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265246335.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+    "fetchedAt": 1791914353121
+  },
+  "https://thenextweb.com/news/google-play-vibe-coded-apps": {
+    "image": "https://media.thenextweb.com/2026/07/Google-logo.jpg",
+    "fetchedAt": 1791914353786
+  },
+  "https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/c2v-french-1152x648.jpg",
+    "fetchedAt": 1791914354373
+  },
+  "https://www.theverge.com/gadgets/1010276/xteink-x4-pro-e-reader-deal-sale": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/xteinkx4pro12.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+    "fetchedAt": 1791914354763
+  },
+  "https://thenextweb.com/news/vw-us-ev-sales-drop-europe": {
+    "image": "https://media.thenextweb.com/2026/09/volkswagen-chattanooga-plant-flags.jpg",
+    "fetchedAt": 1791914355296
+  },
+  "https://www.techmeme.com/261013/p32#a261013p32": {
+    "image": null,
+    "fetchedAt": 1791914355754
+  },
+  "https://thenextweb.com/news/jio-ipo-20-billion-bids": {
+    "image": "https://media.thenextweb.com/2026/06/jio-platforms-ipo-3-8-billion-india-largest-ambani-debt-repayment.jpg",
+    "fetchedAt": 1791914356307
   }
 }
