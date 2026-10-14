@@ -954,5 +954,77 @@
   "https://thenextweb.com/news/jio-ipo-20-billion-bids": {
     "image": "https://media.thenextweb.com/2026/06/jio-platforms-ipo-3-8-billion-india-largest-ambani-debt-repayment.jpg",
     "fetchedAt": 1791914356307
+  },
+  "https://www.techmeme.com/261014/p25#a261014p25": {
+    "image": null,
+    "fetchedAt": 1791992706594
+  },
+  "https://sifted.eu/articles/refugee-vc-fund-atomico-investment-uk/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=818,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/13123651/Refugee-Venture-Fund-e1791891432990.jpg",
+    "fetchedAt": 1791992709344
+  },
+  "https://news.crunchbase.com/venture/founder-raises-5m-next-act-ai-marketing-startup-marklo-herrin/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/money-kites.jpg",
+    "fetchedAt": 1791992710180
+  },
+  "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/white-circle-red-team-1152x648.jpg",
+    "fetchedAt": 1791992711114
+  },
+  "https://thenextweb.com/news/humanly-careerarc-ai-hiring-rollup": {
+    "image": "https://media.thenextweb.com/2026/08/ai-layoff-reversals-worker-trust-works-councils.jpg",
+    "fetchedAt": 1791992711874
+  },
+  "https://thenextweb.com/news/openai-friar-chinese-models-cyber-risk": {
+    "image": "https://media.thenextweb.com/2026/04/openai-growth-fears-firing-all-cylinders.jpg",
+    "fetchedAt": 1791992712445
+  },
+  "https://www.techmeme.com/261014/p27#a261014p27": {
+    "image": null,
+    "fetchedAt": 1791992713029
+  },
+  "https://www.techmeme.com/261014/p23#a261014p23": {
+    "image": null,
+    "fetchedAt": 1791992713415
+  },
+  "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-1152x648.jpg",
+    "fetchedAt": 1791992713874
+  },
+  "https://thenextweb.com/news/inmune-bio-quantum-computing-alzheimers-xpro-partnership": {
+    "image": "https://media.thenextweb.com/2026/10/inmune-bio-quantum-computing-alzheimers-xpro-partnership.jpg",
+    "fetchedAt": 1791992714450
+  },
+  "https://www.techmeme.com/261014/p31#a261014p31": {
+    "image": null,
+    "fetchedAt": 1791992714819
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/akrales_220309_4977_0232-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1791992715467
+  },
+  "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588061334_e461da18f4_k.jpg?resize=1200,800",
+    "fetchedAt": 1791992716103
+  },
+  "https://www.theverge.com/tech/1011058/netflix-layoff-six-percent-thousand-employees": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23923974/acastro_STK072_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1791992716528
+  },
+  "https://www.theverge.com/tech/1011062/apple-homeview-airplay-apps-streaming": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Apple-TV.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1791992716986
+  },
+  "https://www.techmeme.com/261014/p30#a261014p30": {
+    "image": null,
+    "fetchedAt": 1791992717351
+  },
+  "https://www.theverge.com/science/1011110/ukraine-starlink-restrictions-drone-mission-disruptions": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2299992780.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1791992717794
+  },
+  "https://thenextweb.com/news/us-fast-charging-80000-ports-q3": {
+    "image": "https://media.thenextweb.com/2026/05/stellantis-leapmotor-chinese-evs-mexico-canada-brampton.jpg",
+    "fetchedAt": 1791992718354
   }
 }
