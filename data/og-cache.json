@@ -1,76 +1,4 @@
 {
-  "https://www.techmeme.com/260930/p33#a260930p33": {
-    "image": null,
-    "fetchedAt": 1790786526247
-  },
-  "https://thenextweb.com/news/doordash-agent-messages-europe": {
-    "image": "https://media.thenextweb.com/2026/09/DoorDash-courier-in-New-York.jpg",
-    "fetchedAt": 1790786526904
-  },
-  "https://sifted.eu/articles/h-company-cofounder-charles-kantor-new-ai-neocloud-startup/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=896,quality=75,fit=cover,format=auto/wp-content/uploads/2025/06/03121724/C-Kantor-AI-Pulse.jpg",
-    "fetchedAt": 1790786529261
-  },
-  "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AMD-World-Labs-1152x648-1790711860.jpg",
-    "fetchedAt": 1790786529976
-  },
-  "https://thenextweb.com/news/ftc-probe-openai-anthropic-ai-labs-metr": {
-    "image": "https://media.thenextweb.com/2026/09/sam-altman-un-security-council-briefing.jpg",
-    "fetchedAt": 1790786530529
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-    "fetchedAt": 1790786531020
-  },
-  "https://www.techmeme.com/260930/p28#a260930p28": {
-    "image": null,
-    "fetchedAt": 1790786531447
-  },
-  "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/BAG-ventures.png?resize=1200,800",
-    "fetchedAt": 1790786531890
-  },
-  "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1469304638.jpg?resize=1200,669",
-    "fetchedAt": 1790786532269
-  },
-  "https://news.crunchbase.com/public/oura-pauses-ipo-anthropics-ai-openai/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/IPO-race.jpg",
-    "fetchedAt": 1790786532782
-  },
-  "https://sifted.eu/articles/elevenlabs-doubles-valuation-to-22bn-with-tender-offer/": {
-    "image": "https://content.sifted.eu/wp-content/uploads/2026/03/30170822/Eleven-Labs-scaled-e1774886998162.webp",
-    "fetchedAt": 1790786536329
-  },
-  "https://sifted.eu/articles/oura-ipo-delay-market-uncertainty/": {
-    "image": "https://content.sifted.eu/wp-content/uploads/2025/12/01182256/03-Oura-Ring-4-Product-Imagery-1024x636.png",
-    "fetchedAt": 1790786538089
-  },
-  "https://news.crunchbase.com/startups/tech-layoffs/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/Layoffs-scissors.jpg",
-    "fetchedAt": 1790786538616
-  },
-  "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1790786539035
-  },
-  "https://www.techmeme.com/260930/p36#a260930p36": {
-    "image": null,
-    "fetchedAt": 1790786539570
-  },
-  "https://www.techmeme.com/260930/p35#a260930p35": {
-    "image": null,
-    "fetchedAt": 1790786539983
-  },
-  "https://sifted.eu/articles/scaleup-europe-fund-invest-uk-us-companies/": {
-    "image": "https://content.sifted.eu/wp-content/uploads/2026/06/02173610/eqt-1024x336.png",
-    "fetchedAt": 1790786541869
-  },
-  "https://thenextweb.com/news/amazon-fire-tv-sideloading-dma-gap": {
-    "image": "https://media.thenextweb.com/2026/09/fire-tv-stick-4k-and-remote.jpg",
-    "fetchedAt": 1790786542579
-  },
   "https://thenextweb.com/news/metaview-60m-series-c-insight-partners-ai-recruiting": {
     "image": "https://media.thenextweb.com/2026/10/metaview-60m-series-c-insight-partners-ai-recruiting1.jpg",
     "fetchedAt": 1790875145805
@@ -1026,5 +954,77 @@
   "https://thenextweb.com/news/us-fast-charging-80000-ports-q3": {
     "image": "https://media.thenextweb.com/2026/05/stellantis-leapmotor-chinese-evs-mexico-canada-brampton.jpg",
     "fetchedAt": 1791992718354
+  },
+  "https://www.techmeme.com/261015/p32#a261015p32": {
+    "image": null,
+    "fetchedAt": 1792078385964
+  },
+  "https://www.techmeme.com/261015/p30#a261015p30": {
+    "image": null,
+    "fetchedAt": 1792078386370
+  },
+  "https://www.techmeme.com/261015/p26#a261015p26": {
+    "image": null,
+    "fetchedAt": 1792078386782
+  },
+  "https://www.techmeme.com/261015/p24#a261015p24": {
+    "image": null,
+    "fetchedAt": 1792078387194
+  },
+  "https://thenextweb.com/news/anthropic-q3-revenue-16-8bn-ipo": {
+    "image": "https://media.thenextweb.com/2026/10/Dario-Amodei-washington-street-press.jpg",
+    "fetchedAt": 1792078387847
+  },
+  "https://sifted.eu/articles/matters-5m-pre-seed/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1365,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/14155931/Matters_CEO_Per_O%CC%88sterstro%CC%88m-scaled.jpg",
+    "fetchedAt": 1792078390739
+  },
+  "https://www.geekwire.com/2026/prime-intellect-acquires-moondream-a-vision-ai-startup-founded-in-seattle-by-aws-vets/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/moondream.png",
+    "fetchedAt": 1792078391343
+  },
+  "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/eric-glyman.jpg?resize=1200,801",
+    "fetchedAt": 1792078391798
+  },
+  "https://www.techmeme.com/261015/p31#a261015p31": {
+    "image": null,
+    "fetchedAt": 1792078392360
+  },
+  "https://www.techmeme.com/261015/p29#a261015p29": {
+    "image": null,
+    "fetchedAt": 1792078392781
+  },
+  "https://sifted.eu/articles/jensen-huang-london-2026/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1536,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/15161617/IMG_3531-1-scaled.jpg",
+    "fetchedAt": 1792078394393
+  },
+  "https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/shelly1.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
+    "fetchedAt": 1792078394882
+  },
+  "https://www.theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Windows-11-Photos-app-update-gallery.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1792078395277
+  },
+  "https://www.theverge.com/policy/1011991/trump-nidal-hasan-execution-not-livestreaming": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-98350519.jpg?quality=90&strip=all&crop=0,10.67124370246,100,78.657512595081",
+    "fetchedAt": 1792078395663
+  },
+  "https://thenextweb.com/news/windows-11-20-percent-8gb-ram": {
+    "image": "https://media.thenextweb.com/2026/06/windows-11-search-two-character-fix-patch-tuesday.jpg",
+    "fetchedAt": 1792078396251
+  },
+  "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1792078396638
+  },
+  "https://www.geekwire.com/2026/space-propulsion-startup-agile-space-opens-seattle-area-engineering-office-to-tap-regional-talent/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/M4-Thruster.jpg",
+    "fetchedAt": 1792078397126
+  },
+  "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318436/akrales_220309_4977_0258.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1792078397524
   }
 }
