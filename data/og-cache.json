@@ -1,76 +1,4 @@
 {
-  "https://thenextweb.com/news/metaview-60m-series-c-insight-partners-ai-recruiting": {
-    "image": "https://media.thenextweb.com/2026/10/metaview-60m-series-c-insight-partners-ai-recruiting1.jpg",
-    "fetchedAt": 1790875145805
-  },
-  "https://www.techmeme.com/261001/p23#a261001p23": {
-    "image": null,
-    "fetchedAt": 1790875146177
-  },
-  "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1-1152x648.jpg",
-    "fetchedAt": 1790875146912
-  },
-  "https://www.techmeme.com/261001/p25#a261001p25": {
-    "image": null,
-    "fetchedAt": 1790875147272
-  },
-  "https://thenextweb.com/news/restate-20m-series-a-singular-durable-execution-ai-agents": {
-    "image": "https://media.thenextweb.com/2026/10/restate-cofounders-ewen-rohrmann-shilman-farghal-portraits.jpg",
-    "fetchedAt": 1790875147821
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297767958.jpg?quality=90&strip=all&crop=0%2C10.754010807628%2C100%2C78.491978384743&w=1200",
-    "fetchedAt": 1790875148265
-  },
-  "https://www.techmeme.com/261001/p21#a261001p21": {
-    "image": null,
-    "fetchedAt": 1790875148623
-  },
-  "https://sifted.eu/articles/dig-ventures-fund-europe-ai-infrastructure/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1632,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/30161522/The-DIG-Ventures-GPs-L-R-Rytis-Vitkauskas-Melissa-Klinger-Ross-Mason-1-scaled-e1790781352161.jpg",
-    "fetchedAt": 1790875152111
-  },
-  "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
-    "fetchedAt": 1790875152527
-  },
-  "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
-    "fetchedAt": 1790875152903
-  },
-  "https://www.techmeme.com/261001/p30#a261001p30": {
-    "image": null,
-    "fetchedAt": 1790875153279
-  },
-  "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1790875153677
-  },
-  "https://thenextweb.com/news/roslansky-to-leave-microsoft": {
-    "image": "https://media.thenextweb.com/2026/10/ryan-roslansky-talent-connect-2022.jpg",
-    "fetchedAt": 1790875154240
-  },
-  "https://www.techmeme.com/261001/p29#a261001p29": {
-    "image": null,
-    "fetchedAt": 1790875154599
-  },
-  "https://thenextweb.com/news/ford-farley-europe-too-late-geely": {
-    "image": "https://media.thenextweb.com/2026/08/ford-farley-chinese-evs-us-market-five-years.jpg",
-    "fetchedAt": 1790875155439
-  },
-  "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072873/110923_new_Playstation_5_Slim_ADiBenedetto_0010.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1790875155836
-  },
-  "https://www.techmeme.com/261001/p28#a261001p28": {
-    "image": null,
-    "fetchedAt": 1790875156194
-  },
-  "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1864707238-1152x648.jpg",
-    "fetchedAt": 1790875156877
-  },
   "https://www.techmeme.com/261002/p13#a261002p13": {
     "image": null,
     "fetchedAt": 1790958725665
@@ -1026,5 +954,73 @@
   "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware": {
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318436/akrales_220309_4977_0258.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "fetchedAt": 1792078397524
+  },
+  "https://thenextweb.com/news/qualcomm-cristiano-amon-ai-companies-phones-2028": {
+    "image": "https://media.thenextweb.com/2026/10/cristiano-amon-qualcomm-hbc-snapdragon-summit-2026-stage.jpg",
+    "fetchedAt": 1792163706344
+  },
+  "https://www.techmeme.com/261016/p13#a261016p13": {
+    "image": null,
+    "fetchedAt": 1792163707043
+  },
+  "https://www.techmeme.com/261016/p6#a261016p6": {
+    "image": null,
+    "fetchedAt": 1792163707523
+  },
+  "https://thenextweb.com/news/china-ai-export-controls-draft": {
+    "image": "https://media.thenextweb.com/2026/10/ai-processor-chip-gold-pins-circuit-board.jpg",
+    "fetchedAt": 1792163708050
+  },
+  "https://thenextweb.com/news/nvidia-rtx-spark-laptops-local-ai-agents": {
+    "image": "https://media.thenextweb.com/2026/10/nvidia-rtx-spark-laptops-transparent-chassis-render.jpg",
+    "fetchedAt": 1792163708539
+  },
+  "https://www.techmeme.com/261016/p8#a261016p8": {
+    "image": null,
+    "fetchedAt": 1792163709015
+  },
+  "https://news.crunchbase.com/venture/q3-2026-asia-startup-funding-near-record-ai/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Frontier-AI-labs-asia.jpg",
+    "fetchedAt": 1792163709547
+  },
+  "https://www.techmeme.com/261016/p5#a261016p5": {
+    "image": null,
+    "fetchedAt": 1792163710010
+  },
+  "https://sifted.eu/articles/europes-ai-fintech-market-mapped-94-startups-automating-the-business-of-money/": {
+    "image": "https://content.sifted.eu/wp-content/uploads/2026/03/31140136/huss_and_steven-1-1024x683.png",
+    "fetchedAt": 1792163712441
+  },
+  "https://thenextweb.com/news/schwab-blocks-ai-agents-meta-muse": {
+    "image": "https://media.thenextweb.com/2026/10/ai-letters-orange-glow-blue-background.jpg",
+    "fetchedAt": 1792163712980
+  },
+  "https://sifted.eu/articles/harry-stebbings-podcast/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1280,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/16151339/Harry-Freya-HSBC-Long.png",
+    "fetchedAt": 1792163714857
+  },
+  "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/analogue1.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+    "fetchedAt": 1792163715316
+  },
+  "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK460_googlePlay_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1792163715700
+  },
+  "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1792163716128
+  },
+  "https://www.techmeme.com/261016/p14#a261016p14": {
+    "image": null,
+    "fetchedAt": 1792163716804
+  },
+  "https://thenextweb.com/news/google-android-scam-protections-gemini": {
+    "image": "https://media.thenextweb.com/2026/10/android-shield-scam-protection-5-million.jpg",
+    "fetchedAt": 1792163717344
+  },
+  "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUuw-rwXoAAQf9r.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1792163717748
   }
 }
