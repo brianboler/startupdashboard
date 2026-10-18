@@ -1,68 +1,4 @@
 {
-  "https://www.techmeme.com/261003/p2#a261003p2": {
-    "image": null,
-    "fetchedAt": 1791039966080
-  },
-  "https://www.techmeme.com/261002/p30#a261002p30": {
-    "image": null,
-    "fetchedAt": 1791039966441
-  },
-  "https://www.techmeme.com/261003/p4#a261003p4": {
-    "image": null,
-    "fetchedAt": 1791039966801
-  },
-  "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
-    "fetchedAt": 1791039967499
-  },
-  "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1791039968008
-  },
-  "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1258977050-2-1024x648.jpg",
-    "fetchedAt": 1791039968425
-  },
-  "https://thenextweb.com/news/fieldai-10b-europe-robot-brains": {
-    "image": "https://media.thenextweb.com/2026/10/robot-hand-touching-ai-chip-graphic.jpg",
-    "fetchedAt": 1791039968940
-  },
-  "https://www.geekwire.com/2026/seattle-voice-ai-startup-ultravox-formerly-known-as-fixie-acquired-by-inworld/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2023/03/fixie.ai-0362-print-web_Original.jpg",
-    "fetchedAt": 1791039969398
-  },
-  "https://www.techmeme.com/261003/p7#a261003p7": {
-    "image": null,
-    "fetchedAt": 1791039969761
-  },
-  "https://www.techmeme.com/261003/p6#a261003p6": {
-    "image": null,
-    "fetchedAt": 1791039970121
-  },
-  "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Marylebone-3.jpg?resize=1200,900",
-    "fetchedAt": 1791039970540
-  },
-  "https://www.techmeme.com/261003/p8#a261003p8": {
-    "image": null,
-    "fetchedAt": 1791039970900
-  },
-  "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268631_Xreal_A01_Plus_CFaulkner_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1791039971310
-  },
-  "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2261904940-2560x1440.jpg",
-    "fetchedAt": 1791039971720
-  },
-  "https://www.techmeme.com/261003/p5#a261003p5": {
-    "image": null,
-    "fetchedAt": 1791039972080
-  },
-  "https://www.techmeme.com/261003/p3#a261003p3": {
-    "image": null,
-    "fetchedAt": 1791039972442
-  },
   "https://www.techmeme.com/261004/p9#a261004p9": {
     "image": null,
     "fetchedAt": 1791128585660
@@ -1018,5 +954,77 @@
   "https://thenextweb.com/news/openai-trail-of-bits-acquisition-talks": {
     "image": "https://media.thenextweb.com/2026/10/openai-logo-stickers-pastel-table-blurred-leaves.jpg",
     "fetchedAt": 1792246033637
+  },
+  "https://www.techmeme.com/261017/p20#a261017p20": {
+    "image": null,
+    "fetchedAt": 1792333326376
+  },
+  "https://www.techmeme.com/261018/p4#a261018p4": {
+    "image": null,
+    "fetchedAt": 1792333326752
+  },
+  "https://www.techmeme.com/261018/p3#a261018p3": {
+    "image": null,
+    "fetchedAt": 1792333327117
+  },
+  "https://www.techmeme.com/261018/p2#a261018p2": {
+    "image": null,
+    "fetchedAt": 1792333327483
+  },
+  "https://thenextweb.com/news/apple-meta-muse-spark-open-mac-studio": {
+    "image": "https://media.thenextweb.com/2026/10/mac-studio-mac-mini-studio-display-wooden-desk.jpg",
+    "fetchedAt": 1792333328109
+  },
+  "https://www.techmeme.com/261018/p7#a261018p7": {
+    "image": null,
+    "fetchedAt": 1792333328473
+  },
+  "https://www.techmeme.com/261017/p19#a261017p19": {
+    "image": null,
+    "fetchedAt": 1792333328841
+  },
+  "https://thenextweb.com/news/john-ternus-time-interview-memory-crisis-iphone-duo": {
+    "image": "https://media.thenextweb.com/2026/04/john-ternus-apple-ceo-profile-hardware-ai.jpg",
+    "fetchedAt": 1792333329406
+  },
+  "https://www.geekwire.com/2026/amazons-new-ai-wearable-bookings-return-to-expedias-backyard-and-linkedins-not-so-seattle-startup-list/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
+    "fetchedAt": 1792333329850
+  },
+  "https://thenextweb.com/news/microsoft-pulls-out-nscale-loughton-data-centre-ipo": {
+    "image": "https://media.thenextweb.com/2026/09/satya-nadella-onstage-microsoft-build-2026.jpg",
+    "fetchedAt": 1792333330407
+  },
+  "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/96D2EEC6-09F7-402B-B1A3-F1030ADD0D90_1_105_c.jpeg?quality=90&strip=all&crop=0,15.095986038394,100,69.808027923211",
+    "fetchedAt": 1792333330893
+  },
+  "https://www.theverge.com/podcast/1013473/overhead-projector-version-history": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VRH_Overhead_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1792333331286
+  },
+  "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2270749481.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+    "fetchedAt": 1792333331666
+  },
+  "https://thenextweb.com/news/woodside-scarborough-greenpeace-protest-pause": {
+    "image": "https://media.thenextweb.com/2026/05/australia-fair-work-commission-ai-workload-generative-tribunals.jpg",
+    "fetchedAt": 1792333332224
+  },
+  "https://thenextweb.com/news/world-bank-small-ai-developing-countries": {
+    "image": "https://media.thenextweb.com/2013/07/world-bank.jpg",
+    "fetchedAt": 1792333332771
+  },
+  "https://thenextweb.com/news/pet-biotech-longevity-cloning-cryonics": {
+    "image": "https://media.thenextweb.com/2026/10/tabby-cat-open-mouth-close-up.jpg",
+    "fetchedAt": 1792333333319
+  },
+  "https://thenextweb.com/news/supreme-court-video-privacy-salazar-paramount": {
+    "image": "https://media.thenextweb.com/2026/07/Paramount.jpg",
+    "fetchedAt": 1792333333886
+  },
+  "https://www.techmeme.com/261018/p6#a261018p6": {
+    "image": null,
+    "fetchedAt": 1792333334299
   }
 }
