@@ -1,76 +1,4 @@
 {
-  "https://www.techmeme.com/261004/p9#a261004p9": {
-    "image": null,
-    "fetchedAt": 1791128585660
-  },
-  "https://www.geekwire.com/2026/washington-climate-tech-founders-score-funding-as-ai-boom-drains-investor-cash/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/Copy-of-IMG_05351.jpg",
-    "fetchedAt": 1791128586117
-  },
-  "https://www.techmeme.com/261004/p4#a261004p4": {
-    "image": null,
-    "fetchedAt": 1791128586473
-  },
-  "https://www.techmeme.com/261004/p10#a261004p10": {
-    "image": null,
-    "fetchedAt": 1791128586830
-  },
-  "https://www.techmeme.com/261004/p7#a261004p7": {
-    "image": null,
-    "fetchedAt": 1791128587187
-  },
-  "https://www.techmeme.com/261004/p5#a261004p5": {
-    "image": null,
-    "fetchedAt": 1791128587545
-  },
-  "https://thenextweb.com/news/openai-david-robinson-quits-nuclear-safeguards": {
-    "image": "https://media.thenextweb.com/2026/09/openai-logo-smartphone-laptop-zac-wolff-unsplash.jpg",
-    "fetchedAt": 1791128588125
-  },
-  "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_3820.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1791128588583
-  },
-  "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-cyber-real-estate-instinct/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
-    "fetchedAt": 1791128589093
-  },
-  "https://www.techmeme.com/261004/p12#a261004p12": {
-    "image": null,
-    "fetchedAt": 1791128589450
-  },
-  "https://www.geekwire.com/2026/geekwire-weekly-roundup-2026-09-27/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2015/11/geekwire-week-in-review1.png",
-    "fetchedAt": 1791128589835
-  },
-  "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ohsnap-wallet-2-01.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-    "fetchedAt": 1791128590238
-  },
-  "https://www.techmeme.com/261004/p11#a261004p11": {
-    "image": null,
-    "fetchedAt": 1791128590594
-  },
-  "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0108.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1791128590982
-  },
-  "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1791128591362
-  },
-  "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25691621/iPad_Mini_1.jpg?quality=90&strip=all&crop=0%2C10.806933475316%2C100%2C78.386133049368&w=1200",
-    "fetchedAt": 1791128591736
-  },
-  "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VRH_Chromebook_Site.jpg?quality=90&strip=all&crop=0%2C10.44211751018%2C100%2C79.115764979639&w=1200",
-    "fetchedAt": 1791128592118
-  },
-  "https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10187187/jbareham_180208_2298_0023_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1791128592512
-  },
   "https://www.techmeme.com/261005/p27#a261005p27": {
     "image": null,
     "fetchedAt": 1791228846051
@@ -1026,5 +954,69 @@
   "https://www.techmeme.com/261018/p6#a261018p6": {
     "image": null,
     "fetchedAt": 1792333334299
+  },
+  "https://www.techmeme.com/261019/p31#a261019p31": {
+    "image": null,
+    "fetchedAt": 1792430585665
+  },
+  "https://www.techmeme.com/261019/p32#a261019p32": {
+    "image": null,
+    "fetchedAt": 1792430586034
+  },
+  "https://www.geekwire.com/2026/amazon-challenges-nvidias-software-advantage-with-new-tool-for-its-ai-chips/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/torchneuron-crop2.jpg",
+    "fetchedAt": 1792430586497
+  },
+  "https://thenextweb.com/news/sandboxaq-switch-trust-roi-ai-agents": {
+    "image": "https://media.thenextweb.com/2026/10/ai-letters-glowing-blue-circuit-board.jpg",
+    "fetchedAt": 1792430587589
+  },
+  "https://www.geekwire.com/2026/microsoft-unveils-tools-to-monitor-and-corral-rogue-ai-agents/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/20190506_Microsoft_Build_281.jpg",
+    "fetchedAt": 1792430588007
+  },
+  "https://arxiv.org/abs/2610.18861": {
+    "image": null,
+    "fetchedAt": 1792430588455
+  },
+  "https://www.techmeme.com/261019/p36#a261019p36": {
+    "image": null,
+    "fetchedAt": 1792430588827
+  },
+  "https://www.techmeme.com/261019/p35#a261019p35": {
+    "image": null,
+    "fetchedAt": 1792430589199
+  },
+  "https://thenextweb.com/news/monday-harmony-voice-ai-sales": {
+    "image": "https://media.thenextweb.com/2026/10/ai-chip-purple-glow-glass-render.jpg",
+    "fetchedAt": 1792430589724
+  },
+  "https://thenextweb.com/news/amazon-torchneuron-pytorch-trainium": {
+    "image": "https://media.thenextweb.com/2026/10/amazon-store-sign-smile-logo-facade.jpg",
+    "fetchedAt": 1792430590243
+  },
+  "https://sifted.eu/articles/french-protests-startup-nation/": {
+    "image": "https://content.sifted.eu/wp-content/uploads/2026/10/19170811/paris-protests-1024x368.png",
+    "fetchedAt": 1792430593401
+  },
+  "https://thenextweb.com/news/europe-carriers-joint-satellite-spectrum-bid-mss": {
+    "image": "https://media.thenextweb.com/2026/05/European-flag.jpg",
+    "fetchedAt": 1792430593937
+  },
+  "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1384284626-1152x648.jpg",
+    "fetchedAt": 1792430594620
+  },
+  "https://thenextweb.com/news/apple-pro-and-tell-event-oct-28": {
+    "image": "https://media.thenextweb.com/2026/10/white-apple-laptop-on-white-table.jpg",
+    "fetchedAt": 1792430595157
+  },
+  "https://thenextweb.com/news/successful-ai-pilot-ai-strategy-zacharie-lahmi-ellis-partners": {
+    "image": "https://media.thenextweb.com/2026/10/zacharie-lahmi-ellis-partners-founder-portrait.jpg",
+    "fetchedAt": 1792430595686
+  },
+  "https://www.techmeme.com/261019/p34#a261019p34": {
+    "image": null,
+    "fetchedAt": 1792430596080
   }
 }
