@@ -1,64 +1,4 @@
 {
-  "https://www.techmeme.com/261005/p27#a261005p27": {
-    "image": null,
-    "fetchedAt": 1791228846051
-  },
-  "https://www.techmeme.com/261005/p29#a261005p29": {
-    "image": null,
-    "fetchedAt": 1791228846412
-  },
-  "https://www.techmeme.com/261005/p28#a261005p28": {
-    "image": null,
-    "fetchedAt": 1791228846772
-  },
-  "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ghost-team.png?resize=1200,803",
-    "fetchedAt": 1791228847372
-  },
-  "https://www.geekwire.com/2026/amazon-hires-a-microsoft-ai-leader-to-help-build-its-tools-for-coding-and-work/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/Pedram-headshot.png",
-    "fetchedAt": 1791228847812
-  },
-  "https://www.techmeme.com/261005/p24#a261005p24": {
-    "image": null,
-    "fetchedAt": 1791228848187
-  },
-  "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2248111953.jpg?resize=1200,600",
-    "fetchedAt": 1791228848633
-  },
-  "https://www.techmeme.com/261005/p21#a261005p21": {
-    "image": null,
-    "fetchedAt": 1791228848998
-  },
-  "https://thenextweb.com/news/openai-jalapeno-chip-richard-ho-ai-design": {
-    "image": "https://media.thenextweb.com/2026/10/openai-jalapeno-chip-test-board-socket.jpg",
-    "fetchedAt": 1791228849590
-  },
-  "https://thenextweb.com/news/apple-full-disk-access-ai-agents-mac": {
-    "image": "https://media.thenextweb.com/2026/10/mac-studio-mac-mini-studio-display-wooden-desk.jpg",
-    "fetchedAt": 1791228850148
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268684_OpenAI_claims_to_revolutionize_maths_CVirginia2-1.webp?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-    "fetchedAt": 1791228850611
-  },
-  "https://www.techmeme.com/261005/p30#a261005p30": {
-    "image": null,
-    "fetchedAt": 1791228850977
-  },
-  "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-    "fetchedAt": 1791228851368
-  },
-  "https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_6769.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-    "fetchedAt": 1791228851765
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1791228852150
-  },
   "https://www.techmeme.com/261006/p28#a261006p28": {
     "image": null,
     "fetchedAt": 1791306365373
@@ -1018,5 +958,57 @@
   "https://www.techmeme.com/261019/p34#a261019p34": {
     "image": null,
     "fetchedAt": 1792430596080
+  },
+  "https://www.techmeme.com/261020/p27#a261020p27": {
+    "image": null,
+    "fetchedAt": 1792510566564
+  },
+  "https://www.techmeme.com/261020/p22#a261020p22": {
+    "image": null,
+    "fetchedAt": 1792510566944
+  },
+  "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2294590819.jpg?resize=1200,675",
+    "fetchedAt": 1792510567468
+  },
+  "https://www.techmeme.com/261020/p23#a261020p23": {
+    "image": null,
+    "fetchedAt": 1792510567847
+  },
+  "https://www.techmeme.com/261020/p26#a261020p26": {
+    "image": null,
+    "fetchedAt": 1792510568230
+  },
+  "https://thenextweb.com/news/mit-swarmworld-agent-society-replication-open-weight-consumer-gpus": {
+    "image": "https://media.thenextweb.com/2026/10/apex-fusion-mit-swarmworld-replication-open-weight-graphic.jpg",
+    "fetchedAt": 1792510568808
+  },
+  "https://thenextweb.com/news/openai-china-chip-export-controls-retreat-nvidia": {
+    "image": "https://media.thenextweb.com/2026/09/openai-logo-smartphone-red-case-laptop-keyboard.jpg",
+    "fetchedAt": 1792510569328
+  },
+  "https://thenextweb.com/news/terra-security-ai-native-cybersecurity-podcast-cj-moses-amazon": {
+    "image": "https://media.thenextweb.com/2026/10/terra-ai-native-cybersecurity-podcast-cj-moses-shahar-peled.jpg",
+    "fetchedAt": 1792510569836
+  },
+  "https://thenextweb.com/news/anthropic-leaked-ai-safety-bill-backlash-frontier": {
+    "image": "https://media.thenextweb.com/2026/08/anthropic-in-house-chip-team-custom-silicon-claude.jpg",
+    "fetchedAt": 1792510570350
+  },
+  "https://sifted.eu/articles/nvidia-germany-europe-uk-france-jensen-huang-invests/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1600,quality=75,fit=cover,format=auto/wp-content/uploads/2025/02/04162550/nvidia-ceo-jensen-huang-project-digits-e1738686362736.png",
+    "fetchedAt": 1792510572976
+  },
+  "https://www.geekwire.com/2026/amazon-plans-record-300k-holiday-hires-as-the-rest-of-retail-pulls-back/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/04/amazon-clouds.jpg",
+    "fetchedAt": 1792510573681
+  },
+  "https://www.theverge.com/entertainment/1014276/professional-sports-authenticator-psa-stolen-graded-sports-pokemon-cards-fedex": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2289911952.jpg?quality=90&strip=all&crop=0%2C9.338867963278%2C100%2C81.322264073444&w=1200",
+    "fetchedAt": 1792510574184
+  },
+  "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1792510574573
   }
 }
