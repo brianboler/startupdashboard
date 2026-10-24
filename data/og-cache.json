@@ -1,76 +1,4 @@
 {
-  "https://www.techmeme.com/261009/p17#a261009p17": {
-    "image": null,
-    "fetchedAt": 1791566525916
-  },
-  "https://www.techmeme.com/261009/p13#a261009p13": {
-    "image": null,
-    "fetchedAt": 1791566526284
-  },
-  "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/5-DSCF1634.jpg?resize=1200,800",
-    "fetchedAt": 1791566526765
-  },
-  "https://www.techmeme.com/261009/p15#a261009p15": {
-    "image": null,
-    "fetchedAt": 1791566527134
-  },
-  "https://www.techmeme.com/261009/p10#a261009p10": {
-    "image": null,
-    "fetchedAt": 1791566527503
-  },
-  "https://sifted.eu/articles/ex-openai-robotics-leads-factory-startup-in-insolvency-proceedings/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2024/08/07132504/Portrait-Jonas-Schneider-Founder-CEO-scaled.jpg",
-    "fetchedAt": 1791566531053
-  },
-  "https://sifted.eu/articles/london-startup-vcs-veterans-amazon-alumni-factory-owners/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1638,quality=75,fit=cover,format=auto/wp-content/uploads/2025/10/01154702/DSC05377-scaled-e1761296263238.jpg",
-    "fetchedAt": 1791566533019
-  },
-  "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
-    "fetchedAt": 1791566533444
-  },
-  "https://www.geekwire.com/2026/uw-institute-run-by-nobel-winner-lands-transformational-cloud-grant-from-huang-foundation/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/IPD-protein.png",
-    "fetchedAt": 1791566533906
-  },
-  "https://www.geekwire.com/2026/amazon-unveils-alexa-tablets-running-android-with-google-play-including-a-pro-model-aimed-at-work/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/Tablets_SH08_1920x1080.jpg",
-    "fetchedAt": 1791566534318
-  },
-  "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1337608378.jpg?resize=1200,800",
-    "fetchedAt": 1791566534724
-  },
-  "https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2299110674.jpg?quality=90&strip=all&crop=0%2C10.748316981873%2C100%2C78.503366036255&w=1200",
-    "fetchedAt": 1791566535172
-  },
-  "https://thenextweb.com/news/perficient-stars-ai-medicare-eqt": {
-    "image": "https://media.thenextweb.com/2026/09/ai-sphere-neural-network-glowing-blue.jpg",
-    "fetchedAt": 1791566535782
-  },
-  "https://www.techmeme.com/261009/p19#a261009p19": {
-    "image": null,
-    "fetchedAt": 1791566536175
-  },
-  "https://www.theverge.com/policy/1008806/frances-haugen-social-reckoning-facebook-whistleblower": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298625475.jpg?quality=90&strip=all&crop=0%2C10.852336924521%2C100%2C78.295326150957&w=1200",
-    "fetchedAt": 1791566536558
-  },
-  "https://sifted.eu/articles/report-open-model-abliteration-ai-safety/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1800,quality=75,fit=cover,format=auto/wp-content/uploads/2025/12/22151949/mistral-founder.jpg",
-    "fetchedAt": 1791566538572
-  },
-  "https://www.theverge.com/tech/1008812/apple-lg-homekit-tap-to-control-rumor": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STKS495_Smart_Home_CVIRGINIA_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1791566538955
-  },
-  "https://www.techmeme.com/261009/p18#a261009p18": {
-    "image": null,
-    "fetchedAt": 1791566539320
-  },
   "https://www.techmeme.com/261010/p8#a261010p8": {
     "image": null,
     "fetchedAt": 1791648546394
@@ -1010,5 +938,77 @@
   "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe": {
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1057.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "fetchedAt": 1792770077346
+  },
+  "https://thenextweb.com/news/uk-funds-100m-ai-biosecurity-lab-with-openai-and-anthropic": {
+    "image": "https://media.thenextweb.com/2026/10/london-bus-westminster-bridge.jpg",
+    "fetchedAt": 1792851486055
+  },
+  "https://www.techmeme.com/261023/p26#a261023p26": {
+    "image": null,
+    "fetchedAt": 1792851486462
+  },
+  "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/Daytona_Founders-e1698845569762.jpg?resize=1200,676",
+    "fetchedAt": 1792851486926
+  },
+  "https://www.techmeme.com/261023/p25#a261023p25": {
+    "image": null,
+    "fetchedAt": 1792851487302
+  },
+  "https://www.techmeme.com/261023/p24#a261023p24": {
+    "image": null,
+    "fetchedAt": 1792851487668
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1792851488207
+  },
+  "https://thenextweb.com/news/hindsight-ai-content-moderation-perspective-api-shutdown": {
+    "image": "https://media.thenextweb.com/2026/10/dean-gebert-hindsight-founder.jpg",
+    "fetchedAt": 1792851488710
+  },
+  "https://www.geekwire.com/2026/icertis-veterans-reunite-as-ai-startup-humantronik-acquires-tech-consultancy-cloudmoyo/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/humantronik-founders-composite.jpg",
+    "fetchedAt": 1792851489136
+  },
+  "https://www.geekwire.com/2026/data-farmers-ag-tech-startup-aigen-grows-ai-generated-weeds-to-train-its-solar-powered-farm-robots/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/element-robotic-fleet.jpeg",
+    "fetchedAt": 1792851489537
+  },
+  "https://www.techmeme.com/261024/p3#a261024p3": {
+    "image": null,
+    "fetchedAt": 1792851489900
+  },
+  "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1792851490302
+  },
+  "https://www.techmeme.com/261024/p4#a261024p4": {
+    "image": null,
+    "fetchedAt": 1792851490669
+  },
+  "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Possible-Love_NYFF64_03.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1792851491056
+  },
+  "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/09450646-b085-11f1-90b9-46f10a3e57b0_3600.1360.cmp_.def_.out_.002._L.0059.UNAPPROVED.jpg?quality=90&strip=all&crop=9.99072265625%2C0%2C80.0185546875%2C100&w=1200",
+    "fetchedAt": 1792851491454
+  },
+  "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-149.jpg?quality=90&strip=all&crop=0%2C3.4987011938249%2C100%2C93.00259761235&w=1200",
+    "fetchedAt": 1792851491844
+  },
+  "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/marscloud-1152x648.jpg",
+    "fetchedAt": 1792851492364
+  },
+  "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1458824614-1152x648.jpg",
+    "fetchedAt": 1792851492761
+  },
+  "https://thenextweb.com/news/openai-frontier-training-no-live-internet": {
+    "image": "https://media.thenextweb.com/2026/10/sam-altman-on-stage-openai-logo-devday-2026.jpg",
+    "fetchedAt": 1792851493289
   }
 }
