@@ -1,72 +1,4 @@
 {
-  "https://www.techmeme.com/261012/p38#a261012p38": {
-    "image": null,
-    "fetchedAt": 1791835806183
-  },
-  "https://www.geekwire.com/2026/why-amazon-might-pay-billions-for-decart-a-3-year-old-ai-startup-that-hasnt-disclosed-its-revenue/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/decart-aws.png",
-    "fetchedAt": 1791835806775
-  },
-  "https://www.techmeme.com/261012/p33#a261012p33": {
-    "image": null,
-    "fetchedAt": 1791835807199
-  },
-  "https://www.geekwire.com/2026/microsoft-makes-biggest-bet-yet-on-its-own-silicon-unveils-new-ai-chip-to-reduce-reliance-on-nvidia/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/maia300.jpg",
-    "fetchedAt": 1791835807656
-  },
-  "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1791835808081
-  },
-  "https://thenextweb.com/news/meta-muse-wonder-frontier-eu": {
-    "image": "https://media.thenextweb.com/2026/07/threads-meta-ai-dm-global-rollout.jpg",
-    "fetchedAt": 1791835808787
-  },
-  "https://www.techmeme.com/261012/p32#a261012p32": {
-    "image": null,
-    "fetchedAt": 1791835809209
-  },
-  "https://www.techmeme.com/261012/p31#a261012p31": {
-    "image": null,
-    "fetchedAt": 1791835809632
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-    "fetchedAt": 1791835810051
-  },
-  "https://thenextweb.com/news/uk-ai-security-institute-pre-release-access-openai-anthropic": {
-    "image": "https://media.thenextweb.com/2026/10/kanishka-narayan-portrait.jpg",
-    "fetchedAt": 1791835810599
-  },
-  "https://www.techmeme.com/261012/p37#a261012p37": {
-    "image": null,
-    "fetchedAt": 1791835811023
-  },
-  "https://thenextweb.com/news/amd-helion-agentic-rack-power": {
-    "image": "https://media.thenextweb.com/2026/09/amd-illuminated-logo-sign-escalator-lobby.jpg",
-    "fetchedAt": 1791835811566
-  },
-  "https://thenextweb.com/news/openai-dublin-applied-ai-lab": {
-    "image": "https://media.thenextweb.com/2026/07/openai-dublin-250-jobs-european-headquarters-expansion.jpg",
-    "fetchedAt": 1791835812114
-  },
-  "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Kremlin-with-barbed-wire-2560x1440.jpg",
-    "fetchedAt": 1791835812826
-  },
-  "https://www.techmeme.com/261012/p36#a261012p36": {
-    "image": null,
-    "fetchedAt": 1791835813248
-  },
-  "https://www.techmeme.com/261012/p35#a261012p35": {
-    "image": null,
-    "fetchedAt": 1791835813671
-  },
-  "https://www.techmeme.com/261012/p34#a261012p34": {
-    "image": null,
-    "fetchedAt": 1791835814095
-  },
   "https://www.techmeme.com/261013/p30#a261013p30": {
     "image": null,
     "fetchedAt": 1791914345982
@@ -1018,5 +950,69 @@
   "https://thenextweb.com/news/freedom-holding-2bn-sovereign-ai-hub-kazakhstan": {
     "image": "https://media.thenextweb.com/2026/10/freedom-holding-timur-turlov-jensen-huang-astana.jpg",
     "fetchedAt": 1793034676648
+  },
+  "https://www.techmeme.com/261027/p23#a261027p23": {
+    "image": null,
+    "fetchedAt": 1793117702861
+  },
+  "https://www.techmeme.com/261027/p21#a261027p21": {
+    "image": null,
+    "fetchedAt": 1793117703231
+  },
+  "https://www.techmeme.com/261027/p20#a261027p20": {
+    "image": null,
+    "fetchedAt": 1793117703622
+  },
+  "https://www.techmeme.com/261027/p22#a261027p22": {
+    "image": null,
+    "fetchedAt": 1793117704014
+  },
+  "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/rohit-5.jpg?resize=1200,800",
+    "fetchedAt": 1793117704512
+  },
+  "https://news.crunchbase.com/venture/q3-2026-us-china-robotics-startup-funding-jumps-physical-ai-push/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/physical-ai.jpg",
+    "fetchedAt": 1793117705082
+  },
+  "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/simplismart-founders-amritanshu-devansh.jpg?resize=1200,800",
+    "fetchedAt": 1793117705504
+  },
+  "https://www.geekwire.com/2026/former-github-ceo-launches-rival-platform-built-for-ai-coding-agents/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/dohmke-ia40-1200.jpg",
+    "fetchedAt": 1793117705930
+  },
+  "https://www.theverge.com/tech/1019076/google-genie-4-ai-model": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&strip=all&crop=0%2C3.0468973306098%2C100%2C93.90620533878&w=1200",
+    "fetchedAt": 1793117706467
+  },
+  "https://thenextweb.com/news/disruptive-10bn-fund-ai-defence-startups": {
+    "image": "https://media.thenextweb.com/2026/10/disruptive-pink-wordmark-beige-background.jpg",
+    "fetchedAt": 1793117706997
+  },
+  "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2301861042.jpg?quality=90&strip=all&crop=0%2C10.729126643552%2C100%2C78.541746712897&w=1200",
+    "fetchedAt": 1793117707397
+  },
+  "https://sifted.eu/articles/are-vcs-as-dangerous-as-nik-storonsky-thinks-they-are/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/14213130/revolut-hack-scaled.png",
+    "fetchedAt": 1793117710030
+  },
+  "https://www.theverge.com/tech/1019298/matic-serene-robot-vacuum-price-specs-release-date": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/matic_yoga_serene-20.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1793117710407
+  },
+  "https://www.theverge.com/gadgets/1019138/apple-airtag-second-gen-cricut-joy-2-printer-deal-sale": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/AirTagVergeDailyDeals.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1793117710793
+  },
+  "https://thenextweb.com/news/tesla-cybercab-lfp-battery-pack": {
+    "image": "https://media.thenextweb.com/2026/08/Tesla-Cybercab.jpg",
+    "fetchedAt": 1793117711616
+  },
+  "https://thenextweb.com/news/apple-macbook-pro-m6-14-inch": {
+    "image": "https://media.thenextweb.com/2026/10/macbook-pro-m6-side-view-glowing-m6.jpg",
+    "fetchedAt": 1793117712137
   }
 }
