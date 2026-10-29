@@ -1,76 +1,4 @@
 {
-  "https://www.techmeme.com/261015/p32#a261015p32": {
-    "image": null,
-    "fetchedAt": 1792078385964
-  },
-  "https://www.techmeme.com/261015/p30#a261015p30": {
-    "image": null,
-    "fetchedAt": 1792078386370
-  },
-  "https://www.techmeme.com/261015/p26#a261015p26": {
-    "image": null,
-    "fetchedAt": 1792078386782
-  },
-  "https://www.techmeme.com/261015/p24#a261015p24": {
-    "image": null,
-    "fetchedAt": 1792078387194
-  },
-  "https://thenextweb.com/news/anthropic-q3-revenue-16-8bn-ipo": {
-    "image": "https://media.thenextweb.com/2026/10/Dario-Amodei-washington-street-press.jpg",
-    "fetchedAt": 1792078387847
-  },
-  "https://sifted.eu/articles/matters-5m-pre-seed/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1365,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/14155931/Matters_CEO_Per_O%CC%88sterstro%CC%88m-scaled.jpg",
-    "fetchedAt": 1792078390739
-  },
-  "https://www.geekwire.com/2026/prime-intellect-acquires-moondream-a-vision-ai-startup-founded-in-seattle-by-aws-vets/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/moondream.png",
-    "fetchedAt": 1792078391343
-  },
-  "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/eric-glyman.jpg?resize=1200,801",
-    "fetchedAt": 1792078391798
-  },
-  "https://www.techmeme.com/261015/p31#a261015p31": {
-    "image": null,
-    "fetchedAt": 1792078392360
-  },
-  "https://www.techmeme.com/261015/p29#a261015p29": {
-    "image": null,
-    "fetchedAt": 1792078392781
-  },
-  "https://sifted.eu/articles/jensen-huang-london-2026/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1536,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/15161617/IMG_3531-1-scaled.jpg",
-    "fetchedAt": 1792078394393
-  },
-  "https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/shelly1.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
-    "fetchedAt": 1792078394882
-  },
-  "https://www.theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Windows-11-Photos-app-update-gallery.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1792078395277
-  },
-  "https://www.theverge.com/policy/1011991/trump-nidal-hasan-execution-not-livestreaming": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-98350519.jpg?quality=90&strip=all&crop=0,10.67124370246,100,78.657512595081",
-    "fetchedAt": 1792078395663
-  },
-  "https://thenextweb.com/news/windows-11-20-percent-8gb-ram": {
-    "image": "https://media.thenextweb.com/2026/06/windows-11-search-two-character-fix-patch-tuesday.jpg",
-    "fetchedAt": 1792078396251
-  },
-  "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1792078396638
-  },
-  "https://www.geekwire.com/2026/space-propulsion-startup-agile-space-opens-seattle-area-engineering-office-to-tap-regional-talent/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/M4-Thruster.jpg",
-    "fetchedAt": 1792078397126
-  },
-  "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318436/akrales_220309_4977_0258.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1792078397524
-  },
   "https://thenextweb.com/news/qualcomm-cristiano-amon-ai-companies-phones-2028": {
     "image": "https://media.thenextweb.com/2026/10/cristiano-amon-qualcomm-hbc-snapdragon-summit-2026-stage.jpg",
     "fetchedAt": 1792163706344
@@ -946,5 +874,77 @@
   "https://thenextweb.com/news/oracle-ai-world-google-tpus-openai-chatgpt": {
     "image": "https://media.thenextweb.com/2026/10/oracle-co-ceo-mike-sicilia-ai-world-2026-keynote.jpg",
     "fetchedAt": 1793206931343
+  },
+  "https://www.techmeme.com/261029/p40#a261029p40": {
+    "image": null,
+    "fetchedAt": 1793294462232
+  },
+  "https://www.techmeme.com/261029/p33#a261029p33": {
+    "image": null,
+    "fetchedAt": 1793294462595
+  },
+  "https://www.geekwire.com/2026/coding-dojo-co-founder-unveils-idea-to-launch-a-30-day-program-to-help-aspiring-founders-build-with-ai/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/Richard-Wang-3.png",
+    "fetchedAt": 1793294463072
+  },
+  "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg",
+    "fetchedAt": 1793294463790
+  },
+  "https://thenextweb.com/news/musk-x-ticker-spacex-tesla-merger": {
+    "image": "https://media.thenextweb.com/2026/10/spacex-falcon-heavy-launch-pad-39a-hangar.jpg",
+    "fetchedAt": 1793294464399
+  },
+  "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/TeamPhoto_1.png?resize=1200,675",
+    "fetchedAt": 1793294464839
+  },
+  "https://thenextweb.com/news/gemini-4-carbon-google-cybersecurity-model": {
+    "image": "https://media.thenextweb.com/2026/10/gemini-4-carbon-crystal-blue-google-artwork.jpg",
+    "fetchedAt": 1793294465384
+  },
+  "https://www.techmeme.com/261029/p32#a261029p32": {
+    "image": null,
+    "fetchedAt": 1793294465747
+  },
+  "https://sifted.eu/articles/exclusive-fractile-series-c/": {
+    "image": "https://content.sifted.eu/wp-content/uploads/2026/05/11164128/aDV9ISdWJ-7kSkSD_image136-e1778518291600.webp",
+    "fetchedAt": 1793294469595
+  },
+  "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
+    "fetchedAt": 1793294470013
+  },
+  "https://thenextweb.com/news/alphabet-shares-fall-google-ai-mode-search-ads": {
+    "image": "https://media.thenextweb.com/2026/10/sundar-pichai-european-commission-brussels-2023.jpg",
+    "fetchedAt": 1793294471203
+  },
+  "https://thenextweb.com/news/solink-100m-vertu-capital-ai-vision-cameras": {
+    "image": "https://media.thenextweb.com/2026/10/dome-security-camera-on-pole-black-white.jpg",
+    "fetchedAt": 1793294471753
+  },
+  "https://www.techmeme.com/261029/p41#a261029p41": {
+    "image": null,
+    "fetchedAt": 1793294472128
+  },
+  "https://thenextweb.com/news/apple-touch-macbook-pro-hands-on-macos": {
+    "image": "https://media.thenextweb.com/2026/10/man-touching-macbook-pro-screen-coding-lounge.jpg",
+    "fetchedAt": 1793294472694
+  },
+  "https://thenextweb.com/news/servicenow-results-shares-record-drop-crpo-outlook": {
+    "image": "https://media.thenextweb.com/2026/10/bill-mcdermott-servicenow-ceo-portrait.jpg",
+    "fetchedAt": 1793294473269
+  },
+  "https://www.techmeme.com/261029/p39#a261029p39": {
+    "image": null,
+    "fetchedAt": 1793294473628
+  },
+  "https://www.techmeme.com/261029/p38#a261029p38": {
+    "image": null,
+    "fetchedAt": 1793294473992
+  },
+  "https://thenextweb.com/news/dhs-leak-icepick-41000-employees-ice-cbp": {
+    "image": "https://media.thenextweb.com/2026/10/data-word-star-dotted-letters-shop-window.jpg",
+    "fetchedAt": 1793294474548
   }
 }
