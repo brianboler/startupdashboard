@@ -1,72 +1,4 @@
 {
-  "https://thenextweb.com/news/qualcomm-cristiano-amon-ai-companies-phones-2028": {
-    "image": "https://media.thenextweb.com/2026/10/cristiano-amon-qualcomm-hbc-snapdragon-summit-2026-stage.jpg",
-    "fetchedAt": 1792163706344
-  },
-  "https://www.techmeme.com/261016/p13#a261016p13": {
-    "image": null,
-    "fetchedAt": 1792163707043
-  },
-  "https://www.techmeme.com/261016/p6#a261016p6": {
-    "image": null,
-    "fetchedAt": 1792163707523
-  },
-  "https://thenextweb.com/news/china-ai-export-controls-draft": {
-    "image": "https://media.thenextweb.com/2026/10/ai-processor-chip-gold-pins-circuit-board.jpg",
-    "fetchedAt": 1792163708050
-  },
-  "https://thenextweb.com/news/nvidia-rtx-spark-laptops-local-ai-agents": {
-    "image": "https://media.thenextweb.com/2026/10/nvidia-rtx-spark-laptops-transparent-chassis-render.jpg",
-    "fetchedAt": 1792163708539
-  },
-  "https://www.techmeme.com/261016/p8#a261016p8": {
-    "image": null,
-    "fetchedAt": 1792163709015
-  },
-  "https://news.crunchbase.com/venture/q3-2026-asia-startup-funding-near-record-ai/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/Frontier-AI-labs-asia.jpg",
-    "fetchedAt": 1792163709547
-  },
-  "https://www.techmeme.com/261016/p5#a261016p5": {
-    "image": null,
-    "fetchedAt": 1792163710010
-  },
-  "https://sifted.eu/articles/europes-ai-fintech-market-mapped-94-startups-automating-the-business-of-money/": {
-    "image": "https://content.sifted.eu/wp-content/uploads/2026/03/31140136/huss_and_steven-1-1024x683.png",
-    "fetchedAt": 1792163712441
-  },
-  "https://thenextweb.com/news/schwab-blocks-ai-agents-meta-muse": {
-    "image": "https://media.thenextweb.com/2026/10/ai-letters-orange-glow-blue-background.jpg",
-    "fetchedAt": 1792163712980
-  },
-  "https://sifted.eu/articles/harry-stebbings-podcast/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1280,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/16151339/Harry-Freya-HSBC-Long.png",
-    "fetchedAt": 1792163714857
-  },
-  "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/analogue1.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-    "fetchedAt": 1792163715316
-  },
-  "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK460_googlePlay_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1792163715700
-  },
-  "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1792163716128
-  },
-  "https://www.techmeme.com/261016/p14#a261016p14": {
-    "image": null,
-    "fetchedAt": 1792163716804
-  },
-  "https://thenextweb.com/news/google-android-scam-protections-gemini": {
-    "image": "https://media.thenextweb.com/2026/10/android-shield-scam-protection-5-million.jpg",
-    "fetchedAt": 1792163717344
-  },
-  "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUuw-rwXoAAQf9r.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1792163717748
-  },
   "https://www.techmeme.com/261017/p7#a261017p7": {
     "image": null,
     "fetchedAt": 1792246026012
@@ -946,5 +878,77 @@
   "https://thenextweb.com/news/dhs-leak-icepick-41000-employees-ice-cbp": {
     "image": "https://media.thenextweb.com/2026/10/data-word-star-dotted-letters-shop-window.jpg",
     "fetchedAt": 1793294474548
+  },
+  "https://www.techmeme.com/261030/p12#a261030p12": {
+    "image": null,
+    "fetchedAt": 1793379602840
+  },
+  "https://www.techmeme.com/261030/p7#a261030p7": {
+    "image": null,
+    "fetchedAt": 1793379603238
+  },
+  "https://thenextweb.com/news/google-apple-fined-south-korea-in-app-payments": {
+    "image": "https://media.thenextweb.com/2026/10/app-store-icon-iphone-home-screen-close-up.jpg",
+    "fetchedAt": 1793379605299
+  },
+  "https://sifted.eu/articles/eqt-doreen-huber-interface-capital-cyber-startups-scary-ai-agents/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1333,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/29130805/Doreen-Huber-Portrait-olive-%E2%80%93-web.jpg",
+    "fetchedAt": 1793379609108
+  },
+  "https://www.techmeme.com/261030/p8#a261030p8": {
+    "image": null,
+    "fetchedAt": 1793379609637
+  },
+  "https://sifted.eu/articles/talent-tops-european-ai-startups-concerns-as-funding-pressures-mount/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/06/03162236/Dwelly-Founders-2F-1-scaled.jpg",
+    "fetchedAt": 1793379611759
+  },
+  "https://sifted.eu/articles/the-european-startups-making-agents-secure/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1600,quality=75,fit=cover,format=auto/wp-content/uploads/2023/08/26092822/cyber-security-risks-how-to-fix.jpg",
+    "fetchedAt": 1793379613675
+  },
+  "https://www.geekwire.com/2026/tech-moves-former-amazon-execs-depart-warner-bros-discovery-amazon-leader-returns-to-microsoft/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/Discovery-departures.png",
+    "fetchedAt": 1793379614182
+  },
+  "https://news.crunchbase.com/seed/jumbo-seriesa-squeeze-seed-startup-funding-schroder-mgv/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Seed_1.jpg",
+    "fetchedAt": 1793379614790
+  },
+  "https://www.geekwire.com/2026/bigger-than-bing-or-xbox-microsofts-openai-haul-reaches-10b-in-quarterly-revenue/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/altman-nadella-openai-devday-2023.jpg",
+    "fetchedAt": 1793379615217
+  },
+  "https://thenextweb.com/news/thrive-holdings-acquires-adt-7-6bn-kushner": {
+    "image": "https://media.thenextweb.com/2026/10/joshua-kushner-fortune-global-forum-2024.jpg",
+    "fetchedAt": 1793379615851
+  },
+  "https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+    "fetchedAt": 1793379616324
+  },
+  "https://thenextweb.com/news/ford-uev-drivetrain-30-percent-more-efficient-byd": {
+    "image": "https://media.thenextweb.com/2026/10/ford-electric-car-charging-connector.jpg",
+    "fetchedAt": 1793379616907
+  },
+  "https://thenextweb.com/news/dario-amodei-security-cost-philanthropy-pledge-anthropic-ipo": {
+    "image": "https://media.thenextweb.com/2026/10/dario-amodei-fortune-brainstorm-tech-2023.jpg",
+    "fetchedAt": 1793379617493
+  },
+  "https://www.techmeme.com/261030/p15#a261030p15": {
+    "image": null,
+    "fetchedAt": 1793379617975
+  },
+  "https://thenextweb.com/news/cognition-funding-talks-80bn-valuation-business-insider": {
+    "image": "https://media.thenextweb.com/2026/10/cognition-logo-code-illustration.jpg",
+    "fetchedAt": 1793379618572
+  },
+  "https://thenextweb.com/news/toyota-bz-waymo-robotaxi-japan-2027": {
+    "image": "https://media.thenextweb.com/2026/10/toyota-bz4x-waymo-robotaxi-render.jpg",
+    "fetchedAt": 1793379619144
+  },
+  "https://thenextweb.com/news/entourage-100m-fund-ii-ai-robotics-deep-tech": {
+    "image": "https://media.thenextweb.com/2026/10/entourage-investment-team-group-photo.jpg",
+    "fetchedAt": 1793379619716
   }
 }
