@@ -1,72 +1,4 @@
 {
-  "https://www.techmeme.com/261017/p7#a261017p7": {
-    "image": null,
-    "fetchedAt": 1792246026012
-  },
-  "https://www.techmeme.com/261017/p2#a261017p2": {
-    "image": null,
-    "fetchedAt": 1792246026385
-  },
-  "https://thenextweb.com/news/eu-ai-act-openai-anthropic-ai-office-investigation": {
-    "image": "https://media.thenextweb.com/2026/10/henna-virkkunen-speaking-microphone-white-jacket-stage.jpg",
-    "fetchedAt": 1792246026955
-  },
-  "https://www.techmeme.com/261017/p10#a261017p10": {
-    "image": null,
-    "fetchedAt": 1792246027329
-  },
-  "https://www.techmeme.com/261017/p4#a261017p4": {
-    "image": null,
-    "fetchedAt": 1792246027701
-  },
-  "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg",
-    "fetchedAt": 1792246028314
-  },
-  "https://news.crunchbase.com/venture/biggest-funding-rounds-investors-scaled-back-ai-biotech-modal/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
-    "fetchedAt": 1792246028791
-  },
-  "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Amulya-Vishwanath-Techable-VC.jpg?resize=960,1200",
-    "fetchedAt": 1792246029245
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1792246029741
-  },
-  "https://www.techmeme.com/261017/p8#a261017p8": {
-    "image": null,
-    "fetchedAt": 1792246030113
-  },
-  "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_SpaceX_Telecom.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1792246030537
-  },
-  "https://thenextweb.com/news/globalfoundries-japan-21bn-new-york-fabs-us-stake": {
-    "image": "https://media.thenextweb.com/2026/10/globalfoundries-malta-new-fabs-rendering.jpg",
-    "fetchedAt": 1792246031343
-  },
-  "https://thenextweb.com/news/xbow-chrome-exploit-gpt-5-6-sol-250000-six-days": {
-    "image": "https://media.thenextweb.com/2026/10/laptop-browser-google-search-coffee-cup-wooden-table.jpg",
-    "fetchedAt": 1792246031849
-  },
-  "https://www.techmeme.com/261017/p11#a261017p11": {
-    "image": null,
-    "fetchedAt": 1792246032233
-  },
-  "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bose-Noise-Cancelling-Wired-Earbuds_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1792246032627
-  },
-  "https://thenextweb.com/news/gartner-ai-infrastructure-spending-3-5-trillion-write-down-neoclouds": {
-    "image": "https://media.thenextweb.com/2026/10/smartphone-ai-screen-jeans-back-pocket.jpg",
-    "fetchedAt": 1792246033133
-  },
-  "https://thenextweb.com/news/openai-trail-of-bits-acquisition-talks": {
-    "image": "https://media.thenextweb.com/2026/10/openai-logo-stickers-pastel-table-blurred-leaves.jpg",
-    "fetchedAt": 1792246033637
-  },
   "https://www.techmeme.com/261017/p20#a261017p20": {
     "image": null,
     "fetchedAt": 1792333326376
@@ -950,5 +882,73 @@
   "https://thenextweb.com/news/entourage-100m-fund-ii-ai-robotics-deep-tech": {
     "image": "https://media.thenextweb.com/2026/10/entourage-investment-team-group-photo.jpg",
     "fetchedAt": 1793379619716
+  },
+  "https://thenextweb.com/news/ai-training-opt-out-robots-txt-google-openai-microsoft-anthropic": {
+    "image": "https://media.thenextweb.com/2026/10/developer-two-monitors-code-editor-mac-mini.jpg",
+    "fetchedAt": 1793462402958
+  },
+  "https://www.geekwire.com/2026/madrona-prize-goes-to-uw-research-on-agents-that-shrink-ai-models-to-run-on-small-chips/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/madrona-prize-honorees-stage-tight-1200.jpg",
+    "fetchedAt": 1793462403454
+  },
+  "https://www.geekwire.com/2026/filing-chip-startup-powerlattice-raises-86m-to-ease-ais-power-crunch/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/powerlattice.jpg",
+    "fetchedAt": 1793462403867
+  },
+  "https://thenextweb.com/news/john-ternus-wired-apple-ai-for-ais-sake": {
+    "image": "https://media.thenextweb.com/2026/10/john-ternus-fans-selfie-apple-store.jpg",
+    "fetchedAt": 1793462404381
+  },
+  "https://www.techmeme.com/261031/p6#a261031p6": {
+    "image": null,
+    "fetchedAt": 1793462404796
+  },
+  "https://www.techmeme.com/261031/p1#a261031p1": {
+    "image": null,
+    "fetchedAt": 1793462405179
+  },
+  "https://thenextweb.com/news/openai-funding-round-20bn-target-cut-ft": {
+    "image": "https://media.thenextweb.com/2026/10/sam-altman-grey-sweater-yellow-chair-outdoors.jpg",
+    "fetchedAt": 1793462405686
+  },
+  "https://thenextweb.com/news/tampered-claude-code-extension-cursor-ssh-backdoor": {
+    "image": "https://media.thenextweb.com/2026/10/source-code-terminal-dark-monitor-close-up.jpg",
+    "fetchedAt": 1793462406211
+  },
+  "https://thenextweb.com/news/accenture-contractor-claude-agent-pentagon-network-wired": {
+    "image": "https://media.thenextweb.com/2026/10/claude-opus-4-8-safeguards-notice-laptop.jpg",
+    "fetchedAt": 1793462406713
+  },
+  "https://www.techmeme.com/261031/p9#a261031p9": {
+    "image": null,
+    "fetchedAt": 1793462407080
+  },
+  "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/10d-outlook-filterresults.png?quality=90&strip=all&crop=0%2C8.2713403922147%2C100%2C83.457319215571&w=1200",
+    "fetchedAt": 1793462407578
+  },
+  "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0048.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1793462407966
+  },
+  "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSCF4167.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+    "fetchedAt": 1793462408355
+  },
+  "https://www.techmeme.com/261031/p8#a261031p8": {
+    "image": null,
+    "fetchedAt": 1793462408738
+  },
+  "https://thenextweb.com/news/sam-altman-dram-samsung-presidents-cheeky-pint": {
+    "image": "https://media.thenextweb.com/2026/10/samsung-executives-sam-altman-ai-talk-yongin-hall.jpg",
+    "fetchedAt": 1793462409221
+  },
+  "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-150.jpg?quality=90&strip=all&crop=0%2C3.4987011938249%2C100%2C93.00259761235&w=1200",
+    "fetchedAt": 1793462409627
+  },
+  "https://www.theverge.com/policy/1023899/political-texts-midterm-elections": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS4.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1793462410019
   }
 }
