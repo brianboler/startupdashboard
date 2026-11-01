@@ -1,76 +1,4 @@
 {
-  "https://www.techmeme.com/261017/p20#a261017p20": {
-    "image": null,
-    "fetchedAt": 1792333326376
-  },
-  "https://www.techmeme.com/261018/p4#a261018p4": {
-    "image": null,
-    "fetchedAt": 1792333326752
-  },
-  "https://www.techmeme.com/261018/p3#a261018p3": {
-    "image": null,
-    "fetchedAt": 1792333327117
-  },
-  "https://www.techmeme.com/261018/p2#a261018p2": {
-    "image": null,
-    "fetchedAt": 1792333327483
-  },
-  "https://thenextweb.com/news/apple-meta-muse-spark-open-mac-studio": {
-    "image": "https://media.thenextweb.com/2026/10/mac-studio-mac-mini-studio-display-wooden-desk.jpg",
-    "fetchedAt": 1792333328109
-  },
-  "https://www.techmeme.com/261018/p7#a261018p7": {
-    "image": null,
-    "fetchedAt": 1792333328473
-  },
-  "https://www.techmeme.com/261017/p19#a261017p19": {
-    "image": null,
-    "fetchedAt": 1792333328841
-  },
-  "https://thenextweb.com/news/john-ternus-time-interview-memory-crisis-iphone-duo": {
-    "image": "https://media.thenextweb.com/2026/04/john-ternus-apple-ceo-profile-hardware-ai.jpg",
-    "fetchedAt": 1792333329406
-  },
-  "https://www.geekwire.com/2026/amazons-new-ai-wearable-bookings-return-to-expedias-backyard-and-linkedins-not-so-seattle-startup-list/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
-    "fetchedAt": 1792333329850
-  },
-  "https://thenextweb.com/news/microsoft-pulls-out-nscale-loughton-data-centre-ipo": {
-    "image": "https://media.thenextweb.com/2026/09/satya-nadella-onstage-microsoft-build-2026.jpg",
-    "fetchedAt": 1792333330407
-  },
-  "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/96D2EEC6-09F7-402B-B1A3-F1030ADD0D90_1_105_c.jpeg?quality=90&strip=all&crop=0,15.095986038394,100,69.808027923211",
-    "fetchedAt": 1792333330893
-  },
-  "https://www.theverge.com/podcast/1013473/overhead-projector-version-history": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VRH_Overhead_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1792333331286
-  },
-  "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2270749481.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-    "fetchedAt": 1792333331666
-  },
-  "https://thenextweb.com/news/woodside-scarborough-greenpeace-protest-pause": {
-    "image": "https://media.thenextweb.com/2026/05/australia-fair-work-commission-ai-workload-generative-tribunals.jpg",
-    "fetchedAt": 1792333332224
-  },
-  "https://thenextweb.com/news/world-bank-small-ai-developing-countries": {
-    "image": "https://media.thenextweb.com/2013/07/world-bank.jpg",
-    "fetchedAt": 1792333332771
-  },
-  "https://thenextweb.com/news/pet-biotech-longevity-cloning-cryonics": {
-    "image": "https://media.thenextweb.com/2026/10/tabby-cat-open-mouth-close-up.jpg",
-    "fetchedAt": 1792333333319
-  },
-  "https://thenextweb.com/news/supreme-court-video-privacy-salazar-paramount": {
-    "image": "https://media.thenextweb.com/2026/07/Paramount.jpg",
-    "fetchedAt": 1792333333886
-  },
-  "https://www.techmeme.com/261018/p6#a261018p6": {
-    "image": null,
-    "fetchedAt": 1792333334299
-  },
   "https://www.techmeme.com/261019/p31#a261019p31": {
     "image": null,
     "fetchedAt": 1792430585665
@@ -950,5 +878,77 @@
   "https://www.theverge.com/policy/1023899/political-texts-midterm-elections": {
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS4.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "fetchedAt": 1793462410019
+  },
+  "https://www.techmeme.com/261101/p6#a261101p6": {
+    "image": null,
+    "fetchedAt": 1793552581857
+  },
+  "https://www.techmeme.com/261101/p3#a261101p3": {
+    "image": null,
+    "fetchedAt": 1793552582232
+  },
+  "https://www.techmeme.com/261101/p8#a261101p8": {
+    "image": null,
+    "fetchedAt": 1793552582592
+  },
+  "https://www.geekwire.com/2026/microsofts-big-buyout-amazons-trillion-dollar-future-and-an-ai-wearable-reviews-our-show/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
+    "fetchedAt": 1793552583066
+  },
+  "https://thenextweb.com/news/google-suncatcher-satellite-first-ai-response-gemma-haiku": {
+    "image": "https://media.thenextweb.com/2026/11/project-suncatcher-logo-yellow-orange-blue-gradient.jpg",
+    "fetchedAt": 1793552583588
+  },
+  "https://thenextweb.com/news/claude-ultra-max-plan-rename-five-hour-limit": {
+    "image": "https://media.thenextweb.com/2026/11/claude-chatgpt-app-icons-iphone-keyboard.jpg",
+    "fetchedAt": 1793552584077
+  },
+  "https://www.techmeme.com/261101/p4#a261101p4": {
+    "image": null,
+    "fetchedAt": 1793552584451
+  },
+  "https://www.techmeme.com/261101/p2#a261101p2": {
+    "image": null,
+    "fetchedAt": 1793552584808
+  },
+  "https://www.techmeme.com/261101/p1#a261101p1": {
+    "image": null,
+    "fetchedAt": 1793552585166
+  },
+  "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&strip=all&crop=4%2C9.7534360513847%2C96%2C75.393048208485&w=1200",
+    "fetchedAt": 1793552585669
+  },
+  "https://thenextweb.com/news/instagram-features-youtube-creators-paid-deals": {
+    "image": "https://media.thenextweb.com/2026/11/instagram-app-store-page-iphone-screen-dark.jpg",
+    "fetchedAt": 1793552586156
+  },
+  "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB376_VALVE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1793552586579
+  },
+  "https://www.geekwire.com/2026/geekwire-weekly-roundup-2026-10-25/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2015/11/geekwire-week-in-review1.png",
+    "fetchedAt": 1793552586985
+  },
+  "https://thenextweb.com/news/nasa-hubble-reboost-servicing-commercial-request": {
+    "image": "https://media.thenextweb.com/2026/11/hubble-space-telescope-orbit-earth-solar-panel-sts-125.jpg",
+    "fetchedAt": 1793552587471
+  },
+  "https://www.techmeme.com/261101/p9#a261101p9": {
+    "image": null,
+    "fetchedAt": 1793552587838
+  },
+  "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK428_CRYPTO_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1793552588258
+  },
+  "https://thenextweb.com/news/xai-naacp-lawsuit-gas-turbines-motion-to-dismiss-denied": {
+    "image": "https://media.thenextweb.com/2026/11/gas-turbines-power-plant-southaven-mississippi-aerial.jpg",
+    "fetchedAt": 1793552588731
+  },
+  "https://thenextweb.com/news/palantir-shyam-sankar-anthropic-stuck-in-the-middle-stratechery": {
+    "image": "https://media.thenextweb.com/2026/11/shyam-sankar-palantir-speaking-microphone-davos-panel.jpg",
+    "fetchedAt": 1793552589212
   }
 }
