@@ -1,56 +1,4 @@
 {
-  "https://www.techmeme.com/261020/p27#a261020p27": {
-    "image": null,
-    "fetchedAt": 1792510566564
-  },
-  "https://www.techmeme.com/261020/p22#a261020p22": {
-    "image": null,
-    "fetchedAt": 1792510566944
-  },
-  "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2294590819.jpg?resize=1200,675",
-    "fetchedAt": 1792510567468
-  },
-  "https://www.techmeme.com/261020/p23#a261020p23": {
-    "image": null,
-    "fetchedAt": 1792510567847
-  },
-  "https://www.techmeme.com/261020/p26#a261020p26": {
-    "image": null,
-    "fetchedAt": 1792510568230
-  },
-  "https://thenextweb.com/news/mit-swarmworld-agent-society-replication-open-weight-consumer-gpus": {
-    "image": "https://media.thenextweb.com/2026/10/apex-fusion-mit-swarmworld-replication-open-weight-graphic.jpg",
-    "fetchedAt": 1792510568808
-  },
-  "https://thenextweb.com/news/openai-china-chip-export-controls-retreat-nvidia": {
-    "image": "https://media.thenextweb.com/2026/09/openai-logo-smartphone-red-case-laptop-keyboard.jpg",
-    "fetchedAt": 1792510569328
-  },
-  "https://thenextweb.com/news/terra-security-ai-native-cybersecurity-podcast-cj-moses-amazon": {
-    "image": "https://media.thenextweb.com/2026/10/terra-ai-native-cybersecurity-podcast-cj-moses-shahar-peled.jpg",
-    "fetchedAt": 1792510569836
-  },
-  "https://thenextweb.com/news/anthropic-leaked-ai-safety-bill-backlash-frontier": {
-    "image": "https://media.thenextweb.com/2026/08/anthropic-in-house-chip-team-custom-silicon-claude.jpg",
-    "fetchedAt": 1792510570350
-  },
-  "https://sifted.eu/articles/nvidia-germany-europe-uk-france-jensen-huang-invests/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1600,quality=75,fit=cover,format=auto/wp-content/uploads/2025/02/04162550/nvidia-ceo-jensen-huang-project-digits-e1738686362736.png",
-    "fetchedAt": 1792510572976
-  },
-  "https://www.geekwire.com/2026/amazon-plans-record-300k-holiday-hires-as-the-rest-of-retail-pulls-back/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/04/amazon-clouds.jpg",
-    "fetchedAt": 1792510573681
-  },
-  "https://www.theverge.com/entertainment/1014276/professional-sports-authenticator-psa-stolen-graded-sports-pokemon-cards-fedex": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2289911952.jpg?quality=90&strip=all&crop=0%2C9.338867963278%2C100%2C81.322264073444&w=1200",
-    "fetchedAt": 1792510574184
-  },
-  "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1792510574573
-  },
   "https://www.techmeme.com/261021/p33#a261021p33": {
     "image": null,
     "fetchedAt": 1792597986105
@@ -954,5 +902,77 @@
   "https://thenextweb.com/news/larridin-30m-series-a-ai-spending-measurement": {
     "image": "https://media.thenextweb.com/2026/11/larridin-logo-white-wordmark-dark-indigo.jpg",
     "fetchedAt": 1793652071718
+  },
+  "https://www.techmeme.com/261103/p24#a261103p24": {
+    "image": null,
+    "fetchedAt": 1793729822197
+  },
+  "https://www.techmeme.com/261103/p16#a261103p16": {
+    "image": null,
+    "fetchedAt": 1793729822566
+  },
+  "https://www.techmeme.com/261103/p17#a261103p17": {
+    "image": null,
+    "fetchedAt": 1793729822945
+  },
+  "https://thenextweb.com/news/meta-15b-bond-sale-higher-yields-euro-debut": {
+    "image": "https://media.thenextweb.com/2026/10/meta-3d-logo-blue-gradient-background.jpg",
+    "fetchedAt": 1793729823513
+  },
+  "https://www.geekwire.com/2026/microsoft-opens-imagine-cup-to-startups-and-the-new-rules-show-how-its-ai-strategy-has-changed/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/imagine-cup-2024-trophy.jpg",
+    "fetchedAt": 1793729823995
+  },
+  "https://www.techmeme.com/261103/p18#a261103p18": {
+    "image": null,
+    "fetchedAt": 1793729824385
+  },
+  "https://thenextweb.com/news/syncere-lume-robot-lamp-11m-a16z": {
+    "image": "https://media.thenextweb.com/2026/11/lume-robot-lamp-kitchen-dishwasher.jpg",
+    "fetchedAt": 1793729824882
+  },
+  "https://news.crunchbase.com/venture/october-2026-global-startup-funding-strong-china-deepseek/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/sep-oct.jpg",
+    "fetchedAt": 1793729825443
+  },
+  "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+    "fetchedAt": 1793729825876
+  },
+  "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900",
+    "fetchedAt": 1793729826273
+  },
+  "https://thenextweb.com/news/amd-q3-2026-earnings-preview-intel-selloff-ai-fears": {
+    "image": "https://media.thenextweb.com/2026/11/amd-logo-cpu-cooler-fan-rgb-lighting.jpg",
+    "fetchedAt": 1793729826745
+  },
+  "https://www.techmeme.com/261103/p23#a261103p23": {
+    "image": null,
+    "fetchedAt": 1793729827129
+  },
+  "https://www.geekwire.com/2026/opinion-san-francisco-is-delivering-while-seattle-is-still-deliberating/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/sf-dolores-park-skyline-1260x840.jpeg",
+    "fetchedAt": 1793729827547
+  },
+  "https://thenextweb.com/news/aria-scaling-inference-lab-lumai-optical-servers": {
+    "image": "https://media.thenextweb.com/2026/10/ai-microchip-green-pastel-reflective-surface.jpg",
+    "fetchedAt": 1793729828334
+  },
+  "https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/moft1.jpg?quality=90&strip=all&crop=0,10.751871746636,100,78.496256506728",
+    "fetchedAt": 1793729828787
+  },
+  "https://www.techmeme.com/261103/p22#a261103p22": {
+    "image": null,
+    "fetchedAt": 1793729829166
+  },
+  "https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nanowifi.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1793729829563
+  },
+  "https://thenextweb.com/news/uipath-per-document-pricing-source-to-pay-agents": {
+    "image": "https://media.thenextweb.com/2026/11/uipath-fusion-dubai-source-to-pay-session-stage.jpg",
+    "fetchedAt": 1793729830050
   }
 }
