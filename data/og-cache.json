@@ -1,72 +1,4 @@
 {
-  "https://www.techmeme.com/261021/p33#a261021p33": {
-    "image": null,
-    "fetchedAt": 1792597986105
-  },
-  "https://www.techmeme.com/261021/p28#a261021p28": {
-    "image": null,
-    "fetchedAt": 1792597986497
-  },
-  "https://www.geekwire.com/2026/autonomous-flight-startup-reliable-robotics-opens-seattle-area-radar-hub-as-valuation-tops-1-billion/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/Autonomous-Flight_820-Autoland_2026-09.jpeg",
-    "fetchedAt": 1792597987012
-  },
-  "https://www.techmeme.com/261021/p35#a261021p35": {
-    "image": null,
-    "fetchedAt": 1792597987401
-  },
-  "https://www.techmeme.com/261021/p34#a261021p34": {
-    "image": null,
-    "fetchedAt": 1792597987791
-  },
-  "https://thenextweb.com/news/openai-models-codex-google-cloud": {
-    "image": "https://media.thenextweb.com/2026/09/openai-gpt-6-sol-luna-key-art.jpg",
-    "fetchedAt": 1792597988401
-  },
-  "https://thenextweb.com/news/openai-agents-misalignment-monitoring-sol-astra": {
-    "image": "https://media.thenextweb.com/2026/09/openai-logo-smartphone-laptop-zac-wolff-unsplash.jpg",
-    "fetchedAt": 1792597988912
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
-    "fetchedAt": 1792597989403
-  },
-  "https://thenextweb.com/news/legora-series-e-550m-8-8bn-valuation": {
-    "image": "https://media.thenextweb.com/2026/10/legora-co-founders-portrait-light-blue-backdrop.jpg",
-    "fetchedAt": 1792597989916
-  },
-  "https://sifted.eu/articles/pigment-series-e-nvidia-scaleup-europe-fund/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1160,quality=75,fit=cover,format=auto/wp-content/uploads/2025/03/25162905/Eleonore-2-2.png",
-    "fetchedAt": 1792597992778
-  },
-  "https://thenextweb.com/news/claude-attack-surface-reduction-493-issues-openssh": {
-    "image": "https://media.thenextweb.com/2026/08/anthropic-in-house-chip-team-custom-silicon-claude.jpg",
-    "fetchedAt": 1792597993291
-  },
-  "https://www.techmeme.com/261021/p37#a261021p37": {
-    "image": null,
-    "fetchedAt": 1792597993812
-  },
-  "https://www.techmeme.com/261021/p36#a261021p36": {
-    "image": null,
-    "fetchedAt": 1792597994212
-  },
-  "https://thenextweb.com/news/php2shell-php-rce-ai-openai-wiz": {
-    "image": "https://media.thenextweb.com/2026/10/php-elephant-plush-laptop-code.jpg",
-    "fetchedAt": 1792597994720
-  },
-  "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1792597995177
-  },
-  "https://www.theverge.com/gadgets/1015346/samsung-5k-monitor-gaming-gta-6-usbc-charger-deal-sale": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/samsung5k.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1792597995583
-  },
-  "https://sifted.eu/articles/former-h-company-cto-seeks-30m-for-new-startup/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=2041,quality=75,fit=cover,format=auto/wp-content/uploads/2025/02/28150719/IMG_0170-scaled-e1741014029743.jpg",
-    "fetchedAt": 1792597997230
-  },
   "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/": {
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2296593553.jpg?w=1024",
     "fetchedAt": 1792684206061
@@ -974,5 +906,69 @@
   "https://thenextweb.com/news/uipath-per-document-pricing-source-to-pay-agents": {
     "image": "https://media.thenextweb.com/2026/11/uipath-fusion-dubai-source-to-pay-session-stage.jpg",
     "fetchedAt": 1793729830050
+  },
+  "https://thenextweb.com/news/pliant-80m-series-c-ai-agents-b2b-payments-seaya-speedinvest": {
+    "image": "https://media.thenextweb.com/2026/11/pliant-cofounders-malte-rau-fabian-terner.jpg",
+    "fetchedAt": 1793817062194
+  },
+  "https://www.geekwire.com/2026/finpilot-raises-10m-for-ai-agents-that-handle-the-grunt-work-for-institutional-investors/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/lakshay-chauhan-finpilot.jpg",
+    "fetchedAt": 1793817062661
+  },
+  "https://thenextweb.com/news/phaze-8-75m-seed-a16z-remote-computers-ai-agents": {
+    "image": "https://media.thenextweb.com/2026/10/ai-chip-brain-inside-light-bulb-purple-background.jpg",
+    "fetchedAt": 1793817063158
+  },
+  "https://thenextweb.com/news/aformic-6-95m-seed-industrial-robots-veteran-ventures": {
+    "image": "https://media.thenextweb.com/2026/11/aformic-autonomous-forklift-robots-warehouse-robot-arm.jpg",
+    "fetchedAt": 1793817063638
+  },
+  "https://www.techmeme.com/261104/p43#a261104p43": {
+    "image": null,
+    "fetchedAt": 1793817064045
+  },
+  "https://www.geekwire.com/2026/ai2-gets-5m-from-google-to-turn-ai-weather-model-into-a-tool-for-projecting-climate-change/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/ai2-ace-globe.jpg",
+    "fetchedAt": 1793817064471
+  },
+  "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1793817064952
+  },
+  "https://thenextweb.com/news/adobe-cx-enterprise-coworker-chatgpt-claude-gemini-copilot": {
+    "image": "https://media.thenextweb.com/2026/11/adobe-cx-enterprise-coworker-ai-platforms-graphic.jpg",
+    "fetchedAt": 1793817065435
+  },
+  "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1268605503.jpg?resize=1200,420",
+    "fetchedAt": 1793817065895
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei": {
+    "image": null,
+    "fetchedAt": 1793817066257
+  },
+  "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1793817066699
+  },
+  "https://thenextweb.com/news/google-15b-malaysia-data-centres-2027-2028": {
+    "image": "https://media.thenextweb.com/2026/10/google-office-building-kitchener-ontario.jpg",
+    "fetchedAt": 1793817067186
+  },
+  "https://www.techmeme.com/261104/p45#a261104p45": {
+    "image": null,
+    "fetchedAt": 1793817067564
+  },
+  "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1793817067981
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1793817068370
+  },
+  "https://www.techmeme.com/261104/p44#a261104p44": {
+    "image": null,
+    "fetchedAt": 1793817068736
   }
 }
