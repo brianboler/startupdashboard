@@ -1,72 +1,4 @@
 {
-  "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2296593553.jpg?w=1024",
-    "fetchedAt": 1792684206061
-  },
-  "https://www.techmeme.com/261022/p31#a261022p31": {
-    "image": null,
-    "fetchedAt": 1792684206509
-  },
-  "https://www.techmeme.com/261022/p26#a261022p26": {
-    "image": null,
-    "fetchedAt": 1792684206890
-  },
-  "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Google-cloud-IO-1152x648.jpg",
-    "fetchedAt": 1792684207417
-  },
-  "https://www.techmeme.com/261022/p35#a261022p35": {
-    "image": null,
-    "fetchedAt": 1792684207815
-  },
-  "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Series-A-panel-Dom.jpg?resize=1200,800",
-    "fetchedAt": 1792684208223
-  },
-  "https://www.techmeme.com/261022/p32#a261022p32": {
-    "image": null,
-    "fetchedAt": 1792684208607
-  },
-  "https://thenextweb.com/news/microsoft-storm-0940-ai-agents-connectwise-attack": {
-    "image": "https://media.thenextweb.com/2026/10/microsoft-logo-office-building.jpg",
-    "fetchedAt": 1792684209210
-  },
-  "https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/Money_Rocket.jpg",
-    "fetchedAt": 1792684209698
-  },
-  "https://news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/Bubble_Investment.jpg",
-    "fetchedAt": 1792684210169
-  },
-  "https://www.techmeme.com/261022/p34#a261022p34": {
-    "image": null,
-    "fetchedAt": 1792684210554
-  },
-  "https://thenextweb.com/news/universal-music-group-tyger-licensing-deal-gaming": {
-    "image": "https://media.thenextweb.com/2026/10/nick-venti-tyger-ceo-portrait.jpg",
-    "fetchedAt": 1792684211076
-  },
-  "https://www.techmeme.com/261022/p33#a261022p33": {
-    "image": null,
-    "fetchedAt": 1792684211462
-  },
-  "https://www.theverge.com/gadgets/1016640/apple-magic-keyboards-ipad-air-pro-deal-sale": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25446222/247111_iPad_Pro_2024_AKrales_0615.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1792684211934
-  },
-  "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_ILLO_STK001_carlo_cadenas_cybersecurity_virus.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1792684212309
-  },
-  "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Helion-Polaris-D-T.jpeg?resize=1200,800",
-    "fetchedAt": 1792684212761
-  },
-  "https://www.theverge.com/gadgets/1016626/samsung-galaxy-used-amazon": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25729868/DSC08724.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-    "fetchedAt": 1792684213145
-  },
   "https://www.techmeme.com/261023/p9#a261023p9": {
     "image": null,
     "fetchedAt": 1792770066490
@@ -970,5 +902,77 @@
   "https://www.techmeme.com/261104/p44#a261104p44": {
     "image": null,
     "fetchedAt": 1793817068736
+  },
+  "https://www.techmeme.com/261105/p39#a261105p39": {
+    "image": null,
+    "fetchedAt": 1793903642092
+  },
+  "https://www.techmeme.com/261105/p38#a261105p38": {
+    "image": null,
+    "fetchedAt": 1793903642461
+  },
+  "https://thenextweb.com/news/humble-robotics-51m-series-a-cabless-electric-autonomous-trucks": {
+    "image": "https://media.thenextweb.com/2026/11/humble-hauler-cabless-electric-truck-warehouse.jpg",
+    "fetchedAt": 1793903643043
+  },
+  "https://www.techmeme.com/261105/p41#a261105p41": {
+    "image": null,
+    "fetchedAt": 1793903643417
+  },
+  "https://www.techmeme.com/261105/p40#a261105p40": {
+    "image": null,
+    "fetchedAt": 1793903643781
+  },
+  "https://www.geekwire.com/2026/zillow-ceos-reality-check-on-ai-agents-finding-a-home-isnt-a-chore-to-hand-off-to-a-robot/": {
+    "image": null,
+    "fetchedAt": 1793903644161
+  },
+  "https://www.geekwire.com/2026/second-exit-ai-startup-suplari-acquired-by-docusign-nearly-3-years-after-microsoft-spinout/": {
+    "image": null,
+    "fetchedAt": 1793903644556
+  },
+  "https://www.techmeme.com/261105/p44#a261105p44": {
+    "image": null,
+    "fetchedAt": 1793903644921
+  },
+  "https://thenextweb.com/news/guardian-life-sierra-ai-agents-insurance-customer-service": {
+    "image": "https://media.thenextweb.com/2026/11/guardian-sierra-logos-partnership-cream-background.jpg",
+    "fetchedAt": 1793903645439
+  },
+  "https://www.techmeme.com/261105/p42#a261105p42": {
+    "image": null,
+    "fetchedAt": 1793903645804
+  },
+  "https://thenextweb.com/news/soundcloud-elevenmusic-ai-songs-direct-publishing": {
+    "image": "https://media.thenextweb.com/2026/11/elevenmusic-soundcloud-logos-orange-sphere-black.jpg",
+    "fetchedAt": 1793903646309
+  },
+  "https://thenextweb.com/news/blue-origin-new-glenn-return-to-flight-delayed-january": {
+    "image": "https://media.thenextweb.com/2026/11/blue-origin-launch-site-one-sign-west-texas-desert.jpg",
+    "fetchedAt": 1793903646802
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1793903647334
+  },
+  "https://thenextweb.com/news/zipline-1-5bn-raise-21-5bn-valuation-walmart-300-drone-sites": {
+    "image": "https://media.thenextweb.com/2026/11/zipline-p1-drone-parachute-drop-blue-sky.jpg",
+    "fetchedAt": 1793903647840
+  },
+  "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Harbinger-Newsroom-Thumbnail-260610.jpeg?resize=1200,800",
+    "fetchedAt": 1793903648252
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1793903648688
+  },
+  "https://www.geekwire.com/2026/shield-ai-to-buy-bill-gates-backed-radar-maker-echodyne-in-5-3b-deal-doubling-down-on-seattle-area/": {
+    "image": null,
+    "fetchedAt": 1793903649068
+  },
+  "https://www.geekwire.com/2026/no-sweat-high-tech-t-shirt-brand-neat-survives-shark-tank-and-lands-400k-deal-with-lori-greiner/": {
+    "image": null,
+    "fetchedAt": 1793903649452
   }
 }
