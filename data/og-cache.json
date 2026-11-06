@@ -1,76 +1,4 @@
 {
-  "https://www.techmeme.com/261023/p9#a261023p9": {
-    "image": null,
-    "fetchedAt": 1792770066490
-  },
-  "https://sifted.eu/articles/nvidia-european-investments-2026/": {
-    "image": "https://content.sifted.eu/wp-content/uploads/2026/10/22194356/nvidia-scaled-e1792709874663-1024x340.png",
-    "fetchedAt": 1792770068375
-  },
-  "https://thenextweb.com/news/openai-ai-agents-mouse-brain-crispr-atlas": {
-    "image": "https://media.thenextweb.com/2026/10/brain-neuron-line-drawings-blue-green-artwork.jpg",
-    "fetchedAt": 1792770068942
-  },
-  "https://thenextweb.com/news/eka-robotics-150m-series-a-vision-force-robots": {
-    "image": "https://media.thenextweb.com/2026/10/eka-robotics-team-group-photo-office.jpg",
-    "fetchedAt": 1792770069455
-  },
-  "https://www.techmeme.com/261023/p7#a261023p7": {
-    "image": null,
-    "fetchedAt": 1792770069826
-  },
-  "https://www.techmeme.com/261023/p5#a261023p5": {
-    "image": null,
-    "fetchedAt": 1792770070203
-  },
-  "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
-    "fetchedAt": 1792770070653
-  },
-  "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?w=1024",
-    "fetchedAt": 1792770071054
-  },
-  "https://news.crunchbase.com/ma/acquired-boom-era-startups-ezcater-anyscale/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/M_A.jpg",
-    "fetchedAt": 1792770071558
-  },
-  "https://sifted.eu/articles/yann-lecun-arthur-mensch-zurich-robotics-startup-30m-pre-seed/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1400,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/21154521/Enact_Team-Zu%CC%88rich_credit_Enact-Intelligence-.jpg",
-    "fetchedAt": 1792770073797
-  },
-  "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24390349/22C0157_053.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-    "fetchedAt": 1792770074286
-  },
-  "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1187777086.jpg?quality=90&strip=all&crop=0%2C11.368215768306%2C100%2C77.263568463387&w=1200",
-    "fetchedAt": 1792770074695
-  },
-  "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1792770075088
-  },
-  "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sigmafp2_1.jpg?quality=90&strip=all&crop=0%2C10.702894625985%2C100%2C78.594210748029&w=1200",
-    "fetchedAt": 1792770075487
-  },
-  "https://thenextweb.com/news/bose-buys-skullcandy-sound-by-bose-partner": {
-    "image": "https://media.thenextweb.com/2026/10/bose-corporation-skullcandy-logos-black.jpg",
-    "fetchedAt": 1792770076018
-  },
-  "https://www.techmeme.com/261023/p11#a261023p11": {
-    "image": null,
-    "fetchedAt": 1792770076423
-  },
-  "https://thenextweb.com/news/unitree-rehearsal-self-improving-robots-2028-breakthrough": {
-    "image": "https://media.thenextweb.com/2026/10/wang-xingxing-unitree-world-physical-ai-conference-hangzhou.jpg",
-    "fetchedAt": 1792770076932
-  },
-  "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1057.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1792770077346
-  },
   "https://thenextweb.com/news/uk-funds-100m-ai-biosecurity-lab-with-openai-and-anthropic": {
     "image": "https://media.thenextweb.com/2026/10/london-bus-westminster-bridge.jpg",
     "fetchedAt": 1792851486055
@@ -974,5 +902,77 @@
   "https://www.geekwire.com/2026/no-sweat-high-tech-t-shirt-brand-neat-survives-shark-tank-and-lands-400k-deal-with-lori-greiner/": {
     "image": null,
     "fetchedAt": 1793903649452
+  },
+  "https://www.techmeme.com/261106/p8#a261106p8": {
+    "image": null,
+    "fetchedAt": 1793987522456
+  },
+  "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors": {
+    "image": null,
+    "fetchedAt": 1793987523090
+  },
+  "https://thenextweb.com/news/tsmc-3d-dram-memory-chips-nvidia": {
+    "image": "https://media.thenextweb.com/2026/11/tsmc-logo-taichung-fab-building-sky.jpg",
+    "fetchedAt": 1793987523648
+  },
+  "https://www.geekwire.com/2026/amazons-ai-shopping-agent-moves-into-text-messages-taking-orders-and-tracking-prices/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/alexa-shopping-text.jpg",
+    "fetchedAt": 1793987524111
+  },
+  "https://www.techmeme.com/261106/p13#a261106p13": {
+    "image": null,
+    "fetchedAt": 1793987524506
+  },
+  "https://thenextweb.com/news/meta-acquires-conductor-ai-coding-agents-superintelligence-labs": {
+    "image": "https://media.thenextweb.com/2026/11/conductor-mascot-grey-cap-logo.jpg",
+    "fetchedAt": 1793987525030
+  },
+  "https://www.geekwire.com/2026/agility-robotics-co-founder-on-its-nasdaq-debut-lessons-from-amazon-and-the-future-of-work/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/hurst-digit5-lead.jpg",
+    "fetchedAt": 1793987525428
+  },
+  "https://www.geekwire.com/2026/longtime-investor-martin-tobias-says-no-to-99-of-startups-his-new-ai-tool-helps-them-find-a-yes/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/Martin-Square-1260x1260.jpg",
+    "fetchedAt": 1793987525859
+  },
+  "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800",
+    "fetchedAt": 1793987526318
+  },
+  "https://sifted.eu/articles/memrise-mindmax-helsing-funding-round-memory/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/04154553/untitled-9009-scaled.jpg",
+    "fetchedAt": 1793987529144
+  },
+  "https://www.theverge.com/tech/1028835/white-house-residential-proxy": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318430/akrales_220309_4977_0038.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1793987529671
+  },
+  "https://thenextweb.com/news/brightspeed-apollo-creditor-talks-new-money-fibre-debt": {
+    "image": "https://media.thenextweb.com/2026/11/fibre-optic-cables-telecom-equipment-rack.jpg",
+    "fetchedAt": 1793987530256
+  },
+  "https://www.techmeme.com/261106/p17#a261106p17": {
+    "image": null,
+    "fetchedAt": 1793987530714
+  },
+  "https://www.theverge.com/tech/1028715/kobo-stack-cloud-sync-ebooks-epub-pdf-email-files": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/kobo1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+    "fetchedAt": 1793987531113
+  },
+  "https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1188.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1793987531506
+  },
+  "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2202122534-1152x648.jpg",
+    "fetchedAt": 1793987532085
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1793987532491
+  },
+  "https://thenextweb.com/news/amazon-alexa-for-shopping-text-message-agent": {
+    "image": "https://media.thenextweb.com/2026/11/alexa-shopping-text-message-lasagna-cart-iphone.jpg",
+    "fetchedAt": 1793987533008
   }
 }
