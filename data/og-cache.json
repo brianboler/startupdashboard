@@ -1,76 +1,4 @@
 {
-  "https://thenextweb.com/news/uk-funds-100m-ai-biosecurity-lab-with-openai-and-anthropic": {
-    "image": "https://media.thenextweb.com/2026/10/london-bus-westminster-bridge.jpg",
-    "fetchedAt": 1792851486055
-  },
-  "https://www.techmeme.com/261023/p26#a261023p26": {
-    "image": null,
-    "fetchedAt": 1792851486462
-  },
-  "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2023/11/Daytona_Founders-e1698845569762.jpg?resize=1200,676",
-    "fetchedAt": 1792851486926
-  },
-  "https://www.techmeme.com/261023/p25#a261023p25": {
-    "image": null,
-    "fetchedAt": 1792851487302
-  },
-  "https://www.techmeme.com/261023/p24#a261023p24": {
-    "image": null,
-    "fetchedAt": 1792851487668
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1792851488207
-  },
-  "https://thenextweb.com/news/hindsight-ai-content-moderation-perspective-api-shutdown": {
-    "image": "https://media.thenextweb.com/2026/10/dean-gebert-hindsight-founder.jpg",
-    "fetchedAt": 1792851488710
-  },
-  "https://www.geekwire.com/2026/icertis-veterans-reunite-as-ai-startup-humantronik-acquires-tech-consultancy-cloudmoyo/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/humantronik-founders-composite.jpg",
-    "fetchedAt": 1792851489136
-  },
-  "https://www.geekwire.com/2026/data-farmers-ag-tech-startup-aigen-grows-ai-generated-weeds-to-train-its-solar-powered-farm-robots/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/element-robotic-fleet.jpeg",
-    "fetchedAt": 1792851489537
-  },
-  "https://www.techmeme.com/261024/p3#a261024p3": {
-    "image": null,
-    "fetchedAt": 1792851489900
-  },
-  "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1792851490302
-  },
-  "https://www.techmeme.com/261024/p4#a261024p4": {
-    "image": null,
-    "fetchedAt": 1792851490669
-  },
-  "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Possible-Love_NYFF64_03.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1792851491056
-  },
-  "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/09450646-b085-11f1-90b9-46f10a3e57b0_3600.1360.cmp_.def_.out_.002._L.0059.UNAPPROVED.jpg?quality=90&strip=all&crop=9.99072265625%2C0%2C80.0185546875%2C100&w=1200",
-    "fetchedAt": 1792851491454
-  },
-  "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-149.jpg?quality=90&strip=all&crop=0%2C3.4987011938249%2C100%2C93.00259761235&w=1200",
-    "fetchedAt": 1792851491844
-  },
-  "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/marscloud-1152x648.jpg",
-    "fetchedAt": 1792851492364
-  },
-  "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1458824614-1152x648.jpg",
-    "fetchedAt": 1792851492761
-  },
-  "https://thenextweb.com/news/openai-frontier-training-no-live-internet": {
-    "image": "https://media.thenextweb.com/2026/10/sam-altman-on-stage-openai-logo-devday-2026.jpg",
-    "fetchedAt": 1792851493289
-  },
   "https://www.techmeme.com/261025/p3#a261025p3": {
     "image": null,
     "fetchedAt": 1792939865737
@@ -974,5 +902,69 @@
   "https://thenextweb.com/news/amazon-alexa-for-shopping-text-message-agent": {
     "image": "https://media.thenextweb.com/2026/11/alexa-shopping-text-message-lasagna-cart-iphone.jpg",
     "fetchedAt": 1793987533008
+  },
+  "https://www.geekwire.com/2026/voters-turn-on-ai-data-centers-shield-ais-5-3b-echodyne-deal-and-a-startups-rare-double-exit/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
+    "fetchedAt": 1794070022612
+  },
+  "https://www.techmeme.com/261107/p10#a261107p10": {
+    "image": null,
+    "fetchedAt": 1794070023043
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1794070023621
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1794070024034
+  },
+  "https://www.techmeme.com/261107/p9#a261107p9": {
+    "image": null,
+    "fetchedAt": 1794070024422
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+    "fetchedAt": 1794070024849
+  },
+  "https://thenextweb.com/news/anthropic-claude-max-lawsuit-ruling-usage-claims": {
+    "image": "https://media.thenextweb.com/2026/10/dario-amodei-anthropic-logo-phone-screen.jpg",
+    "fetchedAt": 1794070025429
+  },
+  "https://www.techmeme.com/261107/p2#a261107p2": {
+    "image": null,
+    "fetchedAt": 1794070025807
+  },
+  "https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+    "fetchedAt": 1794070026349
+  },
+  "https://thenextweb.com/news/microsoft-winds-down-oracle-ai-cloud-capacity-deal": {
+    "image": "https://media.thenextweb.com/2026/11/microsoft-logo-glass-office-building.jpg",
+    "fetchedAt": 1794070026882
+  },
+  "https://www.techmeme.com/261107/p11#a261107p11": {
+    "image": null,
+    "fetchedAt": 1794070027258
+  },
+  "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ocarina-of-Time-Press-Image.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+    "fetchedAt": 1794070027664
+  },
+  "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2023-12-7-Discogs-Kevin-1-Warm.jpg?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200",
+    "fetchedAt": 1794070028054
+  },
+  "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1794070028456
+  },
+  "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1794070028891
+  },
+  "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/yI0AMBlStYQ-HD.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "fetchedAt": 1794070029313
   }
 }
