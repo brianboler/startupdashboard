@@ -1,72 +1,4 @@
 {
-  "https://www.techmeme.com/261025/p3#a261025p3": {
-    "image": null,
-    "fetchedAt": 1792939865737
-  },
-  "https://www.techmeme.com/261024/p8#a261024p8": {
-    "image": null,
-    "fetchedAt": 1792939866105
-  },
-  "https://thenextweb.com/news/us-treasury-outbound-investment-rule-china-ai-biotech": {
-    "image": "https://media.thenextweb.com/2026/10/scott-bessent-white-house-press-briefing-podium.jpg",
-    "fetchedAt": 1792939866692
-  },
-  "https://www.techmeme.com/261025/p5#a261025p5": {
-    "image": null,
-    "fetchedAt": 1792939867052
-  },
-  "https://www.techmeme.com/261025/p4#a261025p4": {
-    "image": null,
-    "fetchedAt": 1792939867419
-  },
-  "https://www.techmeme.com/261024/p10#a261024p10": {
-    "image": null,
-    "fetchedAt": 1792939867778
-  },
-  "https://www.techmeme.com/261024/p9#a261024p9": {
-    "image": null,
-    "fetchedAt": 1792939868137
-  },
-  "https://www.theverge.com/column/1017983/google-ai-search-online-publishing": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1792939868655
-  },
-  "https://thenextweb.com/news/deepseek-minimax-china-ai-export-controls-overseas": {
-    "image": "https://media.thenextweb.com/2026/10/minimax-open-platform-website-phone-screen.jpg",
-    "fetchedAt": 1792939869149
-  },
-  "https://thenextweb.com/news/openai-monitoring-system-metr-redwood-red-team": {
-    "image": "https://media.thenextweb.com/2026/10/openai-logo-stickers-pink-table-devday-2026.jpg",
-    "fetchedAt": 1792939869640
-  },
-  "https://thenextweb.com/news/amazon-settles-former-aws-managers-kickback-lawsuit": {
-    "image": "https://media.thenextweb.com/2026/10/amazon-logo-smartphone-wooden-table.jpg",
-    "fetchedAt": 1792939870153
-  },
-  "https://thenextweb.com/news/western-australia-deloitte-refund-ai-university-report": {
-    "image": "https://media.thenextweb.com/2026/10/deloitte-office-glass-facade.jpg",
-    "fetchedAt": 1792939870630
-  },
-  "https://thenextweb.com/news/ukraine-starlink-starshield-drone-speeds-restored": {
-    "image": "https://media.thenextweb.com/2026/05/starlink-price-increase-standby-mode-roam-residential.jpg",
-    "fetchedAt": 1792939871115
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1792939871521
-  },
-  "https://thenextweb.com/news/openai-safety-researchers-fired-signal-chats-greenblatt-wsj": {
-    "image": "https://media.thenextweb.com/2026/10/signal-app-icon-phone-home-screen-whatsapp-telegram.jpg",
-    "fetchedAt": 1792939871994
-  },
-  "https://thenextweb.com/news/musk-skydance-investment-1bn-ellison": {
-    "image": "https://media.thenextweb.com/2026/10/elon-musk-microphone-stage-signature-t-shirt.jpg",
-    "fetchedAt": 1792939872477
-  },
-  "https://www.techmeme.com/261025/p7#a261025p7": {
-    "image": null,
-    "fetchedAt": 1792939872869
-  },
   "https://thenextweb.com/news/anthropic-ipo-filing-political-target-ai-safety": {
     "image": "https://media.thenextweb.com/2026/10/anthropic-sign-office-building-entrance.jpg",
     "fetchedAt": 1793034662718
@@ -966,5 +898,69 @@
   "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash": {
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/yI0AMBlStYQ-HD.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
     "fetchedAt": 1794070029313
+  },
+  "https://www.techmeme.com/261108/p2#a261108p2": {
+    "image": null,
+    "fetchedAt": 1794157081952
+  },
+  "https://www.techmeme.com/261108/p9#a261108p9": {
+    "image": null,
+    "fetchedAt": 1794157082314
+  },
+  "https://www.geekwire.com/2026/jpmorgan-and-mastercard-back-seattle-startup-firmlys-bet-on-ai-shopping-agents/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2025/12/Firmly-Kumar-Headshot.png",
+    "fetchedAt": 1794157082782
+  },
+  "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/": {
+    "image": "https://247wallst.com/wp-content/uploads/2026/11/openai-just-raised-11-billion-at-a-1-25-trillion-v-featured-1794023504517-scaled.webp",
+    "fetchedAt": 1794157083325
+  },
+  "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up": {
+    "image": null,
+    "fetchedAt": 1794157083781
+  },
+  "https://thenextweb.com/news/tencent-yao-shunyu-ai-biology-risk-hy4": {
+    "image": "https://media.thenextweb.com/2026/10/tencent-sign-office-plaza-night.jpg",
+    "fetchedAt": 1794157084650
+  },
+  "https://thenextweb.com/news/unfold-ran-cherniavsky-enterprise-data-ai-adoption": {
+    "image": "https://media.thenextweb.com/2026/11/unfold-founders-humanx-banner.jpg",
+    "fetchedAt": 1794157085132
+  },
+  "https://www.techmeme.com/261108/p8#a261108p8": {
+    "image": null,
+    "fetchedAt": 1794157085497
+  },
+  "https://www.techmeme.com/261108/p3#a261108p3": {
+    "image": null,
+    "fetchedAt": 1794157085860
+  },
+  "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/": {
+    "image": "https://cleantechnica.com/wp-content/uploads/2026/11/JB-Straubel.jpg",
+    "fetchedAt": 1794157086364
+  },
+  "https://www.geekwire.com/2026/geekwire-weekly-roundup-2026-11-01/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2015/11/geekwire-week-in-review1.png",
+    "fetchedAt": 1794157086827
+  },
+  "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1794157087337
+  },
+  "https://thenextweb.com/news/italy-tajani-personal-data-pro-russian-hackers": {
+    "image": "https://media.thenextweb.com/2026/10/giorgia-meloni-speaking-podium-eu-italian-flags-tokyo.jpg",
+    "fetchedAt": 1794157087829
+  },
+  "https://thenextweb.com/news/coreweave-texas-hinojosa-data-centre-letter": {
+    "image": "https://media.thenextweb.com/2026/10/coreweave-logo-smartphone-screen-blurred-chart.jpg",
+    "fetchedAt": 1794157088316
+  },
+  "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+    "fetchedAt": 1794157088729
+  },
+  "https://thenextweb.com/news/anthropic-3-4bn-gas-generators-onepwr-ft": {
+    "image": "https://media.thenextweb.com/2026/10/Dario-Amodei-washington-street-press.jpg",
+    "fetchedAt": 1794157089235
   }
 }
