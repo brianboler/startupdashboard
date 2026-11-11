@@ -1,76 +1,4 @@
 {
-  "https://www.techmeme.com/261028/p32#a261028p32": {
-    "image": null,
-    "fetchedAt": 1793206922483
-  },
-  "https://www.geekwire.com/2026/seattle-startup-avante-raises-30m-to-bring-ai-agents-to-corporate-benefits-teams/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/rohandsouza.png",
-    "fetchedAt": 1793206922976
-  },
-  "https://thenextweb.com/news/ben-mann-anthropic-ipo-founder-llc": {
-    "image": "https://media.thenextweb.com/2026/10/anthropic-logo-smartphone-laptop-purple.jpg",
-    "fetchedAt": 1793206923560
-  },
-  "https://www.techmeme.com/261028/p29#a261028p29": {
-    "image": null,
-    "fetchedAt": 1793206924047
-  },
-  "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-    "fetchedAt": 1793206924513
-  },
-  "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg",
-    "fetchedAt": 1793206925121
-  },
-  "https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25786626/247412_Apple_MacBook_Pro_16_M4_Max_ADiBenedetto_0008.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1793206925669
-  },
-  "https://thenextweb.com/news/google-deepmind-genie-4-world-model": {
-    "image": "https://media.thenextweb.com/2026/10/google-deepmind-genie-4-world-model.jpg",
-    "fetchedAt": 1793206926178
-  },
-  "https://thenextweb.com/news/machenta-40m-seed-robot-learning-simulation": {
-    "image": "https://media.thenextweb.com/2026/10/machenta-team-london-office.jpg",
-    "fetchedAt": 1793206926677
-  },
-  "https://www.techmeme.com/261028/p33#a261028p33": {
-    "image": null,
-    "fetchedAt": 1793206927151
-  },
-  "https://www.geekwire.com/2026/former-t-mobile-ceo-mike-sievert-wraps-up-his-run-at-the-wireless-giant/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2017/09/20170906_T-Mobile_Mike_Sievert_18.jpg",
-    "fetchedAt": 1793206927898
-  },
-  "https://thenextweb.com/news/samsung-galaxy-buds-on-open-ear-earbuds-229": {
-    "image": "https://media.thenextweb.com/2026/10/samsung-galaxy-buds-on-earbuds-charging-case-hand.jpg",
-    "fetchedAt": 1793206928396
-  },
-  "https://www.techmeme.com/261028/p37#a261028p37": {
-    "image": null,
-    "fetchedAt": 1793206928867
-  },
-  "https://thenextweb.com/news/waymo-for-business-ramp-expense-integration": {
-    "image": "https://media.thenextweb.com/2026/10/waymo-for-business-ramp-robotaxi-traveller.jpg",
-    "fetchedAt": 1793206929367
-  },
-  "https://www.techmeme.com/261028/p36#a261028p36": {
-    "image": null,
-    "fetchedAt": 1793206929865
-  },
-  "https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1793206930319
-  },
-  "https://news.crunchbase.com/startups/tech-layoffs/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/Layoffs-scissors.jpg",
-    "fetchedAt": 1793206930842
-  },
-  "https://thenextweb.com/news/oracle-ai-world-google-tpus-openai-chatgpt": {
-    "image": "https://media.thenextweb.com/2026/10/oracle-co-ceo-mike-sicilia-ai-world-2026-keynote.jpg",
-    "fetchedAt": 1793206931343
-  },
   "https://www.techmeme.com/261029/p40#a261029p40": {
     "image": null,
     "fetchedAt": 1793294462232
@@ -962,5 +890,77 @@
   "https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw": {
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1-l13-stepseq-2.avif?quality=90&strip=all&crop=11.94921875%2C0%2C76.1015625%2C100&w=1200",
     "fetchedAt": 1794335469415
+  },
+  "https://www.techmeme.com/261111/p30#a261111p30": {
+    "image": null,
+    "fetchedAt": 1794421332926
+  },
+  "https://www.techmeme.com/261111/p33#a261111p33": {
+    "image": null,
+    "fetchedAt": 1794421333295
+  },
+  "https://www.geekwire.com/2026/seattle-vc-firm-ascend-closes-17m-fund-to-back-third-act-startups-in-physical-ai-and-hardware/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/ascend-team-2026.jpg",
+    "fetchedAt": 1794421333768
+  },
+  "https://www.techmeme.com/261111/p31#a261111p31": {
+    "image": null,
+    "fetchedAt": 1794421334140
+  },
+  "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?resize=1200,801",
+    "fetchedAt": 1794421334578
+  },
+  "https://thenextweb.com/news/stitchstudio-8m-insurance-ai-agents-voyager-capital": {
+    "image": "https://media.thenextweb.com/2026/10/ai-orange-neon-sign-dark-circuit-wall.jpg",
+    "fetchedAt": 1794421335184
+  },
+  "https://sifted.eu/articles/nscale-ipo-nvidia-delay/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1600,quality=75,fit=cover,format=auto/wp-content/uploads/2025/04/29153551/Glomfjord-Data-Centre-2-1-scaled-e1745937378798.jpg",
+    "fetchedAt": 1794421339110
+  },
+  "https://sifted.eu/articles/defence-mistt-fundraise-next-gps-data-autonomous-systems-world-models/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1179,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/10161245/IMG_9983-Copy.jpeg",
+    "fetchedAt": 1794421341487
+  },
+  "https://sifted.eu/articles/europes-chips-startups-mapped-113-companies-building-the-hardware-behind-ai/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1365,quality=75,fit=cover,format=auto/wp-content/uploads/2026/09/15133922/Bernardo-Kastrup-founder-of-Euclyd-scaled-e1789475976772.jpg",
+    "fetchedAt": 1794421343291
+  },
+  "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg",
+    "fetchedAt": 1794421343995
+  },
+  "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319789/STK450_EU_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+    "fetchedAt": 1794421344447
+  },
+  "https://thenextweb.com/news/helsing-clarity-palantir-maven-rival-karp-democrat": {
+    "image": "https://media.thenextweb.com/2026/11/gundbert-scherf-helsing-co-ceo-clarity-launch-berlin.jpg",
+    "fetchedAt": 1794421345052
+  },
+  "https://thenextweb.com/news/google-labs-tabletop-ai-group-planning-spaces": {
+    "image": "https://media.thenextweb.com/2026/11/google-logo-neon-sign-office-wall-sydney.jpg",
+    "fetchedAt": 1794421345605
+  },
+  "https://www.techmeme.com/261111/p37#a261111p37": {
+    "image": null,
+    "fetchedAt": 1794421346001
+  },
+  "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-1152x648.png",
+    "fetchedAt": 1794421346454
+  },
+  "https://thenextweb.com/news/aws-uaef-open-source-ai-agent-evaluation": {
+    "image": "https://media.thenextweb.com/2026/11/aws-office-sign-houston-glass-building.jpg",
+    "fetchedAt": 1794421346995
+  },
+  "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Scion_Kei_Truck_2027-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1794421347389
+  },
+  "https://thenextweb.com/news/yougov-ai-twins-validation-research-standards": {
+    "image": "https://media.thenextweb.com/2026/11/yougov-logo-pink-orange-gradient.jpg",
+    "fetchedAt": 1794421347960
   }
 }
