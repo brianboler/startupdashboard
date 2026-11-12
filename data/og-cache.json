@@ -1,76 +1,4 @@
 {
-  "https://www.techmeme.com/261029/p40#a261029p40": {
-    "image": null,
-    "fetchedAt": 1793294462232
-  },
-  "https://www.techmeme.com/261029/p33#a261029p33": {
-    "image": null,
-    "fetchedAt": 1793294462595
-  },
-  "https://www.geekwire.com/2026/coding-dojo-co-founder-unveils-idea-to-launch-a-30-day-program-to-help-aspiring-founders-build-with-ai/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/10/Richard-Wang-3.png",
-    "fetchedAt": 1793294463072
-  },
-  "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg",
-    "fetchedAt": 1793294463790
-  },
-  "https://thenextweb.com/news/musk-x-ticker-spacex-tesla-merger": {
-    "image": "https://media.thenextweb.com/2026/10/spacex-falcon-heavy-launch-pad-39a-hangar.jpg",
-    "fetchedAt": 1793294464399
-  },
-  "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/TeamPhoto_1.png?resize=1200,675",
-    "fetchedAt": 1793294464839
-  },
-  "https://thenextweb.com/news/gemini-4-carbon-google-cybersecurity-model": {
-    "image": "https://media.thenextweb.com/2026/10/gemini-4-carbon-crystal-blue-google-artwork.jpg",
-    "fetchedAt": 1793294465384
-  },
-  "https://www.techmeme.com/261029/p32#a261029p32": {
-    "image": null,
-    "fetchedAt": 1793294465747
-  },
-  "https://sifted.eu/articles/exclusive-fractile-series-c/": {
-    "image": "https://content.sifted.eu/wp-content/uploads/2026/05/11164128/aDV9ISdWJ-7kSkSD_image136-e1778518291600.webp",
-    "fetchedAt": 1793294469595
-  },
-  "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
-    "fetchedAt": 1793294470013
-  },
-  "https://thenextweb.com/news/alphabet-shares-fall-google-ai-mode-search-ads": {
-    "image": "https://media.thenextweb.com/2026/10/sundar-pichai-european-commission-brussels-2023.jpg",
-    "fetchedAt": 1793294471203
-  },
-  "https://thenextweb.com/news/solink-100m-vertu-capital-ai-vision-cameras": {
-    "image": "https://media.thenextweb.com/2026/10/dome-security-camera-on-pole-black-white.jpg",
-    "fetchedAt": 1793294471753
-  },
-  "https://www.techmeme.com/261029/p41#a261029p41": {
-    "image": null,
-    "fetchedAt": 1793294472128
-  },
-  "https://thenextweb.com/news/apple-touch-macbook-pro-hands-on-macos": {
-    "image": "https://media.thenextweb.com/2026/10/man-touching-macbook-pro-screen-coding-lounge.jpg",
-    "fetchedAt": 1793294472694
-  },
-  "https://thenextweb.com/news/servicenow-results-shares-record-drop-crpo-outlook": {
-    "image": "https://media.thenextweb.com/2026/10/bill-mcdermott-servicenow-ceo-portrait.jpg",
-    "fetchedAt": 1793294473269
-  },
-  "https://www.techmeme.com/261029/p39#a261029p39": {
-    "image": null,
-    "fetchedAt": 1793294473628
-  },
-  "https://www.techmeme.com/261029/p38#a261029p38": {
-    "image": null,
-    "fetchedAt": 1793294473992
-  },
-  "https://thenextweb.com/news/dhs-leak-icepick-41000-employees-ice-cbp": {
-    "image": "https://media.thenextweb.com/2026/10/data-word-star-dotted-letters-shop-window.jpg",
-    "fetchedAt": 1793294474548
-  },
   "https://www.techmeme.com/261030/p12#a261030p12": {
     "image": null,
     "fetchedAt": 1793379602840
@@ -962,5 +890,69 @@
   "https://thenextweb.com/news/yougov-ai-twins-validation-research-standards": {
     "image": "https://media.thenextweb.com/2026/11/yougov-logo-pink-orange-gradient.jpg",
     "fetchedAt": 1794421347960
+  },
+  "https://www.geekwire.com/2026/ex-seattle-startup-deltagen-acquired-by-new-ai-company-backed-by-veeam-co-founder/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/Worker-ai-DeltaGen-Team.png",
+    "fetchedAt": 1794509042156
+  },
+  "https://sifted.eu/articles/drone-startup-uforce-fundraise-uk-national-wealth-fund-scoop/": {
+    "image": "https://content.sifted.eu/wp-content/uploads/2026/08/11124151/Screenshot-2026-08-11-at-12.40.38-1024x505.png",
+    "fetchedAt": 1794509044849
+  },
+  "https://sifted.eu/articles/european-chips-funding-almost-quadruples-as-investors-back-nvidias-inference-challengers/": {
+    "image": "https://content.sifted.eu/wp-content/uploads/2026/01/15162656/Fractiles-Walter-Goodwin-855x1024.png",
+    "fetchedAt": 1794509046437
+  },
+  "https://thenextweb.com/news/axle-9m-ai-agents-investment-banks-corporate-access": {
+    "image": "https://media.thenextweb.com/2026/10/ai-text-inside-open-human-head-3d-render.jpg",
+    "fetchedAt": 1794509047016
+  },
+  "https://thenextweb.com/news/anthropic-ipo-oversubscribed-founders-sell-retail-europe": {
+    "image": "https://media.thenextweb.com/2026/10/anthropic-logo-smartphone-laptop-purple.jpg",
+    "fetchedAt": 1794509047522
+  },
+  "https://sifted.eu/articles/accel-30m-spatial-ai-defence-startup-se3/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1365,quality=75,fit=cover,format=auto/wp-content/uploads/2026/06/25135155/Lukas_Portrait-scaled-e1782391930106.jpg",
+    "fetchedAt": 1794509049041
+  },
+  "https://www.geekwire.com/2026/nvidia-founders-wife-faces-spotlight-that-mackenzie-scott-and-melinda-french-gates-know-well/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2017/01/Photo-Jan-04-6-47-39-PM-e1483586278681.jpg",
+    "fetchedAt": 1794509049477
+  },
+  "https://thenextweb.com/news/openai-revenue-q3-10bn-operating-loss": {
+    "image": "https://media.thenextweb.com/2026/10/openai-logo-smartphone-red-screen.jpg",
+    "fetchedAt": 1794509049987
+  },
+  "https://thenextweb.com/news/spacex-74b-ai-computing-centers-arizona-texas": {
+    "image": "https://media.thenextweb.com/2026/10/spacex-building-facade-logo-blue-sky.jpg",
+    "fetchedAt": 1794509050497
+  },
+  "https://thenextweb.com/news/orakl-oncology-34m-series-a-ai-cancer-drug-prediction": {
+    "image": "https://media.thenextweb.com/2026/10/ai-chip-brain-inside-light-bulb-purple-background.jpg",
+    "fetchedAt": 1794509050999
+  },
+  "https://thenextweb.com/news/apple-support-community-closing-november-20": {
+    "image": "https://media.thenextweb.com/2026/11/apple-support-community-memoji-banner.jpg",
+    "fetchedAt": 1794509051504
+  },
+  "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/black-lift.webp",
+    "fetchedAt": 1794509052080
+  },
+  "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-595668825-1152x648.jpg",
+    "fetchedAt": 1794509052478
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8407711/479950372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1794509052963
+  },
+  "https://thenextweb.com/news/grok-build-apps-exposed-claroc-spacexsi": {
+    "image": "https://media.thenextweb.com/2026/10/grok-logo-smartphone-laptop-keyboard.jpg",
+    "fetchedAt": 1794509053466
+  },
+  "https://www.techmeme.com/261112/p45#a261112p45": {
+    "image": null,
+    "fetchedAt": 1794509053893
   }
 }
