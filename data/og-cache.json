@@ -1,68 +1,4 @@
 {
-  "https://thenextweb.com/news/pliant-80m-series-c-ai-agents-b2b-payments-seaya-speedinvest": {
-    "image": "https://media.thenextweb.com/2026/11/pliant-cofounders-malte-rau-fabian-terner.jpg",
-    "fetchedAt": 1793817062194
-  },
-  "https://www.geekwire.com/2026/finpilot-raises-10m-for-ai-agents-that-handle-the-grunt-work-for-institutional-investors/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/lakshay-chauhan-finpilot.jpg",
-    "fetchedAt": 1793817062661
-  },
-  "https://thenextweb.com/news/phaze-8-75m-seed-a16z-remote-computers-ai-agents": {
-    "image": "https://media.thenextweb.com/2026/10/ai-chip-brain-inside-light-bulb-purple-background.jpg",
-    "fetchedAt": 1793817063158
-  },
-  "https://thenextweb.com/news/aformic-6-95m-seed-industrial-robots-veteran-ventures": {
-    "image": "https://media.thenextweb.com/2026/11/aformic-autonomous-forklift-robots-warehouse-robot-arm.jpg",
-    "fetchedAt": 1793817063638
-  },
-  "https://www.techmeme.com/261104/p43#a261104p43": {
-    "image": null,
-    "fetchedAt": 1793817064045
-  },
-  "https://www.geekwire.com/2026/ai2-gets-5m-from-google-to-turn-ai-weather-model-into-a-tool-for-projecting-climate-change/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/ai2-ace-globe.jpg",
-    "fetchedAt": 1793817064471
-  },
-  "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1793817064952
-  },
-  "https://thenextweb.com/news/adobe-cx-enterprise-coworker-chatgpt-claude-gemini-copilot": {
-    "image": "https://media.thenextweb.com/2026/11/adobe-cx-enterprise-coworker-ai-platforms-graphic.jpg",
-    "fetchedAt": 1793817065435
-  },
-  "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1268605503.jpg?resize=1200,420",
-    "fetchedAt": 1793817065895
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei": {
-    "image": null,
-    "fetchedAt": 1793817066257
-  },
-  "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1793817066699
-  },
-  "https://thenextweb.com/news/google-15b-malaysia-data-centres-2027-2028": {
-    "image": "https://media.thenextweb.com/2026/10/google-office-building-kitchener-ontario.jpg",
-    "fetchedAt": 1793817067186
-  },
-  "https://www.techmeme.com/261104/p45#a261104p45": {
-    "image": null,
-    "fetchedAt": 1793817067564
-  },
-  "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268817_Bee_Frontier_AKrales_0098.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1793817067981
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1793817068370
-  },
-  "https://www.techmeme.com/261104/p44#a261104p44": {
-    "image": null,
-    "fetchedAt": 1793817068736
-  },
   "https://www.techmeme.com/261105/p39#a261105p39": {
     "image": null,
     "fetchedAt": 1793903642092
@@ -946,5 +882,77 @@
   "https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs": {
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/UE-Pro-Beauty-Shots_UE-pro_01.jpg?quality=90&strip=all&crop=0%2C11.049190129779%2C100%2C77.901619740443&w=1200",
     "fetchedAt": 1794944412004
+  },
+  "https://sifted.eu/articles/disseqt-ai-agents-rogue/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1745,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/17133800/nobackground-e1794922722988.png",
+    "fetchedAt": 1795029484017
+  },
+  "https://www.geekwire.com/2026/microsoft-jabs-at-openai-and-anthropic-touting-cheaper-customizable-ai-models-of-its-own/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/microsoft-ignite-2026-copilot-cost-chart.jpg",
+    "fetchedAt": 1795029484488
+  },
+  "https://www.techmeme.com/261118/p37#a261118p37": {
+    "image": null,
+    "fetchedAt": 1795029484902
+  },
+  "https://www.techmeme.com/261118/p35#a261118p35": {
+    "image": null,
+    "fetchedAt": 1795029485285
+  },
+  "https://thenextweb.com/news/vero-security-11m-seed-ai-security-engineering": {
+    "image": "https://media.thenextweb.com/2026/11/vero-security-raises-11m-graphic.jpg",
+    "fetchedAt": 1795029485808
+  },
+  "https://www.techmeme.com/261118/p31#a261118p31": {
+    "image": null,
+    "fetchedAt": 1795029486189
+  },
+  "https://thenextweb.com/news/openai-models-amd-gpu-chip-design-14-percent": {
+    "image": "https://media.thenextweb.com/2026/10/openai-logo-smartphone-red-screen.jpg",
+    "fetchedAt": 1795029486691
+  },
+  "https://thenextweb.com/news/sequel-15m-webinars-company-websites-ai-agents": {
+    "image": "https://media.thenextweb.com/2026/11/sequel-oana-manolache-founder-letter.jpg",
+    "fetchedAt": 1795029487170
+  },
+  "https://www.techmeme.com/261118/p34#a261118p34": {
+    "image": null,
+    "fetchedAt": 1795029487555
+  },
+  "https://thenextweb.com/news/brightai-97m-physical-ai-infrastructure-ge-vernova": {
+    "image": "https://media.thenextweb.com/2026/10/ai-microchip-green-pastel-reflective-surface.jpg",
+    "fetchedAt": 1795029488037
+  },
+  "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1795029488560
+  },
+  "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/trump-teleprompter-1152x648-1795023886.jpg",
+    "fetchedAt": 1795029489134
+  },
+  "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1795029489567
+  },
+  "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/asus-proart-gr1x-nvidia-rtx-spark-white-background.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "fetchedAt": 1795029489965
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1795029490375
+  },
+  "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/Medical_diagnosis_for_the_student_and_practitioner_1922_14761731976-e1708401738329-1152x648.jpg",
+    "fetchedAt": 1795029490781
+  },
+  "https://www.theverge.com/gadgets/1033262/best-gta-6-gaming-accessories-controllers-headsets-tvs": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24374428/236487_Sony_DualSense_Edge_AKrales_0016.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1795029491192
+  },
+  "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Moonlit-walk-1152x648.png",
+    "fetchedAt": 1795029491596
   }
 }
