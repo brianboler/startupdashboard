@@ -1,68 +1,4 @@
 {
-  "https://www.geekwire.com/2026/voters-turn-on-ai-data-centers-shield-ais-5-3b-echodyne-deal-and-a-startups-rare-double-exit/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
-    "fetchedAt": 1794070022612
-  },
-  "https://www.techmeme.com/261107/p10#a261107p10": {
-    "image": null,
-    "fetchedAt": 1794070023043
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1794070023621
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1794070024034
-  },
-  "https://www.techmeme.com/261107/p9#a261107p9": {
-    "image": null,
-    "fetchedAt": 1794070024422
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-    "fetchedAt": 1794070024849
-  },
-  "https://thenextweb.com/news/anthropic-claude-max-lawsuit-ruling-usage-claims": {
-    "image": "https://media.thenextweb.com/2026/10/dario-amodei-anthropic-logo-phone-screen.jpg",
-    "fetchedAt": 1794070025429
-  },
-  "https://www.techmeme.com/261107/p2#a261107p2": {
-    "image": null,
-    "fetchedAt": 1794070025807
-  },
-  "https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
-    "fetchedAt": 1794070026349
-  },
-  "https://thenextweb.com/news/microsoft-winds-down-oracle-ai-cloud-capacity-deal": {
-    "image": "https://media.thenextweb.com/2026/11/microsoft-logo-glass-office-building.jpg",
-    "fetchedAt": 1794070026882
-  },
-  "https://www.techmeme.com/261107/p11#a261107p11": {
-    "image": null,
-    "fetchedAt": 1794070027258
-  },
-  "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ocarina-of-Time-Press-Image.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-    "fetchedAt": 1794070027664
-  },
-  "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2023-12-7-Discogs-Kevin-1-Warm.jpg?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200",
-    "fetchedAt": 1794070028054
-  },
-  "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268844_NY_Times_Cooking_App_JTuohy_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1794070028456
-  },
-  "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1794070028891
-  },
-  "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/yI0AMBlStYQ-HD.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-    "fetchedAt": 1794070029313
-  },
   "https://www.techmeme.com/261108/p2#a261108p2": {
     "image": null,
     "fetchedAt": 1794157081952
@@ -946,5 +882,77 @@
   "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale": {
     "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Samsung-P9-MicroSD-Express-Card.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
     "fetchedAt": 1795201269859
+  },
+  "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/": {
+    "image": "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg",
+    "fetchedAt": 1795283702137
+  },
+  "https://www.techmeme.com/261121/p7#a261121p7": {
+    "image": null,
+    "fetchedAt": 1795283702546
+  },
+  "https://www.techmeme.com/261121/p4#a261121p4": {
+    "image": null,
+    "fetchedAt": 1795283702924
+  },
+  "https://www.techmeme.com/261121/p2#a261121p2": {
+    "image": null,
+    "fetchedAt": 1795283703307
+  },
+  "https://thenextweb.com/news/cursor-chinese-ai-models-house-report-sarvam-deepseek": {
+    "image": "https://media.thenextweb.com/2026/11/andy-feliciotti-isg8AL7-6uk-unsplash.jpg",
+    "fetchedAt": 1795283703853
+  },
+  "https://thenextweb.com/news/inkling-2-mini-thinking-machines-looped-open-weights-laptop": {
+    "image": "https://media.thenextweb.com/2026/11/inkling-2-mini-flight-simulator-macbook-airplane-mode.jpg",
+    "fetchedAt": 1795283704346
+  },
+  "https://www.techmeme.com/261121/p6#a261121p6": {
+    "image": null,
+    "fetchedAt": 1795283704728
+  },
+  "https://www.techmeme.com/261121/p5#a261121p5": {
+    "image": null,
+    "fetchedAt": 1795283705105
+  },
+  "https://www.techmeme.com/261121/p1#a261121p1": {
+    "image": null,
+    "fetchedAt": 1795283705470
+  },
+  "https://www.techmeme.com/261120/p43#a261120p43": {
+    "image": null,
+    "fetchedAt": 1795283705833
+  },
+  "https://www.theverge.com/tech/1039543/fbi-usda-hacked": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318430/akrales_220309_4977_0038.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1795283706364
+  },
+  "https://thenextweb.com/news/sk-hynix-kioxia-largest-shareholder-bond-conversion-14-1": {
+    "image": "https://media.thenextweb.com/2026/11/sk-hynix-booth-supercomputing-2026-illuminated-logo.jpg",
+    "fetchedAt": 1795283706855
+  },
+  "https://www.geekwire.com/2026/microsofts-final-outlook-outage-report-details-testing-gaps-and-safeguards-that-backfired/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/nadella-ignite-2026-1200.jpg",
+    "fetchedAt": 1795283707641
+  },
+  "https://thenextweb.com/news/etsy-ai-terms-sellers-close-shops-revise-policy": {
+    "image": "https://media.thenextweb.com/2026/11/etsy-app-orange-phone-wooden-table.jpg",
+    "fetchedAt": 1795283708156
+  },
+  "https://thenextweb.com/news/samsung-leadership-hwang-memory-choi-mobile-china-shipments": {
+    "image": "https://media.thenextweb.com/2026/11/samsung-digital-city-suwon-headquarters-gate.jpg",
+    "fetchedAt": 1795283708650
+  },
+  "https://thenextweb.com/news/databricks-valuation-225bn-funding-talks-ghodsi-ipo": {
+    "image": "https://media.thenextweb.com/2026/11/ali-ghodsi-databricks-ceo-headshot.jpg",
+    "fetchedAt": 1795283709140
+  },
+  "https://thenextweb.com/news/cognition-funding-75bn-valuation-bloomberg-devin": {
+    "image": "https://media.thenextweb.com/2026/11/scott-wu-cognition-ceo-headshot.jpg",
+    "fetchedAt": 1795283709661
+  },
+  "https://thenextweb.com/news/microsoft-to-do-retiring-planner-personal-accounts-wunderlist": {
+    "image": "https://media.thenextweb.com/2026/11/microsoft-365-apps-list-screen-outlook-teams.jpg",
+    "fetchedAt": 1795283710153
   }
 }
