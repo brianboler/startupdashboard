@@ -1,76 +1,4 @@
 {
-  "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1794259262666
-  },
-  "https://www.techmeme.com/261109/p37#a261109p37": {
-    "image": null,
-    "fetchedAt": 1794259263109
-  },
-  "https://www.techmeme.com/261109/p35#a261109p35": {
-    "image": null,
-    "fetchedAt": 1794259263484
-  },
-  "https://www.techmeme.com/261109/p34#a261109p34": {
-    "image": null,
-    "fetchedAt": 1794259263872
-  },
-  "https://thenextweb.com/news/cisco-ai-defense-claude-mythos-red-teaming": {
-    "image": "https://media.thenextweb.com/2026/11/cisco-anthropic-logos-claude-mythos-ai-defense.jpg",
-    "fetchedAt": 1794259264493
-  },
-  "https://thenextweb.com/news/baidu-ernie-evolve-automated-ai-research": {
-    "image": "https://media.thenextweb.com/2026/11/baidu-ernie-evolve-research-loop-illustration.jpg",
-    "fetchedAt": 1794259265061
-  },
-  "https://thenextweb.com/news/claude-fable-5-2-mythos-5-2-anthropic-launch-price": {
-    "image": "https://media.thenextweb.com/2026/11/claude-fable-mythos-5-2-announcement-graphic.jpg",
-    "fetchedAt": 1794259265627
-  },
-  "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Nominal-CEO-Cameron-McCord.jpg?resize=1200,661",
-    "fetchedAt": 1794259266116
-  },
-  "https://thenextweb.com/news/ternus-federighi-agentic-siri-apple-ai-bloomberg": {
-    "image": "https://media.thenextweb.com/2026/10/john-ternus-fans-selfie-apple-store.jpg",
-    "fetchedAt": 1794259266689
-  },
-  "https://sifted.eu/articles/the-realities-of-scaling-ai-agents-brnd/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=512,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/09093013/Ele%CC%81onore-He%CC%81brard.jpg",
-    "fetchedAt": 1794259269122
-  },
-  "https://www.techmeme.com/261109/p42#a261109p42": {
-    "image": null,
-    "fetchedAt": 1794259269552
-  },
-  "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303840643.jpg?quality=90&strip=all&crop=0%2C10.721602549511%2C100%2C78.556794900979&w=1200",
-    "fetchedAt": 1794259270074
-  },
-  "https://www.techmeme.com/261109/p41#a261109p41": {
-    "image": null,
-    "fetchedAt": 1794259270449
-  },
-  "https://thenextweb.com/news/ibm-concert-protect-claude-mythos-vulnerability-scanning": {
-    "image": "https://media.thenextweb.com/2026/11/ibm-office-dubai-internet-city.jpg",
-    "fetchedAt": 1794259271603
-  },
-  "https://www.techmeme.com/261109/p40#a261109p40": {
-    "image": null,
-    "fetchedAt": 1794259271985
-  },
-  "https://thenextweb.com/news/megaspeed-probe-commerce-nvidia-lawyer-justice-department-nyt": {
-    "image": "https://media.thenextweb.com/2026/10/jensen-huang-donald-trump-pointing-medal-us-flags.jpg",
-    "fetchedAt": 1794259272519
-  },
-  "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-    "fetchedAt": 1794259273158
-  },
-  "https://thenextweb.com/news/meta-muse-ember-small-ai-model-haiku-luna": {
-    "image": "https://media.thenextweb.com/2026/11/blue-orbital-curves-points-dark-abstract-illustration.jpg",
-    "fetchedAt": 1794259273694
-  },
   "https://www.techmeme.com/261110/p38#a261110p38": {
     "image": null,
     "fetchedAt": 1794335462082
@@ -962,5 +890,73 @@
   "https://thenextweb.com/news/taiwan-widens-its-short-selling-ban-after-the-taiexs-worst-week-since-1991": {
     "image": "https://media.thenextweb.com/2026/11/taiwan-flags-over-city-street.jpg",
     "fetchedAt": 1795371369940
+  },
+  "https://www.techmeme.com/261123/p41#a261123p41": {
+    "image": null,
+    "fetchedAt": 1795473002800
+  },
+  "https://www.techmeme.com/261123/p35#a261123p35": {
+    "image": null,
+    "fetchedAt": 1795473003157
+  },
+  "https://thenextweb.com/news/sierra-1-75b-series-f-30b-valuation-ai-agents": {
+    "image": "https://media.thenextweb.com/2026/10/ai-chip-brain-inside-light-bulb-purple-background.jpg",
+    "fetchedAt": 1795473004033
+  },
+  "https://www.geekwire.com/2026/amazon-is-buying-decarts-ai-chip-software-for-a-reported-7-5b-and-bringing-its-founders-aboard/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/amazon-decart-logos-1200.jpg",
+    "fetchedAt": 1795473004508
+  },
+  "https://www.geekwire.com/2026/beyond-nvidia-convoy-co-founder-and-former-microsoft-leader-raise-277m-to-rethink-ai-infrastructure/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/marlowe-founders-dan-lewis-kutta-srinivasan.jpg",
+    "fetchedAt": 1795473004941
+  },
+  "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/supertake-header.jpg?resize=1200,675",
+    "fetchedAt": 1795473005369
+  },
+  "https://www.techmeme.com/261123/p42#a261123p42": {
+    "image": null,
+    "fetchedAt": 1795473005737
+  },
+  "https://www.techmeme.com/261123/p36#a261123p36": {
+    "image": null,
+    "fetchedAt": 1795473006095
+  },
+  "https://thenextweb.com/news/google-deepmind-gemini-agents-quantum-algorithms-lean": {
+    "image": "https://media.thenextweb.com/2026/11/google-deepmind-quantum-algorithms-qubit-sphere.jpg",
+    "fetchedAt": 1795473006602
+  },
+  "https://sifted.eu/articles/agon-raise-northzone-lakestar-defence/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=1592,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/23135445/Screenshot-2026-11-23-at-13.52.53.png",
+    "fetchedAt": 1795473008653
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1795473009168
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_06.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200",
+    "fetchedAt": 1795473009562
+  },
+  "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2306107359-1024x648.jpg",
+    "fetchedAt": 1795473010138
+  },
+  "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0280.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1795473010544
+  },
+  "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
+    "fetchedAt": 1795473010949
+  },
+  "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306098413.jpg?quality=90&strip=all&crop=0%2C10.750882913364%2C100%2C78.498234173273&w=1200",
+    "fetchedAt": 1795473011345
+  },
+  "https://thenextweb.com/news/anthropic-enterprise-frontier-safeguards-zero-data-retention-beta": {
+    "image": "https://media.thenextweb.com/2026/10/anthropic-wordmark-3d-render-purple-glass.jpg",
+    "fetchedAt": 1795473012287
   }
 }
