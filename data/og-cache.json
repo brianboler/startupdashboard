@@ -1,64 +1,4 @@
 {
-  "https://www.techmeme.com/261110/p38#a261110p38": {
-    "image": null,
-    "fetchedAt": 1794335462082
-  },
-  "https://www.techmeme.com/261110/p37#a261110p37": {
-    "image": null,
-    "fetchedAt": 1794335462453
-  },
-  "https://www.techmeme.com/261110/p32#a261110p32": {
-    "image": null,
-    "fetchedAt": 1794335462825
-  },
-  "https://www.techmeme.com/261110/p30#a261110p30": {
-    "image": null,
-    "fetchedAt": 1794335463199
-  },
-  "https://sifted.eu/articles/sumary-seed-fundraise/": {
-    "image": "https://images.sifted.eu/cdn-cgi/image/width=1536,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/09161225/Sumary_FoundersPortraits_18450_1-scaled.jpg",
-    "fetchedAt": 1794335464964
-  },
-  "https://www.techmeme.com/261110/p39#a261110p39": {
-    "image": null,
-    "fetchedAt": 1794335465348
-  },
-  "https://thenextweb.com/news/graphon-labs-35m-series-a-ai-agent-memory": {
-    "image": "https://media.thenextweb.com/2026/11/graphon-labs-founders-mishra-khan-zhang-couch.jpg",
-    "fetchedAt": 1794335465887
-  },
-  "https://thenextweb.com/news/gemini-for-healthcare-google-cloud-ai-agent-launch": {
-    "image": "https://media.thenextweb.com/2026/11/gemini-for-healthcare-logo-google-cloud.jpg",
-    "fetchedAt": 1794335466390
-  },
-  "https://www.techmeme.com/261110/p35#a261110p35": {
-    "image": null,
-    "fetchedAt": 1794335466763
-  },
-  "https://www.techmeme.com/261110/p34#a261110p34": {
-    "image": null,
-    "fetchedAt": 1794335467133
-  },
-  "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Business-Agent-Customer-Conversation.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-    "fetchedAt": 1794335467676
-  },
-  "https://thenextweb.com/news/mosaic-intelligence-labs-47m-seed-ai-surgical-catheter": {
-    "image": "https://media.thenextweb.com/2026/11/mosaic-intelligence-labs-founders-ileana-pirozzi-alison-mackanic.jpg",
-    "fetchedAt": 1794335468158
-  },
-  "https://www.techmeme.com/261110/p36#a261110p36": {
-    "image": null,
-    "fetchedAt": 1794335468535
-  },
-  "https://thenextweb.com/news/amazon-ring-drone-cam-rover-cam-launch": {
-    "image": "https://media.thenextweb.com/2026/11/ring-drone-cam-base-station.jpg",
-    "fetchedAt": 1794335469017
-  },
-  "https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1-l13-stepseq-2.avif?quality=90&strip=all&crop=11.94921875%2C0%2C76.1015625%2C100&w=1200",
-    "fetchedAt": 1794335469415
-  },
   "https://www.techmeme.com/261111/p30#a261111p30": {
     "image": null,
     "fetchedAt": 1794421332926
@@ -958,5 +898,77 @@
   "https://thenextweb.com/news/anthropic-enterprise-frontier-safeguards-zero-data-retention-beta": {
     "image": "https://media.thenextweb.com/2026/10/anthropic-wordmark-3d-render-purple-glass.jpg",
     "fetchedAt": 1795473012287
+  },
+  "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594",
+    "fetchedAt": 1795554183113
+  },
+  "https://www.techmeme.com/261124/p27#a261124p27": {
+    "image": null,
+    "fetchedAt": 1795554183515
+  },
+  "https://thenextweb.com/news/epochal-xai-cofounders-time-portal-forecasting": {
+    "image": "https://media.thenextweb.com/2026/11/blue-ai-letters-blurred-textured-background.jpg",
+    "fetchedAt": 1795554184120
+  },
+  "https://thenextweb.com/news/google-workspace-ai-agents-mcp-servers-rules": {
+    "image": "https://media.thenextweb.com/2026/11/google-logo-neon-sign-office-wall-sydney.jpg",
+    "fetchedAt": 1795554184663
+  },
+  "https://thenextweb.com/news/kaszek-650m-fund-latin-america-ai-startups": {
+    "image": "https://media.thenextweb.com/2026/11/hernan-kazah-kaszek-web-summit-rio-2025.jpg",
+    "fetchedAt": 1795554185230
+  },
+  "https://www.geekwire.com/2026/tech-moves-aws-nabs-salesforce-exec-former-openai-employees-launch-seattle-startup-portal-hire/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/Muralidhar-Krishnaprasad-horizontal.jpg",
+    "fetchedAt": 1795554185656
+  },
+  "https://sifted.eu/articles/black-forest-labs-nvidia-a16z-andreas-blattmann-interview/": {
+    "image": "https://content.sifted.eu/wp-content/uploads/2026/11/21102954/bfl-top-image-1024x336.png",
+    "fetchedAt": 1795554187715
+  },
+  "https://www.techmeme.com/261124/p34#a261124p34": {
+    "image": null,
+    "fetchedAt": 1795554188121
+  },
+  "https://thenextweb.com/news/anthropic-claude-skills-over-mcp-tasks-elicitation": {
+    "image": "https://media.thenextweb.com/2026/07/claude-cowork-sandbox-escape-mac-files-sharedroot.jpg",
+    "fetchedAt": 1795554188661
+  },
+  "https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Severance_Photo_021019.jpg?quality=90&strip=all&crop=10.208333333333%2C0%2C79.583333333333%2C100&w=1200",
+    "fetchedAt": 1795554189128
+  },
+  "https://www.techmeme.com/261124/p35#a261124p35": {
+    "image": null,
+    "fetchedAt": 1795554189508
+  },
+  "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413-1152x648.jpeg",
+    "fetchedAt": 1795554190267
+  },
+  "https://www.theverge.com/tech/1041618/tiktok-down-outage": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1795554190659
+  },
+  "https://www.techmeme.com/261124/p33#a261124p33": {
+    "image": null,
+    "fetchedAt": 1795554191032
+  },
+  "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&strip=all&crop=0%2C1.2974525602559%2C100%2C78.525377525853&w=1200",
+    "fetchedAt": 1795554191411
+  },
+  "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2152300024-1152x648.jpg",
+    "fetchedAt": 1795554191856
+  },
+  "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1795554192236
+  },
+  "https://www.techmeme.com/261124/p32#a261124p32": {
+    "image": null,
+    "fetchedAt": 1795554192608
   }
 }
