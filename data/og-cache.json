@@ -1,72 +1,4 @@
 {
-  "https://www.techmeme.com/261113/p19#a261113p19": {
-    "image": null,
-    "fetchedAt": 1794594302757
-  },
-  "https://www.techmeme.com/261113/p18#a261113p18": {
-    "image": null,
-    "fetchedAt": 1794594303145
-  },
-  "https://status.claude.com/incidents/nn11wk485zfn": {
-    "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
-    "fetchedAt": 1794594303773
-  },
-  "https://thenextweb.com/news/google-gemini-wallet-spending-insights-plaid": {
-    "image": "https://media.thenextweb.com/2026/11/google-gemini-personal-intelligence-wallet-graphic.jpg",
-    "fetchedAt": 1794594304387
-  },
-  "https://www.techmeme.com/261113/p17#a261113p17": {
-    "image": null,
-    "fetchedAt": 1794594304777
-  },
-  "https://thenextweb.com/news/chatgpt-wallet-openai-dots-agents-payments": {
-    "image": "https://media.thenextweb.com/2026/11/chatgpt-wallet-purchase-approval-screen.jpg",
-    "fetchedAt": 1794594305377
-  },
-  "https://www.techmeme.com/261113/p15#a261113p15": {
-    "image": null,
-    "fetchedAt": 1794594305751
-  },
-  "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Nectar_OliverL_3199.jpg?resize=1200,800",
-    "fetchedAt": 1794594306215
-  },
-  "https://www.geekwire.com/2026/nvidias-new-interim-ceo-spent-13-years-at-microsoft-far-from-the-spotlight/": {
-    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/colette-kress-nvidia.jpg",
-    "fetchedAt": 1794594306669
-  },
-  "https://thenextweb.com/news/cornelis-cn6000-800g-networking-ai-supercomputers": {
-    "image": "https://media.thenextweb.com/2026/11/cornelis-cn6000-supernic-switch.jpg",
-    "fetchedAt": 1794594307220
-  },
-  "https://www.techmeme.com/261113/p22#a261113p22": {
-    "image": null,
-    "fetchedAt": 1794594307591
-  },
-  "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/keychron1.jpg?quality=90&strip=all&crop=0,10.696524668582,100,78.606950662836",
-    "fetchedAt": 1794594308090
-  },
-  "https://www.techmeme.com/261113/p21#a261113p21": {
-    "image": null,
-    "fetchedAt": 1794594308476
-  },
-  "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301295182.jpg?quality=90&strip=all&crop=0%2C12.121468677824%2C100%2C75.757062644352&w=1200",
-    "fetchedAt": 1794594308866
-  },
-  "https://thenextweb.com/news/gridai-pronghorn-wyoming-gas-ai-data-centre-power": {
-    "image": "https://media.thenextweb.com/2026/10/ai-microchip-green-pastel-reflective-surface.jpg",
-    "fetchedAt": 1794594309416
-  },
-  "https://www.techmeme.com/261113/p20#a261113p20": {
-    "image": null,
-    "fetchedAt": 1794594309795
-  },
-  "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/": {
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg",
-    "fetchedAt": 1794594310560
-  },
   "https://www.techmeme.com/261114/p5#a261114p5": {
     "image": null,
     "fetchedAt": 1794675241930
@@ -966,5 +898,77 @@
   "https://thenextweb.com/news/volvo-humanoid-robots-hexagon-aeon-ghent": {
     "image": "https://media.thenextweb.com/2026/11/volvo-aeon-humanoid-robot-ghent-training.jpg",
     "fetchedAt": 1795723334772
+  },
+  "https://www.techmeme.com/261127/p12#a261127p12": {
+    "image": null,
+    "fetchedAt": 1795809062555
+  },
+  "https://www.techmeme.com/261127/p4#a261127p4": {
+    "image": null,
+    "fetchedAt": 1795809062917
+  },
+  "https://thenextweb.com/news/la-schools-disable-google-ai-overviews-search-standoff": {
+    "image": "https://media.thenextweb.com/2026/11/ai-chip-circuit-board-concept.jpg",
+    "fetchedAt": 1795809063721
+  },
+  "https://www.geekwire.com/2026/startup-spotlight-aventide-builds-ai-client-management-software-for-consultants-and-coaches/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/Aventide-Founders.jpg",
+    "fetchedAt": 1795809064147
+  },
+  "https://www.techmeme.com/261127/p7#a261127p7": {
+    "image": null,
+    "fetchedAt": 1795809064517
+  },
+  "https://www.techmeme.com/261127/p6#a261127p6": {
+    "image": null,
+    "fetchedAt": 1795809064878
+  },
+  "https://www.techmeme.com/261127/p5#a261127p5": {
+    "image": null,
+    "fetchedAt": 1795809065239
+  },
+  "https://sifted.eu/articles/conduct-ceo-on-building-an-ai-operating-system-for-enterprise-it-teams/": {
+    "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2025/09/17161716/Conduct_AI_Team_Landscape-scaled.jpg",
+    "fetchedAt": 1795809067915
+  },
+  "https://www.geekwire.com/2026/fcc-clears-spacex-million-satellites-starmind-data-center/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/261125-starmind2.jpg",
+    "fetchedAt": 1795809068338
+  },
+  "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/": {
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kagi-mail-announcement-1152x648.jpg",
+    "fetchedAt": 1795809069010
+  },
+  "https://www.theverge.com/gadgets/1044314/oura-ring-health-data-android-11": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0176.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1795809069559
+  },
+  "https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257805_Govee_Table_Lamp_2_Pro_JTuohy_0005.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1795809069974
+  },
+  "https://thenextweb.com/news/verizon-fidium-6b-talks-fibre-broadband": {
+    "image": "https://media.thenextweb.com/2026/11/verizon-retail-store-burlington-vermont.jpg",
+    "fetchedAt": 1795809071101
+  },
+  "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_BLACK_FRIDAY_Headers_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1795809071580
+  },
+  "https://www.techmeme.com/261127/p11#a261127p11": {
+    "image": null,
+    "fetchedAt": 1795809071968
+  },
+  "https://thenextweb.com/news/neura-robotics-gym-aragon-spain-costa-group": {
+    "image": "https://media.thenextweb.com/2026/11/neura-robotics-aragon-costa-group-mou-signing.jpg",
+    "fetchedAt": 1795809072490
+  },
+  "https://www.theverge.com/gadgets/1041006/anker-100w-universal-travel-charger-black-friday-deal-sale": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/anker-nano-100w-universal-travel-adapter.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1795809072888
+  },
+  "https://www.techmeme.com/261127/p10#a261127p10": {
+    "image": null,
+    "fetchedAt": 1795809073253
   }
 }
