@@ -1,76 +1,4 @@
 {
-  "https://www.techmeme.com/261114/p5#a261114p5": {
-    "image": null,
-    "fetchedAt": 1794675241930
-  },
-  "https://www.techmeme.com/261114/p6#a261114p6": {
-    "image": null,
-    "fetchedAt": 1794675242289
-  },
-  "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
-    "fetchedAt": 1794675242769
-  },
-  "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/": {
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
-    "fetchedAt": 1794675243179
-  },
-  "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus": {
-    "image": "https://www.techpowerup.com/img/ooCln2q3jkKNGHen.jpg",
-    "fetchedAt": 1794675243735
-  },
-  "https://www.techmeme.com/261114/p4#a261114p4": {
-    "image": null,
-    "fetchedAt": 1794675244105
-  },
-  "https://news.crunchbase.com/venture/huang-nvda-ai-startup-funding-record-2026/": {
-    "image": "https://news.crunchbase.com/wp-content/uploads/Computer_chip_02.jpg",
-    "fetchedAt": 1794675244626
-  },
-  "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Helen-Toner.jpg?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-    "fetchedAt": 1794675245131
-  },
-  "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&strip=all&crop=0%2C13.348952787954%2C100%2C73.302094424093&w=1200",
-    "fetchedAt": 1794675245526
-  },
-  "https://www.techmeme.com/261114/p8#a261114p8": {
-    "image": null,
-    "fetchedAt": 1794675245884
-  },
-  "https://www.techmeme.com/261114/p13#a261114p13": {
-    "image": null,
-    "fetchedAt": 1794675246253
-  },
-  "https://www.techmeme.com/261114/p12#a261114p12": {
-    "image": null,
-    "fetchedAt": 1794675246623
-  },
-  "https://thenextweb.com/news/jensen-huang-struggled-to-reach-beijings-chip-policymakers-ft-says": {
-    "image": "https://media.thenextweb.com/2026/10/jensen-huang-nvidia-gtc-2026-keynote-3d-campus-model-sap-center.jpg",
-    "fetchedAt": 1794675247203
-  },
-  "https://thenextweb.com/news/italy-fines-meta-805m-facebook-android-photos": {
-    "image": "https://media.thenextweb.com/2026/07/meta-stock-best-week-ai-cloud-compute.jpg",
-    "fetchedAt": 1794675247682
-  },
-  "https://www.techmeme.com/261114/p11#a261114p11": {
-    "image": null,
-    "fetchedAt": 1794675248040
-  },
-  "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/fenix8Pro3.jpg?quality=90&strip=all&crop=0%2C10.752556637471%2C100%2C78.494886725057&w=1200",
-    "fetchedAt": 1794675248482
-  },
-  "https://www.techmeme.com/261114/p10#a261114p10": {
-    "image": null,
-    "fetchedAt": 1794675248840
-  },
-  "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print": {
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25670862/Robotaxi_89.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "fetchedAt": 1794675249228
-  },
   "https://www.techmeme.com/261115/p5#a261115p5": {
     "image": null,
     "fetchedAt": 1794764162338
@@ -970,5 +898,77 @@
   "https://www.techmeme.com/261127/p10#a261127p10": {
     "image": null,
     "fetchedAt": 1795809073253
+  },
+  "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/david-ha-Sakana-AI-.jpg?resize=1200,1200",
+    "fetchedAt": 1795891442528
+  },
+  "https://thenextweb.com/news/nvidias-chip-financing-cant-sustain-the-ai-boom-alone-lbs-professor-says": {
+    "image": "https://media.thenextweb.com/2026/10/jensen-huang-nvidia-gtc-2026-under-gtc-logo-san-jose.jpg",
+    "fetchedAt": 1795891443144
+  },
+  "https://www.techmeme.com/261128/p3#a261128p3": {
+    "image": null,
+    "fetchedAt": 1795891443572
+  },
+  "https://www.techmeme.com/261128/p1#a261128p1": {
+    "image": null,
+    "fetchedAt": 1795891443953
+  },
+  "https://www.techmeme.com/261127/p17#a261127p17": {
+    "image": null,
+    "fetchedAt": 1795891444338
+  },
+  "https://www.techmeme.com/261128/p7#a261128p7": {
+    "image": null,
+    "fetchedAt": 1795891444713
+  },
+  "https://www.techmeme.com/261128/p6#a261128p6": {
+    "image": null,
+    "fetchedAt": 1795891445086
+  },
+  "https://www.techmeme.com/261128/p4#a261128p4": {
+    "image": null,
+    "fetchedAt": 1795891445469
+  },
+  "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0010.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1795891446066
+  },
+  "https://www.geekwire.com/2026/amazon-discriminated-against-iranian-job-candidate-under-global-hiring-policy-ontario-tribunal-rules/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/owlia-amazon-tribunal.jpg",
+    "fetchedAt": 1795891446552
+  },
+  "https://www.theverge.com/gadgets/1044906/nimble-sharepower-portable-charger-black-friday-2026-deal-sale": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nimble-sharepower-charger.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1795891446978
+  },
+  "https://www.techmeme.com/261128/p8#a261128p8": {
+    "image": null,
+    "fetchedAt": 1795891447361
+  },
+  "https://www.theverge.com/gadgets/1042667/google-pixel-11-pro-xl-10a-black-friday-2026-deal-sale": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-review-photos-5.jpg?quality=90&strip=all&crop=0%2C10.731298651824%2C100%2C78.537402696352&w=1200",
+    "fetchedAt": 1795891447770
+  },
+  "https://techcrunch.com/2026/11/28/this-new-sports-app-is-designed-specifically-for-womens-sports/": {
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Womens-sports-rival-app.png?resize=1200,562",
+    "fetchedAt": 1795891448216
+  },
+  "https://www.theverge.com/gadgets/1045251/what-verge-readers-bought-black-friday": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xteink3_1.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
+    "fetchedAt": 1795891448633
+  },
+  "https://www.theverge.com/tech/1045256/indian-police-reportedly-turn-water-cannons-on-protesters-outside-meta-offices": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK043_VRG_Illo_N_Barclay_5_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1795891449025
+  },
+  "https://www.geekwire.com/2026/defying-the-industry-slump-a-video-game-veteran-and-his-son-launch-ski-resort-sim-powder-park/": {
+    "image": "https://cdn.geekwire.com/wp-content/uploads/2026/11/Patrick-Maverick-Wilkinson-SLICE-2026-edited.jpg",
+    "fetchedAt": 1795891449446
+  },
+  "https://www.theverge.com/gadgets/1045110/best-black-friday-still-happening-2026-deals-tech-gadgets-gift-ideas": {
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_SATURDAY_Headers_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "fetchedAt": 1795891450018
   }
 }
